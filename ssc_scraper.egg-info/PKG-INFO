@@ -1,11 +1,32 @@
-# SSC + HSC Archive Bot
+Metadata-Version: 2.4
+Name: ssc-scraper
+Version: 1.0.0
+Summary: Ethical, production-grade scraper archiving public Bangladesh SSC board question papers (2005-2026)
+License: MIT
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests>=2.32
+Requires-Dist: beautifulsoup4>=4.12
+Requires-Dist: lxml>=5.2
+Requires-Dist: PyYAML>=6.0
+Requires-Dist: pdfplumber>=0.11
+Requires-Dist: PyMuPDF>=1.24
+Requires-Dist: pytesseract>=0.3.10
+Requires-Dist: Pillow>=10.0
+Provides-Extra: postgres
+Requires-Dist: psycopg2-binary>=2.9; extra == "postgres"
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+Dynamic: license-file
 
-A production-grade, **ethical** Python web scraper that collects
-**publicly available** Bangladesh SSC + HSC board questions (2015-2026),
-subject-wise / board-wise / year-wise, MCQ + CQ(written), from
-`https://sattacademy.com/board-exams` — plus a Streamlit filter UI that
-mirrors the site's header (Level / Subject / Board / Type / Year / Search
-+ Board Exams toggle + PDF export).
+# SSC Archive Bot
+
+A production-grade, **ethical** Python web scraper that discovers, downloads, and
+archives **publicly available** Bangladesh SSC (Secondary School Certificate)
+board question papers (2005-2026) from all education boards - Dhaka, Chattogram,
+Rajshahi, Khulna, Barishal, Sylhet, Rangpur, Mymensingh, Cumilla, Madrasah, and
+Technical/Vocational.
 
 > **Ethics first.** This bot respects `robots.txt`, rate-limits every request,
 > and **never** bypasses authentication, CAPTCHAs, paywalls, or anti-bot
@@ -104,20 +125,18 @@ sources:
 ## Usage
 
 ```bash
-# board-exam questions (SSC+HSC, 2015-2026, MCQ+written) — enable `sattacademy`
-# in config/sources.example.yaml first, then:
-python -m ssc_scraper scrape --source sattacademy --limit 20   # safe trial
-python -m ssc_scraper scrape --source sattacademy              # full backfill (resumable)
+# full pipeline: crawl -> download -> extract text (-> OCR if enabled)
+python -m ssc_scraper scrape
+python -m ssc_scraper scrape --source my_board_site --limit 50   # safer partial run
 
-# question-bank exports + reports
-python -m ssc_scraper export_board_exams                        # reports/by_board_exam/... + coverage CSV
-python -m ssc_scraper export_board_exams --board combined --year 2026
+# individual steps
+python -m ssc_scraper extract_text [--force] [--limit N]
+python -m ssc_scraper ocr [--limit N]
+
+# reporting
 python -m ssc_scraper report          # reports/dashboard.json + .csv
 python -m ssc_scraper check_missing   # reports/missing_combinations.csv + .json
 python -m ssc_scraper export_csv      # reports/papers_export.csv
-
-# filter UI (like the screenshots: SSC/Subject/Board/Type/Year/Search)
-streamlit run app.py
 ```
 
 Every command is **idempotent and resumable** - running it again skips URLs and
@@ -141,11 +160,6 @@ missing_reason`
 
 Status lifecycle: `discovered -> downloaded -> extracted -> ocr_done`, with
 `duplicate | failed | ocr_pending | skipped` terminal states.
-
-Board-exam statuses: `listed -> completed`, with `listing_truncated` /
-`completed_truncated` when `?page=` pagination exists (robots-disallowed,
-page-1 questions only — e.g. 10/30 MCQ on page 1). MCQ answers (`input[name=answer]`)
-and stem/option images are stored when public; CQ answers stay `None` (login-gated).
 
 ## Legal & ethical compliance checklist
 
@@ -177,8 +191,7 @@ property of the respective education boards.
 
 how to use it:
 
-python -m ssc_scraper scrape --source sattacademy --limit 20   # trial: HSC/SSC board-exams
-python -m ssc_scraper export_board_exams --board combined --year 2026
-streamlit run app.py   # filter UI: Level/Subject/Board/Type/Year/Search + PDF
+python -m ssc_scraper scrape --source <name> --limit 50   # crawl + download + process
+python -m ssc_scraper extract_text   # text extraction + metadata enrichment
 python -m ssc_scraper report         # dashboard
 python -m ssc_scraper check_missing  # missing-data matrix

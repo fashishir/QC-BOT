@@ -1,0 +1,2 @@
+[console_scripts]
+ssc-scraper = ssc_scraper.cli:main

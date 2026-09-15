@@ -65,12 +65,12 @@ sources:
 
   - name: example_archive_portal
     enabled: false
-    base_url: https://www.example-archive.org
+    base_url: https://www.sattacademy.com/board-exams
     seed_urls:
-      - https://www.example-archive.org/ssc-questions/
+      - https://www.sattacademy.com/ssc-questions/
     allow_domains:
-      - www.example-archive.org
-      - files.example-archive.org
+      - www.sattacademy.com
+      - files.sattacademy.com
     keywords: [ssc, question]
     notes: null
 
@@ -81,3 +81,47 @@ sources:
   #   seed_urls: [https://www.example-protected-site.com/ssc]
   #   allow_domains: [www.example-protected-site.com]
   #   notes: "manual review: site returned 403 on last automated visit"
+
+  # -----------------------------------------------------------------------
+  # Satt Academy question bank (sattacademy.com/board-exams).
+  #
+  # Data received by Board Name + Exam Name. URLs verified against the live
+  # site (listing: /board-exams/{class-slug}?board={board-slug}&year={year};
+  # exams: /board-exams/{exam-slug}/mcq|written).
+  #
+  # KEEP DISABLED until you have reviewed the site's terms of service and
+  # robots.txt yourself. The adapter never follows '?page=' links - those
+  # are disallowed by the site's robots.txt. Truncated listings are
+  # flagged 'listing_truncated' for manual review instead.
+  # -----------------------------------------------------------------------
+  - name: sattacademy
+    enabled: false
+    adapter: sattacademy
+    base_url: https://sattacademy.com
+    seed_urls:
+      - https://sattacademy.com/board-exams
+    allow_domains:
+      - sattacademy.com
+      - www.sattacademy.com
+    keywords: [board-exams, ssc, hsc]
+    params:
+      class_keys: [ssc, dakhil, hsc]   # ssc = Class 9-10 general, dakhil = madrasah, hsc = Class 11-12
+      # Bangla board slugs (from the site's board dropdown). Comment out any
+      # boards you do not want to collect.
+      board_slugs:
+        - \u09a2\u09be\u0995\u09be-\u09ac\u09cb\u09b0\u09cd\u09a1        # dhaka
+        - \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0-\u09ac\u09cb\u09b0\u09cd\u09a1      # rajshahi
+        - \u099a\u099f\u09cd\u099f\u0997\u09cd\u09b0\u09be\u09ae-\u09ac\u09cb\u09b0\u09cd\u09a1    # chattogram
+        - \u09b8\u09bf\u09b2\u09c7\u099f-\u09ac\u09cb\u09b0\u09cd\u09a1          # sylhet
+        - \u09af\u09b6\u09cb\u09b0-\u09ac\u09cb\u09b0\u09cd\u09a1          # jessore
+        - \u0995\u09c1\u09ae\u09bf\u09b2\u09cd\u09b2\u09be-\u09ac\u09cb\u09b0\u09cd\u09a1        # cumilla
+        - \u09a6\u09bf\u09a8\u09be\u099c\u09aa\u09c1\u09b0-\u09ac\u09cb\u09b0\u09cd\u09a1      # dinajpur
+        - \u09ac\u09b0\u09bf\u09b6\u09be\u09b2-\u09ac\u09cb\u09b0\u09cd\u09a1        # barishal
+        - \u09b8\u0995\u09b2-\u09ac\u09cb\u09b0\u09cd\u09a1          # combined (all)
+        - \u09ae\u09df\u09ae\u09a8\u09b8\u09bf\u0982\u09b9-\u09ac\u09cb\u09b0\u09cd\u09a1      # mymensingh
+        - \u09ae\u09be\u09a6\u09cd\u09b0\u09be\u09b8\u09be-\u09b6\u09bf\u0995\u09cd\u09b7\u09be-\u09ac\u09cb\u09b0\u09cd\u09a1  # madrasah
+        - \u0995\u09be\u09b0\u09bf\u0997\u09b0\u09bf-\u09b6\u09bf\u0995\u09cd\u09b7\u09be-\u09ac\u09cb\u09b0\u09cd\u09a1      # technical
+        - \u09b8\u09ae\u09a8\u09cd\u09ac\u09bf\u09a4-\u09ac\u09cb\u09b0\u09cd\u09a1        # combined
+      years: [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
+      question_types: [mcq, written]
+    notes: null

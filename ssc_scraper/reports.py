@@ -127,6 +127,69 @@ class ReportGenerator:
         )
         return csv_path
 
+    def export_board_exams(self, board: str | None = None,
+                           year: int | None = None) -> list[Path]:
+        """Export question-bank exams and questions grouped by board/exam.
+
+        Writes reports/by_board_exam/{board}/{exam-slug}/questions.csv +
+        exam.json for every matching exam, plus a coverage summary CSV.
+        """
+        from .utils import sanitize_filename
+
+        exams = self.db.iter_board_exams(board=board, year=year)
+        written: list[Path] = []
+        coverage_rows: list[dict] = []
+        for exam in exams:
+            exam_dir = (self.reports_dir / "by_board_exam"
+                        / sanitize_filename(exam.get("board") or "unknown")
+                        / sanitize_filename(
+                            f"{exam.get('year') or 'unknown'}_"
+                            f"{(exam.get('subject') or 'unknown')}_exam{exam['id']}"))
+            exam_dir.mkdir(parents=True, exist_ok=True)
+            questions = self.db.iter_exam_questions(exam["id"])
+            questions_path = exam_dir / "questions.csv"
+            with open(questions_path, "w", newline="", encoding="utf-8") as handle:
+                writer = csv.DictWriter(
+                    handle,
+                    fieldnames=["question_no", "question_type", "question_text",
+                                "options", "answer", "remote_ques_id",
+                                "mcq_url", "written_url", "source_name",
+                                "scraped_at"],
+                    extrasaction="ignore",
+                )
+                writer.writeheader()
+                for row in questions:
+                    flat = dict(row)
+                    flat["options"] = flat.pop("options_json", "")
+                    writer.writerow(flat)
+            meta = {k: exam.get(k) for k in (
+                "id", "board", "class_key", "exam_name", "subject", "year",
+                "total_questions", "mcq_count", "cq_count", "mcq_url",
+                "written_url", "listing_url", "source_name", "scraped_at",
+                "status", "missing_reason")}
+            meta["questions_collected"] = len(questions)
+            (exam_dir / "exam.json").write_text(
+                json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
+            coverage_rows.append({
+                "board": exam.get("board"), "class": exam.get("class_key"),
+                "year": exam.get("year"), "subject": exam.get("subject"),
+                "exam_name": exam.get("exam_name"), "status": exam.get("status"),
+                "questions_collected": len(questions),
+                "mcq_url": exam.get("mcq_url"),
+                "written_url": exam.get("written_url"),
+            })
+            written.append(questions_path)
+        coverage_path = self.reports_dir / "board_exams_coverage.csv"
+        with open(coverage_path, "w", newline="", encoding="utf-8") as handle:
+            writer = csv.DictWriter(handle, fieldnames=[
+                "board", "class", "year", "subject", "exam_name", "status",
+                "questions_collected", "mcq_url", "written_url"])
+            writer.writeheader()
+            writer.writerows(coverage_rows)
+        written.append(coverage_path)
+        log.info("Exported %d board exam(s): %s", len(exams), coverage_path)
+        return written
+
     def export_papers_csv(self, output_path: str | None = None) -> Path:
         """Export every paper row to CSV (default reports/papers_export.csv)."""
         destination = Path(output_path) if output_path else \

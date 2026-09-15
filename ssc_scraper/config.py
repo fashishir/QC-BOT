@@ -34,6 +34,8 @@ class SourceConfig:
     enabled: bool = True
     keywords: list[str] = field(default_factory=list)   # URL filter hints
     notes: str | None = None                            # e.g. "manual review: ..."
+    adapter: str = ""                                  # e.g. 'sattacademy' for question-bank sources
+    params: dict = field(default_factory=dict)          # adapter-specific options
 
 
 @dataclass

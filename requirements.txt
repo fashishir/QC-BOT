@@ -7,6 +7,7 @@ pdfplumber>=0.11
 PyMuPDF>=1.24
 pytesseract>=0.3.10
 Pillow>=10.0
+streamlit>=1.32
 
 # Optional: PostgreSQL backend (instead of SQLite)
 # psycopg2-binary>=2.9

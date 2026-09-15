@@ -12,6 +12,7 @@ import shutil
 from pathlib import Path
 
 from .config import AppConfig
+from . import sattacademy
 from .crawler import Crawler
 from .downloader import Downloader
 from .http_client import PoliteHttpClient
@@ -64,6 +65,11 @@ class ScraperPipeline:
         summary: dict = {"sources": {}, "extracted": 0, "ocr": 0}
         for source in sources:
             log.info("=== Source: %s ===", source.name)
+            if getattr(source, "adapter", "") == "sattacademy":
+                summary["sources"][source.name] = {
+                    "board_exams": self.scrape_board_exams(source, limit),
+                }
+                continue
             self.db.upsert_source(source.name, source.base_url, source.enabled,
                                   notes=source.notes)
             if source.notes and "manual review" in source.notes.lower():
@@ -219,6 +225,138 @@ class ScraperPipeline:
             processed += 1
         log.info("OCR processed %d paper(s)", processed)
         return processed
+
+    # ------------------------------------------------------- board exams
+    def scrape_board_exams(self, source, limit: int | None = None) -> dict:
+        """Collect question-bank exams: listing -> exam cards -> questions.
+
+        Expectations per source.params:
+          class_keys : ['ssc', 'dakhil', 'hsc']  (sattacademy.CLASS_SLUGS keys)
+          board_slugs: list of Bangla board slugs (sattacademy.BOARD_SLUGS)
+          years      : [2015..2026]
+          question_types: ['mcq', 'written'] (both collected when present)
+        Never follows robots-disallowed page= links; truncated listings
+        are marked 'listing_truncated' and paginated exam pages are marked
+        'completed_truncated' (page-1 questions only) for manual review.
+        """
+        from .metadata import MetadataExtractor
+        extractor = self.extractor
+        class_keys = source.params.get("class_keys", ["ssc", "dakhil", "hsc"])
+        board_slugs = source.params.get("board_slugs") or list(sattacademy.BOARD_SLUGS)
+        years = source.params.get("years") or list(range(2015, 2027))
+        question_types = source.params.get("question_types", ["mcq", "written"])
+        stats = {"listings": 0, "exams_found": 0, "exams_completed": 0,
+                 "questions": 0, "failed": 0, "truncated": 0,
+                 "questions_truncated": 0}
+
+        self.db.upsert_source(source.name, source.base_url, source.enabled,
+                              notes=source.notes)
+        started = now_iso()
+        done_exams = 0
+        for class_key in class_keys:
+            for board_slug in board_slugs:
+                board = sattacademy.BOARD_SLUGS.get(board_slug, "unknown")
+                for year in years:
+                    url = sattacademy.listing_url(class_key, board_slug, year)
+                    result = self.client.fetch(url)
+                    stats["listings"] += 1
+                    if result.blocked:
+                        self.db.set_source_status(
+                            source.name, "manual_review",
+                            note=f"HTTP {result.status_code} at {url}")
+                        stats["failed"] += 1
+                        continue
+                    if not result.ok:
+                        stats["failed"] += 1
+                        log.warning("Listing failed: %s (%s)", url, result.error)
+                        continue
+                    exams = sattacademy.parse_listing(result.text, url)
+                    truncated = sattacademy.listing_is_truncated(result.text)
+                    for exam in exams:
+                        if limit is not None and done_exams >= limit:
+                            break
+                        exam_board = board
+                        exam_subject = extractor.extract(
+                            exam.get("exam_name", "")).get("subject")
+                        exam_id = self.db.upsert_board_exam({
+                            **exam,
+                            "board": exam_board,
+                            "class_key": class_key,
+                            "subject": exam_subject,
+                            "source_name": source.name,
+                            "listing_url": url,
+                            "scraped_at": now_iso(),
+                            "status": "listing_truncated" if truncated else "listed",
+                        })
+                        stats["exams_found"] += 1
+                        done_exams += 1
+                        if truncated:
+                            stats["truncated"] += 1
+                            log.info("Truncated listing (page 2+ skipped per robots): %s", url)
+                        got = self._collect_exam_questions(exam_id, exam, source,
+                                                           question_types, extractor)
+                        stats["questions"] += got["questions"]
+                        stats["failed"] += got["failed"]
+                        if got.get("truncated"):
+                            stats["questions_truncated"] += 1
+                        if got["completed"]:
+                            stats["exams_completed"] += 1
+                            if got.get("truncated"):
+                                self.db.update_board_exam(
+                                    exam_id, status="completed_truncated",
+                                    missing_reason="questions_truncated: ?page= links present (robots-disallowed, page-1 only)")
+                            else:
+                                self.db.update_board_exam(exam_id, status="completed")
+        self.db.log_run(f"scrape_board_exams:{source.name}", started, stats)
+        return stats
+
+    def _collect_exam_questions(self, exam_id, exam, source, question_types,
+                                extractor) -> dict:
+        """Fetch /mcq and /written pages for one exam; store questions.
+
+        Only page-1 is fetched (robots disallows ?page=). When pagination
+        links are detected the result carries truncated=True.
+        """
+        result_stats = {"questions": 0, "failed": 0, "completed": True,
+                        "truncated": False}
+        urls = {"mcq": exam.get("mcq_url"), "written": exam.get("written_url")}
+        for qtype in question_types:
+            page_url = urls.get(qtype)
+            if not page_url:
+                continue
+            fetched = self.client.fetch(page_url)
+            if fetched.blocked:
+                self.db.set_source_status(
+                    source.name, "manual_review",
+                    note=f"HTTP {fetched.status_code} at {page_url}")
+                self.db.update_board_exam(exam_id, status="failed",
+                                          missing_reason=f"HTTP {fetched.status_code}")
+                result_stats["failed"] += 1
+                result_stats["completed"] = False
+                continue
+            if not fetched.ok:
+                self.db.update_board_exam(exam_id, status="failed",
+                                          missing_reason=fetched.error or "fetch failed")
+                result_stats["failed"] += 1
+                result_stats["completed"] = False
+                continue
+            questions = sattacademy.parse_exam_questions(
+                fetched.text, page_url, qtype)
+            if sattacademy.exam_has_more_pages(fetched.text):
+                result_stats["truncated"] = True
+                log.info("Truncated exam questions (page 2+ skipped per robots): %s",
+                         page_url)
+            for question in questions:
+                self.db.upsert_exam_question({
+                    **question,
+                    "exam_id": exam_id,
+                    "mcq_url": exam.get("mcq_url"),
+                    "written_url": exam.get("written_url"),
+                    "source_name": source.name,
+                    "scraped_at": now_iso(),
+                })
+                result_stats["questions"] += 1
+        return result_stats
 
     # ------------------------------------------------------------------ move
     def _relocate_if_needed(self, row: dict, record: PaperRecord) -> None:

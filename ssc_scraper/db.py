@@ -118,6 +118,29 @@ class Database:
             CONSTRAINT uq_sources_name UNIQUE (name)
         );
 
+        CREATE TABLE IF NOT EXISTS board_exams (
+            id {pk}, remote_id TEXT, board TEXT, class_key TEXT, exam_name TEXT,
+            subject TEXT, year INTEGER, total_questions INTEGER,
+            mcq_count INTEGER, cq_count INTEGER,
+            mcq_url TEXT, written_url TEXT, listing_url TEXT,
+            source_name TEXT, scraped_at TEXT,
+            status TEXT NOT NULL DEFAULT 'discovered',
+            missing_reason TEXT, created_at TEXT, updated_at TEXT,
+            CONSTRAINT uq_board_exams_url UNIQUE (mcq_url)
+        );
+        CREATE INDEX IF NOT EXISTS idx_exams_board ON board_exams (board, year, subject);
+        CREATE INDEX IF NOT EXISTS idx_exams_status ON board_exams (status);
+
+        CREATE TABLE IF NOT EXISTS exam_questions (
+            id {pk}, exam_id INTEGER REFERENCES board_exams(id),
+            remote_ques_id TEXT, question_no INTEGER,
+            question_type TEXT, question_text TEXT, options_json TEXT,
+            answer TEXT, mcq_url TEXT, written_url TEXT, source_name TEXT,
+            scraped_at TEXT,
+            CONSTRAINT uq_exam_question UNIQUE (exam_id, question_type, question_no)
+        );
+        CREATE INDEX IF NOT EXISTS idx_questions_exam ON exam_questions (exam_id);
+
         CREATE TABLE IF NOT EXISTS crawl_state (
             url TEXT NOT NULL PRIMARY KEY,
             source_name TEXT, status TEXT DEFAULT 'pending', depth INTEGER DEFAULT 0,
@@ -345,6 +368,133 @@ class Database:
         self.commit()
         if status == "manual_review":
             log.warning("Source %r marked for MANUAL REVIEW: %s", name, note or status)
+
+    # -------------------------------------------------------- board exams
+    def upsert_board_exam(self, record: dict) -> int:
+        values = {
+            "remote_id": record.get("remote_id"),
+            "board": record.get("board"),
+            "class_key": record.get("class_key"),
+            "exam_name": record.get("exam_name"),
+            "subject": record.get("subject"),
+            "year": record.get("year"),
+            "total_questions": record.get("total_questions"),
+            "mcq_count": record.get("mcq_count"),
+            "cq_count": record.get("cq_count"),
+            "mcq_url": record.get("mcq_url") or "",
+            "written_url": record.get("written_url"),
+            "listing_url": record.get("listing_url"),
+            "source_name": record.get("source_name"),
+            "scraped_at": record.get("scraped_at"),
+            "status": record.get("status") or "discovered",
+            "missing_reason": record.get("missing_reason"),
+        }
+        cols = list(values)
+        placeholders = ", ".join([self._ph] * len(cols))
+        update_set = ", ".join(f"{c} = excluded.{c}" for c in cols if c != "mcq_url")
+        sql = (
+            f"INSERT INTO board_exams ({', '.join(cols)}) VALUES ({placeholders}) "
+            f"ON CONFLICT(mcq_url) DO UPDATE SET {update_set}"
+        )
+        self._execute(sql, list(values.values()))
+        self.commit()
+        _, row = self._execute(
+            f"SELECT id FROM board_exams WHERE mcq_url = {self._ph}",
+            (values["mcq_url"],),
+            fetch="one",
+        )
+        return row["id"]
+
+    def update_board_exam(self, exam_id: int, **fields) -> None:
+        if not fields:
+            return
+        fields.setdefault("updated_at", now_iso())
+        assignments = ", ".join(f"{k} = {self._ph}" for k in fields)
+        self._execute(
+            f"UPDATE board_exams SET {assignments} WHERE id = {self._ph}",
+            [*fields.values(), exam_id],
+        )
+        self.commit()
+
+    def get_board_exam_by_url(self, mcq_url: str):
+        _, row = self._execute(
+            f"SELECT * FROM board_exams WHERE mcq_url = {self._ph}",
+            (mcq_url,),
+            fetch="one",
+        )
+        return dict(row) if row else None
+
+    def iter_board_exams(self, statuses=None, source_name=None,
+                         board=None, year=None, subject=None) -> list[dict]:
+        clauses, params = [], []
+        if statuses:
+            clauses.append("status IN ({})".format(", ".join([self._ph] * len(statuses))))
+            params.extend(statuses)
+        for column, value in (("source_name", source_name), ("board", board),
+                              ("year", year), ("subject", subject)):
+            if value is not None:
+                clauses.append(f"{column} = {self._ph}")
+                params.append(value)
+        where = f" WHERE {' AND '.join(clauses)}" if clauses else ""
+        _, rows = self._execute(
+            f"SELECT * FROM board_exams{where} ORDER BY board, year, subject",
+            params,
+            fetch="all",
+        )
+        return [dict(r) for r in (rows or [])]
+
+    def count_exams_by_status(self) -> dict:
+        _, rows = self._execute(
+            "SELECT status, COUNT(*) AS n FROM board_exams GROUP BY status",
+            fetch="all",
+        )
+        return {r["status"]: r["n"] for r in (rows or [])}
+
+    def distinct_exam_combos(self):
+        _, rows = self._execute(
+            "SELECT DISTINCT board, year, subject FROM board_exams "
+            "WHERE status IN ('completed', 'completed_truncated', 'listed', "
+            "'listing_truncated') "
+            "AND board IS NOT NULL AND year IS NOT NULL AND subject IS NOT NULL",
+            fetch="all",
+        )
+        return [(r["board"], r["year"], r["subject"]) for r in (rows or [])]
+
+    def upsert_exam_question(self, record: dict) -> None:
+        cols = ["exam_id", "remote_ques_id", "question_no", "question_type",
+                "question_text", "options_json", "answer",
+                "mcq_url", "written_url", "source_name", "scraped_at"]
+        import json as _json
+        values = dict(record)
+        if isinstance(values.get("options_json"), (dict, list)):
+            values["options_json"] = _json.dumps(values["options_json"], ensure_ascii=False)
+        placeholders = ", ".join([self._ph] * len(cols))
+        update_set = ", ".join(f"{c} = excluded.{c}" for c in cols
+                                if c not in ("exam_id", "question_type", "question_no"))
+        sql = (
+            f"INSERT INTO exam_questions ({', '.join(cols)}) VALUES ({placeholders}) "
+            f"ON CONFLICT(exam_id, question_type, question_no) DO UPDATE SET {update_set}"
+        )
+        self._execute(sql, [values.get(c) for c in cols])
+        self.commit()
+
+    def iter_exam_questions(self, exam_id: int) -> list[dict]:
+        _, rows = self._execute(
+            f"SELECT * FROM exam_questions WHERE exam_id = {self._ph} "
+            f"ORDER BY question_type, question_no",
+            (exam_id,),
+            fetch="all",
+        )
+        return [dict(r) for r in (rows or [])]
+
+    def count_exam_questions(self, exam_id: int | None = None) -> int:
+        sql = "SELECT COUNT(*) AS n FROM exam_questions"
+        params: list = []
+        if exam_id is not None:
+            sql += f" WHERE exam_id = {self._ph}"
+            params.append(exam_id)
+        _, row = self._execute(sql, params, fetch="one")
+        return row["n"]
 
     # ---------------------------------------------------------------- run log
     def log_run(self, command: str, started_at: str, summary: dict) -> None:

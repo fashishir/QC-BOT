@@ -51,6 +51,12 @@ def build_parser() -> argparse.ArgumentParser:
     export = subparsers.add_parser("export_csv", help="export all papers to CSV")
     export.add_argument("--output", default="reports/papers_export.csv",
                         help="output CSV path")
+    export_exams = subparsers.add_parser(
+        "export_board_exams",
+        help="export question-bank exams/questions grouped by board and exam name",
+    )
+    export_exams.add_argument("--board", default=None, help="only this board")
+    export_exams.add_argument("--year", type=int, default=None, help="only this year")
     return parser
 
 
@@ -70,10 +76,23 @@ def main(argv: list[str] | None = None) -> int:
         if args.command == "scrape":
             pipeline = ScraperPipeline(config, db)
             try:
-                summary = pipeline.scrape(source_name=args.source, limit=args.limit)
+                selected = config.get_source(args.source) if args.source else None
+                if selected is not None and getattr(selected, "adapter", ""):
+                    summary = pipeline.scrape_board_exams(selected, limit=args.limit)
+                else:
+                    summary = pipeline.scrape(source_name=args.source,
+                                              limit=args.limit)
             finally:
                 pipeline.close()
             _print_summary(summary)
+
+        elif args.command == "export_board_exams":
+            db.connect()
+            db.create_schema()
+            generator = ReportGenerator(db, config.settings)
+            paths = generator.export_board_exams(board=args.board, year=args.year)
+            for path in paths:
+                print(f"Board-exam export: {path}")
 
         elif args.command == "extract_text":
             pipeline = ScraperPipeline(config, db)

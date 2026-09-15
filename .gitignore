@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# runtime artefacts
+data/
+logs/
+*.db
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+reports/*.json
+reports/*.csv
+
+.pytest_cache/

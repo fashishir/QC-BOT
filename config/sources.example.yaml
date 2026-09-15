@@ -1,0 +1,83 @@
+# =====================================================================
+# SSC Archive Bot - example configuration
+#
+# IMPORTANT (ethics & legality):
+#   * All sources are DISABLED by default. Enable a source only after you
+#     have reviewed its terms of service and robots.txt yourself.
+#   * The bot respects robots.txt, rate-limits every request, and never
+#     bypasses authentication, CAPTCHAs, paywalls or anti-bot protection.
+#   * Sources that return 401/403 are automatically flagged for
+#     'manual_review' and skipped.
+#   * Every stored file keeps its source URL for attribution.
+# =====================================================================
+
+settings:
+  # Identify your bot honestly; put a real contact address.
+  user_agent: "SSC-Archive-Bot/1.0 (+educational archive; contact=you@example.com)"
+
+  # Politeness / rate limiting (per host)
+  request_delay_seconds: 5.0
+  max_retries: 4
+  backoff_factor: 2.0
+  request_timeout_seconds: 30
+  respect_robots_txt: true
+
+  # Safety caps
+  max_pages_per_source: 500
+  max_file_size_mb: 100
+
+  # File types to collect (HTML pages are crawled, not saved, by default)
+  allowed_extensions: [.pdf, .doc, .docx, .jpg, .jpeg, .png]
+  download_html_pages: false
+
+  # Storage / output locations
+  storage_root: data
+  logs_dir: logs
+  reports_dir: reports
+
+  database:
+    backend: sqlite              # 'sqlite' or 'postgres'
+    sqlite_path: ssc_archive.db
+    postgres_dsn: null           # e.g. postgresql://user:pass@localhost:5432/ssc
+
+  ocr:
+    enabled: false               # requires Tesseract + 'ben' language pack
+    tesseract_cmd: null          # e.g. C:/Program Files/Tesseract-OCR/tesseract.exe
+    languages: ben+eng
+    min_text_chars_to_skip_ocr: 200
+    max_pages: 30
+
+# -------------------------------------------------------------------------
+# Sources: add one block per website. seed_urls can point to board pages,
+# year-wise pages, subject-wise pages or PDF archive pages.
+# -------------------------------------------------------------------------
+sources:
+  - name: example_board_site
+    enabled: false               # <- review ToS/robots.txt, then set true
+    base_url: https://www.example-board.gov.bd
+    seed_urls:
+      - https://www.example-board.gov.bd/question-archives
+      - https://www.example-board.gov.bd/ssc-questions-2024
+    allow_domains:
+      - www.example-board.gov.bd
+    keywords: [question, ssc, archive]   # optional URL filter
+    notes: null
+
+  - name: example_archive_portal
+    enabled: false
+    base_url: https://www.example-archive.org
+    seed_urls:
+      - https://www.example-archive.org/ssc-questions/
+    allow_domains:
+      - www.example-archive.org
+      - files.example-archive.org
+    keywords: [ssc, question]
+    notes: null
+
+  # Example of a source already known to need manual review:
+  # - name: example_blocked_site
+  #   enabled: false
+  #   base_url: https://www.example-protected-site.com
+  #   seed_urls: [https://www.example-protected-site.com/ssc]
+  #   allow_domains: [www.example-protected-site.com]
+  #   notes: "manual review: site returned 403 on last automated visit"

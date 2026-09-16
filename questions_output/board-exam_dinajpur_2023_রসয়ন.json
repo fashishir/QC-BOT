@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "484",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "রসায়ন",
+    "subject": "রসায়ন",
+    "board": "dinajpur",
+    "board_bn": "দিনাজপুর বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 456
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "12g কার্বনে পরমাণুর সংখ্যা কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "6.023 × 10 23",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "6.023 × 10 22",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "3.011 × 10 22",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "3.011 × 10 23",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 456
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "মোলারিটির শর্ত হলো— i. নির্দিষ্ট তাপমাত্রা ii.নির্দিষ্ট চাপ iii. 1 লিটার দ্রবণ নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i,ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 456
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "প্রাকৃতিক গ্যাসে প্রোপেনের শতকরা পরিমাণ কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "80%",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "7%",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "6%",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "3%",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 456
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "HCIO 4 , যৌগে ক্লোরিনের জারণ সংখ্যা কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "+5",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "+6",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "+7",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "+8",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 456
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "পানিযুক্ত ফেরিক অক্সাইডকে কী বলে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মরিচা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "প্যারাফিন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মোম",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "লবণ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 456
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "নিচের উদ্দীপকটি পড় এবং ৬ ও ৭নং প্রশ্নের উত্তর দাও: n CH 2 = CHCI উচ্চ চাপ ও উচ্চ তাপমাত্রা/জৈব পার-অক্সাইড (-CH 2 -CHCI - )n উৎপাদ যৌগটির নাম—",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নাইলন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "পিভিসি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পলিপ্রোপিন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পলিথিন",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 456
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "উৎপাদ যৌগ— i.শক্ত ii. কঠিন iii. চকচকে নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i,ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 456
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "কাগজে কী থাকে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ফ্রুক্টোজ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "গ্লুকোজ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "স্টার্চ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সেলুলোজ",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 456
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি কর্পূরের সংকেত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "C 6 H 6",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "C 10 H g",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "C 10 H 16 O",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "C 12 H 22 O 11",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 456
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "' 29 65 A'কোন Which আইসোটোপ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Zn",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Si",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "P",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Cu",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 456
+    }
+  ]
+}

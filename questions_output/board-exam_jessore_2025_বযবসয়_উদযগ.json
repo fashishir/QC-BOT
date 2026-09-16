@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "1778",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ব্যবসায় উদ্যোগ",
+    "subject": "ব্যবসায় উদ্যোগ",
+    "board": "jessore",
+    "board_bn": "যশোর বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 117
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি প্রজনন শিল্পের অন্তর্গত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সেতু",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "নার্সারি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ব্যাংকিং",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "রাস্তাঘাট",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 117
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "বিমা বাণিজ্যের কোন বাধা দূর করে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সময়গত",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "স্থানগত",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ঝুঁকিগত",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "স্বত্বগত",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 117
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "ব্যবসায় উদ্যোক্তা বা শিল্পোদ্যোক্তা এর ইংরেজি প্রতিশব্দ-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Entrepreneur",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Enterprenuer",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Entrepreneurship",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Enterpreneurship",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 117
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "নট্রামস কোন মন্ত্রণালয় কর্তৃক পরিচালিত একটি প্রতিষ্ঠান?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "যুব ও ক্রীড়া",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "স্বাস্থ্য",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "গণপূর্ত",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "শিক্ষা",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 117
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "'বাংলাদেশ অর্থনৈতিক রিভিউ ২০১১'-এর পরিসংখ্যান অনুযায়ী জাতীয় অর্থনীতিতে কৃষিখাতের অবদান-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২০%",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৩০%",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৪০%",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৫০%",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 117
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "ব্যবসায় সাফল্য লাভের অন্যতম পূর্বশর্ত হলো-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পণ্যের চাহিদা নির্ধারণ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সঠিক কর্মী নির্বাচন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সঠিক পণ্য নির্বাচন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সঠিক প্রযুক্তি ব্যবহার",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 117
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "অংশীদারি ব্যবসায়ের মূল ভিত্তি কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নিবন্ধন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "চুক্তি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অভিজ্ঞতা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মূলধন",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 117
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "প্রাইভেট লিমিটেড কোম্পানির সর্বোচ্চ সদস্য সংখ্যা কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৫০ জান",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৬০ জন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৭০ জন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৮০ জন",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 117
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "মেধা সম্পদের অন্তর্ভুক্ত- i. নিবন্ধন ii. পেটেন্ট iii. কপিরাইট নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 117
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "নিচের কোন দুটি পদ্ধতির মাধ্যমে চিহ্নিত ধারণাগুলো মূল্যায়ন করে প্রকল্প নির্বাচন করা যায়- i. শিল্প জরিপ প্রতিবেদন ii. ম্যাক্রোস্ক্রিনিং iii. মাইক্রোস্ক্রিনিং নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 117
+    }
+  ]
+}

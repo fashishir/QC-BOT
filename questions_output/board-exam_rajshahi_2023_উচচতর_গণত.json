@@ -1,0 +1,333 @@
+{
+  "exam": {
+    "remote_id": "563",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "উচ্চতর গণিত",
+    "subject": "উচ্চতর গণিত",
+    "board": "rajshahi",
+    "board_bn": "রাজশাহী বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 377
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "2x 5 - 4x 3 + 14x 7 + x - 5 রাশিটির ধ্রুবপদ ও মুখ্য সহগের সমষ্টি কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "- 3",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "2",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "9",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "19",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 377
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "x + 4 x ( x + 2 ) এর আংশিক ভগ্নাংশে প্রকাশ নিচের কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "1 x + 2 x ( x + 2 )",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "1 x + 2 ( x + 2 )",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "2 x + 1 ( x + 2 )",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "2 x − 1 ( x + 2 )",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 377
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "x 3 + y 3 + z 3 একটি- i. প্রতিসম রাশি ii. সমমাত্রিক বহুপদী iii. চক্র-ক্রমিক রাশি নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i,ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 377
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য 1 সে.মি. হলে, এর পরিব্যাসার্ধ কত সে.মি.?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "3 সে.মি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "3 2 সে.মি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "1 3 সে.মি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "3 4 সে.মি",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 377
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "LK এর মান কত?",
+      "images": [
+        "data:image/jpeg;base64,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"
+      ],
+      "options": [
+        {
+          "index": 1,
+          "text": "5 cm",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "6 cm",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "13 cm",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "5 cm",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 377
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "QR = 25 cm., SR = 6 cm., TR=5 cm হলে PR = কত?",
+      "images": [
+        "data:image/jpeg;base64,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"
+      ],
+      "options": [
+        {
+          "index": 1,
+          "text": "30 cm.",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "36 cm",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "125 cm.",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "150 cm.",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 377
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "l o g 27 x = 4 হলে, x এর মান কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "188",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "4 27",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "27",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "729",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 377
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "5.0 75 এর মূলনীয় ভগ্নাংশ নিচের কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "5075 99",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "1675 33",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "1015 198",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "335 66",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 377
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "0.032+0.00032 +0.0000032 +…….. i.ধারাটি গুণোত্তর ধারা ii. ধারাটির সাধারণ অনুপাত 0.01 iii. ধারাটির অসীমতক সমষ্টি 32 99 নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i,ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 377
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "(x 2 - 3x 2 + 3x - 1) 4 এর বিস্তৃতিতে পদসংখ্যা কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "5",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "7",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "12",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "13",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 377
+    }
+  ]
+}

@@ -223,3 +223,29 @@ python -m ssc_scraper check_missing  # missing-data matrix
 python scraper.py                    # scrape into board_questions.db
 python sync_db.py                    # merge into ssc_archive.db
 git add ssc_archive.db; git commit -m "data: refresh"; git push   # live app rebuilds
+
+
+ ### How to Run
+
+  To scrape everything or specific targets, run any of the following commands:
+
+    # Scrape ALL SSC & HSC Board Exams + Test Papers (2015-2026):
+    python scraper.py
+
+    # Scrape SSC only (2015-2026):
+    python scraper.py --class ssc
+
+    # Scrape HSC only (2015-2026):
+    python scraper.py --class hsc
+
+    # Scrape a specific year only (e.g. 2024):
+    python scraper.py --year 2024
+
+    # Scrape Board Exams only:
+    python scraper.py --source board
+
+    # Scrape Test Papers only:
+    python scraper.py --source test
+
+    # View all questions in the browser:
+    streamlit run app.py

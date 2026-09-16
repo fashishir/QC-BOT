@@ -1,0 +1,637 @@
+{
+  "exam": {
+    "remote_id": "1811",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ভূগোল ও পরিবেশ",
+    "subject": "ভূগোল ও পরিবেশ",
+    "board": "dinajpur",
+    "board_bn": "দিনাজপুর বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/written",
+    "mcq_count": 30,
+    "cq_count": 55,
+    "id": 59
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "মাঝারি শিল্পের উদাহরণ নিচের কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "তাঁতশিল্প",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বেকারি কারখানা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "চামড়া শিল্প",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "জাহাজ ও বিমান শিল্প",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 59
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "নিচের কোন জেলায় রেলপথ আছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বান্দরবান",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মেহেরপুর",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "লক্ষ্মীপুর",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "রংপুর",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 59
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি নবায়নযোগ্য সম্পদ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বায়ুশক্তি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "খনিজ তেল",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "প্রাকৃতিক গ্যাস",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কয়লা",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 59
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "গড়াই কোন নদীর প্রধান শাখা নদী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মেঘনা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "পদ্মা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "যমুনা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ব্রহ্মপুত্র",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 59
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "কোনটি ৩য় পর্যায়ের অর্থনৈতিক কার্যাবলি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সুতা উৎপাদন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "লোহা উত্তোলন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "চাল বিক্রয় করা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মাছ ধরা",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 59
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "জীববৈচিত্র্য সংরক্ষণের জন্য প্রয়োজন- i. জনসচেতনতা বৃদ্ধি করা ii. বন্যপ্রাণী ব্যবসা বৃদ্ধি করা iii. প্রাকৃতিক বস্তুর সুরক্ষা নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 59
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "কালবৈশাখীর দ্বারা বাংলাদেশে প্রায় কতভাগ বৃষ্টি সংঘটিত হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২০%",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "২৫%",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৩০%",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৭৫%",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 59
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "কোনো দেশের পারস্পরিক ভারসাম্য এবং অর্থনৈতিক উন্নয়নের জন্য মোট ভূমির কতভাগ বনভূমি থাকা প্রয়োজন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২৫",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "১৭.৬২",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১৭",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৯",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 59
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "পৃথিবীর সকল দেশ আগামী কত সালের মধ্যে এসডিজি অর্জনে অঙ্গীকারবদ্ধ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২০২৫",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "২০৩০",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "২০৩৫",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "২০৪১",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 59
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "'পৃথিবীর বিজ্ঞান হলো ভূগোল'-উক্তিটি কার?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "রিচার্ড হার্টশোর্ন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অধ্যাপক ম্যাকনি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অধ্যাপক ডাডলি স্ট্যাম্প",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "অধ্যাপক কার্ল রিটার",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 59
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "ছায়াপথ কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9B%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%AA%E0%A6%A5-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "১৮০° দ্রাঘিমা রেখা আকা বাকা কেন? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A7%A7%E0%A7%AE%E0%A7%A6-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%98%E0%A6%BF%E0%A6%AE%E0%A6%BE-%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A6%BE-%E0%A6%86%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "'Q' স্থানে যখন সকাল ৮টা তখন 'P' স্থানের সময় নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/q-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AF%E0%A6%96%E0%A6%A8-%E0%A6%B8%E0%A6%95%E0%A6%BE%E0%A6%B2-%E0%A7%AE%E0%A6%9F%E0%A6%BE-%E0%A6%A4%E0%A6%96%E0%A6%A8-p-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%9F-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "১৫ অক্টোবর তারিখে উক্ত দুটি স্থানে কি একই ঋতু বিরাজ করবে? বিশ্লেষণ করে মতামত দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A7%A7%E0%A7%AB-%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AC%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%96%E0%A7%87-%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%A6%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A6%BF-%E0%A6%8F%E0%A6%95%E0%A6%87-%E0%A6%8B%E0%A6%A4%E0%A7%81-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%9C-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%A4-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "ছক উন্নয়ন উন্নয়নের ধরন X পর্যটন ও সেবা, উৎপাদন, নির্মাণ। Y মহাসড়ক, সেতু, ফ্লাইওভার ব্রিজ নির্মাণ। Z খাওয়ার পানি, স্বাস্থ্যসম্মত স্যানিটেশন।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9B%E0%A6%95%C2%A0%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A7%9F%E0%A6%A8%C2%A0%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A7%9F%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%B0%E0%A6%A8%C2%A0x%C2%A0%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%A8-%E0%A6%93-%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%BE-%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A3%C2%A0y%C2%A0%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A7%9C%E0%A6%95-%E0%A6%B8%E0%A7%87%E0%A6%A4%E0%A7%81-%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%93%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A7%8D",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "জীববৈচিত্র্য কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A7%88%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-92706",
+      "remote_id": "92706",
+      "exam_id": 59
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "বিভিন্ন মাছ ও প্রাণী বিলুপ্তির মুখে পড়ার কারণ কী? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%9B-%E0%A6%93-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3%E0%A7%80-%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A7%81%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%87-%E0%A6%AA%E0%A7%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "'X' দ্বারা কোন ক্ষেত্রের উন্নয়নকে নির্দেশ করে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/x-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A7%9F%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "ছকের 'Y' ও 'Z' দ্বারা চিহ্নিত উন্নয়ন ক্ষেত্র দুটির তুলনামূলক বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9B%E0%A6%95%E0%A7%87%E0%A6%B0-y-%E0%A6%93-z-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%9A%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%A4-%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A7%9F%E0%A6%A8-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "দৃশ্যপট-১: সোনিয়াদের গ্রামের অনেক লোক ঢাকায় বাস করে। আবার অনেকেই প্রবাসী। দৃশ্যপট-২: রহমান সাহেব দীর্ঘদিন পর গ্রামে গিয়ে দেখলেন কৃষি জমির পরিমাণ সীমিত হয়ে যাচ্ছে। তিনি বিস্মিত হলেন।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A6%9F%E0%A7%A7-%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%87%E0%A6%95-%E0%A6%B2%E0%A7%8B%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BE%E0%A6%B8-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%87%E0%A6%95%E0%A7%87%E0%A6%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80%C2%A0%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A6%9F%E0%A7%A8-%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "কার্যকর ভূমি কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A6%B0-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-21895",
+      "remote_id": "21895",
+      "exam_id": 59
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "বাংলাদেশের জনসংখ্যা কাঠামো কী ধরনের? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%A0%E0%A6%BE%E0%A6%AE%E0%A7%8B-%E0%A6%95%E0%A7%80-%E0%A6%A7%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "দৃশ্যপট-১ এ উল্লিখিত বিষয়টির কুফল ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A6%9F%E0%A7%A7-%E0%A6%8F-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%9F%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A7%81%E0%A6%AB%E0%A6%B2-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "“কেবলমাত্র জনসচেতনতাই দৃশ্যকল্প-২ এ নির্দেশিত বিষয়টি রোধ করতে পারবে” উক্তিটির যথার্থতা মূল্যায়ন কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A7%87%E0%A6%AC%E0%A6%B2%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A6%B8%E0%A6%9A%E0%A7%87%E0%A6%A4%E0%A6%A8%E0%A6%A4%E0%A6%BE%E0%A6%87-%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%A8-%E0%A6%8F-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%9F%E0%A6%9F%E0%A6%BF-%E0%A6%B0%E0%A7%8B%E0%A6%A7-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AF%E0%A6%A5%E0%A6%BE%E0%A6%B0%E0%A7%8D",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "বাংলাদেশের যাতায়াত ব্যবস্থা গড়ে ওঠার অনুকূল অবস্থা A সমতল ভূমি, মজবুত মাটি। B সমুদ্র বন্দরের অবস্থান, সমতল স্থলভাগ। C নিম্নভূমি, নদীবহুল এলাকা।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%C2%A0%E0%A6%97%E0%A7%9C%E0%A7%87-%E0%A6%93%E0%A6%A0%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%95%E0%A7%82%E0%A6%B2-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%C2%A0a%C2%A0%E0%A6%B8%E0%A6%AE%E0%A6%A4%E0%A6%B2-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF-%E0%A6%AE%E0%A6%9C%E0%A6%AC%E0%A7%81%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%9F%E0%A6%BF%C2%A0b%C2%A0%E0%A6%B8%E0%A6%AE%E0%A7%81%E0%A6%A6",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "বাণিজ্য কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%A3%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-58387",
+      "remote_id": "58387",
+      "exam_id": 59
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "বল পূর্বক অভিবাসনের কারণ ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%B2-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%95-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "ছকের 'B' দ্বারা দেশের কোন যাতায়াত ব্যবস্থাকে বুঝানো হয়েছে? বর্ণনা দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9B%E0%A6%95%E0%A7%87%E0%A6%B0-b-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A7%81%E0%A6%9D%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%A8%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "ছকের 'A' ও 'C' যাতায়াত ব্যবস্থা দুটির মধ্যে কোনটি পণ্য পরিবহণে খরচ তুলনামূলক কম? বিশ্লেষণ করে মতামত দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9B%E0%A6%95%E0%A7%87%E0%A6%B0-a-%E0%A6%93-c-%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE-%E0%A6%A6%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B9%E0%A6%A3%E0%A7%87-%E0%A6%96%E0%A6%B0%E0%A6%9A-%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%95-%E0%A6%95%E0%A6%AE-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "রিফাতের বাড়ি চৌরাস্তার পাশে এবং সেখানে অনেকগুলো বাড়ি রয়েছে। নেপালের পার্বত্য এলাকায় ভ্রমণ করতে গিয়ে সে বেশ কিছু বসতি দেখেছে। অন্যদিকে জারিফ নৌকাভ্রমণে গিয়ে নদীর তীরে একধরনের বসতি দেখতে পায়।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A6%BF%E0%A6%AB%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%9A%E0%A7%8C%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B6%E0%A7%87-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%B8%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%85%E0%A6%A8%E0%A7%87%E0%A6%95%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%B0%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A7%87%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%A4%E0%A7%8D%E0%A6%AF-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "গ্রামীণ বসতি কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%80%E0%A6%A3-%E0%A6%AC%E0%A6%B8%E0%A6%A4%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-67625",
+      "remote_id": "67625",
+      "exam_id": 59
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "ক্রিয়াকলাপের ভিত্তিতে কক্সবাজার কী ধরনের নগর? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%95%E0%A6%B2%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%80-%E0%A6%A7%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%97%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "রিফাতের ভ্রমণকৃত এলাকার বসতির ধরন কী? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A6%BF%E0%A6%AB%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A3%E0%A6%95%E0%A7%83%E0%A6%A4-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%B8%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%A7%E0%A6%B0%E0%A6%A8-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "রিফাত ও জারিফের বসতির মধ্যে কোনটি ধীরে ধীরে নগরে পরিণত হতে পারে?  তোমার মতামতের সপক্ষে যুক্তি দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A6%BF%E0%A6%AB%E0%A6%BE%E0%A6%A4-%E0%A6%93-%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%B8%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A6%9F%E0%A6%BF-%E0%A6%A7%E0%A7%80%E0%A6%B0%E0%A7%87-%E0%A6%A7%E0%A7%80%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%97%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%A3%E0%A6%A4-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%C2%A0%C2%A0%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%B8",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 25,
+      "question_type": "written",
+      "question_text": "নদী গর্ভ কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%A6%E0%A7%80-%E0%A6%97%E0%A6%B0%E0%A7%8D%E0%A6%AD-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 26,
+      "question_type": "written",
+      "question_text": "হিমালয় কী ধরনের পর্বত? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B9%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%9F-%E0%A6%95%E0%A7%80-%E0%A6%A7%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%A4-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 27,
+      "question_type": "written",
+      "question_text": "চিত্র-১ দ্বারা ভূ-প্রক্রিয়ার কোন ধরনের পরিবর্তন ঘটে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%A7-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%AD%E0%A7%82%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A7%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A8-%E0%A6%98%E0%A6%9F%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 59
+    },
+    {
+      "question_no": 28,
+      "question_type": "written",
+      "question_text": "ভূমিকম্প ও চিত্র-২ এর ভূপ্রক্রিয়ার মধ্যে সাদৃশ্য রয়েছে কী? বিশ্লেষণ করে মতামত দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA-%E0%A6%93-%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%A8-%E0%A6%8F%E0%A6%B0-%E0%A6%AD%E0%A7%82%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF-%E0%A6%B0%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%A4-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 59
+    }
+  ]
+}

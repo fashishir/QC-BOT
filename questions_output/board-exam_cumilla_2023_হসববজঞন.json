@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "587",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "হিসাববিজ্ঞান",
+    "subject": "হিসাববিজ্ঞান",
+    "board": "cumilla",
+    "board_bn": "কুমিল্লা বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 337
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "আসবাবপত্রের উপর অবচয় ধার্য করলে কোন হিসাবটি ক্রেডিট হবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "আসবাবপত্র হিসাব",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অবচয় হিসাব",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পুঞ্জীভূত অবচয় হিসাব",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পুঞ্জীভূত অবচয় (আসবাবপত্র) হিসাব",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 337
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি দ্রুত নগদ অর্থে রূপান্তর করা যায় না?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মজুদ পণ্য",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "দেনাদার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ব্যাংক জমা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "প্রাপ্য বিল",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 337
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "একটি ব্যবসায়ের নগদ তহবিলের সাথে নিচের কোনটির বিপরীত সম্পর্ক হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অফিস সরঞ্জামের",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "প্রাপ্য হিসাবের",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পাওনাদারের",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ব্যাংক জমার",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 337
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "ঔষধ ক্রয়-বিক্রয়কারী প্রতিষ্ঠান কোন লেনদেনটির? জন্য 'অফিস সরঞ্জাম হিসাব লিখবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ইনজেকশনের সূচ ক্রয়",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বাকিতে ফ্রিজ ক্রয়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বিক্রয়ের জন্য মাপযন্ত্র ক্রয়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ব্যবহারের জন্য স্ট্যাপলার ক্রয়",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 337
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "ব্যবসায়ের মালিকানাধীন যা কিছু মুনাফা অর্জনে ব্যবহৃত হয় তাকে কী বলে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সম্পদ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "দায়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ব্যয়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মূলধন",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 337
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "T ছকে যোগফলের নিচে দুটি সমান্তরাল রেখা টানার উদ্দেশ্য কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "হিসাবের জের টানা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "হিসাব বন্ধ করা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "যোগফলের প্রতি গুরুত্ব আরোপ করা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সমাপনী জের দেখানো",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 337
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "রেওয়ামিলে “পাওনাদার” হিসাবে বিবেচনা করা হয় কোনটিকে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ক্রয় খতিয়ানের জেরকে",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বিক্রয় খতিয়ানের জেরকে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বহিঃফেরত হিসাবকে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "আন্তঃফেরত হিসাবকে",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 337
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "সমন্বিত ক্রয়ের মধ্যে কোনটি অন্তর্ভুক্ত থাকে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বহিঃ ফেরত",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "আন্তঃ পরিবহন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "প্রারম্ভিক মজুদ পণ্য",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সমাপনী মজুদপণ্য",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 337
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "বাট্টা প্রাপ্তি ১,০০০ টাকা এই লেনদেনে ডেবিট হিসাব কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পাওনাদার ১,০০০ টাকা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "দেনাদার ১,০০০ টাকা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "নগদান ১,০০০ টাকা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বাট্টা ১,০০০ টাকা",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 337
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি দ্বারা হিসাবসমীকরণের শুধু একটি উপাদান হ্রাস-বৃদ্ধি পাবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ধারে পণ্য ক্রয়",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ব্যাংক থেকে ঋণ গ্রহণ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বিনামূল্যে পণ্য বিতরণ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "জীবন বিমা প্রিমিয়াম প্রদান",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 337
+    }
+  ]
+}

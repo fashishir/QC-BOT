@@ -1,0 +1,646 @@
+{
+  "exam": {
+    "remote_id": "1699",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "গণিত",
+    "subject": "গণিত",
+    "board": "jessore",
+    "board_bn": "যশোর বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/written",
+    "mcq_count": 30,
+    "cq_count": 44,
+    "id": 262
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "একটি ঘনকের কর্ণের দৈর্ঘ্য 6 3 মিটার হলে এর আয়তন-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "36 ঘন মিটার",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "144 ঘন মিটার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "216 ঘন মিটার",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "512 ঘন মিটার",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 262
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "দুইটি ক্রমিক জোড় সংখ্যা হলে নিচের কোনটি বিজোড় সংখ্যা?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "a 2 + 1",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "b 2 + 2",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "a 2",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "b 2",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 262
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "s e c θ 1 - cos 2 θ = কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "tanθ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "cosθ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "sinθ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "cosθ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 262
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "যদি log x 16 = 2 তবে x এর মান কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "2",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "±4",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "4",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "16",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 262
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "নিচের কোন শর্তে a 1 x + b 1 y = c 1 , a 2 x + b 2 y = c 2 সমীকরণদ্বয় নির্ভরশীল?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "a 1 a 2 = b 1 b 2 = c 1 c 2",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "a 1 a 2 = b 1 b 2 ≠ c 1 c 2",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "b 1 a 2 ≠ b 1 b 2",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "a 1 a 2 = b 1 b 2",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 262
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "x - 2 x - 1 = 2 - 1 x - 1 সমীকরণের সমাধান সেট নিচের x-1 কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "{1}",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "{ ∅ }",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "{ }",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "{2}",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 262
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "sin θ + cos θ = a হলে sin 4 θ + cos 4 θ এর মান কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "1 + 1 2 ( a 2 - 1 ) 2",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "1 - 1 2 ( a 2 - 1 ) 2",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "1 2 ( a 2 - 1 ) 2",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "1 2 ( a 2 + 1 ) 2",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 262
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "১০ম শ্রেণির শিক্ষার্থীদের গণিতে সর্বনিম্ন নম্বর 35 ও পরিসর 56 হলে সর্বোচ্চ নম্বর কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "80",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "85",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "96",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "90",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 262
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "∠BDE =?",
+      "images": [
+        "https://sattacademy.com/uploads/ckeditor/1745232069.png"
+      ],
+      "options": [
+        {
+          "index": 1,
+          "text": "70°",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "100°",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "110°",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "120°",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "100°",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "120°",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "240°",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "300°",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 262
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "∠BDE =?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "70°",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "100°",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "110°",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "120°",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 262
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "∠ A B C + ∠ A C B = ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "100°",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "120°",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "240°",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "300°",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 262
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "(i) A = { x ∈ N : 2 < x ≤ 7 } S = { ( p , q ) : p ∈ A , q ∈ A এবং p - q = 2} . (ii) (m+3,n-4)= (3n + 4, m - 3)",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/i-axn-2",
+      "remote_id": "2",
+      "exam_id": 262
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "C = { 12 , 19 } D = { b , 19 } হলে P(C ∩ D ) নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/c1219db19%C2%A0%E0%A6%B9%E0%A6%B2%E0%A7%87-pc%C2%A0%C2%A0d-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "(i) নং হতে S অন্বয়টিকে তালিকা পদ্ধতিতে প্রকাশ করে তার রেঞ্জ নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/i-%E0%A6%A8%E0%A6%82-%E0%A6%B9%E0%A6%A4%E0%A7%87-s-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AC%E0%A7%9F%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%B0%E0%A7%87%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "(ii) নং হতে ক্রমজোড়ের নিয়মানুসারে (m, n)এর মান নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/ii-%E0%A6%A8%E0%A6%82-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A7%8B%E0%A7%9C%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%87-m-n%E0%A6%8F%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "(i) l, m, n ও l ক্রমিক সমানুপাতিক। (ii) p = 4 + 3 x , q = 4 - 3 x",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/i-l-m-n-%E0%A6%93-l-%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95%C2%A0ii-p-%C2%A04%C2%A0%C2%A03x%C2%A0q-%C2%A04%C2%A0%C2%A03x",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "log x (2500) = 4 হলে x এর মান নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/logx2500-4-%E0%A6%B9%E0%A6%B2%E0%A7%87-x-%E0%A6%8F%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "প্রমাণ কর যে, ( l 2 + m 2 - n 2 ) ( m 2 + n 2 - l 2 ) = ( l m + n m - m ) 2",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3-%E0%A6%95%E0%A6%B0-%E0%A6%AF%E0%A7%87%C2%A0l2m2n2m2n2l2lmnmm2",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "a = p + q p - q হলে, প্রমাণ কর যে, x = 8 a 3 a 2 + 3",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/ap%C2%A0%C2%A0qp%C2%A0%C2%A0q%E0%A6%B9%E0%A6%B2%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3-%E0%A6%95%E0%A6%B0-%E0%A6%AF%E0%A7%87%C2%A0x8a3a23",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "(i) কোনো সমান্তর ধারার 12তম পদ 28 এবং 18তম পদ 58। (ii) একটি গুণোত্তর ধারার পঞ্চম পদ 1 32 এবং অষ্টম পদ 1 256",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/i-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B0-12%E0%A6%A4%E0%A6%AE-%E0%A6%AA%E0%A6%A6-28-%E0%A6%8F%E0%A6%AC%E0%A6%82-18%E0%A6%A4%E0%A6%AE-%E0%A6%AA%E0%A6%A6-58%C2%A0ii-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%97%E0%A7%81%E0%A6%A3%E0%A7%8B%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%AE-%E0%A6%AA%E0%A6%A6%C2%A01",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "5+9+13+17+ ............ ধারাটির কোন পদ 353 তা নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/591317-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AA%E0%A6%A6-353-%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "সমান্তর ধারাটির প্রথম 15টি পদের সমষ্টি নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-15%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "গুণোত্তর ধারাটি নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%97%E0%A7%81%E0%A6%A3%E0%A7%8B%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%9F%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0-69843",
+      "remote_id": "69843",
+      "exam_id": 262
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "(O) কেন্দ্রবিশিষ্ট বৃত্তে AK ও BP দুইটি সমান জ্যা এবং OL ⊥ AK OS ⊥ BP. (ii) MNST চতুর্ভুজের বিপরীত কোণদ্বয় পরস্পর সম্পূরক।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/o-%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%AC%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%87-ak-%E0%A6%93-bp-%E0%A6%A6%E0%A7%81%E0%A6%87%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%8F%E0%A6%AC%E0%A6%82-ol%C2%A0%C2%A0ak-os%C2%A0%C2%A0bp%C2%A0ii-mnst-%E0%A6%9A%E0%A6%A4%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%AD",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "প্রমাণ কর যে, বৃত্তের ব্যাসই বৃহত্তম জ্যা।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3-%E0%A6%95%E0%A6%B0-%E0%A6%AF%E0%A7%87-%E0%A6%AC%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A6%87-%E0%A6%AC%E0%A7%83%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%AE-%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A6%BE-38849",
+      "remote_id": "38849",
+      "exam_id": 262
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "প্রমাণ কর যে, OL = OS.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3-%E0%A6%95%E0%A6%B0-%E0%A6%AF%E0%A7%87-ol-os",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "প্রমাণ কর যে, M, N, S, T বিন্দু চারটি সমবৃত্ত।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3-%E0%A6%95%E0%A6%B0-%E0%A6%AF%E0%A7%87-m-n-s-t-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81-%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A6%AE%E0%A6%AC%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%A4",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "(i) HEF একটি সমবাহু ত্রিভুজ এবং HG একটি মধ্যমা। (ii)Δ XYZ ও Δ MNS এ X Y M N = X Z M S = Y Z N S .",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/i-hef-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%81-%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A7%81%E0%A6%9C-%E0%A6%8F%E0%A6%AC%E0%A6%82-hg-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BE%C2%A0ii-xyz-%E0%A6%93-mns-%E0%A6%8F%C2%A0xymnxzmsyzns",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "8 সে.মি. দৈর্ঘ্যের একটি রেখাংশকে 4 : 3 অনুপাতে অন্তর্বিভক্ত কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/8-%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A6%BF-%E0%A6%A6%E0%A7%88%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%82%E0%A6%B6%E0%A6%95%E0%A7%87-4-3-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "প্রমাণ কর যে, 4 H G 2 = 3 H E 2",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3-%E0%A6%95%E0%A6%B0-%E0%A6%AF%E0%A7%87%C2%A04hg23he2",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "প্রমাণ কর যে, ∠ X = ∠ M, ∠ Y = ∠ N, ∠ Z = ∠ S .",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3-%E0%A6%95%E0%A6%B0-%E0%A6%AF%E0%A7%87-x-m-y-n-z-s",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "একটি ত্রিভুজের ভূমি b = 4.5 সে.মি., ভূমি সংলগ্ন একটি কোণ ∠x = 45° এবং অপর দুই বাহুর সমষ্টি a = 6 সে.মি.।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A7%81%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF-b-45-%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A6%BF-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF-%E0%A6%B8%E0%A6%82%E0%A6%B2%E0%A6%97%E0%A7%8D%E0%A6%A8-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%95%E0%A7%8B%E0%A6%A3-x-45-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%85%E0%A6%AA%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%81%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "5 সে.মি. ব্যাসবিশিষ্ট একটি বৃত্তের কোনো বিন্দুতে স্পর্শক অঙ্কন কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/5-%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%95-%E0%A6%85%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%A8-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 262
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "ত্রিভুজটি অঙ্কন কর। [অঙ্কনের চিহ্ন ও বিবরণ আবশ্যক]",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A7%81%E0%A6%9C%E0%A6%9F%E0%A6%BF-%E0%A6%85%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%A8-%E0%A6%95%E0%A6%B0-%E0%A6%85%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%A8-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A6%A3-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%95-50742",
+      "remote_id": "50742",
+      "exam_id": 262
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "b এর সমান বাহুবিশিষ্ট একটি সমবাহু ত্রিভুজের পরিবৃত্ত অঙ্কন কর। [অঙ্কনের চিহ্ন ও বিবরণ আবশ্যক]",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/b-%E0%A6%8F%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%81%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%81-%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A7%81%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%A4-%E0%A6%85%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%A8-%E0%A6%95%E0%A6%B0-%E0%A6%85%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%A8-%E0%A6%93-%E0%A6%AC%E0%A6%BF",
+      "remote_id": null,
+      "exam_id": 262
+    }
+  ]
+}

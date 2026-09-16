@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "235",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "বাংলা (আবশ্যিক) দ্বিতীয় পত্র",
+    "subject": "বাংলা (আবশ্যিক) দ্বিতীয় পত্র",
+    "board": "jessore",
+    "board_bn": "যশোর বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 580
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "ধ্বনি সৃষ্টিকারী বায়ুপ্রবাহের উৎস কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মুখবিবর",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ফুসফুস",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "শ্বাসনালি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "স্বরযন্ত্র",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 580
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "মোট কয়টি স্বরবর্ণের সংক্ষিপ্ত রূপ রয়েছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৫টি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৭টি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১০ টি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১১ টি",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 580
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "কোনটি পার্শ্বিক ব্যঞ্জনধ্বনি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ল",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "র",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "শ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "হ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 580
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "কোন শব্দটিতে ব-ফলার উচ্চারণ হবে না?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বিশ্ব",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "নশ্বর",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "আস্বাদন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "স্বাধীন",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 580
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "সদৃশ অর্থে প্রত্যয়যুক্ত শব্দ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বাঘা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ঢাকাই",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "টেকো",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "চোরা",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 580
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "কোন সমাসে পূর্বপদ ও পরপদ উভয়টিরই সমান প্রাধান্য থাকে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বহুবীহি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কর্মধারয়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "দ্বন্দ্ব",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "তৎপুরুষ",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 580
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "নিপাতনে সিদ্ধ স্বরসন্ধির উদাহরণ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "একাদশ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "নাবিক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বৃহস্পতি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "গবাক্ষ",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 580
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "ধ্বন্যাত্মক দ্বিত্বের উদাহরণ হচ্ছে—",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "চুপচাপ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "জ্বলজ্বল",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মোটাসোটা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কেক-টেক",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 580
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি দেশি শব্দ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "টোপর",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কুমির",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বালতি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "চাকু",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 580
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "ক্রিয়া-বিশেষ্য কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "দয়া",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "শয়ন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সঞ্চিতা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ধৈর্য",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 580
+    }
+  ]
+}

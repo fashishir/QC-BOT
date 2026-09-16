@@ -1,0 +1,638 @@
+{
+  "exam": {
+    "remote_id": "787",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "পৌরনীতি ও নাগরিকতা",
+    "subject": "পৌরনীতি ও নাগরিকতা",
+    "board": "mymensingh",
+    "board_bn": "ময়মনসিংহ বোর্ড",
+    "year": 2021,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/written",
+    "mcq_count": 30,
+    "cq_count": 55,
+    "id": 694
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "যেকোনো সংকটময় মুহূর্তে এবং জরুরি অবস্থায় কে দ্রুত সিদ্ধান্ত নিতে পারেন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বিচারপতি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "রাষ্ট্রপতি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "রাজনৈতিক দল",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "জাতীয় সংসদ",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 694
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "কোনটি একনায়কের বৈশিষ্ট্য।",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "জবাবদিহিতা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সচ্ছলতা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "স্বেচ্ছাচারিতা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বিচক্ষণতা",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 694
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "এককেন্দ্রিক সরকারের গুপ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "স্থায়িত্ব",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "নমনীয়তা",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 694
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "কোনো একটি জেলায় যদি রাস্তাঘাট ও যোগাযোগ' ব্যবস্থার চরম অবনতি ঘটে তাহলে এগুলো উন্নয়নের ক্ষেত্রে কোন ব্যক্তি পদক্ষেপ গ্রহণ করবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "জেলা জজ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "উপজেলা নির্বাহী কর্মকর্তা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "জেলা প্রশাসক",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পুলিশ সুপার",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 694
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "জাতীয় সংসদের মোট আসন সংখ্যা কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২০০টি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "২৫০টি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৩০০টি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৩৫০টি",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 694
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "সংসদীয় পদ্ধতির সরকারব্যবস্থায় দেশের প্রকৃত শাসনক্ষমতা ন্যস্ত থাকে- i. প্রধানমন্ত্রীর হাতে ii. মন্ত্রিসভার হাতে iii. রাষ্ট্রপতির হাতে নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 694
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "সংবিধান অনুযায়ী বাংলাদেশ কী ধরনের রাষ্ট্র?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সমাজতান্ত্রিক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "রাজতান্ত্রিক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "গণপ্রজাতান্ত্রিক",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সামরিক",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 694
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "সুপ্রিম কোর্টের প্রধান বিচারপতি নিযুক্ত করেন কে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "প্রধানমন্ত্রী",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "রাষ্ট্রপতি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "স্পিকার",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মন্ত্রিপরিষদ",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 694
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "১৯৭০ সালের সাধারণ নির্বাচনে বাংলাদেশ আওয়ামী লীগের নেতৃত্ব দিয়েছিলেন কে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "জেনারেল আইয়ুব খান",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "তাজউদ্দিন আহমদ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সৈয়দ নজরুল ইসলাম",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 694
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "নির্বাচন কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "প্রার্থী বাছাইয়ের প্রক্রিয়া",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কর্মসূচি প্রণয়ন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "স্থিতিশীলতা আনয়ন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ঐক্য সাধন",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 694
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "জনাব আলকাস সাহেবের স্ত্রী ও একমাত্র সন্তান হোসেনকে নিয়ে তার পরিবার। তিনি হোসেনকে উচ্চ শিক্ষায় শিক্ষিত করে গড়ে তোলার জন্য ঢাকার মানারাত স্কুল এন্ড কলেজে ভর্তি করেন এবং বাসায় ঠিকমতো তদারকিও করেন। তার স্ত্রী ছেলেকে প্রতিদিন স্কুলে পৌঁছে দেন এবং ছুটির পর সাথে করে বাসায় নিয়ে আসেন। আলকাস সাহেব ছুটির দিনে পরিবার নিয়ে বিভিন্ন জায়গায় বেড়াতে খান।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%86%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%B8-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%93-%E0%A6%8F%E0%A6%95%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8-%E0%A6%B9%E0%A7%8B%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF-%E0%A6%B9%E0%A7%8B%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%95%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "রাষ্ট্র গঠনের অপরিহার্য উপাদান কী ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%97%E0%A6%A0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF-%E0%A6%89%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A7%80",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "পরিবারের মনস্তাত্ত্বিক কাজ ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A6%BE%E0%A6%9C-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "আলকাস সাহেবের স্ত্রী পরিবারের কোন কাজটি সম্পাদন করেছেন? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%B8-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "আলকাস সাহেবের ছুটির দিনে পরিবার-পরিজন নিয়ে বেড়ানোর যথার্থতা মূল্যায়ন কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%B8-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%9B%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9C%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%AF%E0%A6%A5%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A4%E0%A6%BE-%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A8-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "জনাব রহমত আলী 'সোনালি সংঘ' নামক একটি সংগঠনের প্রধান। তিনি সকল কর্মকর্তা ও কর্মচারীদের মতামত নিয়ে সংগঠনটি পরিচালনা করেন। অন্যদিকে তার বন্ধু রহমান 'রূপালি সংঘ' নামক আরেকটি সংগঠনের প্রধান। তিনি সংগঠন পরিচালনার ক্ষেত্রে কর্মকর্তা ও কর্মচারীদের মতামতের প্রাধান্য দেন না। সংগঠনের তিনিই সর্বময় ক্ষমতার অধিকারী।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%A4-%E0%A6%86%E0%A6%B2%E0%A7%80-%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A6%BF-%E0%A6%B8%E0%A6%82%E0%A6%98-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%95-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A6%82%E0%A6%97%E0%A6%A0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF-%E0%A6%B8%E0%A6%95%E0%A6%B2-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%93-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "পুঁজিবাদী রাষ্ট্র কি ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%81%E0%A6%81%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%80-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%95%E0%A6%BF",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "রাষ্ট্র বলতে কী বোঝায়? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%AC%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%9D%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "রহমত সাহেবের সংগঠনটির সাথে কোন সরকারব্যবস্থার মিল পাওয়া যায়? বর্ণনা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%A4-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%97%E0%A6%A0%E0%A6%A8%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A5%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%B2-%E0%A6%AA%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "‘সোনালি সংঘ' ও 'রূপালি সংঘ' সংগঠন দুটি পরিচালনার ক্ষেত্রে বোনটি উত্তম বলে তুমি মনে কর? যুক্তি দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A6%BF-%E0%A6%B8%E0%A6%82%E0%A6%98-%E0%A6%93-%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%BF-%E0%A6%B8%E0%A6%82%E0%A6%98-%E0%A6%B8%E0%A6%82%E0%A6%97%E0%A6%A0%E0%A6%A8-%E0%A6%A6%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A7%8B%E0%A6%A8%E0%A6%9F%E0%A6%BF-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%AE-%E0%A6%AC%E0%A6%B2%E0%A7%87-%E0%A6%A4%E0%A7%81%E0%A6%AE%E0%A6%BF-%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%95",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "নিয়মতান্ত্রিক রাষ্ট্র কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "রাষ্ট্রপতি শাসিত সরকার বলতে কী বোঝায়? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AA%E0%A6%A4%E0%A6%BF-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A4-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%9D%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে '?' স্থানে কোন ধরনের রাষ্ট্রকে নির্দেশ করে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A7%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে বর্ণিত রাষ্ট্র দুটির পার্থক্য বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "জনাব রাব্বানী একটি রাজনৈতিক দলের সক্রিয় সদস্য। তার দল বিভিন্নভাবে ক্ষমতাসীন দলের গঠনমূলক সমালোচনা করে এবং বিভিন্ন রাজনৈতিক কর্মসূচি ঘোষণা করে। গণসমর্থন আদায়ের লক্ষ্যে তার দল সরকারের ভুলত্রুটি জনসম্মুখে তুলে ধরে এবং পরবর্তী নির্বাচনে বিজয়ী হয়ে সরকার গঠনের চেষ্টা করে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A7%80-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%A8-%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "কোন শাসনব্যবস্থায় রাজনৈতিক দল অপরিহার্য ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%A8%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%B2-%E0%A6%85%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "গোপন ভোটদান পদ্ধতি ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%A8-%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A6%A6%E0%A6%BE%E0%A6%A8-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "জনার রব্বানী সাহেবের রাজনৈতিক দলের বৈশিষ্ট্যগুলো ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%B0%E0%A6%AC%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A7%80-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "গণতন্ত্র বিকাশে জনাব রব্বানী সাহেবের দলের ভূমিকা বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%97%E0%A6%A3%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%87-%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%B0%E0%A6%AC%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A7%80-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "বীর মুক্তিযোদ্ধা জনাব আলকাস মিয়া ভার নাতি আমিন ও সাইদুলকে মুক্তিযুদ্ধের গল্প বলছিলেন। মুক্তিযুদ্ধ শুরুর পূর্বের রাতের ঘটনা বলতে গিয়ে তার চোখ দিয়ে গড়িয়ে পানি পড়ছিল। এতে আমিন ও সাইদুল প্রায় বাকরুদ্ধ হয়ে যায়। কিছুক্ষণ পর তিনি আরও কালেন, আমরা যে ভাষায় কথা বলছি তারও একটি মর্মান্তিক ইতিহাস রয়েছে। সেই আন্দোলনের সূত্র ধরেই আমরা আজ স্বাধীন জাতি ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A7%80%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE-%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%86%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%B8-%E0%A6%AE%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%A4%E0%A6%BF-%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%A8-%E0%A6%93-%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%A6%E0%A7%81%E0%A6%B2%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA-%E0%A6%AC%E0%A6%B2",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "মুসলিম লীগ কত সালে প্রতিষ্ঠিত হয়?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A7%81%E0%A6%B8%E0%A6%B2%E0%A6%BF%E0%A6%AE-%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%95%E0%A6%A4-%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BF%E0%A6%A4-%E0%A6%B9%E0%A6%AF%E0%A6%BC-65711",
+      "remote_id": "65711",
+      "exam_id": 694
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "আন্তর্জাতিক দিবস কী? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%B8-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "জনাব আলকাস মিয়া যে রাতের ঘটনা বর্ণনা করতে গিয়ে কেঁদে ফেললেন সেই রাতটির বর্ণনা দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%86%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%B8-%E0%A6%AE%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AF%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%81%E0%A6%A6%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B2%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%B8%E0%A7%87%E0%A6%87-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%A8%E0%A6%BE-",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের শেষাংশে যে আন্দোলনের কথা বলা হয়েছে তা বাঙালি জাতীয়তাবাদী চেতনাকে জাগ্রত করেছিল- বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A7%87%E0%A6%B7%E0%A6%BE%E0%A6%82%E0%A6%B6%E0%A7%87-%E0%A6%AF%E0%A7%87-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%A5%E0%A6%BE-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%99%E0%A6%BE%E0%A6%B2%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%80-%E0%A6%9A%E0%A7%87%E0%A6%A4%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%97",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 25,
+      "question_type": "written",
+      "question_text": "সিলেটের বালাগঞ্জ উপজেলার রাধাকোণা গ্রামের বাসিন্দা শেরধন অন্যান্য সহপাঠীদের সাথে একটি বাহিনীর অধীনে প্রশিক্ষণ গ্রহণ করে মহান মুক্তিযুদ্ধে যোগদান করেন। বর্তমানে 'মুক্তিযুদ্ধ চত্ত্বর' যেটি সিলেট মৌলভীবাজার সড়কের মধ্যস্থানে শেরপুর নামক স্থানে অবস্থিত। যুদ্ধের সময় শেরধন কোনো একদিন সেখানে একটি গাছে ওঠে 'জয় বাংলা' স্লোগান দেওয়ার সাথে সাথে পাকিস্তানিরা তাকে লক্ষ্য করে গুলি ছুড়লে তৎক্ষণাৎ তিনি নিহত হন।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%89%E0%A6%AA%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%95%E0%A7%8B%E0%A6%A3%E0%A6%BE-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE-%E0%A6%B6%E0%A7%87%E0%A6%B0%E0%A6%A7%E0%A6%A8-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A6%B9%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A5%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 26,
+      "question_type": "written",
+      "question_text": "'দ্বিজাতি তত্ত্ব' কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF-%E0%A6%A4%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%95%E0%A7%80-56623",
+      "remote_id": "56623",
+      "exam_id": 694
+    },
+    {
+      "question_no": 27,
+      "question_type": "written",
+      "question_text": "গেরিলা যুদ্ধ বলতে কী বোঝায়? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%97%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A6%B2%E0%A6%BE-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%AC%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%9D%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 28,
+      "question_type": "written",
+      "question_text": "শেরধন মুক্তিযুদ্ধের সময় কোন বাহিনীর সদস্য ছিলেন? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B6%E0%A7%87%E0%A6%B0%E0%A6%A7%E0%A6%A8-%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF-%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 694
+    },
+    {
+      "question_no": 29,
+      "question_type": "written",
+      "question_text": "শেরধন ও তার সহপাঠীরা এদেশের শ্রেষ্ঠ সন্তান মূল্যায়ন কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B6%E0%A7%87%E0%A6%B0%E0%A6%A7%E0%A6%A8-%E0%A6%93-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%B9%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A7%80%E0%A6%B0%E0%A6%BE-%E0%A6%8F%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%A0-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A8-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 694
+    }
+  ]
+}

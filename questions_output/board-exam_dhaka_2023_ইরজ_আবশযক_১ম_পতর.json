@@ -1,0 +1,673 @@
+{
+  "exam": {
+    "remote_id": "255",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ইংরেজী (আবশ্যিক) ১ম পত্র",
+    "subject": "ইংরেজী (আবশ্যিক) ১ম পত্র",
+    "board": "dhaka",
+    "board_bn": "ঢাকা বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 10,
+    "cq_count": 26,
+    "id": 570
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "Our Independence Day is celebrated-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "individually",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "worldwide",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "nationally",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "internationally",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "President",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "Speaker",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "Prime Minister",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "Political leader",
+          "images": []
+        },
+        {
+          "index": 9,
+          "text": "Mass Upsurge in 1969",
+          "images": []
+        },
+        {
+          "index": 10,
+          "text": "Language Movement in 1952",
+          "images": []
+        },
+        {
+          "index": 11,
+          "text": "Martyred heroes",
+          "images": []
+        },
+        {
+          "index": 12,
+          "text": "War of Liberation in 1971",
+          "images": []
+        },
+        {
+          "index": 13,
+          "text": "Entertainment",
+          "images": []
+        },
+        {
+          "index": 14,
+          "text": "Eagerness",
+          "images": []
+        },
+        {
+          "index": 15,
+          "text": "Reluctance",
+          "images": []
+        },
+        {
+          "index": 16,
+          "text": "Unwillingness",
+          "images": []
+        },
+        {
+          "index": 17,
+          "text": "independence was announced",
+          "images": []
+        },
+        {
+          "index": 18,
+          "text": "we got victory",
+          "images": []
+        },
+        {
+          "index": 19,
+          "text": "our country became free",
+          "images": []
+        },
+        {
+          "index": 20,
+          "text": "we secured freedom",
+          "images": []
+        },
+        {
+          "index": 21,
+          "text": "institute",
+          "images": []
+        },
+        {
+          "index": 22,
+          "text": "socio-cultural organization",
+          "images": []
+        },
+        {
+          "index": 23,
+          "text": "university",
+          "images": []
+        },
+        {
+          "index": 24,
+          "text": "cultural institute",
+          "images": []
+        },
+        {
+          "index": 25,
+          "text": "coming",
+          "images": []
+        },
+        {
+          "index": 26,
+          "text": "opening",
+          "images": []
+        },
+        {
+          "index": 27,
+          "text": "commence",
+          "images": []
+        },
+        {
+          "index": 28,
+          "text": "come",
+          "images": []
+        },
+        {
+          "index": 29,
+          "text": "house",
+          "images": []
+        },
+        {
+          "index": 30,
+          "text": "reverence",
+          "images": []
+        },
+        {
+          "index": 31,
+          "text": "modesty",
+          "images": []
+        },
+        {
+          "index": 32,
+          "text": "religious",
+          "images": []
+        },
+        {
+          "index": 33,
+          "text": "political",
+          "images": []
+        },
+        {
+          "index": 34,
+          "text": "social",
+          "images": []
+        },
+        {
+          "index": 35,
+          "text": "national",
+          "images": []
+        },
+        {
+          "index": 36,
+          "text": "To highlight Bangalee culture",
+          "images": []
+        },
+        {
+          "index": 37,
+          "text": "To highlight the significance of Victory Day",
+          "images": []
+        },
+        {
+          "index": 38,
+          "text": "To highlight the celebration of 26 March",
+          "images": []
+        },
+        {
+          "index": 39,
+          "text": "To highlight Bangladesh as an independent country",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 570
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "Our Independence Day is celebrated-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "individually",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "worldwide",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "nationally",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "internationally",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 570
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "On the day the- -pays homage to the martyrs first.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "President",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Speaker",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Prime Minister",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Political leader",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 570
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "The National Memorial located at Savar stands for-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Mass Upsurge in 1969",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Language Movement in 1952",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Martyred heroes",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "War of Liberation in 1971",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 570
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "Which of the following has the closest meaning of the word 'enthusiasm\"?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Entertainment",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Eagerness",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Reluctance",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Unwillingness",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 570
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "Independence Day is the day when ----",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "independence was announced",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "we got victory",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "our country became free",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "we secured freedom",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 570
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "Which of the following best describes the similarity between. Shilpakala Academy and Bangla Academy?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "institute",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "socio-cultural organization",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "university",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "cultural institute",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 570
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "The word 'begin' is similar to-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "coming",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "opening",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "commence",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "come",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 570
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "What is the closest meaning for 'homage'?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "house",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "reverence",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "modesty",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 570
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "26 March is a ----  festival day.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "religious",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "political",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "social",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "national",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 570
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "What is the main purpose of the author of this passage?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "To highlight Bangalee culture",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "To highlight the significance of Victory Day",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "To highlight the celebration of 26 March",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "To highlight Bangladesh as an independent country",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 570
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "26 March, our Independence Day, is the one of the most important state festival. The day is celebrated every year in the country with great enthusiasm and fervour. It is a national holiday. All offices, educational institutions, shops and factories remain closed on this day. The day begins with a 31 gun salute. Early in the morning the President and the Prime Minister, on hehalf of the nation place floral wreaths at the National Mausoleum at Savar. Then other leaders, political parties, diplomats, social and cultural organisations, educational institutions and freedom fighters pay homage to the martyrs. People from all walks of the also ago there in rallies and processions. There are many cultural programmes throughout the day, highlighting the heroic struggle and sacrifice in 1971. In Bangabandhu National Stadium, school children, scouts and girls guides take part in various displays to entertain thousands of spectators. Educational institutions also organise their individual programmes. Sports meets and tournaments are also organised on the day, including the exciting boat race in the river Buriganga. In the evening, all major public buildings are illuminated with colourful lights. Bangla Academy, Bangladesh Shilpakala Academy and other socio-cultural organisations hold cultural functions. Similar functions are also arranged in other places in the country. Answer the following questions:",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/26-march-our-independence-day-is-the-one-of-the-most-important-state-festival-th",
+      "remote_id": null,
+      "exam_id": 570
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "Choose the correct answer from the alternatives :",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/choose-the-correct-answer-from-the-alternatives-67811",
+      "remote_id": "67811",
+      "exam_id": 570
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "What does 26 March remind us?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-does-26-march-remind-us",
+      "remote_id": null,
+      "exam_id": 570
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "Why does the nation observe 26 March?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/why-does-the-nation-observe-26-march",
+      "remote_id": null,
+      "exam_id": 570
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "What is the significance of 31 gunshots?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-is-the-significance-of-31-gunshots",
+      "remote_id": null,
+      "exam_id": 570
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "What do the cultural programmes highlight?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-do-the-cultural-programmes-highlight-40693",
+      "remote_id": "40693",
+      "exam_id": 570
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "How do we pay homage to the martyrs?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/how-do-we-pay-homage-to-the-martyrs-28320",
+      "remote_id": "28320",
+      "exam_id": 570
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "How do we become inspired from this passage?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/how-do-we-become-inspired-from-this-passage-54571",
+      "remote_id": "54571",
+      "exam_id": 570
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "Read the following text and answer the questions no. 3 and 4: In the next class Ms. Choudhury tells her students the story of Lipi. The year before last, Lipi, a 14-year old girl was in class 9 in a rural school in Rangpur. Lipi is the eldest of five children-three daughters and two sons. Their father is a day labourer working on other people's land and mother is a homemaker and a part-time worker at other people's homes. The parents, particularly the mother, found it really difficult to raise five children on the small income the father could earn. Perhaps that is why Lipi's father wanted to marry her off. But Lipi was not ready to accept what her parents wanted to impose on her. She wanted to pursue her education. Her mother stood by her, though secretly. When her father arranged her marriage with Tara Mia, the only son of a farmer in the same village. She became greatly upset. Tara Mia was a widower-illiterate, but well off. His father had a few acres of arable land and was influential in the village. The marriage seemed to be inevitable. Fill in each gap with a suitable word based on the information of the text: Lipi is the eldest child of her parents. Her parents have ----(a) more children. Two of them are sons and two others are daughters. Lipi's family is not well (b)---- Her father (c) as a day labourer on other's land. Her mother works as a part-time worker at other people's houses. It was so  (d) ---- for Lipi's mother to (e) ---- the family with their very limited income.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-following-text-and-answer-the-questions-no-3-and-4-in-the-next-class-ms",
+      "remote_id": null,
+      "exam_id": 570
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "Match the parts of sentences given in column 'A', 'B and 'C' to write seven complete sentences: Column 'A' Column 'B' Column 'C' (a) Lipi's family (i) was i. the marriage seemed unavoidable. (b) Though she (ii) arranged her marriage ii. continue her education (c) But because of (iii) was influential in the village iii. a high school student, her father wanted to marry her off. (d) She had (vi) supported iv. firm determination she was unwilling to accept her father proposal. (e) During that critical moment her mother (v) was the victim V. her whole heartedly (f) But her father (vi) a desire to d vi. with a rich widower. (g) As the father of that man (vii) having vii. of extreme poverty.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/match-the-parts-of-sentences-given-in-column-a-b-and-c-to-write-seven-complete-s-90999",
+      "remote_id": "90999",
+      "exam_id": 570
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "Read the following text carefully and answer the questions no. 5 and 6: Mark John Milton was one of the famous poets in English Literature. He was born on December 9, 1608 in London. At the age of 17 he went to Cambridge University for study and after seven years of study he took M.A. degree from that University. The next six years he spent at Horton in unprofessional study. In 1638 he started his foreign tour. In 1640 he married Mary Powel a young girl of seventeen. But his wife died in 1652 leaving him with three daughters. So, he married second time in 1656 but two years after this second wife also died. Of all his works 'Paradise Lost' is said to be his greatest. He finished composing this epic in 1664. But it was published three years later. By this time he lost his eye sight. At the age of 66, he died on November 8, 1674. Complete the table below with information from the above passage: John Milton Focus A famous poet of English literature Greatest work (i ) ------- Who/what Date/year Event place Milton (ii ) ------- studied (iii ) ------- Milton in 1632 (iv ) ------- in 1658 (v ) ------- Milton (vi ) ------- died",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-following-text-carefully-and-answer-the-questions-no-5-and-6-mark-john-",
+      "remote_id": null,
+      "exam_id": 570
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "Write a summary of the above passage in your own words.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/write-a-summary-of-the-above-passage-in-your-own-words-35970",
+      "remote_id": "35970",
+      "exam_id": 570
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "Answer the following questions to write Plantation\": a paragraph on “Tree (a) What does a tree do for us? (b) What happens if there were no trees? (c) What is the effect of the loss of trees? (d) Why should we plant trees? (e) When and where should we plant trees?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/answer-the-following-questions-to-write-plantation-a-paragraph-on-tree-a-what-do",
+      "remote_id": null,
+      "exam_id": 570
+    }
+  ]
+}

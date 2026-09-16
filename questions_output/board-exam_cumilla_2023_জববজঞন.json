@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "529",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "জীববিজ্ঞান",
+    "subject": "জীববিজ্ঞান",
+    "board": "cumilla",
+    "board_bn": "কুমিল্লা বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 397
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "খাসীর মাংস হতে প্রাপ্ত ৫০ গ্রাম চর্বি হতে কত কিলোক্যালরি শক্তি পাওয়া যায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২০০",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৩৫০",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৪৫০",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৫০০",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 397
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "মাইটোকন্ড্রিয়ার ভিতরের স্তরের ভাঁজকে কী বলে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ল্যামেলাম",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মাইক্রোভিলাই",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অক্সিসোম",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ক্রিস্টি",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 397
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "কোনটি পাইরিমিডিন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "A ও T",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "C ও G",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "A ও G",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "C ও T",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 397
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "নূরু রাস্তার পাশে কিছু অ্যামারাস্থাস উদ্ভিদ দেখতে পেল। উক্ত উদ্ভিদে-- i. সালোক সংশ্লেষণের হার বেশি ii. কার্বন বিজারণে ১ম স্থায়ী পদার্থ ফসফো গ্লিসারিক এসিড iii. গ্লুকোজ উৎপাদন ক্ষমতা বেশি নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 397
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "বৃত্তের মেডুলায় সাধারণত কতটি রেনাল পিরামিড থাকে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৪--৮",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৮--১২",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১২--১৬",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১৬--২০",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 397
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "ভৌত জীববিজ্ঞানের অন্তর্গত বিষয়টি হলো--",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অঙ্গসংস্থান",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "জিন প্রযুক্তি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "জীব প্রযুক্তি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ফার্মেসি",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 397
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "5 A D P + 5 P i → শ ক ্ ত ি 5 ATP উক্ত বিক্রিয়ায় (প্রতি মোল ATP এর হিসাবে) শক্তির পরিমাণ কত কিলোক্যালরি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "১৭.৬",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "২৮.৯",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৩৬.৫",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৫৬",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 397
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "প্রতি কিউবিক মিলিমিটারে রক্তে লোহিত রক্ত কণিকা থাকে ---",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৫ লক্ষ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "২৫ লক্ষ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৫০ লক্ষ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৭৫ লক্ষ",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 397
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "১৫০ জন পুরুষ মানুষের মধ্যে বর্ণান্ধ হওয়ার সম্ভাবনা কত জনের?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "১",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "১০",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১৫",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "২০",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 397
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "একজন মানুষের রক্তে কত মিলিমোল/লিটার HDL থাকা ভালো?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "১.২৮",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "১.৩৮",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১.৪৮",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১.৫৮",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 397
+    }
+  ]
+}

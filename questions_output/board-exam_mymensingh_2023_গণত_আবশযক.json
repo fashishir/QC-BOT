@@ -1,0 +1,500 @@
+{
+  "exam": {
+    "remote_id": "341",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "গণিত (আবশ্যিক)",
+    "subject": "গণিত (আবশ্যিক)",
+    "board": "mymensingh",
+    "board_bn": "ময়মনসিংহ বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 536
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "ধারাটির সাধারণ অন্তর কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "-8",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "-2",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "2",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "24",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "330",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "150",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "120",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "0",
+          "images": []
+        },
+        {
+          "index": 9,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 10,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 11,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 12,
+          "text": "i, ii ও iii",
+          "images": []
+        },
+        {
+          "index": 13,
+          "text": "30 °",
+          "images": []
+        },
+        {
+          "index": 14,
+          "text": "60 °",
+          "images": []
+        },
+        {
+          "index": 15,
+          "text": "45 °",
+          "images": []
+        },
+        {
+          "index": 16,
+          "text": "90 °",
+          "images": []
+        },
+        {
+          "index": 17,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 18,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 19,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 20,
+          "text": "i, ii ও iii",
+          "images": []
+        },
+        {
+          "index": 21,
+          "text": "3",
+          "images": []
+        },
+        {
+          "index": 22,
+          "text": "4",
+          "images": []
+        },
+        {
+          "index": 23,
+          "text": "5",
+          "images": []
+        },
+        {
+          "index": 24,
+          "text": "10",
+          "images": []
+        },
+        {
+          "index": 25,
+          "text": "3 2",
+          "images": []
+        },
+        {
+          "index": 26,
+          "text": "1 2",
+          "images": []
+        },
+        {
+          "index": 27,
+          "text": "1 2",
+          "images": []
+        },
+        {
+          "index": 28,
+          "text": "0",
+          "images": []
+        },
+        {
+          "index": 29,
+          "text": "45 28",
+          "images": []
+        },
+        {
+          "index": 30,
+          "text": "53 28",
+          "images": []
+        },
+        {
+          "index": 31,
+          "text": "45 14",
+          "images": []
+        },
+        {
+          "index": 32,
+          "text": "53 14",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 536
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "ধারাটির সাধারণ অন্তর কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "-8",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "-2",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "2",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "24",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 536
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "ধারাটির ১ম ১০টি পদের সমষ্টি কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "330",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "150",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "120",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "0",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 536
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "কোনো বৃত্তের i. অধিচাপে অন্তর্লিখিত কোণ সূক্ষ্মকোণ i. উপচাপে অন্তলিখিত কোণ স্থূলকোণ iii. অন্তৰ্নিখিত সামান্তরিক একটি আয়ত কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 536
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "∆ A B C এ ∠ A = ∠ B + ∠ C হলে ∠ A এর মান কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "30 °",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "60 °",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "45 °",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "90 °",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 536
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "একটি ত্রিভুজ আঁকার জন্য প্রয়োজন -- i. দুইটি বাহু ও এদের অন্তর্ভুক্ত কোণ ii. তিনটি বাহু iii. দুইটি কোণ ও কোণ সংলগ্ন ১টি বাহু নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 536
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "AB = CD এবং OF = 3 সে.মি. হলে বৃত্তটির ব্যাস কত সে.মি.?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "3",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "4",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "5",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "10",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 536
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "cot (A+30°) = 0 হলে sinA = কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "3 2",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "1 2",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "1 2",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "0",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 536
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "s e c θ + tan θ = 2 7 হলে s e c θ = কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "45 28",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "53 28",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "45 14",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "53 14",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 536
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "0.00234 এর লগের অংশক কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "-2.6308",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "-2",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "0.3692",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "0.6308",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 536
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "3 x-2 = 2178 হলে x এর মান কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "-9",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "-5",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "5",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "9",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 536
+    }
+  ]
+}

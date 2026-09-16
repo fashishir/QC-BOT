@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "1742",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "কৃষি শিক্ষা",
+    "subject": "কৃষি শিক্ষা",
+    "board": "barishal",
+    "board_bn": "বরিশাল বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 185
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "বাংলাদেশে ধান উৎপাদনের মৌসুম কয়টি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২টি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৩টি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৪টি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৫টি",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 185
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "বীজকে সুষ্ঠুভাবে প্রক্রিয়াজাত করলে যে সকল সুবিধা পাওয়া যায়- i. বীজের বিশুদ্ধতা বৃদ্ধি পায় ii. বীজ দেখতে আকর্ষণীয় হয় iii. বীজের অঙ্কুরোদগম ক্ষমতা বাড়ে নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 185
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "চিংড়ি মাছের খাবার দিতে হয় কখন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সকালে",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "দুপুরে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বিকালে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সন্ধ্যায়",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 185
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "জমি চাষের বিবেচ্য বিষয় কয়টি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "দুইটি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "তিনটি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "চারটি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পাঁচটি",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 185
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "কোন পরিপক্ব ফল মোরব্বা ও হালুয়া তৈরিতে ব্যবহৃত হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "লাউ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "চালকুমড়া",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মিষ্টি কুমড়া",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বেগুন",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 185
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "তুলার জমিতে কয়টি চাষ দেয়া দরকার?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৪",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৬",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৮",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 185
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "মাঝারি আবর্তনকাল কত বছর?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "১০-২০",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "২০-৩০",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৩০-৪০",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৪০-৫০",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 185
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "শরীরের কাটা অংশের রক্তপড়া বন্ধে কার্যকর কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "দূর্বা ঘাসের রস",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "থানকুনি পাতার রস",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "তুলসীপাতার রস",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পাথরকুচি পাতার রস",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 185
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "বীজ পরবর্তী মৌসুমে ব্যবহারের জন্য আর্দ্রতা কত ভাগের নিচে রাখা দরকার?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "১২%",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "১৮%",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "২৪%",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৩০%",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 185
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "কার্প বা রুই জাতীয় মাছের সম্পূরক খাদ্যে সরিষার খৈলের পরিমাণ কত ভাগ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৪৫-৫২ ভাগ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৪৫-৫৩ ভাগ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৪৫-৫৪ ভাগ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৪৫-৫৫ ভাগ",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 185
+    }
+  ]
+}

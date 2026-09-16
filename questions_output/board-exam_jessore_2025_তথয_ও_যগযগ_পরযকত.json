@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "1729",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "board": "jessore",
+    "board_bn": "যশোর বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%93-%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 209
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "কোন উইন্ডোতে ডেটা এন্ট্রি করতে হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Field",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Record",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Data table",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Table view",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%93-%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 209
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "এন্টি ভাইরাস নিয়মিত কী করা উচিত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মুছে ফেলা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "হালনাগাদ করা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ক্লিন করা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ধ্বংস করা",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%93-%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 209
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "ডেটাবেজে ব্যবহৃত data/time ইত্যাদি কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Data Format",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Data field Size",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Data Length",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Data Type",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%93-%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 209
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "এক্সেস ডেটাবেজে ডেটা ইনপুট করার জন্য কোন উইন্ডো ব্যবহার করা হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Field size",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Design View",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Data Sheet View",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Data Field View",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%93-%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 209
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "কোন ওয়েবসাইটের মাধ্যমে বন্ধু সংযোজন, বার্তা প্রেরণ এবং অডিও ভিডিও প্রকাশ করা যায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ফেসবুক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "টুইটার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "গুগল",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ব্লগিং",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%93-%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 209
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "Twitter কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সামাজিক যোগাযোগের সাইট",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ই-মেইল এড্রেস",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ই-লার্নিং সাইট",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মোবাইল অ্যাপ্লিকেশন",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%93-%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 209
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "CMYK এর পূর্ণরূপ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Cyan Mega Yellow Black",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Cyan Magenta Yellow Black-",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Cyan Magenta Yellow Blue",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Cyan Magic Yellow Blue",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%93-%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 209
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "ই-লার্নিং এর উপাদান কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বই পুস্তক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "নেটওয়ার্ক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "হাতে লেখা নোট",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ওএমআর",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%93-%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 209
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "যে সব বিষয় নিয়ে এনিমেশন তৈরি হয়- । অডিও ii ভিডিও iii. টেক্সট ও গ্রাফিক্স নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%93-%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 209
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "কোনটির কারণে যে কেউ ইচ্ছা করলে আমাদের তথ্য নিতে পারবে না?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "স্পাই ওয়্যার",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ম্যালওয়্যার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ভাইরাস",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পাসওয়ার্ড",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%93-%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 209
+    }
+  ]
+}

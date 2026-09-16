@@ -1,0 +1,331 @@
+{
+  "exam": {
+    "remote_id": "1800",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "রসায়ন",
+    "subject": "রসায়ন",
+    "board": "mymensingh",
+    "board_bn": "ময়মনসিংহ বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 73
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "নিচের কোন যৌগে সালফারের সুপ্ত যোজনী 2?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "H 2 S",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "S F 4",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "S F 6",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "S O 3",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 73
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "Z n / Z n 2 + তড়িৎদ্বার দ্বারা নিচের কোনটি বুঝায়? i. এটি একটি নন-রেডক্স বিক্রিয়া ii. এটি একটি উভমুখী বিক্রিয়া iii. Zn ধাতুর দন্ডকে ZnSO 4 দ্রবণে রাখা হয় নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 73
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "6 গ্রাম কার্বন পরমাণু 16 গ্রাম অক্সিজেন পরমাণুর সাথে যুক্ত হয়ে যৌগ গঠন করেছে। যৌগটির স্কুল সংকেত কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "CO",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "C 2 O",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "C O 2",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "C O 3",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 73
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটির আন্তঃআণবিক শক্তি বেশি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "H 2",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "HCl",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "I 2",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "B r 2",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 73
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "H 2 S + C l 2 → S + 2 H C l বিক্রিয়াটি কোন ধরনের?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "রেডক্স বিক্রিয়া",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "প্রশমন বিক্রিয়া",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "আর্দ্র বিশ্লেষণ বিক্রিয়া",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বিয়োজন বিক্রিয়া",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 73
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "উদ্দীপকের লেখচিত্রের ক্ষেত্রে- i. P রেখাটি বিক্রিয়কের ঘনমাত্রাকে নির্দেশ করে ii. A ও B অংশ দ্বারা সাম্যাবস্থায় বিক্রিয়ক ও উৎপাদের ঘনমাত্রাকে বুঝানো হয় iii. H 2 + I 2 ⇌ 2 H I বিক্রিয়াটি প্রযোজ্য নিচের কোনটি সঠিক?",
+      "images": [
+        "https://sattacademy.com/uploads/ckeditor/1745917846.png"
+      ],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 73
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "আয়রন (III) নাইট্রেট যৌগে কতটি পরমাণু আছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "20 টি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "18 টি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "15 টি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "13 টি",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 73
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "ড্রাই সেলে কোনটি বিজারক হিসেবে ক্রিয়া করে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Zn দন্ড",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "M n O 2",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কার্বন দন্ড",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "N H 4 +",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 73
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "মাটির P H এর মান কত এর মধ্যে হলে সবচেয়ে ভালো?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "3.0-5.0",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "5.0-7.0",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "6.0-8.0",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "7.0-10",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 73
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "ধাতু নিষ্কাশনে তড়িৎ বিশ্লেষণের মাধ্যমে বিজারণ ঘটানো হয় কোনটিতে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Zn",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Ca",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Pb",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Cu",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 73
+    }
+  ]
+}

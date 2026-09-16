@@ -1,0 +1,413 @@
+{
+  "exam": {
+    "remote_id": "1735",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "কৃষি শিক্ষা",
+    "subject": "কৃষি শিক্ষা",
+    "board": "dhaka",
+    "board_bn": "ঢাকা বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 199
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "ঈশ্বরদী-৩২ এর ফলন হেক্টর প্রতি কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৭০ টন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৯০ টন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১০০ টন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১০৪ টন",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 199
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "বায়ুমণ্ডলে গ্রিণ হাউজ গ্যাসের পরিমাণ বৃদ্ধির কারণ কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "আর্দ্রতা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বৃক্ষ রোপন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পরিমিত বৃষ্টিপাত",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "যান্ত্রিক সভ্যতা",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 199
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "কোনটি সরিষার জাত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বিজয়",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সম্পদ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "দিশারী",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কিরণ",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 199
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি উত্তম লবণাক্ততা সহিষ্ণু ফসল?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "খেজুর",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মুগ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বরবটি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "গাজর",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 199
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "মাছের পাখনা ও লেজ পঁচা রোগের কারণ কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পরজীবী",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ভাইরাস",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ব্যাকটেরিয়া",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ছত্রাক",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 199
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "ম্যানগ্রোভ বনের অপর নাম কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সামাজিক বন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "স্বাদু পানির বন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "লোনা পানির বন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সামুদ্রিক বন",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 199
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "সর্বশেষ বন আইন সংশোধন হয় কত সালে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "১৯৯৩",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "১৯৯৬",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১৯৯৭",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১৯৯৯",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 199
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "চিত্রে প্রদর্শিত গাছটি কী রোগে আক্রান্ত?",
+      "images": [
+        "https://sattacademy.com/uploads/ckeditor/1745482401.png"
+      ],
+      "options": [
+        {
+          "index": 1,
+          "text": "পানামা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "গুচ্ছ মাথা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সিগাটোগা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ব্লাস্ট",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 199
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "চিত্রে প্রদর্শিত গাছটি কী রোগে আক্রান্ত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পানামা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "গুচ্ছ মাথা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সিগাটোগা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ব্লাস্ট",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 199
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "কৃষি কর্মকর্তার পরামর্শে জমির সেখ নিচের কোন কীটনাশকটি ব্যবহার করেন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ভেপোনা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কার্বোফুরান",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ম্যালাথিয়ন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ক্যাপটান",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "পামরী পোকা",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "গান্ধী পোকা",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "মাজরা পোকা",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "বিছা পোকা",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 199
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "কৃষি কর্মকর্তার পরামর্শে জমির সেখ নিচের কোন কীটনাশকটি ব্যবহার করেন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ভেপোনা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কার্বোফুরান",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ম্যালাথিয়ন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ক্যাপটান",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 199
+    },
+    {
+      "question_no": 12,
+      "question_type": "mcq",
+      "question_text": "উদ্দীপকে উল্লিখিত ধান গাছে উদ্ভুত লক্ষণের কারণ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পামরী পোকা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "গান্ধী পোকা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মাজরা পোকা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বিছা পোকা",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 199
+    }
+  ]
+}

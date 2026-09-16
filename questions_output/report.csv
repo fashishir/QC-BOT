@@ -1,3 +1,6 @@
-﻿id,level,board,year,exam_name,subject,status,mcq_total,cq_total,mcq_scraped,cq_scraped
-1,ssc,dhaka,2015,বাংলাদেশ ও বিশ্বপরিচয়,,completed,40,45,14,29
-3,ssc,dhaka,2017,বিজ্ঞান,,completed,,,11,0
+﻿id,source_type,level,board,year,exam_name,subject,status,mcq_total,cq_total,mcq_scraped,cq_scraped
+7,test-paper,hsc,other,2026,বাংলা ১ম পত্র,বাংলা ১ম পত্র,completed,30,,10,0
+6,board-exam,ssc,barishal,2025,বাংলা ২য় পত্র,বাংলা ২য় পত্র,completed,30,,10,0
+4,board-exam,ssc,mymensingh,2025,বাংলা ২য় পত্র,বাংলা ২য় পত্র,completed,30,,10,0
+3,board-exam,ssc,dhaka,2017,বিজ্ঞান,,completed,,,11,0
+1,board-exam,ssc,dhaka,2015,বাংলাদেশ ও বিশ্বপরিচয়,,completed,40,45,14,29

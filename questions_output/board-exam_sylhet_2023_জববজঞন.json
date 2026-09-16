@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "527",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "জীববিজ্ঞান",
+    "subject": "জীববিজ্ঞান",
+    "board": "sylhet",
+    "board_bn": "সিলেট বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 401
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "প্যারেনকাইমা কোষগুলোতে বায়ুকুঠুরি থাকলে তাকে কী বলে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "কোলেনকাইমা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অ্যারেনকাইমা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "স্ক্লেরেনকাইমা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ক্লোরেনকাইমা",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 401
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "ব্যাকটেরিয়ার কোষ প্রাচীর কী দ্বারা গঠিত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "প্রোটিন ও লিগনিন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "প্রোটিন ও লিপিড",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কাইটিন ও সুবেরীন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "চর্বি ও গ্লাইকোজেন",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 401
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "কোন গ্রুপের রক্তে কোন এন্টিবডি নেই?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "A",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "B",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "O",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "AB",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 401
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি পাইরিমিডিন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "A ও G",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "G ও T",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "A ও C",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "T ও C",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 401
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "মনোসাইট নামক শ্বেত কণিকা কোন প্রক্রিয়ায় রোগ জীবাণু ধ্বংস করে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ফ্যাগোসাইটোসিস",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ফাইব্রিনোজেন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অ্যান্টিবডিস",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "প্রোমোপ্লাস্টিন",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 401
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "মানুষের রাজ্য অ্যানিমেলিয়া হওয়ার কারণ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "জটিল টিস্যুতন্ত্র",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সরল টিস্যুতন্ত্র",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "স্বভোজী",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "প্রাককেন্দ্রিক",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 401
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "অক্সিজেনবিহীন পরিবেশে কোন প্রক্রিয়াটি সম্পূর্ণরূপে বন্ধ থাকে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "প্রস্বেদন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সালোক-সংশ্লেষণ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ফটোলাইসিস",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "শ্বসন",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 401
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "লেন্টিসেল কোথায় সৃষ্টি হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পাতায়",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মূলে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কান্ডের বাকলে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ফুলে",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 401
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "শুক্রাশয় হতে নির্গত হরমোন কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ইস্ট্রোজেন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "রিলাক্সিন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "প্রোজেস্টেরন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "অ্যান্ড্রোজেন",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 401
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "থ্যালাসেমিয়া রোগীদের কোন উপাদান সমৃদ্ধ পরিহার করা উচিত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নাইট্রোজেন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সালফার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ফসফরাস",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "লৌহ",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 401
+    }
+  ]
+}

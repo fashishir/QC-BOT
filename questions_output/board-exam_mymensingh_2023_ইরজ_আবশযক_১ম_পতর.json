@@ -1,0 +1,727 @@
+{
+  "exam": {
+    "remote_id": "263",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ইংরেজী (আবশ্যিক) ১ম পত্র",
+    "subject": "ইংরেজী (আবশ্যিক) ১ম পত্র",
+    "board": "mymensingh",
+    "board_bn": "ময়মনসিংহ বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 10,
+    "cq_count": 28,
+    "id": 554
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "People go home on Eid in order to _ happiness with their near and dear ones.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "observe",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "distribute",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "share",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "sharing",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "minds",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "family",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "society",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "relation",
+          "images": []
+        },
+        {
+          "index": 9,
+          "text": "as a traditional rule of our society",
+          "images": []
+        },
+        {
+          "index": 10,
+          "text": "for our strong invisible bond",
+          "images": []
+        },
+        {
+          "index": 11,
+          "text": "as a social being",
+          "images": []
+        },
+        {
+          "index": 12,
+          "text": "for financial interest",
+          "images": []
+        },
+        {
+          "index": 13,
+          "text": "vagabond",
+          "images": []
+        },
+        {
+          "index": 14,
+          "text": "easy-going",
+          "images": []
+        },
+        {
+          "index": 15,
+          "text": "traveller",
+          "images": []
+        },
+        {
+          "index": 16,
+          "text": "nomad",
+          "images": []
+        },
+        {
+          "index": 17,
+          "text": "neighbours",
+          "images": []
+        },
+        {
+          "index": 18,
+          "text": "origin",
+          "images": []
+        },
+        {
+          "index": 19,
+          "text": "living place",
+          "images": []
+        },
+        {
+          "index": 20,
+          "text": "local place",
+          "images": []
+        },
+        {
+          "index": 21,
+          "text": "known persons",
+          "images": []
+        },
+        {
+          "index": 22,
+          "text": "kith and kin",
+          "images": []
+        },
+        {
+          "index": 23,
+          "text": "close friends",
+          "images": []
+        },
+        {
+          "index": 24,
+          "text": "neighbours",
+          "images": []
+        },
+        {
+          "index": 25,
+          "text": "A violent forward motion.",
+          "images": []
+        },
+        {
+          "index": 26,
+          "text": "A sudden feeling of intense pleasure",
+          "images": []
+        },
+        {
+          "index": 27,
+          "text": "A wild hurry to go somewhere",
+          "images": []
+        },
+        {
+          "index": 28,
+          "text": "A burst of activity.",
+          "images": []
+        },
+        {
+          "index": 29,
+          "text": "To criticize the home bound people.",
+          "images": []
+        },
+        {
+          "index": 30,
+          "text": "To describe the mad rush of people.",
+          "images": []
+        },
+        {
+          "index": 31,
+          "text": "To highlight the return to entity.",
+          "images": []
+        },
+        {
+          "index": 32,
+          "text": "To focus on the transport accidents occurred during the Eid.",
+          "images": []
+        },
+        {
+          "index": 33,
+          "text": "bondage",
+          "images": []
+        },
+        {
+          "index": 34,
+          "text": "bond",
+          "images": []
+        },
+        {
+          "index": 35,
+          "text": "knack",
+          "images": []
+        },
+        {
+          "index": 36,
+          "text": "communication",
+          "images": []
+        },
+        {
+          "index": 37,
+          "text": "Eid means happiness.",
+          "images": []
+        },
+        {
+          "index": 38,
+          "text": "The pull of the roots.",
+          "images": []
+        },
+        {
+          "index": 39,
+          "text": "Eid is the biggest festival for us.",
+          "images": []
+        },
+        {
+          "index": 40,
+          "text": "Developing our identity.",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 554
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "People go home on Eid in order to _ happiness with their near and dear ones.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "observe",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "distribute",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "share",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "sharing",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 554
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "Human roots grow in our ___.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "minds",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "family",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "society",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "relation",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 554
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "We get united to our relatives ___.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "as a traditional rule of our society",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "for our strong invisible bond",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "as a social being",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "for financial interest",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 554
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "A man who has no family bond can be compared with a ___.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "vagabond",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "easy-going",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "traveller",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "nomad",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 554
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "Where we were born and grown up is our___.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "neighbours",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "origin",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "living place",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "local place",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 554
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "The phrase near and dear ones means-.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "known persons",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "kith and kin",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "close friends",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "neighbours",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 554
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "What does the phrase 'a mad rush' refer to in the passage?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "A violent forward motion.",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "A sudden feeling of intense pleasure",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "A wild hurry to go somewhere",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "A burst of activity.",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 554
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "What is the main purpose of the author of this text?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "To criticize the home bound people.",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "To describe the mad rush of people.",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "To highlight the return to entity.",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "To focus on the transport accidents occurred during the Eid.",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 554
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "We should have _ between us and our dearest ones.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "bondage",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "bond",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "knack",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "communication",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 554
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "What should be the most suitable title of the passage?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Eid means happiness.",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "The pull of the roots.",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Eid is the biggest festival for us.",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Developing our identity.",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 554
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "Eid is the main religious festival of the Muslims in Bangladesh. Eid means happiness. Everyone wants to share this happiness with near and dear ones. So most of the people. who are living outside their homes for different reasons have a strong desire to get back home during the Eid vacation. As a result, there is a mad rush to board buses, trains, or launches for going home. This often causes transport accidents that take away many lives. However, these cannot stop people from going home to meet their family, in-laws, or friends. What makes people rush for their homes in spite of serious hazards? This is nothing but people's desire to return to the roots. Do human beings have roots like the trees? The answer is 'yes' but unlike the roots of the trees they are invisible, they lie in our minds. It's these roots that make a bond between us and family members, in-laws, friends, neighbours or even between us and the land where we were born and grew up in that sense our families, our land of birth, relatives, our culture traditions, or surroundings are our roots) And wherever we stay, we feel the power of our roots. It's our roots that develop our identity making us what we are. When we lose that bond, we become rootless. Human beings who do not have any roots are a non-entity. In other words, they do not have an identity. They do not know where they are from, and/or where they are heading to. This often makes them feel empty and lost.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/eid-is-the-main-religious-festival-of-the-muslims-in-bangladesh-eid-means-happin",
+      "remote_id": null,
+      "exam_id": 554
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "Choose the correct answer from the alternatives :",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/choose-the-correct-answer-from-the-alternatives-44581",
+      "remote_id": "44581",
+      "exam_id": 554
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "Why do people rush for homes during Eid vacation?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/why-do-people-rush-for-homes-during-eid-vacation",
+      "remote_id": null,
+      "exam_id": 554
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "Do you think human beings have roots like trees? Explain.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/do-you-think-human-beings-have-roots-like-trees-explain",
+      "remote_id": null,
+      "exam_id": 554
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "What happens to transport during Eid vacation?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-happens-to-transport-during-eid-vacation",
+      "remote_id": null,
+      "exam_id": 554
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "What is your idea about the significance of family and society in human life?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-is-your-idea-about-the-significance-of-family-and-society-in-human-life",
+      "remote_id": null,
+      "exam_id": 554
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "What are the characteristics of the people having no roots?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-are-the-characteristics-of-the-people-having-no-roots",
+      "remote_id": null,
+      "exam_id": 554
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "Wherever we stay, we feel the power of our roots- explain in your words.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/wherever-we-stay-we-feel-the-power-of-our-roots-explain-in-your-words",
+      "remote_id": null,
+      "exam_id": 554
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "Read the following passage and answer the questions no. 3 and 4: Air pollution comes from a wide variety of sources. In Bangladesh poisonous exhaust from industrial plants, brick kilns, old or poorly-serviced vehicles and dust from roads and construction sites are some of the major sources of air. pollution. We can minimise this type of pollution by making less use of motor vehicles and avoiding the use of vehicles older than 20 years. We may also use proper lubricants to lessen the level of emission and pollutants. We can encourage people to use Compressed Natural Gas (CNG) or Liquid Petroleum Gas (LPG) for fuelling their cars. The government may relocate hazardous industries like brick kilns to areas away from human habitations.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-following-passage-and-answer-the-questions-no-3-and-4air-pollution-come",
+      "remote_id": null,
+      "exam_id": 554
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "Fill in each gap with a suitable word based on the information of the passage.\r\nAmong all the elements of the environment air is the most important one. We cannot (a)___ a single moment without it. Unfortunately, this vital element is continuously (b)___ polluted in many ways. Our (e)___ activities are mainly responsible for it. So, the (d)___ of air pollution is a must for own existence. We should also (e)___ environment friendly activities for decreasing air pollution.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/fill-in-each-gap-with-a-suitable-word-based-on-the-information-of-the-passage-am",
+      "remote_id": null,
+      "exam_id": 554
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "Match the parts of sentences given in column 'A', 'B' and \"C\" to write seven complete sentences: Column A Column B Column C a) Environment pollution (i) used with a view to (i) the environment problem here has become more acute . (b) Owing to setting up mills and factories (ii) suffer most owing to (ii) in our country (c) Air is constantly (ii) brick-kilns in busy areas (ii) from industrial plants, brick-kilns and motor vehicles. (d) However, people living in urban areas (iv) has become a serious problem (iv) these pollutions. (e) We have to be (v) being polluted by smoke (v) for setting up mills and factories. (f) Suitable lubricants should be (vi) indiscriminately over the past decades, (vi) decreasing the level of emission and pollutants (g) Dangerous mills and factories including (vii) careful using vehicles and selecting sites (vii) should be relocated to lessen pollution.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/match-the-parts-of-sentences-given-in-column-a-b-and-c-to-write-seven-complete-s-19688",
+      "remote_id": "19688",
+      "exam_id": 554
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "Read the following passage carefully and answer the questions no. 5 and 6 : Stephen Hawking is considered the greatest physicist after Einstein. He was born in England in 1942. He was very skilled in mathematics from an early age. He wrote a book 'A Brief History of Time: From the Big Bang to the present Times' in 1988. In this book, he explains Cosmology for the general public. It became famous and established his reputation as a great scientist. He received his PhD in Cosmology from Cambridge University in 1968. But fortune did not favour him. In 1972, he became a victim of Gehrig's disease. Since then, he had been confined to a wheelchair with no power to control his body. But he continued teaching through the help of computer. In 1974, he won the prestigious Albert Einstein Award for theoretical physics. In 1979, he joined Cambridge University as Lucasian Professor of Mathematics. He carried out his research work using his computer. This great scientist breathed his last on 14 March 2018.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-following-passage-carefully-and-answer-the-questions-no-5-and-6-stephen",
+      "remote_id": null,
+      "exam_id": 554
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "Complete the table below with the information from the above passage : Albert Stephen Hawking Aims Highlighting his glorious works despite his being handicapped Lifespan Spent a life of (i)___ years Who/What Activities Name of work/ Achievements Time/Date Stephen Hawking Wrote a book (ii)……………… 1988 He took a degree PhD in Cosmology (iii)……….. (iv)………………. appointed Stephen Hawking as a Lucasian Professor 1979 He (v)……………. 1972 Stephen Hawking was awarded (vi) ---- for theoretical Physics 1974",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/complete-the-table-below-with-the-information-from-the-above-passage-albert-step",
+      "remote_id": null,
+      "exam_id": 554
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "Write a summary of the above passage in your own words.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/write-a-summary-of-the-above-passage-in-your-own-words-34777",
+      "remote_id": "34777",
+      "exam_id": 554
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "Answer the following questions to write a paragraph on 'Traffic Jam'. (a) What do you mean by traffic jam? (b) What are the causes of traffic jam? (c) What are the effects of traffic jam? (d) When does it occur more? (e) Who are the worst sufferers for traffic jam? (f) How can we remove it?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/answer-the-following-questions-to-write-a-paragraph-on-traffic-jama-what-do-you-",
+      "remote_id": null,
+      "exam_id": 554
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "Read the beginning of the story given below. And add at least ten new sentences to complete it. Give a suitable title to it. Rumana was a student of class ten in Dhaka city. Every morning she started for school and came back home in the afternoon. One day after coming back home, to her utter surprise, she found a lock hanging on the door……………………………………………",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-beginning-of-the-story-given-below-and-add-at-least-ten-new-sentences-t",
+      "remote_id": null,
+      "exam_id": 554
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "Suppose, you are Farhan/Fatema. You are living far away from home for study purpose. You have a younger brother named 'Akif' who is not at all attentive to studies. You are very anxious about his studies. Now, write an e-mail to your younger brother advising him to be more attentive to his studies.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/suppose-you-are-farhanfatema-you-are-living-far-away-from-home-for-study-purpose",
+      "remote_id": null,
+      "exam_id": 554
+    }
+  ]
+}

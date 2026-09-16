@@ -1,0 +1,331 @@
+{
+  "exam": {
+    "remote_id": "1772",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "পদার্থবিজ্ঞান",
+    "subject": "পদার্থবিজ্ঞান",
+    "board": "mymensingh",
+    "board_bn": "ময়মনসিংহ বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 127
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "কোথায় শব্দের বেগ সবচেয়ে বেশি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বায়ু",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "পারদ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "লোহা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "হীরা",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 127
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "থার্মোকাপল কীরূপ তাপমাত্রা পরিমাপ করতে পারে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "- 200°C হতে 1000°C",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "- 200K হতে 1000K",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "0°C হতে 1000°C",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "0°F হতে 100°F",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 127
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "চিত্রের কোন কণাগুলো সমদশায় আছে?",
+      "images": [
+        "https://sattacademy.com/uploads/ckeditor/1745744815.png"
+      ],
+      "options": [
+        {
+          "index": 1,
+          "text": "A, E, 1",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "B, C, D",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "D, F, H",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "C, E, G",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 127
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "দৃশ্যমান আলোর সবচেয়ে কম তরঙ্গদৈর্ঘ্য কোনটির?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বেগুনি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "লাল",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "হলুদ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নীল",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 127
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "60kg ভরের একজন দৌড়বিদের গতিশক্তি 1920J হলে তার বেগ কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "8 m s - 1",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "16 m s - 1",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "32 m s - 1",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "64 m s - 1",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 127
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "সুস্থ মানবদেহের শরীরের তাপমাত্রা কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "36 . 89 ° C",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "98 . 4 ° C",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "309 . 89 ° C",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "371 . 4 ° C",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 127
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "তাড়িত চৌম্বক আবেশীতির উপর ভিত্তি করে নিচের কোনটি তৈবি করা হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মোটর",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ভোল্টমিটার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "জেনারেটর",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "অ্যামিটার",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 127
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "তড়িৎ পরিবাহিতা ধর্ম বৃদ্ধি করতে নিচে কোন পরমাণুর সাথে ত্রিযোজী মৌল মেশাতে হবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অ্যান্টিমনি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "আর্সেনিক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অ্যালুমিনিয়াম",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "জার্মেনিয়াম",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 127
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "আয়তনে আপেক্ষিক ত্রুটির মান ক্ষেত্রফলের আপেক্ষিক ত্রুটির প্রায় কত গুণ হবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৩",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "২",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১.৫",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "০.৬৬",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 127
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "500 gm ভরের একটি বস্তুর উপর SN বল প্রয়োগ করা হলে এর ত্বরণ কত হবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "0 . 01 m s - 2",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "2 . 5 m s - 2",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "10 m s - 2",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "100 m s - 2",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 127
+    }
+  ]
+}

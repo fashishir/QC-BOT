@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "1872",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "বাংলা ২য় পত্র",
+    "subject": "বাংলা ২য় পত্র",
+    "board": "dhaka",
+    "board_bn": "ঢাকা বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 25
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "কর্তাবাচ্যের উদাহরণ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "আমার যাওয়া হলো না।",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "এবার বাঁশিটি বাজানো হোক।",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "চিঠিটা পড়া হয়েছে।",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "শরতে শিউলি ফোটে।",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 25
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "সাধারণত দুটি বাক্যকে এক বাক্যে পরিণত করার কাজে কোন যতিচিহ্ন বসে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "কোলন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সেমিকোলন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ড্যাশ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কমা",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 25
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "'কাছাঢিলা' বাগধরাটির অর্থ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অসাবধান",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "নির্বোধ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কান্ডজ্ঞানহীন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "অলস",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 25
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "'হাতি' শব্দের প্রতিশব্দ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "উরগ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "দ্বিপ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "তুরগ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কর",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 25
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "'খাতক' শব্দের বিপরীত শব্দ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পালক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ঘাতক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বলবান",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মহাজন",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 25
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "'ঘোষ ব্যঞ্জন' ধ্বনি কোনগুলো?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "গ, ঘ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ক, খ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "প, ফ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ট, ঠ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 25
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "নিপাতনে সিদ্ধ ব্যঞ্জনসন্ধি কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "কুলটা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "গবাক্ষ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "একাদশ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বনৌষধি",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 25
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "'হাতাহাতি' কোন সমাস?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "দ্বন্দ্ব",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কর্মধারয়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "তৎপুরুষ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বহুস্ত্রীহি",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 25
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "'ভাব' অর্থে প্রত্যয়যুক্ত হয়েছে কোন শব্দে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "জমিদারি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বাহাদুরি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ডাক্তারি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "জেঠামি",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 25
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "'অপসংস্কৃতি' শব্দের 'অপ' উপসর্গটি কী অর্থ প্রকাশ করে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মন্দ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বিকৃত",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বাজে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নিন্দনীয়",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 25
+    }
+  ]
+}

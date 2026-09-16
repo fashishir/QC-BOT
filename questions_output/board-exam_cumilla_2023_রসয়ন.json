@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "483",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "রসায়ন",
+    "subject": "রসায়ন",
+    "board": "cumilla",
+    "board_bn": "কুমিল্লা বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 458
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "স্বাভাবিক অবস্থার কয়টি অ্যালকেন সদস্য গ্যাসীয় অবস্থায় থাকে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "5",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "2",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "3",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "4",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 458
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "পেন্টেনের স্ফুটনাঙ্ক কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "25.3°C",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "36.1°C",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "45.2°C",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "46.2°C",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 458
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "নিচের কোন যৌগটি পানিতে অদ্রবণীয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "C u S O 4",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "F e ( O H ) 2",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "C a ( O H ) 2",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "C a S O 4",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 458
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "নিচের অংশটুকু পড়ে ৪, ৫ ও ৬ নং প্রশ্নের উত্তর দাও : C H 3 - C H 2 - O H → H 2 S O 4 A + H 2 O A + H 2 → 180 . 200 ° C N i B B + C l 2 → U V C + H C l 'A' যৌগটির সাধারণ আণবিক সংকেত হলো-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "C n H 2 n",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "C n H 2 n + 2",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "C n H 2 n − 2",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "C n H 2 n + 1",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 458
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "C যৌগটি হতে— i. অ্যালকোহল উৎপন্ন করা যায় ii. অ্যালকিন উৎপন্ন করা যায় iii. ডাই-ব্রোমো প্রোপেন যৌগ উৎপন্ন হয় নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 458
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "B যৌগ হতে সহজেই পাওয়া সম্ভব— i. অ্যালকাইল হ্যালাইড ii. CO 2 ও H 2 O অ্যালকাইন iii. অ্যালকাইন নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 458
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "কোন উপাদানটিতে সেলুলোজ থাকে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পলিথিন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "খাবার লবণ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ইউরিয়া",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বাঁশ",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 458
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "কোনটির আবিষ্কার মানব সভ্যতাকে অনেক দূর এগিয়ে নিয়ে যায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "তামা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সোনা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "রুপা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ব্রোঞ্জ",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 458
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটির ব্যাপনহার সবচেয়ে বেশি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ইথেন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "হিলিয়াম",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অ্যামোনিয়া",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কার্বন ডাইঅক্সাইড",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 458
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "স্ফুটনের বিপরীত প্রক্রিয়া কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পাতন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ঊর্ধ্বপাতন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ঘনীভবন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "গলন",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 458
+    }
+  ]
+}

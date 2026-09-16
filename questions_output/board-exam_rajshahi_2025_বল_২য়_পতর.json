@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "1873",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "বাংলা ২য় পত্র",
+    "subject": "বাংলা ২য় পত্র",
+    "board": "rajshahi",
+    "board_bn": "রাজশাহী বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 23
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "ভারতের পশ্চিমবঙ্গে বাংলাভাষী মানুষের সংখ্যা কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নয় কোটি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "দশ কোটি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "এগারো কোটি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বারো কোটি",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 23
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "বাংলা ভাষায় লেখা প্রথম বাংলা ব্যাকরণ প্রকাশিত হয় কত খ্রিষ্টাব্দে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "১৮৩০",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "১৮৩১",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১৮৩২",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১৮৩৩",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 23
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "ধ্বনি সৃষ্টিকারী বায়ু প্রবাহের উৎস কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "শ্বাসনালি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "স্বরযন্ত্র",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ফুসফুস",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "আলজিভ",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 23
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "'হ্ম' যুক্তবর্ণটি কোন কোন বর্ণ দিয়ে গঠিত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "হ্+ম",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ক্+ষ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ক্+স",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "হ্+ষ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 23
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "কোনগুলো তাড়িত ব্যঞ্জন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ব, ম",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ড়, ঢ়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "প,ত",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "স, হ",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 23
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "বিকৃত অর্থ প্রকাশ করছে কোন উপসর্গ যুক্ত শব্দটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অপকর্ম",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অনাসৃষ্টি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অকাজ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "অপসংস্কৃতি",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 23
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "জাত অর্থে কোন শব্দটি ব্যবহার হয়েছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "কানাই",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "গেঁয়ো",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ঢাকাই",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মেটে",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 23
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "রূপক কর্মধারয় সমাসের উদাহরণ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মনমাঝি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "চন্দ্রমুখ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ঘিভাত",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ত্রিফলা",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 23
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি বিসর্গ সন্ধির উদাহরণ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সম্মান",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "পুরস্কার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "উল্লাস",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "শয়ন",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 23
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "কোন শব্দটি পত্নীবাচক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "খুকি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ছাত্রী",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পাগলি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "জেলেনি",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 23
+    }
+  ]
+}

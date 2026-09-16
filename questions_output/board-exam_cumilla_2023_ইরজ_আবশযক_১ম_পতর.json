@@ -1,0 +1,727 @@
+{
+  "exam": {
+    "remote_id": "260",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ইংরেজী (আবশ্যিক) ১ম পত্র",
+    "subject": "ইংরেজী (আবশ্যিক) ১ম পত্র",
+    "board": "cumilla",
+    "board_bn": "কুমিল্লা বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 10,
+    "cq_count": 28,
+    "id": 560
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "Mainul started -farming in his village.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "traditional",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "outdated",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "conventional",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "modern",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "Potential",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "Powerful",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "Proficient",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "Palatial",
+          "images": []
+        },
+        {
+          "index": 9,
+          "text": "BUET",
+          "images": []
+        },
+        {
+          "index": 10,
+          "text": "BAUM",
+          "images": []
+        },
+        {
+          "index": 11,
+          "text": "DU",
+          "images": []
+        },
+        {
+          "index": 12,
+          "text": "RU",
+          "images": []
+        },
+        {
+          "index": 13,
+          "text": "Place of birth and its surroundings",
+          "images": []
+        },
+        {
+          "index": 14,
+          "text": "Country side",
+          "images": []
+        },
+        {
+          "index": 15,
+          "text": "Lower portions of trees",
+          "images": []
+        },
+        {
+          "index": 16,
+          "text": "World heritage",
+          "images": []
+        },
+        {
+          "index": 17,
+          "text": "contract",
+          "images": []
+        },
+        {
+          "index": 18,
+          "text": "purpose",
+          "images": []
+        },
+        {
+          "index": 19,
+          "text": "objection",
+          "images": []
+        },
+        {
+          "index": 20,
+          "text": "debt",
+          "images": []
+        },
+        {
+          "index": 21,
+          "text": "they belong to the land",
+          "images": []
+        },
+        {
+          "index": 22,
+          "text": "they don't want to be rootless",
+          "images": []
+        },
+        {
+          "index": 23,
+          "text": "their root lies in the soil",
+          "images": []
+        },
+        {
+          "index": 24,
+          "text": "they are closely attached to their soil",
+          "images": []
+        },
+        {
+          "index": 25,
+          "text": "pull of roots",
+          "images": []
+        },
+        {
+          "index": 26,
+          "text": "commitment to the native land",
+          "images": []
+        },
+        {
+          "index": 27,
+          "text": "respect to the soil",
+          "images": []
+        },
+        {
+          "index": 28,
+          "text": "gratefulness to the soil",
+          "images": []
+        },
+        {
+          "index": 29,
+          "text": "works",
+          "images": []
+        },
+        {
+          "index": 30,
+          "text": "studies",
+          "images": []
+        },
+        {
+          "index": 31,
+          "text": "trains",
+          "images": []
+        },
+        {
+          "index": 32,
+          "text": "believes",
+          "images": []
+        },
+        {
+          "index": 33,
+          "text": "few",
+          "images": []
+        },
+        {
+          "index": 34,
+          "text": "improbable",
+          "images": []
+        },
+        {
+          "index": 35,
+          "text": "every",
+          "images": []
+        },
+        {
+          "index": 36,
+          "text": "no",
+          "images": []
+        },
+        {
+          "index": 37,
+          "text": "Should be job seeker",
+          "images": []
+        },
+        {
+          "index": 38,
+          "text": "Should be employed",
+          "images": []
+        },
+        {
+          "index": 39,
+          "text": "Should be a doctor",
+          "images": []
+        },
+        {
+          "index": 40,
+          "text": "Should be self-employed",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 560
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "Mainul started -farming in his village.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "traditional",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "outdated",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "conventional",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "modern",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 560
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "Which of the following words is the closest meaning of 'qualified\"?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Potential",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Powerful",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Proficient",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Palatial",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 560
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "Where did Mainul Islam take his higher education from?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "BUET",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "BAUM",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "DU",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "RU",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 560
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "\"People forget their roots\"-What does 'root' mean here?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Place of birth and its surroundings",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Country side",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Lower portions of trees",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "World heritage",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 560
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "Mainul Islam has a to the soil.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "contract",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "purpose",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "objection",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "debt",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 560
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "We are 'sons of the soil' means-----",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "they belong to the land",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "they don't want to be rootless",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "their root lies in the soil",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "they are closely attached to their soil",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 560
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "Which of the following best suits as a title of the above passage?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "pull of roots",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "commitment to the native land",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "respect to the soil",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "gratefulness to the soil",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 560
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "Mr. Islam ------in the roots.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "works",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "studies",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "trains",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "believes",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 560
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "Mr. Islam and his brothers had ----  opportunity or quality to lead a city life.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "few",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "improbable",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "every",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "no",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 560
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "What should the individual be?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Should be job seeker",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Should be employed",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Should be a doctor",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Should be self-employed",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 560
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "Mainul Islam is a qualified farmer in Naogaon. Mr. Islam was very brilliant as a student. He took his higher education from Bangladesh Agricultural University in Mymensingh. He then came back home and started advanced farming. He has two other brothers who are graduates in different disciplines. The specialty of the Islam family is that they all are living in their village and all are renowned in their own fields. Mr. Islam's younger brother who is a Rajshahi University graduate, is a science teacher in a local school. His youngest brother is a Social Science graduate who likes to start a local NGO to work for this area. When asked, \"What makes you decide to stay here in this village?\" Mr. Islam smiled and said, \"Look, it's true that we could leave this village for city life. I could be a banker or my brothers could be bureaucrats. But it did not attract us. We are sons of this soil. Yes, we have education but does education prepare a person only to be an officer? Don't we have any obligation to the soil that has made us what we are?\" He also added that not every educated individual should be a job seeker. He added that since his discipline was agriculture, after his education he took the occupation of a farmer. In response to the question whether they had any frustration living in a village, he confirmed that they were indeed very pleased with their life. He said, \"I work in my own farm, stay with my family members, pass time with my old friends, and sleep at my own home. All these count a lot.\"\" Mr. Islam is right. Many people go to cities and forget or loosen their roots knowingly or unknowingly. Mr. Islam and his brothers are great-they haven't forgotten their roots. They not only stuck to their own roots, they have been torch bearers for others to be respectful of their roots.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/mainul-islam-is-a-qualified-farmer-in-naogaon-mr-islam-was-very-brilliant-as-a-s",
+      "remote_id": null,
+      "exam_id": 560
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "Choose the correct answer from the alternatives :",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/choose-the-correct-answer-from-the-alternatives-66068",
+      "remote_id": "66068",
+      "exam_id": 560
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "What made Mainul Islam come back to his village?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-made-mainul-islam-come-back-to-his-village",
+      "remote_id": null,
+      "exam_id": 560
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "What is the specialty of the Islam family?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-is-the-specialty-of-the-islam-family",
+      "remote_id": null,
+      "exam_id": 560
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "How may Mr. Mainul and his brothers be our model?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/how-may-mr-mainul-and-his-brothers-be-our-model",
+      "remote_id": null,
+      "exam_id": 560
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "\"Every educated individual should not be a job seeker, \"-- Do you agree? Why?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/every-educated-individual-should-not-be-a-job-seeker-do-you-agree-why",
+      "remote_id": null,
+      "exam_id": 560
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "What helps Mr. Islam lead a pleasing life?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-helps-mr-islam-lead-a-pleasing-life",
+      "remote_id": null,
+      "exam_id": 560
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "\"It's true that we could leave this village for a city life,\" -What does Mainul Islam want to mean by this?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/its-true-that-we-could-leave-this-village-for-a-city-life-what-does-mainul-islam",
+      "remote_id": null,
+      "exam_id": 560
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "Read the following text and answer the question no. 3 and 4: 21 February is observed as Shaheed Dibosh every year throughout the country in remembrance of the martyrs of language movement of 1952. The commemoration begins at the early hours of the day with mourning songs that recall the supreme sacrifices of our language martyrs. People wear black badges and go to the Shaheed Minar in barefoot processions, singing mourning songs. They place wreaths at the Minar. Many of them visit the graves of the martyrs at Azimpur graveyard and pray for them. They also attend various programmes organised in remembrance of the language martyrs The UNESCO (United Nations Educational, Scientific and Cultural Organisation) en 17 November in 1999 proclaimed February 21 as the International Mother Language Day in recognition of the sacrifices of the martyrs for the rightful place of Bangla. Two Bangladeshi expatriates living in Vancouver in Canada, Rafiqul Talam and Abdus Salam, sent a proposal to Kafi Anan, the then Secretary General of United Nations. They requested him to declare 21st February as the International Mother Language Day. They added that the decision will honour and save all extinct languages of the world. As per their logical expectations Prime Minister Sheikh Hasina then took prompt initiative by sending formal proposal to UNESCO. Finally, on 17 November 1999, UNESCO declared 21st February as the International Mother Language Day. The day is now annually observed worldwide to promote awareness of linguistic and cultural diversity and multilingualism.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-following-text-and-answer-the-question-no-3-and-4-21-february-is-observ",
+      "remote_id": null,
+      "exam_id": 560
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "Fill in each gap with a suitable word based on the information of the passage: 21 February is (a)------- as the International Mother Language Daynot only in Bangladesh, but also worldwide. We (b)-----—this day as Shaheed Dibosh every year. The people of Bangladesh observe the day with ------ songs to (d)------respect to the martyrs. They go to the Shaheed Minar (e) ------- wearing black badges.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/fill-in-each-gap-with-a-suitable-word-based-on-the-information-of-the-passage-21",
+      "remote_id": "21",
+      "exam_id": 560
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "Match the parts of sentences given in columns 'A', 'B' and 'C' to 1x7-7 write seven complete sentences: Column 'A' Column 'B' Column 'C' (a)21 February is celebrated (b) The commemoration begins (c) People from all walks of life (d)The UNESCO proclaimed February21 (e) Mouming songs remind (f) 21 February is originally connect (g) The worldwide observation of the day (i)join the mourning procession (ii) us of the supreme sacrifice made (iii) with mourning songs (vi) promotes the awareness of linguist (v) throughout the country (vi) as the International. Mother Language (vii) with Bengali heroes who           embraced i. in recognition of the sacrifices of the martyrs ii. martyrdom to establish the rightful place of Bangla iii. by our language martyrs iv. in remembrance of the martyrs of the language movement v. wearing black badges vi. that recall the supreme sacrifices of our language martyrs.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/match-the-parts-of-sentences-given-in-columns-a-b-and-c-to-1x7-7-write-seven-com",
+      "remote_id": null,
+      "exam_id": 560
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "Read the following text carefully and answer the question no. 5 and 6: The great men were born in different places of this world but their activities make them familiar and closer to us. Dr. Muhammad Shahidullah was one of those who contributed a lot towards Bangla language and literature. He was the greatest scholar of Bengal. This great scholar was born on July, 1885 at 24 Pargonas in West Bengal, India. He passed his Entrance examination in 1904 and obtained his B.A. degree six years later. It took him two years to complete his M.A, and another two years for his Bchelor of Law Degree. He later joined the University of Dhaka in 1921 as a Professor of Sanskrit and Bengali. He was awarded the Doctorate Degree from Sorborne University, Paris in 1928. \"Bangla Shahiner Katha\", the first well-arranged history of Bengali literature was composed by him and it was published in 1953 This great scholar remained busy with his work till he became seriously ill in 1967 and was confined to bed for about two and a half years. He breathed his last on 13 July 1969 in Dhaka. We remember him with great respect and gratitude.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-following-text-carefully-and-answer-the-question-no-5-and-6-the-great-m",
+      "remote_id": null,
+      "exam_id": 560
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "Complete the table below with information from the passage: Who/What Event/Activity Time/when Place/where Dr. Muhammad Shahidullah (i) …………… in 1904 He joined as Professor in 1921 (ii)  …………… He (iii)  …………… in 1912 (iv)  …………… was awarded the in 1953 He was awarded the Doctorate Degree in 1928 (v)  …………… He died (vi)  ……………",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/complete-the-table-below-with-information-from-the-passagewhowhateventactivityti",
+      "remote_id": null,
+      "exam_id": 560
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "Write a summary of the above passage in your own words.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/write-a-summary-of-the-above-passage-in-your-own-words",
+      "remote_id": null,
+      "exam_id": 560
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "Answer the following questions to write a paragraph on 'Load Shedding\" (a) What does the term 'load shedding' mean? (b) What are the causes of load shedding? (c) How does it hamper us? (d) How can this problem be solved?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/answer-the-following-questions-to-write-a-paragraph-on-load-shedding-a-what-does",
+      "remote_id": null,
+      "exam_id": 560
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "Read the beginning of the story and complete it in your own way. You should give a suitable title to it: One day, a farmer was taking some sacks of wheat to a mill. The mill was a few kilometers away. On the way, the horse stumbled and one of the sacks fell to the ground…………….",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-beginning-of-the-story-and-complete-it-in-your-own-way-you-should-give-",
+      "remote_id": null,
+      "exam_id": 560
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "Suppose, you are Abir and your friend is Adib. You had gone to your friend's house and stayed there for a few days with his family. Now, write an e-mail to your friend thanking him for their hospitality.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/suppose-you-are-abir-and-your-friend-is-adib-you-had-gone-to-your-friends-house-",
+      "remote_id": null,
+      "exam_id": 560
+    }
+  ]
+}

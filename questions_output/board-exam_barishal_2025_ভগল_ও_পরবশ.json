@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "1812",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ভূগোল ও পরিবেশ",
+    "subject": "ভূগোল ও পরিবেশ",
+    "board": "barishal",
+    "board_bn": "বরিশাল বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 57
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "আটলান্টিক মহাসাগরের গড় গভীরতা কত মিটার?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "১৪৯",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৮২৪",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৩৯৩২",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৩৯৬২",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 57
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "কোনটি জনসংখ্যা ঘনত্বের অ-প্রাকৃতিক প্রভাবক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পানীয় জল",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "উর্বর মাটি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বসবাসের স্থান",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কয়লা খনি",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 57
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "ভোলায় জলপথ অন্যতম যোগাযোগ মাধ্যম হওয়ার কারণ-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নিম্নভূমির অবস্থান বেশি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মৃত্তিকার বুনট দৃঢ়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ঢালযুক্ত ভূমির সংখ্যা কম",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সমতল ভূ-প্রকৃতির অবস্থান",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 57
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "বাংলাদেশে বন্যার মানবসৃষ্ট কারণ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পরিকল্পিত নগরায়ন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অগভীর নদী",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "নদীর তলদেশে ফাটল",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নদীর উজানে নির্মিত বাঁধ",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 57
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি অনবায়নযোগ্য সম্পদ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সৌরশক্তি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বায়ুশক্তি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কয়লাশক্তি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পানিশক্তি",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 57
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "বাংলাদেশের ঘূর্ণিঝড় কোন সময়ে বেশি পলিক্ষিত হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ফাল্গুন-চৈত্র",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "চৈত্র-বৈশাখ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "আষাঢ়--শ্রাবণ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "অগ্রহায়ণ-পৌষ",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 57
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "'জাপানের ওসাকায়' জনসংখ্যার ঘনত্ব বেশি হওয়ার কারণ-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "চলচ্চিত্রের জন্য",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "তীর্থস্থানের জন্য",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বিনোদন, কেন্দ্রের জন্য",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "শিল্প কারখানার জন্য",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 57
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "উন্নয়নের সুফল ভোগকারী গোষ্ঠীকে কী বলা হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অংশীজন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "উন্নয়ন কর্মী",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সরকার",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "প্রাইভেট প্রতিষ্ঠান",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 57
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "সূর্য থেকে দূরত্ব অনুসারে সৌরজগতের চতুর্থ গ্রহটিতে স্বল্প পরিমাণে আছে-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মিথেন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অ্যামোনিয়া",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কার্বন-ডাই অক্সাইট",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "অক্সিজেন",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 57
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "প্রাকৃতিক মানচিত্রে যে বিষয়গুলো দেখানো হয়- i. খাড়া ঢালবিশিষ্ট সুউচ্চ ভূমি ii. অপেক্ষাকৃত উঁচু বিস্তীর্ণ সমতল ভূমি iii. বিশাল বালুকাময় শুষ্ক ভূমি নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 57
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "exam": {
+    "remote_id": "415",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+    "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+    "board": "barishal",
+    "board_bn": "বরিশাল বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 30,
+    "cq_count": 55,
+    "id": 494
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "নমস্কারে মাহাত্ম্য নিচের কোন গ্রন্থে বর্ণিত আছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নৃসিংহ পুরাণে",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মনসা পুরাণে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কালিকা পুরাণে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বিষ্ণু পুরাণে",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 494
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "জলদেবতা প্রথমে কীসের কুঠার নিয়ে আসে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "আমার",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "লোহার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কপার",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সোনার",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 494
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "হিরণ্যক শিশু কোন যুগের রাজা ছিলেন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "দ্বাপর",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কণি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সত্য",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ত্রেতা",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 494
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "বাবুল প্রতিজ্ঞার মাধ্যমে মনের ইচ্ছাকে অনুগত রেখে সকল কাজ সমাধা করে এবং মনকে লক্ষ্যবস্তুতে স্থির রাখে। বাবুল অষ্টাঙ্গযোগের কোন ধাপটি অনুসরণ করে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নিয়ম",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "প্রত্যাহার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "প্রাণায়াম",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ধারণা",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 494
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "পূজা শব্দের অর্থ-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "প্রশংসা করা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "উপাসনা করা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সৃষ্ট করা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মাথা নত করা",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 494
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "কোন অনুষ্ঠানে প্রদীপ আলিয়ে অন্ধকার দূর করা হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "দোলযাত্রা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "দীপাবলি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বর্ষবরণ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "হাতে খড়ি",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 494
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "কত পুরুষ পর্যন্ত জননাশৌচ ও মরণাশৌচ পালনের বিধান আছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সপ্তম পুরুষ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ষষ্ঠ পুরুষ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পঞ্চম পুরুষ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "চতুর্থ পুরুষ",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 494
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "অভীক খুব ভাল ছেলে। সে কারও মনে কষ্ট দেয় না। সবাইকে খুব ভালোবাসে। অভীকের চারিত্রিক বৈশিষ্ট্য নিচের কোনটির সাথে সম্পৃক্ত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ব্রহ্মচর্য",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অহিংসা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অপরিগ্রহ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নিয়ম",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 494
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "ধর্মের বাহ্য লক্ষণ কয়টি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৮ টি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৯টি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১০টি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১১ টি",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 494
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "তৃণা দেবী এক বিশেষ পূজার শেষে প্রতিবেশিদের সাথে মিষ্টি মুখ করে পারস্পরিক কুশল বিনিময় করেন। তৃণা দেবীর পালনকৃত অনুষ্ঠানটির মধ্যে কীসের প্রকাশ ঘটে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সপ্তমী পূজা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অষ্টমী পূজা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "নবমী পূজা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "দশমী পূজা",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 494
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "আনন্দ বাবু একজন কর্তব্য পারায়ণ বাতি। তিনি তাঁর পরিবারের ভরণ-পোষণসহ সমস্ত দায়িত্ব নিষ্ঠার সাথে পালন করেন এবং সমাজ সেবামূলক কাজে যুক্ত থাকেন।  অপর দিকে তরুন বাবু বেশ কিছুদিন হলো চাকরি থেকে অবসর নিয়ে সংসারের মাত্রা ত্যাগ করে বনে জঙ্গলে ঘুরে বেড়ান। শুধু মাত্র তিনি মধ্যহ্ন ভোজের খাবার লোকালয় থেকে সংগ্রহ করেন এবং সবসময় ঈশ্বর চিন্তায় মগ্ন থাকেন।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A7%81-%E0%A6%8F%E0%A6%95%E0%A6%9C%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A3-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF-%E0%A6%A4%E0%A6%BE%E0%A6%81%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%B0%E0%A6%A3%E0%A6%AA%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%B8%E0%A6%B9-%E0%A6%B8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%A4-%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AC",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "দেবদেবী কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%80-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "লেখাপাড়া শেখানো হয় কোন আশ্রমে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BE-%E0%A6%B6%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%86%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "আনন্দ বাবুর কার্যকলাপ মানব জীবনের কোন আশ্রমের অন্তর্ভুক্ত? পাঠ্য পুস্তকের আলোকে ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A7%81%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A6%B2%E0%A6%BE%E0%A6%AA-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC-%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%86%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87-%E0%A6%AC",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে তরুন বাবুর কর্মকাণ্ডের মাধ্যমে কী ঈশ্বর লাভ সম্ভব? উত্তরের সপক্ষে যুক্তি দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%A4%E0%A6%B0%E0%A7%81%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A7%81%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%88%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%B2%E0%A6%BE%E0%A6%AD-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%AC-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "সুর বাবা দীর্ঘদিন রোগে ভোগার পর হঠাৎ একদিন মারা যায়। পাড়া প্রতিবেশিরা তার বাবার মৃত দেহকে সৎকারের উদ্দেশ্যে কাধে নিয়ে শ্মশানের দিকে যাত্রা করে। অন্যদিকে সুজয়ের মা মারা যাওয়ার পর সে বেশ কিছুদিন ফলমূল খেয়ে জীবনধারণ করে। প্রতিদিন তার মায়ের উদ্দেশ্যে জল ও দুধ নিবেদন করে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%A6%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%87-%E0%A6%AD%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%B9%E0%A6%A0%E0%A6%BE%E0%A7%8E-%E0%A6%8F%E0%A6%95%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AA%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%B0%E0%A6%BE-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "জাতকর্ম কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "বিবাহের সর্বশ্রেষ্ট মন্ত্রটির ব্যাখ্যা দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "সুব্রতর বাবার উদ্দেশ্যে সম্পন্নকৃত প্রক্রিয়টি পাঠ্যপুস্তকের আলোকে ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%81%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%95%E0%A7%83%E0%A6%A4-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "সুজয় যে কাজটি সম্পন্ন করেছে উক্ত কাজের গুরুত্ব বিশ্লেষণ কর",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%81%E0%A6%9C%E0%A6%AF%E0%A6%BC-%E0%A6%AF%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "প্রলয় বিশস্ততার সাথে একটি কারখানায় চাকরি করেন। কারখানার মালিক তাকে বিশ্বাস করে সমস্ত আর্থিক দায়িত্ব তার উপর অর্পণ করে। গরীব হলেও সে কখনও বিশ্বাসের অমর্যাদা করেনি। অপরদিকে অমিয় একটি অমায়িক ছেলে। সে পরিবারসহ বড় এবং ছোটদের সাথে কীভাবে ব্যবহার করতে হয় সেটা ঠিকভাবে পালন করে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A5%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95-%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8-%E0%A6%95%E0%A6%B0%E0%A7%87-",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "নৈতিক মূল্যবোধ কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A7%8B%E0%A6%A7-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "ধর্মাধর্ম নির্ণয়ের তৃতীয় প্রমানটির ব্যাখ্যা দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A7%83%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "প্রলয়ের মধ্যে যে নৈতিক গুণটি প্রকাশ পেয়েছে তা পাঠ্যপুস্তকের আলোকে ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%AF%E0%A7%87-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%97%E0%A7%81%E0%A6%A3%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%AA%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%A4%E0%A6%BE-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "অনিয়র কর্মকাণ্ডের গুরুত্ব পাঠ্যপুস্তকের আলোকে মূল্যায়ন কর",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%85%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "ভারতী দেবী খুবই ধর্মপরায়ণ। তিনি ভক্তির মাধ্যমে ভগবানের উপাসনা করেন। তার গভীর বিশ্বাস ভক্তি সহকারে ভগবানকে ডাকলে তিনি ভক্তকে দেখা দেন এবং তার মঙ্গল করেন। অন্যদিকে বিমল বাবু ঈশ্বরের অস্তিত্ব সম্পর্কে জানতে চান। তিনি অনুভব করেন বিশ্বের সকল প্রাণীর মধ্যে একই চেতনা বিরাজমান। এই চেতনাই হচ্ছে জীবাত্মা বা পরমাতার অশ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%80-%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%80-%E0%A6%96%E0%A7%81%E0%A6%AC%E0%A6%87-%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A6%A3-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF-%E0%A6%AD%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A7%87-%E0%A6%AD%E0%A6%97%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%BE%E0%A6%B8%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A6%AD%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "রেচক কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A7%87%E0%A6%9A%E0%A6%95-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "যোগের সর্বোচ্চ স্তরটি ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A7%8B%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "ভারতীদেবি কোন সাধনপথ অবলম্বন করে। পাঠ্যপুস্তকের আলোকে ব্যাখ্যা করো",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A6%BF-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%B8%E0%A6%BE%E0%A6%A7%E0%A6%A8%E0%A6%AA%E0%A6%A5-%E0%A6%85%E0%A6%AC%E0%A6%B2%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A7%8B",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "বিমল বাবুর সাধন পথের মাধ্যমে কী মোক্ষ লাভ সম্ভব? সপক্ষে যুক্তি দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%B2-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A7%81%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A7%E0%A6%A8-%E0%A6%AA%E0%A6%A5%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AE%E0%A7%8B%E0%A6%95%E0%A7%8D%E0%A6%B7-%E0%A6%B2%E0%A6%BE%E0%A6%AD-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%AC-%E0%A6%B8%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "ঋতুদের বাড়িতে প্রতিবছর কার্তিক মাসের এক বিশেষ তিথিতে এক উৎসবের আয়োজন করা হয়। এই উৎসব উপলক্ষ্যে ঋতু ভাইয়ের মঙ্গল কামনায় তার কপালে চন্দন মাখিয়ে দেয়। অন্যদিকে অসীমের গ্রামের লোকেরা মিলে একটি অনুষ্ঠানের আয়োজন করে। এই অনুষ্ঠান উপলক্ষ্যে চাকাওয়ালা গাড়ি ফুল দিয়ে সুন্দর করে সাজানো হয়। গাড়ির ভিতরে থাকে তিনটি বিশেষ মূর্তি। সব ভেদ ভুলে সবাই মিলে গাড়িটি একস্থান থেকে অন্যস্থানে নিয়ে যায়।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%8B%E0%A6%A4%E0%A7%81%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%A4%E0%A6%BF%E0%A6%A5%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%8F%E0%A6%95-%E0%A6%89%E0%A7%8E%E0%A6%B8%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%9C%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%8F",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "ধর্মাচার কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "শ্রাবণ মাসের পূর্ণিমা তিথিতে যে পর্বটি পালিত হয় তার ব্যাখ্যা দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%A3-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%AE%E0%A6%BE-%E0%A6%A4%E0%A6%BF%E0%A6%A5%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%A4-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "ঋতুদের বাড়িতে যে উৎসবের আয়োজন করা হয়েছে পাঠ্যপুস্তকের আলোকে তার ব্যাখ্যা দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%8B%E0%A6%A4%E0%A7%81%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A7%87-%E0%A6%89%E0%A7%8E%E0%A6%B8%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%9C%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%B9%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 25,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে অসীমের দেখা ধর্মাচারটির পারিবারিক ও সমাজিক গুরুত্ব বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE-%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%93-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%95-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 26,
+      "question_type": "written",
+      "question_text": "পবন বাবু একজন অসুর প্রকৃতির লোক। তিনি ভগবানের নাম শুনলে রেগে যান এবং নিজেকে সর্বশক্তিমান বলে মনে করেন। কিন্তু তার পরম আপন জন খুবই ঈশ্বর ভক্ত। সেজন্য তাকে বিভিন্নভাবে মেরে ফেলার চেষ্টা করেও তিনি ব্যর্থ হন। অন্যদিকে সুবীর খারাপ বন্ধুদের সাথে মিশে নেশার জগতে প্রবেশ করে। নেশার টাকা যোগাড় করতে সে অনৈতিক কাজে জড়িয়ে পড়ে এতে পরিবারের সবাই তাকে নিয়ে চিন্তিত হয়ে পড়ে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%AC%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A7%81-%E0%A6%8F%E0%A6%95%E0%A6%9C%E0%A6%A8-%E0%A6%85%E0%A6%B8%E0%A7%81%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%B2%E0%A7%8B%E0%A6%95-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF-%E0%A6%AD%E0%A6%97%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE-%E0%A6%B6%E0%A7%81%E0%A6%A8%E0%A6%B2%E0%A7%87-%E0%A6%B0%E0%A7%87%E0%A6%97%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%B6",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 27,
+      "question_type": "written",
+      "question_text": "স্মৃতিশাস্ত্র কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 28,
+      "question_type": "written",
+      "question_text": "\"আহমোক্ষার জগদ্বিতায় চ\" কথাটির ব্যাখ্যা দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%B9%E0%A6%AE%E0%A7%8B%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%97%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%9A-%E0%A6%95%E0%A6%A5%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 29,
+      "question_type": "written",
+      "question_text": "পবন বাবুর চরিত্রের সাথে তোমার পাঠ্য বইয়ের কোন চরিত্রের মিল রয়েছে তা পাঠ্যপুস্তকের আলোকে ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%AC%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A7%81%E0%A6%B0-%E0%A6%9A%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A5%E0%A7%87-%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A7%8D%E0%A6%AF-%E0%A6%AC%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%9A%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%B2-%E0%A6%B0%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%A4%E0%A6%BE-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A4",
+      "remote_id": null,
+      "exam_id": 494
+    },
+    {
+      "question_no": 30,
+      "question_type": "written",
+      "question_text": "সুবীরকে নেশার জগত থেকে স্বাভাবিক জীবনে ফিরিয়ে আনতে পারিবারিক ও ধর্মীয় সংস্কৃতির গুরুত্ব বিশ্লেষণ কর।\"",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%81%E0%A6%AC%E0%A7%80%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A7%87%E0%A6%B6%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%97%E0%A6%A4-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%95-%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%86%E0%A6%A8%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%93-%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF",
+      "remote_id": null,
+      "exam_id": 494
+    }
+  ]
+}

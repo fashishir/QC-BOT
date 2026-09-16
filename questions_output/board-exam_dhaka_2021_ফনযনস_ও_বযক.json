@@ -1,0 +1,772 @@
+{
+  "exam": {
+    "remote_id": "854",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ফিন্যান্স ও ব্যাংকিং",
+    "subject": "ফিন্যান্স ও ব্যাংকিং",
+    "board": "dhaka",
+    "board_bn": "ঢাকা বোর্ড",
+    "year": 2021,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BF%E0%A6%82-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BF%E0%A6%82-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/written",
+    "mcq_count": 30,
+    "cq_count": 55,
+    "id": 676
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "জনাব সামি বর্তমানে কত টাকা ব্যাংকে জমা রাখেন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "১,৫০,২৬৩ টাকা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "২,০০,০০০ টাকা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "২,৬০,০০০ টাকা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "২,৬৬,২০০ টাকা",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BF%E0%A6%82-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 676
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "জনাব সামি বর্তমানে কত টাকা ব্যাংকে জমা রাখেন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "১,৫০,২৬৩ টাকা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "২,০০,০০০ টাকা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "২,৬০,০০০ টাকা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "২,৬৬,২০০ টাকা",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BF%E0%A6%82-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 676
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "উদ্দীপক অনুযায়ী- i. জনাব সামির সুযোগ ব্যয় ১০% ii. আত্মীয়ের ক্ষেত্রে সুদের হার ১২% iii. জনাব সামির বিনিয়োগ সিদ্ধান্ত সঠিক নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BF%E0%A6%82-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 676
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "সান কোম্পানির ব্যবধানের বর্গের গড় কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২০",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৫৭",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৬৭",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৮০",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BF%E0%A6%82-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 676
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "সান কোম্পানির ব্যবধানের বর্গের গড় কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২০",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৫৭",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৬৭",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৮০",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BF%E0%A6%82-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 676
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "আমদানিকারক ও রপ্তানিকারকের মধ্যে আর্থিক ও ব্যবসায়িক সম্পর্ক স্থাপনে ভূমিকা রাখে—",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "শিল্প ব্যাংক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বিনিয়োগ ব্যাংক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "একক ব্যাংক",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বাণিজ্যিক ব্যাংক",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BF%E0%A6%82-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 676
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "কোম্পানি সংগঠনের তুলনায় একমালিকানা ও অংশীদারি কারবারে কোন ধরনের ঝুঁকি বেশি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ব্যবসায়িক ঝুঁকি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "আর্থিক ঝুঁকি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "তারল্য ঝুঁকি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সুদের হার ঝুঁকি",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BF%E0%A6%82-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 676
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "পাবলিক লিমিটেড কোম্পানির মালিকানায় ব্যাংকের ক্ষেত্রে সর্বনিম্ন পরিচালক কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২ জন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৩ জন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৭ জন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১৩ জন",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BF%E0%A6%82-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 676
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "কোন ধরনের চক্রবৃদ্ধিতে বিনিয়োগ করলে ভবিষ্যৎ মূল্য সর্বাধিক হবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মাসিক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ত্রৈমাসিক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ষাণ্মাসিক",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বার্ষিক",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BF%E0%A6%82-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 676
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "শিমুল 'M' ব্যাংকে গিয়ে তাঁর মায়ের হিসাবের স্থিতি জানতে চাইলে ব্যাংক কর্তৃপক্ষ অসম্মতি জ্ঞাপন করে। এক্ষেত্রে 'M' ব্যাংক অনুসরণ করেছে—",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নিরাপত্তার নীতি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সাবধানতার নীতি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "উদ্দেশ্যের নীতি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "গোপনীয়তার নীতি",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BF%E0%A6%82-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 676
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "নোট ও মুদ্রার প্রচলন করে কোন ব্যাংক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "চেইন ব্যাংক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বাণিজ্যিক ব্যাংক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বিনিময় ব্যাংক",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কেন্দ্রীয় ব্যাংক",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BF%E0%A6%82-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 676
+    },
+    {
+      "question_no": 12,
+      "question_type": "mcq",
+      "question_text": "'R' ব্যাংকের আয়ের পরিমাণ কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৩৩.৭৫ টাকা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৪৫ টাকা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১৩৫ টাকা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১৪৫ টাকা",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BF%E0%A6%82-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 676
+    },
+    {
+      "question_no": 13,
+      "question_type": "mcq",
+      "question_text": "'R' ব্যাংকের আয়ের পরিমাণ কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৩৩.৭৫ টাকা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৪৫ টাকা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১৩৫ টাকা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১৪৫ টাকা",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BF%E0%A6%82-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 676
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "পদ্মা সেতু বাংলাদেশের পদ্মা নদীর ওপর নির্মাণাধীন একটি বহুমুখী সেতু। এ সেতু চলাচলের উপযোগী হলে দক্ষিণ এবং পশ্চিমাঞ্চলের মানুষের ভাগ্য খুলে যাবে বলে প্রত্যাশা সবার। এ প্রকল্পের জন্য সর্বপ্রথম বিশ্বব্যাংক থেকে ঋণ নেওয়ার মাধ্যমে অর্থায়ন করার পরিকল্পনা করা হয়। পরবর্তীতে ২০১১ সালে বিশ্বব্যাংক অর্থায়ন বাতিল করলে সরকার নিজস্ব অর্থায়নে সেতু নির্মাণের সিদ্ধান্ত নেয়। মুক্ত বাজার অর্থনীতিতে টিকে থাকতে সরকার এ রকম প্রকল্পে অর্থায়ন করেন।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE-%E0%A6%B8%E0%A7%87%E0%A6%A4%E0%A7%81-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE-%E0%A6%A8%E0%A6%A6%E0%A7%80%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A3%E0%A6%BE%E0%A6%A7%E0%A7%80%E0%A6%A8-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%B9%E0%A7%81%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%80-%E0%A6%B8%E0%A7%87%E0%A6%A4%E0%A7%81-%E0%A6%8F-%E0%A6%B8%E0%A7%87%E0%A6%A4%E0%A7%81-%E0%A6%9A%E0%A6%B2%E0%A6%BE%E0%A6%9A%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "PPP এর পূর্ণরূপ লেখ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/ppp-%E0%A6%8F%E0%A6%B0-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%B0%E0%A7%82%E0%A6%AA-%E0%A6%B2%E0%A7%87%E0%A6%96",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "বিনিয়োগ সিদ্ধান্ত বলতে কী বোঝ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%97-%E0%A6%B8%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AC%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%9D",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "পদ্মা সেতু প্রকল্পের অর্থায়ন কোন ধরনের? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE-%E0%A6%B8%E0%A7%87%E0%A6%A4%E0%A7%81-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A8-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A7%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "পদ্মা সেতুর মতো বৃহৎ প্রকল্পে অর্থায়নের গুরুত্ব আলোচনা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE-%E0%A6%B8%E0%A7%87%E0%A6%A4%E0%A7%81%E0%A6%B0-%E0%A6%AE%E0%A6%A4%E0%A7%8B-%E0%A6%AC%E0%A7%83%E0%A6%B9%E0%A7%8E-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "জনাব আনিকা ১২,০০,০০০ টাকা ১০ বছরের জন্য ব্যাংকে জমা রাখতে চান। এক্ষেত্রে 'ক ব্যাংক' তাকে বার্ষিক ১১% হারে সুদের প্রস্তাব দেয় এবং 'খ ব্যাংক' ১২% হারে মাসিক চক্রবৃদ্ধিতে সুদ প্রদানের প্রস্তাব দেয়।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%86%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A7%A7%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%A6%E0%A7%A6%E0%A7%A6-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A7%A7%E0%A7%A6-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A7%87-%E0%A6%9C%E0%A6%AE%E0%A6%BE-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%A4%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%A8-%E0%A6%8F%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87-%E0%A6%95-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95-%E0%A6%A4",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "সুযোগ ব্যয় কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%81%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%80-29485",
+      "remote_id": "29485",
+      "exam_id": 676
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "চক্রবৃদ্ধিকরণ পদ্ধতিটি ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9A%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%B0%E0%A6%A3-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0-92489",
+      "remote_id": "92489",
+      "exam_id": 676
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "'ক ব্যাংক' থেকে কত টাকা সুদ পাওয়া যাবে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A6%A4-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%B8%E0%A7%81%E0%A6%A6-%E0%A6%AA%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "জনাব আনিকার কোন ব্যাংকে টাকা জমা রাখা লাভজনক? যুক্তিসহকারে বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%86%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A7%87-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%9C%E0%A6%AE%E0%A6%BE-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%BE-%E0%A6%B2%E0%A6%BE%E0%A6%AD%E0%A6%9C%E0%A6%A8%E0%A6%95-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%B9%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "জনাব আজাদ সাহেব একটি আর্থিক প্রতিষ্ঠানে বার্ষিক ৯% সুদের হারে ৩০,০০০ টাকা ৫ বছর জমা রাখার ব্যাপারে ভাবছিলেন। পরে তিনি তার একজন আত্মীয়ের নিকট জানতে পারেন অন্য একটি ব্যাংক ৯% হারে মাসিক চক্রবৃদ্ধি সুদ প্রদান করবে। এক্ষেত্রে প্রকৃত সুদের হার বৃদ্ধি পাবে। তাই তিনি ব্যাংকে টাকা জমা রাখলেন।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%86%E0%A6%9C%E0%A6%BE%E0%A6%A6-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95-%E0%A7%AF-%E0%A6%B8%E0%A7%81%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A7%A9%E0%A7%A6%E0%A7%A6%E0%A7%A6%E0%A7%A6-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A7%AB-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%9C%E0%A6%AE",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "প্রকৃত সুল কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%83%E0%A6%A4-%E0%A6%B8%E0%A7%81%E0%A6%B2-%E0%A6%95%E0%A7%80",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "অর্থের বর্তমান মূল্য বলতে কী বোঝ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF-%E0%A6%AC%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%9D",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "জনাব আজাদ সাহেব মাসিক চক্রবৃদ্ধিতে বিনিয়োগ করলে প্রকৃত সুদের হার কত হবে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%86%E0%A6%9C%E0%A6%BE%E0%A6%A6-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%97-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%83%E0%A6%A4-%E0%A6%B8%E0%A7%81%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%A4-%E0%A6%B9%E0%A6%AC%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "জনাব আজাদকে প্রথম ব্যাংক ৪৬,১৫৮.৭২ টাকা দিতে চাইল কিন্তু তিনি মাসিক চক্রবৃদ্ধি বিনিয়োগে সম্মত এ বিষয়ে যৌক্তিকতা উপস্থাপন কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%86%E0%A6%9C%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95-%E0%A7%AA%E0%A7%AC%E0%A7%A7%E0%A7%AB%E0%A7%AE%E0%A7%AD%E0%A7%A8-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%81-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%A8",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "জনাব মফিজ মৎস্য প্রকল্পে অর্থ বিনিয়োগ করে ক্ষতিগ্রস্ত হন। উক্ত ব্যবসায়ে তার ঝুঁকি ছিল ১৩%, আয় হার ছিল ১৪%। তার বন্ধুর পরামর্শে আলু চাষ করে বিগত ২০১৫ সাল থেকে ৫ বছরের প্রাপ্ত আয় যথাক্রমে ১৫%, ১০%, ৫%, ২৩% এবং ২৭%।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%AE%E0%A6%AB%E0%A6%BF%E0%A6%9C-%E0%A6%AE%E0%A7%8E%E0%A6%B8%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%97-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4-%E0%A6%B9%E0%A6%A8-%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%9D%E0%A7%81%E0%A6%81",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "আদর্শ বিচ্যুতি কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%B6-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A6%BF-%E0%A6%95%E0%A7%80",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "কখন তারল্য ঝুঁকির সৃষ্টি হয়? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A6%96%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%B2%E0%A7%8D%E0%A6%AF-%E0%A6%9D%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "জনাব মফিজের ব্যবসায়টির ঝুঁকি পরিমাপ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%AE%E0%A6%AB%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%9D%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%BF-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%AA-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "জনাব মফিজের আলু চাষ প্রকল্পের গ্রহণযোগ্যতা বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%AE%E0%A6%AB%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B2%E0%A7%81-%E0%A6%9A%E0%A6%BE%E0%A6%B7-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "জনাব রাবেয়ার হাতে দুটি প্রকল্প রয়েছে যেগুলোর বিভিন্ন তথ্য নিম্নে প্রদত্ত হলো- পূর্বানুমান রিম ঝিম ১ম বছর বিক্রয় ১,০০,০০০ ১,৫০,০০০ ২য় বছর বিক্রয় ২,০০,০০০ ১,৭৫,০০০ ৩য় বছর বিক্রয় ৫,০০,০০০ ৫,৫০,০০০ স্থায়ী খরচ ৪০,০০০ ৪৫,০০০ চলতি খরচ (চলতি বিক্রয়ের %) ৩০% ৩০% কর হার ৪০% ৪০% প্রকল্প দুটির মেয়াদকাল ৩ বছর এবং প্রত্যেক প্রকল্পের জন্য ৭,০০,০০০ টাকা করে প্রাথমিক বিনিয়োগ প্রয়োজন।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA-%E0%A6%B0%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AF%E0%A7%87%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A7%8D%E0%A6%A8%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A6%A4%E0%A7%8D%E0%A6%A4-%E0%A6%B9%E0%A6%B2%E0%A7%8B%E0%A6%AA%E0%A7%82",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "মূলধন বাজেটিং কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%A7%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%9F%E0%A6%BF%E0%A6%82-%E0%A6%95%E0%A7%80-36517",
+      "remote_id": "36517",
+      "exam_id": 676
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "মূলধন বাজেটিংকে সর্বদাই ঝুঁকিমুক্ত সিদ্ধান্ত বলা হয় কেন?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%A7%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%9F%E0%A6%BF%E0%A6%82%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%A6%E0%A6%BE%E0%A6%87-%E0%A6%9D%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%BF%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%B8%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%87%E0%A6%A8",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "রিম প্রকল্পের গড় মুনাফার হার নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A6%BF%E0%A6%AE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%A1%E0%A6%BC-%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%AB%E0%A6%BE%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 25,
+      "question_type": "written",
+      "question_text": "প্রকল্পটি জনাব রাবেয়ার জন্য লাভজনক- মতামত দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%9F%E0%A6%BF-%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%B2%E0%A6%BE%E0%A6%AD%E0%A6%9C%E0%A6%A8%E0%A6%95-%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%A4-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 26,
+      "question_type": "written",
+      "question_text": "কক্সবাজারের 'বন্ধন' হোটেলের মুনাফা বাবদ ১ কোটি টাকা বিনিয়োগ হয় । ১ম বছরে শ্রমিক মজুরি, কাঁচামাল ক্রয় ও অন্যান্য ব্যয় বাবদ ৪০% খরচ করে, এতে ২ কোটি টাকা মুনাফা হয়। ২য় বছরে কাঁচামাল ক্রয়ে ১০% ব্যয় বাড়ানোর ফলে মুনাফা ৩ কোটি টাকা হয়।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%A8-%E0%A6%B9%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%AB%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%A6-%E0%A7%A7-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%97-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A7%A7%E0%A6%AE-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A6%9C",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 27,
+      "question_type": "written",
+      "question_text": "অর্থায়ন কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 28,
+      "question_type": "written",
+      "question_text": "উপযুক্ততার নীতি বলতে কী বোঝ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%AA%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%9D",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 29,
+      "question_type": "written",
+      "question_text": "'বন্ধন' হোটেলের ব্যয় বৃদ্ধি কোন মূলধনের অন্তর্ভুক্ত? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%A8-%E0%A6%B9%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%A7%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 676
+    },
+    {
+      "question_no": 30,
+      "question_type": "written",
+      "question_text": "দীপকের মুনাফা বৃদ্ধির বিষয়টি অর্থায়ন নীতির আলোকে বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%AB%E0%A6%BE-%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%9F%E0%A6%BF-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A8-%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 676
+    }
+  ]
+}

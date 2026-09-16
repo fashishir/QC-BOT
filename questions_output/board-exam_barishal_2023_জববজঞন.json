@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "531",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "জীববিজ্ঞান",
+    "subject": "জীববিজ্ঞান",
+    "board": "barishal",
+    "board_bn": "বরিশাল বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 393
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "বহুগুচ্ছ পুংস্তবক দেখা যায় কোন উদ্ভিদে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "জবা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "শিমুল",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ধুতুরা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মটর",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 393
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "DNA ডাবল হেলিক্সের ব্যাস সর্বত্র কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "3 . 4 A °",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "10 A °",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": ". 20 A °",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "34 A °",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 393
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "TMV তে কোনটি থাকে না?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "থায়ামিন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ইউরাসিল",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সাইটোসিন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "গুয়ানিন",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 393
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "নতুন প্রজাতি সৃষ্টিতে কোনটির ভূমিকা নেই?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মূল প্রজাতি থেকে পৃথক হওয়া",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সংকরায়ণ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ঘটনাক্রমে ক্রোমোজোমের সংখ্যা বৃদ্ধি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "স্ব-পরাগায়ণ",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 393
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "নিউক্লিওলাস কোনটি দ্বারা গঠিত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "DNA ও প্রোটিন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "RNA ও প্রোটিন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "প্রোটিন ও লিপিড",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "লিপিড ও পলিস্যাকারাইড",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 393
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "মূলরোম দিয়ে শোষিত পানি কোন কোষের মাধ্যমে পাতায় পৌঁছায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ট্রাকিড",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ভেসেল",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "জাইলেম ফাইবার",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "জাইলেম প্যারেনকাইমা",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 393
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "হিস্টামিন নিঃসৃত করে নিচের কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "লিকোসাইট ও মনোসাইট",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "নিউট্রোফিল ও বেসোফিল",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "নিউট্রোফিল ও ইওসিনোফিল",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ইওসিনোফিল ও বেসোফিল",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 393
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "নিচের কোন অঙ্গটি লবণ ও পানির সমতা রক্ষা করে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বৃক্ক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ফুসফুস",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পাকস্থলি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "হৃৎপিণ্ড",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 393
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "কিডনি বিকল হলে ---",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "রক্তে নাইাজেন এর পরিমাণ কমে যাবে",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মূত্রের পরিমাণ বেড়ে যাবে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "রক্তে ক্রিয়েটিনিন বৃদ্ধি পাবে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কাঁপুনি দিয়ে জ্বর আসে",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 393
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "সব্যাত শ্বসনে ১ অণু গ্লুকোজ হতে কী পরিমাণ শক্তি উৎপন্ন হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "53k Cal/Mole",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "56k Cal/Mole",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "683 k Cal Mole",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "686k Cal Mole",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 393
+    }
+  ]
+}

@@ -1,0 +1,727 @@
+{
+  "exam": {
+    "remote_id": "261",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ইংরেজী (আবশ্যিক) ১ম পত্র",
+    "subject": "ইংরেজী (আবশ্যিক) ১ম পত্র",
+    "board": "dinajpur",
+    "board_bn": "দিনাজপুর বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 10,
+    "cq_count": 28,
+    "id": 558
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "\"Kopotaksha Nad\" is a-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "poem",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "sonnet",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "story",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "epic",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "deprive",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "frustrate",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "wish",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "appeal",
+          "images": []
+        },
+        {
+          "index": 9,
+          "text": "to reject something new",
+          "images": []
+        },
+        {
+          "index": 10,
+          "text": "to deny something new",
+          "images": []
+        },
+        {
+          "index": 11,
+          "text": "to fall something",
+          "images": []
+        },
+        {
+          "index": 12,
+          "text": "to accept something new",
+          "images": []
+        },
+        {
+          "index": 13,
+          "text": "Artistic",
+          "images": []
+        },
+        {
+          "index": 14,
+          "text": "Literary",
+          "images": []
+        },
+        {
+          "index": 15,
+          "text": "Mathematical",
+          "images": []
+        },
+        {
+          "index": 16,
+          "text": "Musical",
+          "images": []
+        },
+        {
+          "index": 17,
+          "text": "brightness",
+          "images": []
+        },
+        {
+          "index": 18,
+          "text": "talent",
+          "images": []
+        },
+        {
+          "index": 19,
+          "text": "formal anger",
+          "images": []
+        },
+        {
+          "index": 20,
+          "text": "formal change",
+          "images": []
+        },
+        {
+          "index": 21,
+          "text": "hope",
+          "images": []
+        },
+        {
+          "index": 22,
+          "text": "fun",
+          "images": []
+        },
+        {
+          "index": 23,
+          "text": "appreciation",
+          "images": []
+        },
+        {
+          "index": 24,
+          "text": "hardship",
+          "images": []
+        },
+        {
+          "index": 25,
+          "text": "Since his childhood",
+          "images": []
+        },
+        {
+          "index": 26,
+          "text": "Since his teenage",
+          "images": []
+        },
+        {
+          "index": 27,
+          "text": "Since his middle age",
+          "images": []
+        },
+        {
+          "index": 28,
+          "text": "After his youth",
+          "images": []
+        },
+        {
+          "index": 29,
+          "text": "showing strong feelings",
+          "images": []
+        },
+        {
+          "index": 30,
+          "text": "closely fit",
+          "images": []
+        },
+        {
+          "index": 31,
+          "text": "comparable",
+          "images": []
+        },
+        {
+          "index": 32,
+          "text": "unhappy",
+          "images": []
+        },
+        {
+          "index": 33,
+          "text": "Kopataksha Nad",
+          "images": []
+        },
+        {
+          "index": 34,
+          "text": "Gitanjali",
+          "images": []
+        },
+        {
+          "index": 35,
+          "text": "Meghnad Bodh Kabya",
+          "images": []
+        },
+        {
+          "index": 36,
+          "text": "Gitobitan",
+          "images": []
+        },
+        {
+          "index": 37,
+          "text": "He left Europe earlier",
+          "images": []
+        },
+        {
+          "index": 38,
+          "text": "He lived in Europe for a short period",
+          "images": []
+        },
+        {
+          "index": 39,
+          "text": "He lived in Sagordari for a short period",
+          "images": []
+        },
+        {
+          "index": 40,
+          "text": "He lived in Europe for a long period",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 558
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "\"Kopotaksha Nad\" is a-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "poem",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "sonnet",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "story",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "epic",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 558
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "The word 'aspire' means-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "deprive",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "frustrate",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "wish",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "appeal",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 558
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "The word 'adopt' means-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "to reject something new",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "to deny something new",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "to fall something",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "to accept something new",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 558
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "What type of talent did the teachers recognise in Madhusudan?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Artistic",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Literary",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Mathematical",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Musical",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 558
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "The word \"ire in the passage means-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "brightness",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "talent",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "formal anger",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "formal change",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 558
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "His days In Europe were full of-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "hope",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "fun",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "appreciation",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "hardship",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 558
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "When did Madhusudan start to believe that his birth was not in the right place?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Since his childhood",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Since his teenage",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Since his middle age",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "After his youth",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 558
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "The word ‘ardent’ means-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "showing strong feelings",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "closely fit",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "comparable",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "unhappy",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 558
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "The name of the first Bangla epic is-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Kopataksha Nad",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Gitanjali",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Meghnad Bodh Kabya",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Gitobitan",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 558
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "\"Madhusudan was a sojourner in Europe\", the line means-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "He left Europe earlier",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "He lived in Europe for a short period",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "He lived in Sagordari for a short period",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "He lived in Europe for a long period",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 558
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "Michael Madhusudan Dutt, popularly known as Madhusudan, was a celebrated 19th century Bangalee poet and dramatist. He was born in Sagordari on the bank of the Kopotaksho River, a village in Keshabpur Upazila under Jashore district. From an early age. Dutt aspired to be an Englishman in form and manner. Though he was born in a sophisticated Hindu family, he converted to Christianity as a young man, much to the ire of his family and adopted the first name Michael. In his childhood, he was recognised by his teachers as a precious child with a gift of literary talent. His early exposure to English education and European literature at home and his college inspired him to imitate the English in taste, manners and intellect. Since his adolescence he started believing that he was born on the wrong side of the planet and that his society was unable to appreciate his talent. He also believed that the west would be more receptive to his creative genius. Madhusudan was an ardent follower of the famous English poet Lord Byron. So after adopting Christianity, he went to Europe and started composing poems and plays in English. They showed his higher level of intellectual ability. However, he failed to gain the right appreciation. To his utter frustration he found that he was not esteemed as a native writer of English literature. Out of his frustration he composed a sonnet in Bangla \"Kopotaksha Nad\" which earned him huge reputation in Bangla. Gradually he could realise that his true identity lay in Bengal and he was a sojourner in Europe. Afterwards he regretted his fascination for England and the West. He came back to Bengal and devoted himself to Bangla literature from this period. He has written the first Bangla epic \"Meghnad Badh Kabya\". Answer the following questions:",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/michael-madhusudan-dutt-popularly-known-as-madhusudan-was-a-celebrated-19th-cent",
+      "remote_id": null,
+      "exam_id": 558
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "Choose the correct answer from the alternatives :",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/choose-the-correct-answer-from-the-alternatives-28948",
+      "remote_id": "28948",
+      "exam_id": 558
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "In what manner did Madhusudan want to grow himself ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/in-what-manner-did-madhusudan-want-to-grow-himself",
+      "remote_id": null,
+      "exam_id": 558
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "Which religion did Madhusudan practice in his middle age ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/which-religion-did-madhusudan-practice-in-his-middle-age",
+      "remote_id": null,
+      "exam_id": 558
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "Why did his college inspire him to imitate the English in taste, manners and intellect ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/why-did-his-college-inspire-him-to-imitate-the-english-in-taste-manners-and-inte",
+      "remote_id": null,
+      "exam_id": 558
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "Which sectors of English literature reflected his intellectual ability ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/which-sectors-of-english-literature-reflected-his-intellectual-ability",
+      "remote_id": null,
+      "exam_id": 558
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "What did Madhusudan realise after coming back to Bengal ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-did-madhusudan-realise-after-coming-back-to-bengal",
+      "remote_id": null,
+      "exam_id": 558
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "Why was Madhusudan frustrated as a writer of English literature ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/why-was-madhusudan-frustrated-as-a-writer-of-english-literature",
+      "remote_id": null,
+      "exam_id": 558
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "Read the following text and answer the questions no. 3 and 4: Humans can neither change the sun's radiation for the earth's orbit around the sun. But they can control the increase in the amount of greenhouse gases and its effect on the atmosphere. Only during the last hundred years the carbon dioxide concentration has been raised alarmingly in the atmosphere and we humans can be held responsible for this. The main cause of the increase in carbon dioxide level in the atmosphere is the burning of fossil fuels. Since the end of the 19 century. Industrial activities increased rapidly giving rise to many factories. These factories required energy, which was produced through the combustion of coal. Besides coal, other sources of energy such as mineral oil and natural gas were also burned to heat our houses, run cars and airplanes or to produce electricity. Nowadays, about $5 million barrels of crude oil are burned daily. Every time a fossil raw material is burned, it releases carbon dioxide into the air. Therefore, it is clear that more and more greenhouse gases like carbon dioxide are being generated worldwide by humans. Moreover, we are also strengthening the greenhouse effect by deforestation, which means cutting down trees. Every year enormous areas of forests are destroyed by people to obtain wood and to clear regions for mining and to create pasture. This loss of the forest causes dual problems. Trees that are burned up release large volumes of carbon dioxide gas into the air. On the other hand, as forests absorb a lot of carbon dioxide from the air and deliver oxygen instead, we also destroy an important storehouse of carbon dioxide when we clear forests.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-following-text-and-answer-the-questions-no-3-and-4humans-can-neither-ch",
+      "remote_id": null,
+      "exam_id": 558
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "Read the above text and fill in each gap with a suitable word based on the information of the text: Fossil fuels are burned at an alarming rate due to (a)___ Coal is one of the fuels used for (b)___ energy. Our atmosphere is being polluted for the (c)___ greenhouse gases day by day. Our (d)___ on fossil fuels should be reduced. We should not destroy our (e)___ which play a vital role to produce oxygen.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-above-text-and-fill-in-each-gap-with-a-suitable-word-based-on-the-infor",
+      "remote_id": null,
+      "exam_id": 558
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "Match the parts of the sentences in columns 'A', 'B' and 'C' to write seven complete sentences: Column A Column B Column C (a) People (i) are being used (i)to increase greenhouse gases to pollute the air. (b) One of those (ii) are mainly responsible (ii) as fuel in cooking (c) Trees also (iii) is one of the reasons (iii) huge carbon dioxide from air d) We know, trees (iv) is to collect (iv) to release carbon dioxide in the air (e) Human beings (v) be aware and  take initiative (v) wood for habitation and furniture (f) Burning coal in factories (vi) are cutting down (vi) to protect our earth for future generation (g) So, we should (vii) consume (vii) tress for various purposes.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/match-the-parts-of-the-sentences-in-columns-a-b-and-c-to-write-seven-complete-se",
+      "remote_id": null,
+      "exam_id": 558
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "Read the following text carefully and answer the questions no. 5 and 6: Bangladesh is blessed with huge inland open water resources. It has numerous rivers, canals, beels, lakes and vast areas of floodplains. Hakaluki haor is one of the major wetlands of Bangladesh. With a land area of 18.386 hectares. it supports a rich biodiversity and provides direct and indirect livelihood benefits to nearly 1,90,000 people. This haor was declared an Ecologically Critical Area in April 1999 by the government of Bangladesh. Hakaluki is a complex ecosystem, containing more than 238 interconnecting beels and jalmahals. The haor falls under two administrative districts, Maulvibazar and Sylhet. Some 1,90,000 people live in the area surrounding the haor. The haor is a very important resting place for migratory waterfowls flying in from the north. The most interesting species is the Barheaded Goose, which is now hardly seen in fresh water wetlands. Many other important species of waterfowls make the haor their temporary home. Unfortunately, illegal poaching has been a threat to the waterfowl population in this vast wetland. Hakaluki haor is known as a good grazing land in winter. People from villages around the haor and also from distant areas send their herds for grazing. During this time, herders make temporary shelters near the beels and graze their animals for a period of 4 to 5 months. The haor had very dense swamp forests in the past, but deforestation and lack of conservation practices have virtually destroyed this unique forest in the last two decades.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-following-text-carefully-and-answer-the-questions-no-5-and-6bangladesh-",
+      "remote_id": null,
+      "exam_id": 558
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "Complete the table below with the information from the passage: Who/What Event/activity Specialty/area Place/time Hakaluki haor is a major wetland with a area of (i)…………….. in Bangladesh The haor was declared Ecological Critical Area (ii)…………. It falls under two districts (iii)…………. (iv)..... is seen which is the most  interesting waterfowl in fresh water The haor (v)…….. as good grazing land in winter Herders make temporary shelters to graze animals for (vi)……..",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/complete-the-table-below-with-the-information-from-the-passagewhowhateventactivi",
+      "remote_id": null,
+      "exam_id": 558
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "Write a summary of the above passage in your own words.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/write-a-summary-of-the-above-passage-in-your-own-words-90128",
+      "remote_id": "90128",
+      "exam_id": 558
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "Write a paragraph on \"A Railway Station\" answers the following questions: (a) What is a railway station? (b) What kind of people are seen in a railway station? (c) What happens when a train arrives in the station? (d) How does a station look when a train leaves? (e) What type of stalls are there in a railway station? (f) Why do we need a railway station?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/write-a-paragraph-on-a-railway-station-answers-the-following-questionsa-what-is-",
+      "remote_id": null,
+      "exam_id": 558
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "Read the beginning of the story and complete it by giving a suitable title to it. One day a crow became very thirsty. He flew from place to place in search of water. But he found no water. He continued his search for water....………….",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-beginning-of-the-story-and-complete-it-by-giving-a-suitable-title-to-it",
+      "remote_id": null,
+      "exam_id": 558
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "Suppose, you are Shamim/Shamima and your friend is Rakib/Rokeya. Recently you and your cousins have planned to go to a picnic, Now, write an e-mail to your friend inviting him/her to join the picnic with you.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/suppose-you-are-shamimshamima-and-your-friend-is-rakibrokeya-recently-you-and-yo",
+      "remote_id": null,
+      "exam_id": 558
+    }
+  ]
+}

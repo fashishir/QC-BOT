@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "1774",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ব্যবসায় উদ্যোগ",
+    "subject": "ব্যবসায় উদ্যোগ",
+    "board": "dhaka",
+    "board_bn": "ঢাকা বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 125
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "কীভাবে ব্যবসায়ের অর্থসংক্রান্ত বাধা দূর করা যায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বিজ্ঞাপন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বিমা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ব্যাংকিং",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পরিবহণ",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 125
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "বিনিয়োগের মাপকাঠিতে শিল্পকে কতভাগে ভাগ করা হয়েছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৩",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৪",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৫",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 125
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "কীভাবে বিক্রেতা ভোক্তাদের আস্থা অর্জন করতে পারে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "উন্নয়নমূলক কর্মকাণ্ডের মাধ্যমে",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বিক্রয়িকতার মাধ্যমে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "নতুন পণ্য ও সেবা সৃষ্টি করে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নৈতিক মনোবল বৃদ্ধি করে",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 125
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "পদ্মা নদীর তীরে স্থাপিত জনাব হাসানের টেনারি শিল্পটি যথাযথ কর্তৃপক্ষ বন্ধ করে দিয়েছে। শিল্প স্থাপনের পূর্বে জনাব হাসানের ম্যাক্রোস্ক্রিনিং এর কোন প্রভাবকটি বিবেচনা করা উচিত ছিল?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "জনসংখ্যা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অর্থনৈতিক পরিবেশ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "প্রাকৃতিক পরিবেশ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "রাজনৈতিক পরিবেশ",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 125
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "ব্যবসায়ীকে রাষ্ট্রের প্রতি কোন দায়িত্ব পালন করতে হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নিয়মিত কর ও রাজস্ব প্রদান",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মানসম্মত পণ্য উৎপাদন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পণ্য প্রাপ্তি সহজতর করা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কাজের উপযুক্ত পরিবেশ সৃষ্টি",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 125
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "যুব উন্নয়ন অধিদপ্তর কীভাবে যুবক ও যুব মহিলাদেরকে আত্মকর্মসংস্থানে উদ্বুদ্ধ করে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "কারিগরি সহায়তাদান",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "প্রযুক্তিবিষয়ক পরামর্শদান",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বিভিন্ন ক্ষেত্রে প্রশিক্ষণদান",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "গবেষণায় সহযোগিতা করা",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 125
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "কোন সফল উদ্যোক্তা রত্নগর্ভা মা অ্যাওয়ার্ড চালু করেন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নায়েব আলী",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "শাহিদা বেগম",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "লুৎফা সানজিদা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "আবুল কালাম আজাদ",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 125
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "পণ্যের প্রতীককে কী বলে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ট্রেডমার্ক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কপিরাইট",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পেটেন্ট",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "লাইসেন্স",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 125
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "কোনটি উন্নত অবকাঠামোগত উপাদানের বহির্ভূত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বিদ্যুৎ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "গ্যাস",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "যাতায়াত",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কর মওকুফ",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 125
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "কোনটি নির্বাচনে অবকাঠামোগত সুবিধার প্রতি লক্ষ্য রাখা প্রয়োজন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পণ্যের বাজার চাহিদা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সঠিক পণ্য নির্বাচন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কর্মী নির্বাচন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "স্থান নির্বাচন",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 125
+    }
+  ]
+}

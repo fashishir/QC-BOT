@@ -1,0 +1,639 @@
+{
+  "exam": {
+    "remote_id": "1798",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "রসায়ন",
+    "subject": "রসায়ন",
+    "board": "dinajpur",
+    "board_bn": "দিনাজপুর বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/written",
+    "mcq_count": 25,
+    "cq_count": 40,
+    "id": 77
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "কোনটি দাহ্য পদার্থ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বেনজিন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ইথার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "রেডিয়াম",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "জাইলিন",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 77
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "কোনটি পরমাণুর আসল পরিচয় বহন করে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ইলেকট্রন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "নিউট্রন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "প্রোটন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ভর সংখ্যা",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 77
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "কোনটির তাপীয় বক্ররেখার লেখচিত্র ভিন্ন হবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "CaCl 2",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Al 2 O 3",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "MgO",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "AlCl 3",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 77
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "কোনটির জ্বলীয় দ্রবণ বিদ্যুৎ পরিবাহী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "তুঁতে",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "চিনি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "গ্লুকোজ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ইউরিয়া",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 77
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "ম্যাঙ্গানিজ মৌলের ইলেকট্রন বিন্যাসে ব্যবহৃত সর্বোচ্চ শক্তিস্তরের মান কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "2",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "3",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "4",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "5",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 77
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "AI 3 + 13 27 আয়নে কতটি ইলেকট্রন আছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "10",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "13",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "14",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "27",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 77
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "26 X মৌলটি – [এখানে 'X' প্রতীকী অর্থে ব্যবহৃত i. রঙিন যৌগ গঠন করে ii. ধাতব হ্যালাইড গঠন করে iii. 6 নং গ্রুপে অবস্থিত নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 77
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "শামুকের খোলসে কোনটি থাকে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "MgCO 3",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "CaCO 3",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Na 2 CO 3",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "K 2 CO 3",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 77
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "বিশুদ্ধ পানিতে এসিড যোগের কারণে যদি H + আয়ন 100. গুণ বেড়ে যায়, তবে উক্ত দ্রবণের pH কত হবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "3",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "4",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "5",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "6",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 77
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "ডুরালুমিন কোন ধাতুর সংকর?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Ca",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Al",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Ni",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Zn",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 77
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "প্রিজারভেটিভস কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A6%AD%E0%A7%87%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%B8-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-38332",
+      "remote_id": "38332",
+      "exam_id": 77
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "আপেক্ষিক পারমাণবিক ভরের একক থাকে না কেন? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%AA%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3%E0%A6%AC%E0%A6%BF%E0%A6%95-%E0%A6%AD%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%95-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "চিত্র 'A' আয়নটির নিউক্লিয়াসের প্রকৃত ভর 6.696 × 10 -23 g হলে, এর নিউট্রন সংখ্যা নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0-a-%E0%A6%86%E0%A7%9F%E0%A6%A8%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%83%E0%A6%A4-%E0%A6%AD%E0%A6%B0-66961023g-%E0%A6%B9%E0%A6%B2%E0%A7%87-%E0%A6%8F%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%A8-%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "দেখাও যে, চিত্র 'B' এর প্রতিটি শক্তিস্তরে অর্বিটালসমূহের ইলেকট্রনের যোগফল 2n 2 ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%93-%E0%A6%AF%E0%A7%87-%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0-b-%E0%A6%8F%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%9F%E0%A6%BF-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%87-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%9F%E0%A6%BE%E0%A6%B2%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9%E0%A7%87%E0%A6%B0-%E0%A6%87%E0%A6%B2%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%AB%E0%A6%B2-2n2",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "[এখানে P, Q, R, X ও Y প্রতীকী অর্থে ব্যবহৃত; প্রচলিত কোনো মৌলের প্রতীক নয়]",
+      "images": [
+        "data:image/png;base64,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"
+      ],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%8F%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A7%87-p-q-r-x-%E0%A6%93-y-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%95%E0%A7%80-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A7%83%E0%A6%A4-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A6%B2%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%AE%E0%A7%8C%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%95-%E0%A6%A8%E0%A7%9F",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "একমুখী বিক্রিয়া কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%8F%E0%A6%95%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%80-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-16602",
+      "remote_id": "16602",
+      "exam_id": 77
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "CaCO 3 এর তাপীয় বিয়োজন একটি তাপহারী বিক্রিয়া-ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/caco3-%E0%A6%8F%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A7%80%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%8B%E0%A6%9C%E0%A6%A8-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে উল্লিখিত পর্যায়টির আকারের ক্রম বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%BF%E0%A6%A4-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে উল্লিখিত শ্রেণি ও পর্যায়ের মৌলগুলোর ধাতব ধর্ম বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%BF%E0%A6%A4-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%8C%E0%A6%B2%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%A4%E0%A6%AC-%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "যৌগ সাধারণ সংকেত n এর মান A C n H 2n+1 OH 12 B C n H 2n 2",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AF%E0%A7%8C%E0%A6%97%C2%A0%E0%A6%B8%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%A4%C2%A0n-%E0%A6%8F%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8%C2%A0acnh2n1-oh%C2%A012bcnh2n%C2%A02",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "কণার গতিতত্ত্ব কাকে বলে",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A6%A3%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "Ag কে মুদ্রা ধাতু বলা হয় কেন?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/ag-%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE-%E0%A6%A7%E0%A6%BE%E0%A6%A4%E0%A7%81-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A7%9F-%E0%A6%95%E0%A7%87%E0%A6%A8",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের 'A' যৌগটি থেকে ডিটারজেন্ট প্রস্তুতি সমীকসরণসহ বর্ণনা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-a-%E0%A6%AF%E0%A7%8C%E0%A6%97%E0%A6%9F%E0%A6%BF-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%A1%E0%A6%BF%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%A4%E0%A6%BF-%E0%A6%B8%E0%A6%AE%E0%A7%80%E0%A6%95%E0%A6%B8%E0%A6%B0%E0%A6%A3%E0%A6%B8%E0%A6%B9-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের 'B' যৌগ হতে ক্লোরো মিথেন প্রস্তুত সম্ভব কি না? রাসায়নিক সমীকরণসহ বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-b-%E0%A6%AF%E0%A7%8C%E0%A6%97-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A7%8B%E0%A6%B0%E0%A7%8B-%E0%A6%AE%E0%A6%BF%E0%A6%A5%E0%A7%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%A4-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%AC-%E0%A6%95%E0%A6%BF-%E0%A6%A8%E0%A6%BE-%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%AE%E0%A7%80%E0%A6%95%E0%A6%B0%E0%A6%A3%E0%A6%B8%E0%A6%B9-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "(i) SiCl 4 +H 2 O→ Si(OH) 4 + HCI (ii) AgNO 3 + KCI→ AgCl + KNO 3 (iii) মিথেনের দহন বিক্রিয়ায় 890 KJ/mole তাপশক্তি উৎপন্ন হয়। [এখানে C-H, O=O এবং O-H এর বন্ধন শক্তি যথাক্রমে 414, 498 এবং 464 KJ/mole.]",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/i-sicl4h2o-sioh4-hci%C2%A0ii-agno3-kci-agcl-kno3%C2%A0iii-%E0%A6%AE%E0%A6%BF%E0%A6%A5%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%B9%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-890-kjmole",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "সুপ্ত যোজনী কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A7%8D%E0%A6%A4-%E0%A6%AF%E0%A7%8B%E0%A6%9C%E0%A6%A8%E0%A7%80-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "উভমুখী বিক্রিয়াকে তুমি কীভাবে একমুখী বিক্রিয়ায় রূপান্তর করবে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%AD%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%80-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A4%E0%A7%81%E0%A6%AE%E0%A6%BF-%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%80-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "উদ্দীপক (iii) নং হতে C=O এর বন্ধন শক্তি নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95-iii-%E0%A6%A8%E0%A6%82-%E0%A6%B9%E0%A6%A4%E0%A7%87-co-%E0%A6%8F%E0%A6%B0-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%A8-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "(i) ও (ii) নং বিক্রিয়ার সাদৃশ্য ও বৈসাদৃশ্য বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/i-%E0%A6%93-ii-%E0%A6%A8%E0%A6%82-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF-%E0%A6%93-%E0%A6%AC%E0%A7%88%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "নিঃসরণ কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%BF%E0%A6%83%E0%A6%B8%E0%A6%B0%E0%A6%A3-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-93331",
+      "remote_id": "93331",
+      "exam_id": 77
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "গাঢ় H 2 SO 4 নিরুদক পদার্থ ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%97%E0%A6%BE%E0%A7%9D-h2so4-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A6%95-%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের (ii) নং এ ব্যবহৃত জারক পদার্থের কেন্দ্রীয় মৌলের জারণ সংখ্যা নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-ii-%E0%A6%A8%E0%A6%82-%E0%A6%8F-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A7%83%E0%A6%A4-%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A6%95-%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A7%9F-%E0%A6%AE%E0%A7%8C%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের (i) নং এ তড়িৎ চালনা শেষে অ্যানোডে উৎপন্ন গ্যাস হতে জীবাণু ধ্বংসকারী পদার্থ তৈরি করে জীবাণু ধ্বংসের ক্রিয়া-কৌশল সমীকরণসহ বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-i-%E0%A6%A8%E0%A6%82-%E0%A6%8F-%E0%A6%A4%E0%A7%9C%E0%A6%BF%E0%A7%8E-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%A8%E0%A6%BE-%E0%A6%B6%E0%A7%87%E0%A6%B7%E0%A7%87-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%A1%E0%A7%87-%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%BE%E0%A6%A3%E0%A7%81-%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%82%E0%A6%B8%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "মৌল পর্যায় পর্যায় গ্রুপ A 2 15 B 3 17 C 4 2 [A, B, C প্রচলিত মৌলের প্রীতক নয়।]",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A7%8C%E0%A6%B2%C2%A0%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F%C2%A0%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AA%C2%A0a215b317c42a-b-c-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A6%B2%E0%A6%BF%E0%A6%A4-%E0%A6%AE%E0%A7%8C%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%A4%E0%A6%95-%E0%A6%A8%E0%A7%9F",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 25,
+      "question_type": "written",
+      "question_text": "নিউক্লিয়ার ফিশন বিক্রিয়া কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AB%E0%A6%BF%E0%A6%B6%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 26,
+      "question_type": "written",
+      "question_text": "ইথিন ও বেনজিন উভয়ের স্কুল সংকেত একই ব্যাখ্যা দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%87%E0%A6%A5%E0%A6%BF%E0%A6%A8-%E0%A6%93-%E0%A6%AC%E0%A7%87%E0%A6%A8%E0%A6%9C%E0%A6%BF%E0%A6%A8-%E0%A6%89%E0%A6%AD%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B2-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%A4-%E0%A6%8F%E0%A6%95%E0%A6%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 27,
+      "question_type": "written",
+      "question_text": "ইলেকট্রন বিন্যাস দেখিয়ে A, B, C মৌলসমূহ শনাক্ত কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%87%E0%A6%B2%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BF%E0%A7%9F%E0%A7%87-a-b-c-%E0%A6%AE%E0%A7%8C%E0%A6%B2%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9-%E0%A6%B6%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 77
+    },
+    {
+      "question_no": 28,
+      "question_type": "written",
+      "question_text": "AB 3 এবং CB 2 যৌগের মধ্যে কোনটি পোলার দ্রাবকে দ্রবণীয়? বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/ab3-%E0%A6%8F%E0%A6%AC%E0%A6%82-cb2-%E0%A6%AF%E0%A7%8C%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%A3%E0%A7%80%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 77
+    }
+  ]
+}

@@ -1,0 +1,730 @@
+{
+  "exam": {
+    "remote_id": "775",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "পৌরনীতি ও নাগরিকতা",
+    "subject": "পৌরনীতি ও নাগরিকতা",
+    "board": "chattogram",
+    "board_bn": "চট্টগ্রাম বোর্ড",
+    "year": 2021,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/written",
+    "mcq_count": 30,
+    "cq_count": 6,
+    "id": 704
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "প্রতিরক্ষা বাহিনী গঠনের দায়িত্ব কাদের?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মন্ত্রিসভার",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "আইনসভার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বিচার বিভাগের",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নির্বাচন কমিশনের",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 704
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "রাষ্ট্রের চরম, পরম ও সর্বোচ্চ ক্ষমতা হলো—",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "জনসমষ্টি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সরকার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "নির্দিষ্ট ভূখণ্ড",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সার্বভৌমত্ব",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 704
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "কে বলতেন, আমিই রাষ্ট্র?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "চতুর্দশ লুই",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "জন লক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "টমাস হবস",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "রুশো",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 704
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "নির্বাচন হলো— i. জনপ্রতিনিধি বাছাই ii. ভোটদানে বাধা দেওয়া iii. জনমত প্রকাশের মাধ্যম নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 704
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "জনগণের প্রতিনিধি হিসেবে কাজ করে- i. সরকার ii. রাষ্ট্র iii. পরিবার নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 704
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "বিচার বিভাগের সর্বোচ্চ আদালতের নাম কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "হাইকোর্ট",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সুপ্রিম কোর্ট",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "জেলা জজের আদালত",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সাবজজ আদালত",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 704
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "পিন্টুর বাবা বর্তমানে কোন বিভাগের সদস্য?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "আইন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বিচার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "শাসন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "প্রতিরক্ষা",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 704
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "পিন্টুর বাবা বর্তমানে কোন বিভাগের সদস্য?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "আইন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বিচার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "শাসন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "প্রতিরক্ষা",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 704
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "আন্দোলন “খ”মুক্তির সনদ কত সালে সংঘটিত হয়েছিল?",
+      "images": [
+        "data:image/png;base64,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"
+      ],
+      "options": [
+        {
+          "index": 1,
+          "text": "১৯৪০",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "১৯৫২",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১৯৬৬",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১৯৭০",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 704
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "আন্দোলন “খ”মুক্তির সনদ কত সালে সংঘটিত হয়েছিল?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "১৯৪০",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "১৯৫২",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১৯৬৬",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১৯৭০",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 704
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "উক্ত আন্দোলনটির লক্ষ্য কী ছিল? i. পাকিস্তানের অর্থ পাচার নিয়ন্ত্রণে কার্যকর ব্যবস্থা গ্রহণ ii. দুই অঞ্চলের বৈদেশিক মুদ্রা অর্জন এর হিসাব থেকে বিরত থাকা iii. সংসদীয় পদ্ধতির সরকার গঠনের ব্যবস্থা করা নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 704
+    },
+    {
+      "question_no": 12,
+      "question_type": "mcq",
+      "question_text": "উদ্দীপকের 'x' রাষ্ট্রটি কোন ধরনের রাষ্ট্র?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "এককেন্দ্রিক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "একনায়কতান্ত্রিক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "যুক্তরাষ্ট্রীয়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "গণতান্ত্রিক",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 704
+    },
+    {
+      "question_no": 13,
+      "question_type": "mcq",
+      "question_text": "উদ্দীপকের 'x' রাষ্ট্রটি কোন ধরনের রাষ্ট্র?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "এককেন্দ্রিক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "একনায়কতান্ত্রিক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "যুক্তরাষ্ট্রীয়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "গণতান্ত্রিক",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2021/mcq",
+      "exam_id": 704
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "[ডান পাশের সংখ্যা প্রশ্নের পূর্ণমান জ্ঞাপক। নিচের উদ্দীপকগুলো পড় এবং সংশ্লিষ্ট প্রশ্নের উত্তর দাও। যেকোনো সাতটি প্রশ্নের উত্তর দাও। ]",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A1%E0%A6%BE%E0%A6%A8-%E0%A6%AA%E0%A6%BE%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A7%8D%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%AA%E0%A6%95-%E0%A6%A8%E0%A6%BF%E0%A6%9A%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%AA%E0%A7%9C-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%B8%E0%A6%82%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "ক খ * রাষ্ট্রপ্রধান প্রকৃত শাসক ও সরকারপ্রধান * ক্ষমতার পৃথকীকরণ হয় * দলীয় মনোভাব কম থাকে * আইন ও শাসন বিভাগের মধ্যে ঘনিষ্ঠ সম্পর্ক * আইনসভা সার্বভৌম ক্ষমতার অধিকারী * নিয়মতান্ত্রিক রাষ্ট্রপ্রধান",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A6%96%C2%A0-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%83%E0%A6%A4-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%95-%E0%A6%93-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%83%E0%A6%A5%E0%A6%95%E0%A7%80%E0%A6%95%E0%A6%B0%E0%A6%A3-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%A6%E0%A6%B2%E0%A7%80%E0%A6%AF%E0%A6%BC-%E0%A6%AE%E0%A6%A8%E0%A7%8B%E0%A6%AD%E0%A6%BE%E0%A6%AC-%E0%A6%95%E0%A6%AE",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "নিয়মতান্ত্রিক রাজতন্ত্র কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "সমাজতন্ত্রে কেন ব্যক্তিগত মালিকানা স্বীকার করা হয় না?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%97%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%80%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%A8%E0%A6%BE",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "'ক' ছকে কোন সরকারব্যবস্থাকে নির্দেশ করে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95-%E0%A6%9B%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "ছক 'ক' ও ছক 'খ'-এর মধ্যে কোন ধরনের সরকারব্যবস্থা বাংলাদেশে কার্যকর রয়েছে? তোমার উত্তরের পক্ষে যুক্তি দাও ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9B%E0%A6%95-%E0%A6%95-%E0%A6%93-%E0%A6%9B%E0%A6%95-%E0%A6%96%E0%A6%8F%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A7%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A6%B0-%E0%A6%B0%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "রাইসা উচ্চশিক্ষার জন্য জাপানে যায়। সে দেখতে পায় এ দেশের সরকার কেন্দ্র থেকে পরিচালিত হয়। এ ব্যবস্থায় সরকারের কোনো আলাদা অস্তিত্ব নেই। অন্যদিকে রাইসার চাচা মিজান সাহেব কানাডায় বসবাস করেন। এখানে প্রদেশগুলোর মধ্যে ক্ষমতা ভাগ করে দেওয়া হয়। এই সরকার ব্যবস্থাটি ব্যয়বহুল।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%B8%E0%A6%BE-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%8F-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "নিরঙ্কুশ রাজতন্ত্র কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B6-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "কল্যাণমূলক রাষ্ট্রে কেন জনগণের মৌলিক চাহিদা পূরণ করা হয়?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A3%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%9C%E0%A6%A8%E0%A6%97%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%8C%E0%A6%B2%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A6%E0%A6%BE-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A6%A3-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%B9%E0%A6%AF%E0%A6%BC",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "মিজান সাহেবের বসবাসরত দেশটিতে কোন ধরনের সরকারব্যবস্থা চালু রয়েছে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%B0%E0%A6%A4-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A7%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%B0%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে বর্ণিত সরকারব্যবস্থার মধ্যে বাংলাদেশে কোন ধরনের সরকারব্যবস্থা অধিক কার্যকর? তোমার উত্তরের পক্ষে যুক্তি দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A7%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "প্রাপ্তি 'x' দেশের নাগরিক। তার দেশে প্রতি পাঁচ বছর পর পর জাতীয় সংসদ নির্বাচন অনুষ্ঠিত হয়। নির্বাচনে অর্ধেকের বেশি আসনে জয়লাভকারী দল সরকার গঠন করেন এবং দলনেতা প্রধানমন্ত্রী নির্বাচিত হন। তিনি মন্ত্রীদের মধ্যে দায়িত্ব বণ্টন করেন। তার মন্ত্রিসভা প্রকৃত শাসনক্ষমতার অধিকারী। এ ব্যবস্থায় আইন বিভাগ ও শাসন বিভাগের মধ্যে সম্পর্ক অত্যন্ত ঘনিষ্ঠ ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BF-x-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%A6-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%8D",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "গণতন্ত্রের সংজ্ঞা দাও ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%97%E0%A6%A3%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "যুক্তরাষ্ট্রীয় সরকার দুর্বল সরকার কেন?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%B2-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%87%E0%A6%A8",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে প্রাপ্তির দেশে কোন ধরনের সরকারব্যবস্থা চালু আছে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A7%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%86%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে উল্লিখিত সরকারব্যবস্থা বাংলাদেশের জন্য কতটুকু উপযোগী? বিশ্লেষণ কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%BF%E0%A6%A4-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A6%A4%E0%A6%9F%E0%A7%81%E0%A6%95%E0%A7%81-%E0%A6%89%E0%A6%AA%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A7%80-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "সোহেল একটি কারখানায় চাকরি করত। মুক্তিযুদ্ধের সময় তার কারখানার অনেকেই যুদ্ধে যোগদান করেন। তাদের দেখাদেখি একদিন সে বাড়ি থেকে পালিয়ে একটি বাহিনীর অধীনে প্রশিক্ষণ নিয়ে মুক্তিযুদ্ধে অংশগ্রহণ করেন। পাকিস্তানি সেনাদের বিরুদ্ধে যুদ্ধে অংশগ্রহণকালে গুলির আঘাতে তার একটি পা হারায়। যুদ্ধ শেষে ফিরে এসে তার চাকরি ও পরিবারের ফিরে পায়নি ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%8B%E0%A6%B9%E0%A7%87%E0%A6%B2-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A6%A4-%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%87%E0%A6%95%E0%A7%87%E0%A6%87-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%AF%E0%A7%8B%E0%A6%97",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "মৌলিক গণতন্ত্র কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A7%8C%E0%A6%B2%E0%A6%BF%E0%A6%95-%E0%A6%97%E0%A6%A3%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%95%E0%A7%80-98455",
+      "remote_id": "98455",
+      "exam_id": 704
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "রাষ্ট্রভাষা সংগ্রাম পরিষদ কেন গঠন করা হয়?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE-%E0%A6%B8%E0%A6%82%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B7%E0%A6%A6-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%97%E0%A6%A0%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%B9%E0%A6%AF%E0%A6%BC",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "সোহেল মুক্তিযুদ্ধে কোন বাহিনীর সদস্য ছিলেন? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%8B%E0%A6%B9%E0%A7%87%E0%A6%B2-%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF-%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "সোহেল ও তার সঙ্গীরা এদেশের শ্রেষ্ঠ সন্তান মূল্যায়ন কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%8B%E0%A6%B9%E0%A7%87%E0%A6%B2-%E0%A6%93-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%80%E0%A6%B0%E0%A6%BE-%E0%A6%8F%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%A0-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A8-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "জনাব সেলিম সাহেব সরকার পরিচালনার একটি বিভাগের প্রধান। তিনি কর্তৃক নিয়োগ লাভ করেন। এই বিভাগের সদস্যগণ ৬৭ বছর বয়স পূর্ণ হওয়া পর্যন্ত স্বীয় পদে কর্মরত থাকতে পারেন। তার বিভাগের কাছে রাষ্ট্রপতি কোনো আইনের ব্যাখ্যা চাইলে এ বিভাগ রাষ্ট্রপতিকে পরামর্শ দিয়ে থাকেন ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%B8%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AE-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%83%E0%A6%95-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%97-%E0%A6%B2%E0%A6%BE%E0%A6%AD-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%A8",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "সচিবালয় কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A6%9A%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A7%9F-%E0%A6%95%E0%A7%80-22474",
+      "remote_id": "22474",
+      "exam_id": 704
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "বাংলাদেশের রাষ্ট্রপতি নির্বাচনের পদ্ধতিটি বর্ণনা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AA%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 25,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের সেলিম সাহেব সরকারের কোন বিভাগের প্রধান? তার গঠন ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AE-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A6%A0%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 704
+    },
+    {
+      "question_no": 26,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের বিভাগটি ন্যায়বিচার সংরক্ষণে গুরুত্বপূর্ণ ভূমিকা পালন করে— তোমার উত্তরের পক্ষে যুক্তি দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A6%9F%E0%A6%BF-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 704
+    }
+  ]
+}

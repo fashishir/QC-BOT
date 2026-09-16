@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "1780",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ব্যবসায় উদ্যোগ",
+    "subject": "ব্যবসায় উদ্যোগ",
+    "board": "dinajpur",
+    "board_bn": "দিনাজপুর বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 113
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "ব্যবসাযের আধুনিক যুগের বৈশিষ্ট্য কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বৃহদায়তন উৎপাদন ব্যবস্থা প্রচলন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ব্যবসায় সংগঠনের উদ্ভব",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বাজার ও শহর সৃষ্টি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "দ্রব্য বিনিময়",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 113
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি আইনগত পরিবেশের উপাদান?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মানবসম্পদ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সরকারি নীতিমালা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ভোক্তা আইন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "প্রযুক্তি শিক্ষা",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 113
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "উদ্যোক্তাগণ ভূমিকা রাখে- i জীবনযাত্রার মান উন্নয়নে ii. মানবসম্পদ উন্নয়নে. iii. কর্মসংস্থান সৃষ্টিতে নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 113
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "ব্যবসায় উদ্যোগ উন্নয়নের জন্য প্রয়োজন-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "চাকরির প্রতি আগ্রহ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কর্মসংস্থান",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সাধারণ শিক্ষা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "প্রয়োজনীয় অর্থসংস্থান",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 113
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "আত্মকর্মসংস্থানে সবচেয়ে বড় মূলধন কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "দক্ষতা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "শিক্ষা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অভিজ্ঞতা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বুদ্ধিমত্তা",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 113
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "কপিরাইট হলো ব্যবসায় উদ্যোক্তাদের-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মেধাসম্পদ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সাধারণ সম্পদ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "চলতিসম্পদ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কাল্পনিক সম্পদ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 113
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "পণ্যের মান নিয়ন্ত্রণকারী প্রতিষ্ঠান কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বিসিক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বিটাক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বিএসটিআই",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বিটিটিআর",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 113
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "ফ্রানসাইজিং ব্যবসায়ের প্রধান বৈশিষ্ট্য কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মুনাফা অর্জন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "উৎপাদন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বাজারজাতকরণ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "চুক্তিপত্র",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 113
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "ব্যবসায় কোন ধরনের প্রতিষ্ঠান?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "রাজনৈতিক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "পারিবারিক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "রাষ্ট্রীয়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সামাজিক",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 113
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "নট্রামস কোন মন্ত্রণালয় কর্তৃক পরিচালিত প্রতিষ্ঠান",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "শিক্ষা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "যুব ও ক্রীড়া",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মহিলা বিষয়ক",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সমাজকল্যাণ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 113
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "exam": {
+    "remote_id": "572",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "উচ্চতর গণিত",
+    "subject": "উচ্চতর গণিত",
+    "board": "dinajpur",
+    "board_bn": "দিনাজপুর বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023-98021/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 363
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "একটি ত্রিভুজের তিনটি কোণের অনুপাত 1 : 2 : 3 বৃহত্তম কোণের বৃত্তীয়মান কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "π 6",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "π 4",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "π 3",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "π 2",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023-98021/mcq",
+      "exam_id": 363
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "1 - x k 7 এর বিস্তৃতিতে x 3 এর সহগ - 35 27 হলে, k এর মান কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "-35",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "-3",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "3",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "35",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023-98021/mcq",
+      "exam_id": 363
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "3x + y = 10 রেখাটি x- অক্ষকে যে বিন্দুতে ছেদ করে তার স্থানাংক কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "(0 , 01)",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "( 0 , -10)",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "( - 10 3 , 0 )",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "( 10 3 , 0 )",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023-98021/mcq",
+      "exam_id": 363
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "p ( a,b,c) = ab + bc + ca হলে i. p (a,b,c ) প্রতিসম রাশি ii.  p ( a,b,c) চক্র ক্রমিক রাশি iii. p (-1, 0, 1 ) =0 নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i, ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i, iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii, iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii, iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023-98021/mcq",
+      "exam_id": 363
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "1.2 কে মূলদীয় ভগ্নাংশে প্রকাশ করলে কত হবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "4/3",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "11/9",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "6/5",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "11/10",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023-98021/mcq",
+      "exam_id": 363
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "ত্রিভুজের তিনটি শীর্ষবিন্দু দিয়ে অঙ্কিত বৃত্তের কেন্দ্রকে ত্রিভুজের কী বলে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অন্তঃকেন্দ্র",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "পরিকেন্দ্র",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ভরকেন্দ্র",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "লম্ব বিন্দু",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023-98021/mcq",
+      "exam_id": 363
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "P ( x ) = 3 x 2 + 2 x 2 - 7 x + 8 বহুপদীর মুখ্য সহগ কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "8",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "3",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "2",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "-7",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023-98021/mcq",
+      "exam_id": 363
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "একটি মুদ্রা তিনবার নিক্ষেপ করা হলে, বড়জোর একটি T আসার সম্ভাবনা কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "1 2",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "3 8",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "7 8",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "1 8",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023-98021/mcq",
+      "exam_id": 363
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "c o t θ = 3 4 এবং π < θ < 3 π 2 হলে_ নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023-98021/mcq",
+      "exam_id": 363
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "ধারাটির ১০ তম পদ কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "- 1 2 10",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "- 1 2 9",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "1 2 9",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "1 2 10",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023-98021/mcq",
+      "exam_id": 363
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "ধারাটির ১০ তম পদ কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "- 1 2 10",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "- 1 2 9",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "1 2 9",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "1 2 10",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023-98021/mcq",
+      "exam_id": 363
+    }
+  ]
+}

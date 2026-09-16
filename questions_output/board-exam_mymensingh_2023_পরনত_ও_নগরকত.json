@@ -1,0 +1,659 @@
+{
+  "exam": {
+    "remote_id": "495",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "পৌরনীতি ও নাগরিকতা",
+    "subject": "পৌরনীতি ও নাগরিকতা",
+    "board": "mymensingh",
+    "board_bn": "ময়মনসিংহ বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 30,
+    "cq_count": 55,
+    "id": 439
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "কোনটির মাধ্যমে মুসলমান জনসাধারণের মধ্যে আলাদা আবাসভূমির চিন্তা জাগ্রত হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নেহেরু রিপোর্ট",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বঙ্গভঙ্গ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "লাহোর প্রস্তাব",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "দ্বি-জাতি তত্ত্ব",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 439
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "বাংলাদেশের নাগরিকের নিয়মিত কর প্রদান করা প্রয়োজন, কারণ— i. দেশের প্রশাসন পরিচালনার জন্য ii. প্রতিরক্ষা ও উন্নয়নমূলক কাজের জন্য iii. রাজনৈতিক কর্মকান্ড পরিচালনার জন্য নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 439
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "অভিশংসন কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "এক ধরনের অধ্যাদেশ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কোনো সুনির্দিষ্ট কারণে অপসারণ করা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "যে কোনো কারণে অপসারণ করা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কূটনৈতিক সম্পর্ক",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 439
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "প্রধানমন্ত্রীর নির্দেশ ও পরামর্শে জাতীয় সংসদে বাজেট উত্থাপন করেন কে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অর্থসচিব",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অর্থমন্ত্রী",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "প্রধানমন্ত্রী",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "স্পিকার",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 439
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "কোন দেশ সার্কের সদস্য নয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বাংলাদেশ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ভারত",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "রাশিয়া",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ভুটান",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 439
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "সুমি আমাকে বললো আন্তর্জাতিক আদালতের বিচারক নিয়োগের গুরুত্বপূর্ণ কাজ জাতিসংঘ করে থাকে। উল্লিখিত কাজটি জাতিসংঘের কোন শাখাটি করে থাকে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সাধারণ ও নিরাপত্তা পরিষদ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অছি পরিষদ, নিরাপত্তা পরিষদ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সামাজিক পরিষদ ও অর্থনৈতিক পরিষদ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সাধারণ পরিষদ ও অছি পরিষদ",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 439
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "ছয়দফা কর্মসূচি কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বৈষম্যের এক বলিষ্ঠ প্রতিবাদ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "একটি নির্বাচনি ইশতেহার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "প্রাতিষ্ঠানিক নিয়ম",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সাংবিধানিক নিয়ম",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 439
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "বাংলাদেশের আইনসভার নাম কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সুপ্রীম কোর্ট",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "হাইকোর্ট",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "জাতীয় সংসদ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সচিবালয়",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 439
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "ঐশী মতবাদ অনুসারে শাসক একাধারে- i. রাষ্ট্রপ্রধান ii. সরকারপ্রধান iii. ধর্মীয় প্রধান নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 439
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "ছয় দফার মূল লক্ষ্য কী ছিল?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মুসলমানদের মুক্তি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বাঙালির মুক্তি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অর্থনৈতিক সমৃদ্ধি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "রাজনৈতিক ক্ষমতা দখল",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 439
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "ক' রাষ্ট্রের সংবিধান জনগণের আচার-অনুষ্ঠানের ভিত্তিতে গড়ে উঠেছে। এটি পরিবর্তিত পরিস্থিতির সাথে খাপ খেয়ে পরিবর্তন করা যায় বিধায় সে দেশে বিপ্লবের সম্ভাবনা কম থাকে। অপরদিকে 'খ' রাষ্ট্রের সংবিধানটি কখনও কখনও প্রগতির অন্তরায় হিসেবে প্রতীয়মান হয়, প্রয়োজনে জনগণ বিপ্লব করতে বাধ্য হয়। আইনসভার দুই-তৃতীয়াংশ সদস্যদের অনুমতি ব্যতীত কোনো ধারা পরিবর্তন করা যায় না।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%9C%E0%A6%A8%E0%A6%97%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%A1%E0%A6%BC%E0%A7%87-%E0%A6%89%E0%A6%A0%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%8F%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B8",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "সংবিধান কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A7%80-81096",
+      "remote_id": "81096",
+      "exam_id": 439
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "সংবিধান রাষ্ট্রের দর্পণ -ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%AA%E0%A6%A3-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "'ক' রাষ্ট্রের সংবিধান প্রণয়ন পদ্ধতিটি ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%AF%E0%A6%BC%E0%A6%A8-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "'খ' রাষ্ট্রের সংবিধানটি বাংলাদেশের সংবিধানের বৈশিষ্ট্যের প্রতিচ্ছবি—উক্তিটির যথার্থতা বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%96-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%AC%E0%A6%BF%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AF%E0%A6%A5%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "মিঃ আজিজ বাংলাদেশ সেনাবাহিনীতে কর্মরত। ২০১৫ সালে তিনি একটি আন্তর্জাতিক সংস্থার অধীনে গোলযোগপূর্ণ সুদানে শান্তি রক্ষায় গুরুত্বপূর্ণ ভূমিকা পালন করেন। অন্যদিকে মিঃ জহির বেসামরিক নাগরিক হওয়া সত্ত্বেও অন্য একটি আন্তর্জাতিক সংস্থার মহাসচিব পদে দায়িত্ব পালন করেন। সংস্থাটি বাংলাদেশে মুক্তিযুদ্ধকালীন সরকারের পক্ষে জনমত সৃষ্টিতে কাজ করেছে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%BF%E0%A6%83-%E0%A6%86%E0%A6%9C%E0%A6%BF%E0%A6%9C-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%B0%E0%A6%A4-%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AB-%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%A7",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "কমনওয়েলথ প্রধান কে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A6%AE%E0%A6%A8%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2%E0%A6%A5-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "অছি এলাকা কী? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%85%E0%A6%9B%E0%A6%BF-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0-55798",
+      "remote_id": "55798",
+      "exam_id": 439
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "মিঃ আজিজ কোন আন্তর্জাতিক সংস্থার অধীনে কর্মরত? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%BF%E0%A6%83-%E0%A6%86%E0%A6%9C%E0%A6%BF%E0%A6%9C-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%A7%E0%A7%80%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%B0%E0%A6%A4-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "মিঃ জহির যে আন্তর্জাতিক সংস্থার মহাসচিব তার সাথে বাংলাদেশের সম্পর্ক বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%BF%E0%A6%83-%E0%A6%9C%E0%A6%B9%E0%A6%BF%E0%A6%B0-%E0%A6%AF%E0%A7%87-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%9A%E0%A6%BF%E0%A6%AC-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A5%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "১৯৮৫ সালে দক্ষিণ এশিয়ার কয়েকটি রাষ্ট্র মিলে 'A' সংস্থাটি গড়ে তোলে। সংস্থাটি সদস্য রাষ্ট্রগুলোকে জাতীয়ভাবে আত্মনির্ভরশীল হওয়ার জন্য দরকারী উদ্যোগ গ্রহণ করে। এছাড়াও সংস্থাটি শিক্ষার মানোন্নয়ন, দারিদ্র দূরীকরণ, সুস্বাস্থ্য নিশ্চিতকরণে কাজ করে যাচ্ছে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A7%A7%E0%A7%AF%E0%A7%AE%E0%A7%AB-%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%87-a-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%9F%E0%A6%BF-%E0%A6%97%E0%A6%A1%E0%A6%BC%E0%A7%87-%E0%A6%A4%E0%A7%8B%E0%A6%B2%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "জাতিসংঘের প্রথম মহাসচিব এর নাম কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%9A%E0%A6%BF%E0%A6%AC-%E0%A6%8F%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE-%E0%A6%95%E0%A7%80",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "লিগ অব নেশনস কেন স্থায়িত্ব লাভ করেনি?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B2%E0%A6%BF%E0%A6%97-%E0%A6%85%E0%A6%AC-%E0%A6%A8%E0%A7%87%E0%A6%B6%E0%A6%A8%E0%A6%B8-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%B2%E0%A6%BE%E0%A6%AD-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A6%BF",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "'A' সংস্থাটির গঠন ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/a-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A6%A0%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "বাংলাদেশের সাথে 'A' সংস্থাটির সম্পর্ক বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A5%E0%A7%87-a-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "'A' রাষ্ট্রের সরকার ও সংবিধান সম্পর্কে খুঁটিনাটি বর্ণনা করতে গিয়ে শিক্ষক জনাব আবদুল হাই বলেন যে, সংবিধান প্রণয়ন করা হয় ১৯৭২ সালে। উল্লিখিত দেশটির সংবিধান লিখিত ও দুষ্পরিবর্তনীয়। উক্ত সংবিধানে ইতোমধ্যে ষোলটি সংশোধনী গৃহীত হয়েছে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/a-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%93-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A7%87-%E0%A6%96%E0%A7%81%E0%A6%81%E0%A6%9F%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95-%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%86%E0%A6%AC%E0%A6%A6",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "রাষ্ট্রের চালিকা শক্তি কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "'অলিখিত সংবিধান প্রগতির সহায়ক ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%85%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%BF%E0%A6%A4-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%97%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%95-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "'A' রাষ্ট্রের সংবিধান প্রণয়ন পদ্ধতি ব্যাখ্যা কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/a-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%AF%E0%A6%BC%E0%A6%A8-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "'A' রাষ্ট্রের সংবিধান উত্তম সংবিধান – তোমার মতামত দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/a-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%AE-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%A4-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "'ক' অঞ্চলে রাতের অন্ধকারে ঘুমন্ত মানুষদের মারা হয়। এর ফলে উক্ত অঞ্চলে যুবকরা প্রতিবেশি দেশে গিয়ে আশ্রয় নেয় এবং প্রশিক্ষণ গ্রহণ করে। যুবকরা নিজ এলাকায় ফিরে এসে শত্রুদের বিরুদ্ধে রুখে দাঁড়াতে সক্ষম হয়। অবশেষে তারা তাদের অঞ্চলকে শত্রুমুক্ত করে। বিশ্বের মানচিত্রে 'A' অঞ্চলটি একটি রাষ্ট্র হিসেবে স্বীকৃতি পায়।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%98%E0%A7%81%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%8F%E0%A6%B0-%E0%A6%AB%E0%A6%B2%E0%A7%87-%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "কাকে মুখ্যমন্ত্রী করে যুক্তফ্রন্ট মন্ত্রিসভা গঠন করা হয়?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%AB%E0%A7%8D%E0%A6%B0%E0%A6%A8%E0%A7%8D%E0%A6%9F-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A6%AD%E0%A6%BE-%E0%A6%97%E0%A6%A0%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%B9%E0%A6%AF%E0%A6%BC",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "দ্বিজাতি তত্ত্ব বলতে কী বোঝায়?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF-%E0%A6%A4%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%AC%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%9D%E0%A6%BE%E0%A6%AF%E0%A6%BC-85750",
+      "remote_id": "85750",
+      "exam_id": 439
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "'ক' অঞ্চলে যে আন্দোলনকে নির্দেশ করে তার সংগঠন ও পরিচালনা ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A7%87-%E0%A6%AF%E0%A7%87-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%97%E0%A6%A0%E0%A6%A8-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 25,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে 'ক' অঞ্চলের আন্দোলনটি ছিল স্বতন্ত্র জাতিসত্ত্বার চেতনা – বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%95-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8%E0%A6%9F%E0%A6%BF-%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A7%87%E0%A6%A4%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 26,
+      "question_type": "written",
+      "question_text": "রাকিব বাংলাদেশে জন্মগ্রহণ করেছে। পড়ালেখা শেষ করে সে যুক্তরাষ্ট্রে যায় এবং সেখানে যুক্তরাষ্ট্রের নাগরিক মেরিনাকে বিবাহ করে বসবাস করছে। মেরিনার বাবা-মা যুক্তরাষ্ট্রের নাগরিক।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%AC-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AE%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%BE-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%B8%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%A8",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 27,
+      "question_type": "written",
+      "question_text": "তথ্য অধিকার অর্থ কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5-%E0%A6%95%E0%A7%80",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 28,
+      "question_type": "written",
+      "question_text": "নাগরিকতা বলতে কী বোঝায়?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%9D%E0%A6%BE%E0%A6%AF%E0%A6%BC",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 29,
+      "question_type": "written",
+      "question_text": "মেরিনা কোন নীতিতে যুক্তরাষ্ট্রের নাগরিকতা লাভ করেছে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%B2%E0%A6%BE%E0%A6%AD-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 439
+    },
+    {
+      "question_no": 30,
+      "question_type": "written",
+      "question_text": "রাকিব দ্বৈত নাগরিকতা লাভ করতে পারে । - - - বক্তব্যটির যথার্থতা নিরূপণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%AC-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A7%88%E0%A6%A4-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%B2%E0%A6%BE%E0%A6%AD-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AF%E0%A6%A5%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 439
+    }
+  ]
+}

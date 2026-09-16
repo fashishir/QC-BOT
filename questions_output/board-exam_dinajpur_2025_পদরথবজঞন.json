@@ -1,0 +1,648 @@
+{
+  "exam": {
+    "remote_id": "1770",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "পদার্থবিজ্ঞান",
+    "subject": "পদার্থবিজ্ঞান",
+    "board": "dinajpur",
+    "board_bn": "দিনাজপুর বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/written",
+    "mcq_count": 25,
+    "cq_count": 40,
+    "id": 131
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "কোনটি মৌলিক রাশি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "তাপমাত্রা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বেগ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "তাপ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বল",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 131
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "Nkg -1 কীসের একক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বল",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ত্বরণ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "দূরত্ব",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কাজ",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 131
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "50m উচ্চতা থেকে বস্তুকে নিচে ফেলে দেয়া হলে কত মি/সে. বেগে ভূমিকে আঘাত করবে? [ g = 9 . 8 m / s 2 ]",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "22.13",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "31.3",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "100",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "980",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 131
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "সাইকেলের প্যাডেলের গতি কোন ধরনের গতি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "চলন গতি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "স্পন্দন গতি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "দোলন গতি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ঘূর্ণন গতি",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 131
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "কোনটি ফসিল জ্বালানি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সৌরশক্তি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "লাকড়ি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পরমাণুশক্তি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "গ্যাস",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 131
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "জড়তা i. বস্তুর স্থিতি অবস্থা বজায় রাখতে সাহায্য করে ii. বস্তুকে সমত্বরণে গতিশীল রাখে iii. বস্তুর ভরের সাথে সম্পর্কিত নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 131
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "এক পরমাণু ইউরিনিয়ামের ফিশনে কয়টি নিউট্রন নির্গত হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "2 টি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "3 টি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "4 টি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৩ টি",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 131
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "ছুড়ির একপাশ তীক্ষ্ণ হওয়ার কারণ কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বল বৃদ্ধি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ঘর্ষণ বৃদ্ধি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "চাপ বৃদ্ধি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ত্বরণ বৃদ্ধি",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 131
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "তরলের চাপ- i. গভীরতা বৃদ্ধির সাথে বৃদ্ধি পায় ii. ঘনত্ব বৃদ্ধি পেলে বৃদ্ধি পায় iii. তরলের ওজন বৃদ্ধির সাথে সাথে হ্রাস পায় নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 131
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "তাপমাত্রার পরিবর্তন না করে পদার্থের অবস্থা পরিবর্তনকারী তাপকে কী বলেগলন",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "গলন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বাষ্পীভবন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সুপ্ততাপ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ঘনীভবন",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 131
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "স্লাইড ক্যালিপার্সের সাহায্যে একটি বস্তুর দৈর্ঘ্য পরিমাপে প্রধান স্কেলের পাঠ 9.96 cm এবং ভার্নিয়ার সমপাতন ৪ পাওয়া গেল। যন্ত্রটির প্রধান স্কেলের 19 দাগ ভার্নিয়ার স্কেলের 20 দাগের সমান। উক্ত যন্ত্রের সাহায্যে বস্তুটির প্রস্থ নির্ণয় করে মানু পাওয়া গেল 8cm। পরিমাপে 5% আপেক্ষিক ত্রুটি রয়েছে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A1-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%B0-%E0%A6%A6%E0%A7%88%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%A0-996",
+      "remote_id": "996",
+      "exam_id": 131
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "জড়তা কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A7%9C%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-52142",
+      "remote_id": "52142",
+      "exam_id": 131
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "বল একটি লব্ধ রাশি-ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%B2-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B2%E0%A6%AC%E0%A7%8D%E0%A6%A7-%E0%A6%B0%E0%A6%BE%E0%A6%B6%E0%A6%BF%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "বস্তুটির দৈর্ঘ্য নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A7%88%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A7%8D%E0%A6%AF-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "বস্তুটির ক্ষেত্রফলে আপেক্ষিক ত্রুটি নির্ণয় করে এর গ্রহণযোগ্যতা যাচাই কর। যেখানে ক্ষেত্রফলের গ্রহণযোগ্য আপেক্ষিক ত্রুটি ৪%।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%AB%E0%A6%B2%E0%A7%87-%E0%A6%86%E0%A6%AA%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95-%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%B0-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%87-%E0%A6%95%E0%A6%B0-%E0%A6%AF%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%95",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "সাব্বিরের বাসা থেকে বিদ্যালয়ের দূরত্ব 1.8km। সে সাইকেলে বিদ্যালয়ে যাওয়ার সময় প্রথম 30s সমত্বরণে চলে 12ms -1 বেগ লাভ করে। পরবর্তী 1.5km সমবেগে চলে এবং শেষ 20s সমমন্দনে চলে স্থির হয়।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%82%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AC-18km-%E0%A6%B8%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "ভেক্টর রাশি কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AD%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%B6%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-18589",
+      "remote_id": "18589",
+      "exam_id": 131
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "ঘড়ির পেন্ডুলামের গতি পর্যাবৃত্ত গতি এবং স্পন্দন গতি-ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%98%E0%A7%9C%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%81%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%A4%E0%A6%BF-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%A4-%E0%A6%97%E0%A6%A4%E0%A6%BF-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%A8-%E0%A6%97%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "সাব্বিরের মন্দন নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "সাব্বির বিদ্যালয়ে পৌঁছেছিল কি? গাণিতিকভাবে বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%81%E0%A6%9B%E0%A7%87%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%95%E0%A6%BF-%E0%A6%97%E0%A6%BE%E0%A6%A3%E0%A6%BF%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "2.5kW একটি বৈদ্যুতিক মোটর 12 kg ভরের একটি বস্তুকে 20m উপরে তুলে ছেড়ে দিল। বস্তুটি মুক্তভাবে মাটিতে পড়লো।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/25kw-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A7%88%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%8B%E0%A6%9F%E0%A6%B0-12-kg-%E0%A6%AD%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%95%E0%A7%87-20m-%E0%A6%89%E0%A6%AA%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%9B%E0%A7%87%E0%A6%A1%E0%A6%BC%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%B2-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%9F%E0%A6%BF",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "মৌলিক বল কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A7%8C%E0%A6%B2%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B2-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "কর্দমাক্ত মাটিতে হাঁটা কষ্টকর কেন? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A6%AE%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A6%BE-%E0%A6%95%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%95%E0%A6%B0-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "মোটরটির কর্মদক্ষতা নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A7%8B%E0%A6%9F%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "মুক্তভাবে পড়ন্ত অবস্থায় বস্তুটি ভূ-পৃষ্ঠ থেকে কত উচ্চতায় এর বিভবশক্তি গতিশক্তির এক-চতুর্থাংশ হবে? গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AA%E0%A7%9C%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%AD%E0%A7%82%E0%A6%AA%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%A0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A6%A4-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%8F%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%AC%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%97%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%8F",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "25°C তাপমাত্রার 8kg ভরের একটি লোহার টুকরাকে 10 kg পানিতে ছেড়ে দেওয়া হল। পানির পাত্রের গভীরতা 5m। লোহার এবং পানির আপেক্ষিক তাপ যথাক্রমে 450 Jkg -1 K -1 এবং 4200Jkg -1 K -1 ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/25c-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0-8kg-%E0%A6%AD%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B2%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%9F%E0%A7%81%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%87-10-kg-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%9B%E0%A7%87%E0%A7%9C%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%B9%E0%A6%B2-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A7%8D",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "বাষ্পায়ন কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-84377",
+      "remote_id": "84377",
+      "exam_id": 131
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "বরফ গলে পানি হওয়ার সময় তাপ দেওয়া সত্ত্বেও তাপমাত্রা বাড়ে না কেন? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%B0%E0%A6%AB-%E0%A6%97%E0%A6%B2%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%B9%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%9F-%E0%A6%A4%E0%A6%BE%E0%A6%AA-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%B8%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%93-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "পাত্রের তলায় পানির চাপ নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%AA-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "পানির তাপমাত্রা 2°C বৃদ্ধি করতে হলে লোহার তাপমাত্রা কত হতে হবে? গাণিতিকভাবে বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE-2c-%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%B2%E0%A7%87-%E0%A6%B2%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%A4-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%97%E0%A6%BE%E0%A6%A3%E0%A6%BF%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "অমি একটি পাহাড় থেকে 18m দূরে দাঁড়িয়ে শব্দ করে এবং পাহাড়ের দিকে এগিয়ে যায়। ঐ দিন বায়ুতে এবং পানিতে শব্দের বেগ যথাক্রমে 340ms - 1 এবং 1480ms -1 ছিল এবং মাধ্যম দুটিতে শব্দের তরঙ্গদৈর্ঘ্যের পার্থক্য ছিল 1.6m।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%85%E0%A6%AE%E0%A6%BF-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A7%9C-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-18m-%E0%A6%A6%E0%A7%82%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A7%9C%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A7%9C%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%8F%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A7%9F-%E0%A6%90-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%AC",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "শব্দ দূষণ কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6-%E0%A6%A6%E0%A7%82%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "শব্দের তীব্রতা 50 W m - 2 বলতে কী বুঝায়? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A7%80%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BE-50wm2-%E0%A6%AC%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%81%E0%A6%9D%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "পানিতে শব্দের তরঙ্গদৈর্ঘ্য নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%B0%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%A6%E0%A7%88%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A7%8D%E0%A6%AF-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 25,
+      "question_type": "written",
+      "question_text": "অমি পাহাড়ের দিকে সর্বোচ্চ কত বেগে দৌড়ালে প্রতিধ্বনি শুনতে পাবে? গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%85%E0%A6%AE%E0%A6%BF-%E0%A6%AA%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A7%9C%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A7%8B%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%95%E0%A6%A4-%E0%A6%AC%E0%A7%87%E0%A6%97%E0%A7%87-%E0%A6%A6%E0%A7%8C%E0%A7%9C%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%A8%E0%A6%BF-%E0%A6%B6%E0%A7%81%E0%A6%A8%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%97%E0%A6%BE%E0%A6%A3%E0%A6%BF%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 26,
+      "question_type": "written",
+      "question_text": "বিবর্ধন কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-79950",
+      "remote_id": "79950",
+      "exam_id": 131
+    },
+    {
+      "question_no": 27,
+      "question_type": "written",
+      "question_text": "ক্রান্তি কোণকে আপাতন কোণ বলা যায়-ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%95%E0%A7%8B%E0%A6%A3%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%A8-%E0%A6%95%E0%A7%8B%E0%A6%A3-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A7%9F%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 28,
+      "question_type": "written",
+      "question_text": "১নং চিত্রের ভিন্ন মাধ্যমে প্রতিসরণাঙ্ক নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A7%A7%E0%A6%A8%E0%A6%82-%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 131
+    },
+    {
+      "question_no": 29,
+      "question_type": "written",
+      "question_text": "২নং চিত্রে বস্তুটিকে দর্পণের দিকে কমপক্ষে কতটুকু এগিয়ে আনলে অবাস্তব প্রতিবিম্ব পাওয়া সম্ভব হবে? গাণিতিকভাবে বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A7%A8%E0%A6%A8%E0%A6%82-%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%AA%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A6%AE%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%95%E0%A6%A4%E0%A6%9F%E0%A7%81%E0%A6%95%E0%A7%81-%E0%A6%8F%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%A8%E0%A6%B2%E0%A7%87-%E0%A6%85%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AC-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A7%8D%E0%A6%AC-%E0%A6%AA",
+      "remote_id": null,
+      "exam_id": 131
+    }
+  ]
+}

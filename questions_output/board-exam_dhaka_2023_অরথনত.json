@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "533",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "অর্থনীতি",
+    "subject": "অর্থনীতি",
+    "board": "dhaka",
+    "board_bn": "ঢাকা বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 389
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "অর্থনীতিতে সব ধরনের প্রাকৃতিক সম্পদকে কী বলে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ভূমি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "শ্রম",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মূলধন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সংগঠন",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 389
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "বাংলাদেশের জাতীয় আর পরিমাপ করে কোন সংস্থা?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "জাতীয় রাজস্ব বোর্ড",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বাংলাদেশ পরিসংখ্যান বোর্ড",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অর্থ মন্ত্রালয়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "তথ্য মন্ত্রণালয়",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 389
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "GNI-এর পূর্ণরূপ কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Gross National Institute",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Grand National Income",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Gross Net Income",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Gross National Income",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 389
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "কোনটি উন্নত দেশের বৈশিষ্ট্য?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "জনসংখ্যাধিক্য",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কৃষিনির্ভর অর্থনীতি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "উদ্যোক্তার অভাব",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "দক্ষ জনশক্তি",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 389
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "দারিদ্রের দুষ্টচক্র ধারণাটির প্রবক্তা কে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "রাগনার নার্কস",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অ্যাকাম স্মিথ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ডেভিড রিকার্ডো",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "তো. এম কেইন্স",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 389
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "A দেশে সরকারি মালিকানায় অধিকাংশ বৃহৎ শিল্প কারখানা পরিচালিত হয়, পাশাপাশি বেসরকারি উদ্যোগেও অনেক শিল্প কারখানা পরিচালিত হয়। 'A' দেশটিতে কোন ধরনের অর্থ ব্যবস্থা প্রচলিত রয়েছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ধনতান্ত্রিক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সমাজতান্ত্রিক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ইসলামী",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মিশ্র",
+          "images": []
+        }
+      ],
+      "answer": null,
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 389
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "A' দেশটিতে সরকার নিয়ন্ত্রণ করে i. মহাসড়ক ii. ব্যবসা প্রতিষ্ঠান iii. জন গুরুত্বপূর্ণ প্রতিষ্ঠান নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i,ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": null,
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 389
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "কোনটি ছাড়া উৎপাদন ও ব্যবসায় নিয়ন্ত্রণ অসম্ভব?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "শ্রমিক সংঘ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সংগঠন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "উন্নত কাঁচামাল",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "শিল্প এলাকা",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 389
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "গড় উৎপাদনের সর্বোচ্চ বিন্দুতে সমান হয় i. গড় উৎপাদন ii. প্রান্তিক উৎপাদন iii. মোট উৎপাদন নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i,ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 389
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "টুকু পুরাতন একটি কারখানা জয় করলো। এক্ষেতে এটি GDP এর অন্তর্ভুক্ত না হওয়ার কারণ i. পূর্বে উৎপাদিত iii. দ্বৈত গণনার সমস্যা III. ক্ষতির পরিমাণ বেশি নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i,ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": null,
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 389
+    }
+  ]
+}

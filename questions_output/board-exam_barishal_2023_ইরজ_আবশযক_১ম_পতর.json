@@ -1,0 +1,727 @@
+{
+  "exam": {
+    "remote_id": "262",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ইংরেজী (আবশ্যিক) ১ম পত্র",
+    "subject": "ইংরেজী (আবশ্যিক) ১ম পত্র",
+    "board": "barishal",
+    "board_bn": "বরিশাল বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 10,
+    "cq_count": 28,
+    "id": 556
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "Pahela Boishakh is a day of---",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "agony",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "sorrows",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "joy",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "suffering",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "without missing a year",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "after two years",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "every month",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "daily",
+          "images": []
+        },
+        {
+          "index": 9,
+          "text": "cultural difference",
+          "images": []
+        },
+        {
+          "index": 10,
+          "text": "Bengali culture and tradition",
+          "images": []
+        },
+        {
+          "index": 11,
+          "text": "Bengali food",
+          "images": []
+        },
+        {
+          "index": 12,
+          "text": "contemporary worries",
+          "images": []
+        },
+        {
+          "index": 13,
+          "text": "rich dish",
+          "images": []
+        },
+        {
+          "index": 14,
+          "text": "delicious dish",
+          "images": []
+        },
+        {
+          "index": 15,
+          "text": "unconventional dish",
+          "images": []
+        },
+        {
+          "index": 16,
+          "text": "traditional dish",
+          "images": []
+        },
+        {
+          "index": 17,
+          "text": "position",
+          "images": []
+        },
+        {
+          "index": 18,
+          "text": "people",
+          "images": []
+        },
+        {
+          "index": 19,
+          "text": "country'",
+          "images": []
+        },
+        {
+          "index": 20,
+          "text": "programme",
+          "images": []
+        },
+        {
+          "index": 21,
+          "text": "the people of all classes",
+          "images": []
+        },
+        {
+          "index": 22,
+          "text": "Chhayanaut",
+          "images": []
+        },
+        {
+          "index": 23,
+          "text": "The Fine Arts students of Dhaka University",
+          "images": []
+        },
+        {
+          "index": 24,
+          "text": "different organizations",
+          "images": []
+        },
+        {
+          "index": 25,
+          "text": "depressed",
+          "images": []
+        },
+        {
+          "index": 26,
+          "text": "unhappy",
+          "images": []
+        },
+        {
+          "index": 27,
+          "text": "lethargic",
+          "images": []
+        },
+        {
+          "index": 28,
+          "text": "jubilant",
+          "images": []
+        },
+        {
+          "index": 29,
+          "text": "Our Bangalee culture",
+          "images": []
+        },
+        {
+          "index": 30,
+          "text": "Social activities",
+          "images": []
+        },
+        {
+          "index": 31,
+          "text": "Joys and sorrows of contemporary life",
+          "images": []
+        },
+        {
+          "index": 32,
+          "text": "Cultural diversity",
+          "images": []
+        },
+        {
+          "index": 33,
+          "text": "Organise",
+          "images": []
+        },
+        {
+          "index": 34,
+          "text": "Wear",
+          "images": []
+        },
+        {
+          "index": 35,
+          "text": "Beautify",
+          "images": []
+        },
+        {
+          "index": 36,
+          "text": "Arrange",
+          "images": []
+        },
+        {
+          "index": 37,
+          "text": "the rich people of the country",
+          "images": []
+        },
+        {
+          "index": 38,
+          "text": "all the aristocratic people of the country",
+          "images": []
+        },
+        {
+          "index": 39,
+          "text": "all categories of people",
+          "images": []
+        },
+        {
+          "index": 40,
+          "text": "people of an organisation",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 556
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "Pahela Boishakh is a day of---",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "agony",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "sorrows",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "joy",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "suffering",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 556
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "The day is conventionally observed-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "without missing a year",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "after two years",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "every month",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "daily",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 556
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "The day signifies----",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "cultural difference",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Bengali culture and tradition",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Bengali food",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "contemporary worries",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 556
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "On Pahela Boishakh people enjoy having----",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "rich dish",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "delicious dish",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "unconventional dish",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "traditional dish",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 556
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "In the text, the word 'ethnic' is related to the —",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "position",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "people",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "country'",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "programme",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 556
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "The biggest carnival of the state is organised by- -",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "the people of all classes",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Chhayanaut",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "The Fine Arts students of Dhaka University",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "different organizations",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 556
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "On this day, the whole country wears a/an----look.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "depressed",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "unhappy",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "lethargic",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "jubilant",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 556
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "What does the phrase 'the masks and wreaths' represent?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Our Bangalee culture",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Social activities",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Joys and sorrows of contemporary life",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Cultural diversity",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 556
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "What is the closest meaning of the word 'adorn' in the text?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Organise",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Wear",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Beautify",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Arrange",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 556
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "\"People from all walks of life\" means—.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "the rich people of the country",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "all the aristocratic people of the country",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "all categories of people",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "people of an organisation",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 556
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "Pahela Boishakh' is the first day of Bangla new year. The day is a public holiday. This day has a special significance for us as it is a part of Bangalee culture and tradition. People from all walks of life irrespective of their ethnic identity or religious beliefs, celebrate the day with traditional festivities. On this day, the whole of Bangladesh is in a festive mood. The day inspires people to start life with renewed hopes and inspirations. Every year the day is celebrated traditionally. People wake up early in the morning, have a bath and wear traditional clothes Women wear white sarees with red borders and adorn themselves with colourful churis and flowers, while men dress themselves in pajamas and panjabis. It is a day when people love eating traditional food. One of the most colourful events of the day is held in Dhaka. Early in the morning, people in hundreds and thousands pour in from all directions to attend the cultural function at Ramana. Batamul organised by Chhayanaut. The cultural programme begins just at sunrise and the renowned artists of the country take part in the programme that starts with the famous Tagore-Song Esho-he- Boishakh, Esho Esho-Artists also sing traditional folk songs and perform classical dances to the rhythm of musical instruments. People also come to join the colourful processions, the biggest carnival of the country, organized by the Fine Arts students of Dhaka University. The procession usually displays the traditional practices of Bangalee culture. The masks and wreaths worn by the people are so fascinating! Often they symbolise contemporary worries of happiness in the national life. It attracts an increasing number of foreign tourists every year. The day is also observed all over the country. Different social and cultural organisations and educational institutions celebrate the day with their own cultural programmes. On this day, newspapers bring out special supplements. There are also special programmes on the radio and television. The celebration of Pahela Boishakh marks a day of cultural unity for the whole nation. Answer the following questions:",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/pahela-boishakh-is-the-first-day-of-bangla-new-year-the-day-is-a-public-holiday-",
+      "remote_id": null,
+      "exam_id": 556
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "Choose the correct answer from the alternatives :",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/choose-the-correct-answer-from-the-alternatives-69020",
+      "remote_id": "69020",
+      "exam_id": 556
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "When do people get up on Pahela Boishakh?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/when-do-people-get-up-on-pahela-boishakh",
+      "remote_id": null,
+      "exam_id": 556
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "What do newspapers bring out on this day?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-do-newspapers-bring-out-on-this-day",
+      "remote_id": null,
+      "exam_id": 556
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "How does the cultural programme begin?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/how-does-the-cultural-programme-begin",
+      "remote_id": null,
+      "exam_id": 556
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "What does the celebration of Pahela Boishakh mark?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-does-the-celebration-of-pahela-boishakh-mark",
+      "remote_id": null,
+      "exam_id": 556
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "How do people dress themselves on this day?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/how-do-people-dress-themselves-on-this-day",
+      "remote_id": null,
+      "exam_id": 556
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "The day inspires people to start life with renewed hopes and aspirations.\"-Explain the statement in 2/3 sentences.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/the-day-inspires-people-to-start-life-with-renewed-hopes-and-aspirations-explain",
+      "remote_id": null,
+      "exam_id": 556
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "Read the passage and answer the following questions no. 3 and 4: Pritilata Waddedar was born in Chattogram on 5 May 1911. She was a meritorious student at Dr Khastagir Government Girls' School in Chattogram and Eden College, Dhaka. She graduated in Philosophy with distinction from Bethune College in Kolkata. In her college days, Pritilata was an activist in the anti-British movement. All through her life, she dreamt of two things: a society without gender discrimination, and her motherland free from British colonial rule. So she decided to fight against the British rule. Soon after, Pritilata became the head teacher of Nandankanon Apama Charan School in Chattogram. Gradually she involved herself in Surja Sen's armed resistance movement. Surja Sen was a famous anti-British movement organiser and revolutionary activist in Chattogram area at that time. In 1932, Surja Sen planned an attack on the Pahartali European Club. The club was well-known for its notorious sign at its entrance; Dog and Indians not allowed. Surja Sen assigned Pritilata to lead a team of 10-12 men to attack the club. The raid was successful but Pritilata, dressed as a man, failed to get out of the club. She committed suicide by taking potassium cyanide to avoid arrest. She proved that women can work like men. She also proved that women too needed to be prepared to sacrifice their lives for freedom from the British colonial rule. Her dream finally came true. The British rule came to an end in 1947 though she couldn't see it during her lifetime.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-passage-and-answer-the-following-questions-no-3-and-4-pritilata-waddeda",
+      "remote_id": null,
+      "exam_id": 556
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "Fill in the blanks with suitable words based on the information of the text:\r\n\r\nPritilata was a very courageous lady during her lifetime. She was (a) ---- by Surja Sen to attack the European club. The raid was (b) ---- but Pritilata committed suicide. She (c) ----- potassium cyanide to avoid arrest. From this event, we can understand that Pritilata was a patriot (d)---- fought for the freedom of her country. We should (e)----Pritilata with love and honour.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/fill-in-the-blanks-with-suitable-words-based-on-the-information-of-the-text-prit",
+      "remote_id": null,
+      "exam_id": 556
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "Match the parts of sentences in column 'A', 'B' and 'C' to write seven complete sentences: Column 'A' Column 'B' Column 'C' (a) Pritilata was born (b) She was a very (c) She completed (d) ) All through her life (e)She took (f) Surja Sen planned (g) Pritilata led a team (i) decision to fight against (ii) an attack on (iii) in Chattogram (vi) of 10-12 men (v) bright student (vi) She dreamt of her motherland (vii) her graduation i. in 1911. ii. in her student life. iii. free from British rule. iv. the Pahartali European Club. v. from Bethune College. vi. to attack the Club. vii. the British rule.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/match-the-parts-of-sentences-in-column-a-b-and-c-to-write-seven-complete-sentenc",
+      "remote_id": null,
+      "exam_id": 556
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "Read the following text carefully and answer the questions no. 5 and 6: Jasimuddin was a famous Bengali poet. He was also a song writer, prose writer, folklore collector and radio personality. He is known as pollikobi because through his poems he depicted the Bengali rural life. He was born in the village of Tambulkhana in Faridpur District on 1 January 1903. He received his early education at Faridpur Welfare School. He obtained BA degree in Bangla from the University of Kolkata in 1929 and MA in 1931. Jasimuddin joined the University of Dhaka in 1938 as a lecturer. He left the university in 1944 and joined the Department of Information and Broadcasting. He worked there until his retirement in 1962 as Deputy Director. Jasimuddin collected more than 10,000 folk songs. He wrote many poems, dramas, novels, memoirs, music, etc. His major works are Rakhali, Nakshi Kanthar Maath, Sojan Badiyer Ghat, Bedder Meya, Madhumala. The major honours and award that he received are President Award for pride performance. Pakistan (1958). D.Lit by Rabindra Bharati University, India (1969). Ekushy Padak (1976), Bangladesh Independence Day Award (1978). He died on 13 March 1976 and was buried near his ancestral home at Gobindapur.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-following-text-carefully-and-answer-the-questions-no-5-and-6-jasimuddin",
+      "remote_id": null,
+      "exam_id": 556
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "Complete the table below with information from the above passage: Jasimuddin Speciality Pollikobi Who/what Event/activity year/when place/where Jasimuddin He He He He Death (i).......... was born on passed BA joined (v).......... (ii).......... in 1929 (iv).......... in 1958 (v).......... in Faridpur (ii).......... at the University of Dhaka.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/complete-the-table-below-with-information-from-the-above-passagejasimuddinspecia",
+      "remote_id": null,
+      "exam_id": 556
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "Write a summary of the above passage in your own words",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/write-a-summary-of-the-above-passage-in-your-own-words-82320",
+      "remote_id": "82320",
+      "exam_id": 556
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "Write a paragraph on 'Tree Plantation answering the following questions: (a) What do you mean by tree plantation? (b) How do trees help us? (c) How do they maintain ecological balance? (d) What do we get from trees? (e) Why should we plant trees? (f) How can we take care of them?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/write-a-paragraph-on-tree-plantation-answering-the-following-questions-a-what-do",
+      "remote_id": null,
+      "exam_id": 556
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "Read the beginning of the story. Add at least ten new sentences to 12 complete the story: In the last summer vacation I was staying at my village home. Some of my friends proposed that we should go on a journey by boat. We fixed a date and a destination. We hired a boat…………………………………….",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-beginning-of-the-story-add-at-least-ten-new-sentences-to-12-complete-th",
+      "remote_id": null,
+      "exam_id": 556
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "Suppose, you are Shishir. Bindu is your friend who lives in Rajshahi. Your friend is eager to know about the importance of learning computer. Now, write an email to your friend about the importance of learning computer.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/suppose-you-are-shishir-bindu-is-your-friend-who-lives-in-rajshahi-your-friend-i",
+      "remote_id": null,
+      "exam_id": 556
+    }
+  ]
+}

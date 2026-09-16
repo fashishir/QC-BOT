@@ -1,0 +1,380 @@
+{
+  "exam": {
+    "remote_id": "1737",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "কৃষি শিক্ষা",
+    "subject": "কৃষি শিক্ষা",
+    "board": "chattogram",
+    "board_bn": "চট্টগ্রাম বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 195
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "ভূমিক্ষয়ের প্রাকৃতিক কারণগুলো হলো- i. বায়ু প্রবাহ ii. বৃষ্টিপাত iii. পাহাড় ধস নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 195
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "কিরণ ও নিয়ামত কোন ফসলের জাত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পাট",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "গম",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ধান",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সরিষা",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 195
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "জমি থেকে অনাকাঙ্ক্ষিত উদ্ভিদ তুলে ফেলাকে কি বলে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "রোগিং",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মালচিং",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "হামপুলিং",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "হামপুলিং",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 195
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "উদ্ভিদ দেহে বিষাক্ততার মাত্রা কমাতে সাহায্য করে কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "প্রোটিন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "শর্করা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "স্নেহ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "প্রোলিন",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 195
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "কাফ স্টার্টারে (Calf starter) থাকতে হয়-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "খাদ্য মিশ্রণের ২০% এর অধিক পরিপাচ্য আমিষ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "খাদ্য মিশ্রণের ২০% এর কম পরিপাচ্য আমিষ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "খাদ্য মিশ্রণের ১০% এর অধিক আঁশযুক্ত খাদ্য",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "খাদ্য মিশ্রণের ১০% এর অধিক দানাদার খাদ্য",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 195
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "খরায় যে সব সমস্যা দেখা দেয়- i. কাচা ঘাসের অভাব হয় ii. পানি দূষিত হয় iii. গবাদি পশু অপুষ্টিতে ভোগে নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 195
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "বুনন শিল্পে কোন ধরনের বেত ব্যবহৃত হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সরু ও অনমনীয়",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সরু ও নমনীয়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মোটা ও নমনীয়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মোটা ও অনমনীয়",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 195
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "কোন পোকা ধানের দানায় দুধ সৃষ্টির সময় আক্রমণ করে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মাজরা পোকা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "পামরী পোকা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "গান্ধি পোকা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "গল মাছি",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 195
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "রহিম মিয়ার জমিতে কোন ধরনের ভূমিক্ষয় দেখা যায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "আস্তরণ ভূমিক্ষয়",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "রিল ভূমিক্ষয়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "নালা ভূমিক্ষয়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নদী ভূমিক্ষয়",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 195
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "রহিম মিয়ার জমিতে কোন ধরনের ভূমিক্ষয় দেখা যায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "আস্তরণ ভূমিক্ষয়",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "রিল ভূমিক্ষয়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "নালা ভূমিক্ষয়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নদী ভূমিক্ষয়",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 195
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "রহিম মিয়ার ফলন কমে যাওয়ার কারণ- i. ভূমিক্ষয় হয়ে যাওয়া ii. মাটির উর্বরতা হ্রাস পাওয়া iii. অণুজীবের কর্মক্ষমতা হ্রাস পাওয়া নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 195
+    }
+  ]
+}

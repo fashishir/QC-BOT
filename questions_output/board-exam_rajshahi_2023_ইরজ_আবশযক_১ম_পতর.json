@@ -1,0 +1,727 @@
+{
+  "exam": {
+    "remote_id": "256",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ইংরেজী (আবশ্যিক) ১ম পত্র",
+    "subject": "ইংরেজী (আবশ্যিক) ১ম পত্র",
+    "board": "rajshahi",
+    "board_bn": "রাজশাহী বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 10,
+    "cq_count": 28,
+    "id": 568
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "21 February is a memorable day for all Bangladeshis is because this is the day when------",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Urdu was declared as the only state language of Pakistan",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "we pay tribute to the martyrs of Liberation War",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "some great people laid down their lives to establish Bangla as a state language",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "students protested against Mohammad Ali Jinnah's declaration",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "Salam",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "martyrs",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "Jinnah",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "students",
+          "images": []
+        },
+        {
+          "index": 9,
+          "text": "mild protest",
+          "images": []
+        },
+        {
+          "index": 10,
+          "text": "strong protest",
+          "images": []
+        },
+        {
+          "index": 11,
+          "text": "moderate protest",
+          "images": []
+        },
+        {
+          "index": 12,
+          "text": "symbolic protest",
+          "images": []
+        },
+        {
+          "index": 13,
+          "text": "2 years",
+          "images": []
+        },
+        {
+          "index": 14,
+          "text": "3 years",
+          "images": []
+        },
+        {
+          "index": 15,
+          "text": "4 years",
+          "images": []
+        },
+        {
+          "index": 16,
+          "text": "5 years",
+          "images": []
+        },
+        {
+          "index": 17,
+          "text": "status of Bangla as a state language of Pakistan",
+          "images": []
+        },
+        {
+          "index": 18,
+          "text": "independence of Bangladesh",
+          "images": []
+        },
+        {
+          "index": 19,
+          "text": "International Mother Language Day",
+          "images": []
+        },
+        {
+          "index": 20,
+          "text": "mass protest all over the country",
+          "images": []
+        },
+        {
+          "index": 21,
+          "text": "Bangladesh",
+          "images": []
+        },
+        {
+          "index": 22,
+          "text": "India",
+          "images": []
+        },
+        {
+          "index": 23,
+          "text": "Nepal",
+          "images": []
+        },
+        {
+          "index": 24,
+          "text": "erstwhile Pakistan",
+          "images": []
+        },
+        {
+          "index": 25,
+          "text": "requested to do that",
+          "images": []
+        },
+        {
+          "index": 26,
+          "text": "urged to do that",
+          "images": []
+        },
+        {
+          "index": 27,
+          "text": "advised to do that",
+          "images": []
+        },
+        {
+          "index": 28,
+          "text": "compelled to do that",
+          "images": []
+        },
+        {
+          "index": 29,
+          "text": "in Pakistan",
+          "images": []
+        },
+        {
+          "index": 30,
+          "text": "in the western part of Pakistan",
+          "images": []
+        },
+        {
+          "index": 31,
+          "text": "in the eastern part of Pakistan",
+          "images": []
+        },
+        {
+          "index": 32,
+          "text": "in both the part of the then Pakistan",
+          "images": []
+        },
+        {
+          "index": 33,
+          "text": "achieve independence of the country",
+          "images": []
+        },
+        {
+          "index": 34,
+          "text": "establish Bangla as a state language",
+          "images": []
+        },
+        {
+          "index": 35,
+          "text": "earn name and fame",
+          "images": []
+        },
+        {
+          "index": 36,
+          "text": "to achieve people's tribute",
+          "images": []
+        },
+        {
+          "index": 37,
+          "text": "final stage",
+          "images": []
+        },
+        {
+          "index": 38,
+          "text": "reward",
+          "images": []
+        },
+        {
+          "index": 39,
+          "text": "downfall",
+          "images": []
+        },
+        {
+          "index": 40,
+          "text": "punishment",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 568
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "21 February is a memorable day for all Bangladeshis is because this is the day when------",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Urdu was declared as the only state language of Pakistan",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "we pay tribute to the martyrs of Liberation War",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "some great people laid down their lives to establish Bangla as a state language",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "students protested against Mohammad Ali Jinnah's declaration",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 568
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "The seed of the Language Movement was sown by-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Salam",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "martyrs",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Jinnah",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "students",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 568
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "The phrase 'storm of protest' means----",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "mild protest",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "strong protest",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "moderate protest",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "symbolic protest",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 568
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "The gap between the beginning and the climax of the Language Movement----",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "2 years",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "3 years",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "4 years",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "5 years",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 568
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "The greatest outcome of the Language Movement----",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "status of Bangla as a state language of Pakistan",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "independence of Bangladesh",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "International Mother Language Day",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "mass protest all over the country",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 568
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "Salam and Barkat were the citizens of---",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Bangladesh",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "India",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Nepal",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "erstwhile Pakistan",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 568
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "Pakistan government declared Bangla as a state language because they were----",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "requested to do that",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "urged to do that",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "advised to do that",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "compelled to do that",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 568
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "Jinnah's declaration raised a storm of protest----",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "in Pakistan",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "in the western part of Pakistan",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "in the eastern part of Pakistan",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "in both the part of the then Pakistan",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 568
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "Our martyrs laid down their lives to-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "achieve independence of the country",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "establish Bangla as a state language",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "earn name and fame",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "to achieve people's tribute",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 568
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "The climax of something of its ----",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "final stage",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "reward",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "downfall",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "punishment",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 568
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "21 February is a memorable day in our national history. We observe the day every year as International Mother Language Day. The day is a national holiday. On this day, we pay tribute to the martyrs who laid down their lives to establish Bangla as a state language in undivided Pakistan in 1952. The struggle to achieve our language rights is known as the Language Movement. The seed of the Language Movement was sown on 21 March 1948 when Mohammad ALi Jinnah, the Governor General of Pakistan, declared in a public meeting in Dhaka that Urdu would be the only state language of Pakistan. The declaration raised a storm of protest all over the country. The protest continued non-stop, gathering momentum day by day. It turned into a movement and reached its climax in 1952. The government outlawed all sorts of public meetings and rallies to stop it. The students of Dhaka University defied the law and brought out a peaceful protest procession on 21 February 1952. When the procession reached near Dhaka Medical College, the police opened fire on the students, killing Salam, Rafiq, Barkat, Safiur and Jabbar. As a result, there were mass protests all over the country and the government had to declare Bangla as a state language. This kindled the sparks of independence movement of Bangladesh. Answer the following questions:",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/21-february-is-a-memorable-day-in-our-national-history-we-observe-the-day-every-",
+      "remote_id": null,
+      "exam_id": 568
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "Choose the correct answer from the alternatives :",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/choose-the-correct-answer-from-the-alternatives-69685",
+      "remote_id": "69685",
+      "exam_id": 568
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "Why did the martyrs sacrifice their lives in 1952?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/why-did-the-martyrs-sacrifice-their-lives-in-1952",
+      "remote_id": "1952",
+      "exam_id": 568
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "What is undivided Pakistan?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-is-undivided-pakistan",
+      "remote_id": null,
+      "exam_id": 568
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "Why did Pakistan government outlaw meetings and rallies in 19527",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/why-did-pakistan-government-outlaw-meetings-and-rallies-in-19527",
+      "remote_id": "19527",
+      "exam_id": 568
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "Why did police kill Salam, Rafiq, Barkat and Jabbar?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/why-did-police-kill-salam-rafiq-barkat-and-jabbar",
+      "remote_id": null,
+      "exam_id": 568
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "How is the Language Movement related to the independence of Bangladesh?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/how-is-the-language-movement-related-to-the-independence-of-bangladesh",
+      "remote_id": null,
+      "exam_id": 568
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "Why is 21 February observed annually worldwide?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/why-is-21-february-observed-annually-worldwide",
+      "remote_id": null,
+      "exam_id": 568
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "Read the following text and fill in each gap with a suitable word  base on the information of the text: Air pollution comes from a wide variety of sources. In Bangladesh poisonous exhausts from industrial plants, brick kilns, old or poorly-serviced vehicles and dust from roads and construction sites are some of the major sources of air pollution. We can minimise this type of pollution by making less use of motor vehicles and avoiding the use of vehicles older than 20 years. We may also use proper lubricants to lessen the level of emission and pollutants. We can encourage people to use Compressed Natural Gas (CNG) or Liquid Petroleum Gas (LPG) for fuelling their cars. The government may relocate hazardous industries like brick kilns to areas away from human habitations.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-following-text-and-fill-in-each-gap-with-a-suitable-word-base-on-the-in",
+      "remote_id": null,
+      "exam_id": 568
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "Air pollution (a)---- the ways in which the air is polluted. Air is the most important (b)-------  of human \r\n environment. Man cannot live a single (c)-----without air. But we do not think that it is (d)---- who pollute this most vital substance. It is (e) in many ways.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/air-pollution-a-the-ways-in-which-the-air-is-polluted-air-is-the-most-important-",
+      "remote_id": null,
+      "exam_id": 568
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "Match the parts of sentences given in columns 'A', 'B' and 'C' to write seven complete sentences: Column 'A' Column 'B' Column 'C' (a) ) Environment pollution has become (b) People living in urban areas (c) Air is constantly (d) Due to industrialization (e) We have to be (f) Environment pollution (g) To live a happy and healthy life (i)) there is a high (ii) leads us (iii) careful in using vehicles and selecting sites (vi) environment pollution (v)suffer most owing to (vi) being polluted by smoke (vii) a serious problem i. for setting up mills and factories ii. extraction of toxic gases iii. to the way of death iv. in our country v. must be checked vi. environment pollution vii. from industrial plants, brick kilns and motor vehicles",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/match-the-parts-of-sentences-given-in-columns-a-b-and-c-to-write-seven-complete-",
+      "remote_id": null,
+      "exam_id": 568
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "Read the following text carefully and answer the questions no. 5 and 6: In 1912, an American Shipping Company launched a new ship called \"The Titanic'. It was the largest and most luxurious ocean liner of the time. It weighted 52,310 tonnes and could carry about 3327 passengers. Experts said that nothing could make it sink. On April 10, 1912 the ship sailed on its first voyage across the Atlantic. It sailed from Southampton in England to New York in the United States with 2224 passengers of men, women and children. On April 15, just before midnight the ship struck the iceberg. The iceberg tore a great hole in the ship's side and the unsinkable Titanic began to sink. There was a great alarm on board. Warning bells rang out. Every one rushed to the life boat but there was not enough room for them all. There was room for only 1178 passengers. The lifeboats took mostly the women and children. It was a terrible scene.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-following-text-carefully-and-answer-the-questions-no-5-and-6-in-1912-an",
+      "remote_id": null,
+      "exam_id": 568
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "Complete the table below with the information from the above passage: Who/What Situation Place Time/Year (i) ………………. Titanic The ship (v) ………………. put a new extraordinary ship into water (ii) ………………. struck a iceberg began to sink Southampton its first (vi) ………………. in 1912 (iii) ………………. (iv) ………………. on 15 April 1912",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/complete-the-table-below-with-the-information-from-the-above-passagewhowhatsitua",
+      "remote_id": null,
+      "exam_id": 568
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "Write a summary of the above passage in your own words.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/write-a-summary-of-the-above-passage-in-your-own-words-13668",
+      "remote_id": "13668",
+      "exam_id": 568
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "Answer the following questions to write a paragraph on \"Our National Flag\". (a) What is the symbol of independence? (b) What is its measurement? (c) What is it made of? (d) What is its colour? (e) What does green colour symbolize? (f) What does the red circle symbolize? (g) How can we uphold its honour?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/answer-the-following-questions-to-write-a-paragraph-on-our-national-flag-a-what-",
+      "remote_id": null,
+      "exam_id": 568
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "Read the beginning of the story and complete it in your own way. You should give a suitable title to it. A schoolboy named Mahbub was coming home from school. Suddenly he saw an old man lying on the road. He..…….",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-beginning-of-the-story-and-complete-it-in-your-own-way-you-should-give--17544",
+      "remote_id": "17544",
+      "exam_id": 568
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "Suppose, you are Tanha and live at the hostel of Panchagarh Govt. Girls' High School, Panchagarh. Your village home is at Pahartoli, Panchagarh Sadar, Panchagarh where your parents live. Now, write an email to your mother telling her about your hostel life.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/suppose-you-are-tanha-and-live-at-the-hostel-of-panchagarh-govt-girls-high-schoo",
+      "remote_id": null,
+      "exam_id": 568
+    }
+  ]
+}

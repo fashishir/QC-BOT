@@ -1,0 +1,380 @@
+{
+  "exam": {
+    "remote_id": "566",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "উচ্চতর গণিত",
+    "subject": "উচ্চতর গণিত",
+    "board": "jessore",
+    "board_bn": "যশোর বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 371
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "P ( y ) = y 3 - 3 y 2 + 2 y - 1 বহুপদীর মূখ্য সহগ এবং ধ্রুবপদের সমষ্টি কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "1",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "0",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "-1",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "-3",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 371
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "cos θ = 3 2 হলে, cos 2 θ এর মান কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "0",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "1 2",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "3 2",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "1",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 371
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "দুইটি নিরপেক্ষ মুদ্রা একত্রে নিক্ষেপে সর্বাধিক দুইটি H পাওয়ার সম্ভাবনা কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "0",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "1 4",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "3 14",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "1",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 371
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "∆ P Q R , P Q 2 > Q R 2 + P R 2 হলে_ i . ∠ P R Q স্থুলকোণ i i . ∠ Q P R সমকোণ i i i . ∠ P Q R সূক্ষ্মকোণ নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i,ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 371
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "(2,5) বিন্দুগামী এবং 1 2 চালবিশিষ্ট সরলরেখা সমীকরণ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "2y=x+8",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "2y=x-1",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "y=x+8",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "y=x-1",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 371
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "কোনও ত্রিভুজের পরিবৃত্তের ক্ষেত্রফল 64 π বর্গ সে.মি. হলে, এর নববিন্দু বৃত্তের ব্যাসার্ধ কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "64 সে.মি.",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "16 সে.মি.",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "8 সে.মি.",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "4 সে.মি.",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 371
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "y y y = y y y হলে, y = কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "1 2",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "1",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "3 2",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "9 4",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 371
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "A(-3,3) B(3,-3) এবং C(3,3) তিনটি বিন্দু হলে_ i.  AC রেখার চাল= 0 ii. BC রেখার সমীকরণ y=x iii.  A,B,C বিন্দুত্রয় সমরেখা নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 371
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "P(x) কে (x-2) দ্বারা ভাগ করলে ভাগশেষ কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "-12",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "-6",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "6",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "12",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "2x+1",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "2x-1",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "x+1",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "x-1",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 371
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "P(x) কে (x-2) দ্বারা ভাগ করলে ভাগশেষ কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "-12",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "-6",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "6",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "12",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 371
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "P(x) এর একটি উৎপাদক নিচের কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "2x+1",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "2x-1",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "x+1",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "x-1",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 371
+    }
+  ]
+}

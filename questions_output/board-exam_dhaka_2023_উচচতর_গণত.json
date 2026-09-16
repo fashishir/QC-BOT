@@ -1,0 +1,331 @@
+{
+  "exam": {
+    "remote_id": "562",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "উচ্চতর গণিত",
+    "subject": "উচ্চতর গণিত",
+    "board": "dhaka",
+    "board_bn": "ঢাকা বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 379
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "4 x - 3 ( x - 2 ) ( x + 3 ) = A x - 2 + B x + 3 হলে (A,B) এর মান কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "(1,3)",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "(3,1)",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "(1,-3)",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "(-1,3)",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 379
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "2 x 3 + x 2 + b x + 18 বহুপদীর একটি উৎপাদক x+2 হলে, b এর মান কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "-19",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "-3",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "3",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "19",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 379
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "a ( b 2 - c 2 ) + b ( c 2 - a 2 ) + c ( a 2 - b 2 ) রাশিটি- i.  সমমাত্রিক ii.  চক্রক্রমিক iii.  প্রতিসম",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 379
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "সমকোণী ত্রিভুজের মধ্যমাত্রয় যথাক্রমে 6,7 এবং 8 একক হলে অতিভুজের দৈর্ঘ্য কত একক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "9.00",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "9.97 (প্রায়)",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "14.28 (প্রায়)",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "14.95 (প্রায়)",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 379
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "5x +4y = 9 সমীকরণের ঢাল নির্ণয় কর।",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "9 4",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "5 4",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "- 5 4",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "- 9 4",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 379
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "মধ্যবিন্দু বৃত্তের ব্যাসার্ধ 10 একক হলে ঐ ত্রিভুজের পরিবৃত্তের ক্ষেত্রফল কত বর্গ একক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "25 π",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "100 π",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "200 π",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "400 π",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 379
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "(3,4) বিন্দুগামী ও -3 ঢালবিশিষ্ট রেখার সমীকরণ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "y+3x=5",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "y-3x-5=0",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "y+3x-13=0",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "y-3x+13=0",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 379
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "AB এর উপর CD এর লম্ব অভিক্ষেপ নিচের কোনটি?",
+      "images": [
+        "https://o.remove.bg/downloads/5ea39373-8910-45bd-9060-4179553fa1fb/111-removebg-preview.png"
+      ],
+      "options": [
+        {
+          "index": 1,
+          "text": "AD",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "BD",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "AC",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "BC",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 379
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "1 3 , 2 3 , 9 11 , 8 9 , . . . . . . . . . অনুক্রমটির সাধারণ পদ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "n 2 2 n 2 + 1",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "n 2 n 2 + 2",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "3 n 2 2 n 2 + 8",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "n 3 2 n 2 + 1",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 379
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "n r = n ! ( n - r ) ! r ! হলে i . 0 ! = 0 i i . 5 2 = 10 i i i . 4 3 = 4 1 নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 379
+    }
+  ]
+}

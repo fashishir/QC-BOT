@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "1875",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "বাংলা ২য় পত্র",
+    "subject": "বাংলা ২য় পত্র",
+    "board": "sylhet",
+    "board_bn": "সিলেট বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 19
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "'অপরাজেয় বাংলা' কোন জাতীয় নাম বিশেষ্য?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "কালনাম",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সৃষ্টিনাম",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ব্যক্তিনাম",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "স্থাননাম",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 19
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "নিচের কোন বাক্যটি আত্মবাচক সর্বনামের উদাহরণযুক্ত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "একজন এসে খরবটা দেয়।",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "যেমন কর্ম তেমন ফল।",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সে নিজে অঙ্কটা করছে।",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কী দিয়ে ভাত খায়?",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 19
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "অবস্থাবাচক বিশেষণ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "এক টাকা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "চলন্ত ট্রেন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "লাল ফিতা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "আধা কেজি চাল",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 19
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "ধাতুর সাথে বিভক্তি যুক্ত হয়ে কী তৈরি হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "শব্দ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বাক্য",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ক্রিয়াপদ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সর্বনাম পদ",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 19
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "যৌগিক ক্রিয়া আছে কোন বাক্যে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পাখিটা ছটফটাচ্ছে।",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সে বই পড়ছে।",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সে তার অংশ বুঝে নিল।",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মা শিশুটিকে আদর করছেন।",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 19
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "গঠন বিবেচনায় ক্রিয়া বিশেষণকে কয় ভাগে ভাগ করা যায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "দুই",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "তিন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "চার",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পাঁচ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 19
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "'একটু ঘুরে আসুন না।' -সাক্যটিতে কোন ধরনের বিশেষণ ব্যবহৃত হয়েছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নেতিবাচক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ধরনবাচক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কালবাচক",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পদানু ক্রিয়া",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 19
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি প্রযোজক ক্রিয়ার ভাবী অসমাপিকা ক্রিয়াবিভক্তি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "- আনো",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "- ইয়ে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "- আতে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "- আলে",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 19
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "পদ, বর্গ বা বাক্যকে যেসব শব্দ যুক্ত করে সেগুলোকে কী বলে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "যোজক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ধাতু",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ক্রিয়া",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "অনুসর্গ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 19
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "কোন ধরনের যোজক একে অপরের পরিপূরক হয়ে বাক্যে ব্যবহৃত হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বিকল্প",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কারণ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সাধারণ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সাপেক্ষ",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 19
+    }
+  ]
+}

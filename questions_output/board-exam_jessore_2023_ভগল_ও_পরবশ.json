@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "512",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ভূগোল ও পরিবেশ",
+    "subject": "ভূগোল ও পরিবেশ",
+    "board": "jessore",
+    "board_bn": "যশোর বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": null,
+    "mcq_count": 28,
+    "cq_count": null,
+    "id": 416
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "বায়ুতে কার্বন-ডাই-অক্সাইড- এর পরিমান শতকরা কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৭৮.০২",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "২০.৭১",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "০.৮০",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "০.০৩",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 416
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "সবচেয়ে গভীরতম খাতের গভীরতা প্রায় কত মিটার?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "১০.৮৭০",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৮.৫৩৮",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৭.০৭০",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৫.৪০০",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 416
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "শস্য, শিল্প ইত্যাদি কোন মানচিত্রে দেখানো হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "রাজনৈতিক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বন্টন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ঐতিহাসিক",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সামাজিক",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 416
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "__ কোন শিলার উদাহরণ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বহিঃজ আগ্নেয়শিলা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অন্তঃজ  আগ্ন্যশিলা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পাললিক শিলা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "রূপান্তরিত শিলা",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 416
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "কানাডার প্রমাণ সময় কয়টি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৬ টি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৪ টি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৩ টি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "২ টি",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 416
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "মহী সোপান সৃষ্টির কারণ- i. সমুদ্র পৃষ্ঠের উচ্চতার ভিন্নতা ii. সমুদ্র তরঙ্গের সন্ধ্যাকার্য iii. স্থলভাগের উপকূলীয় অঞ্চল ডুবে থাকা নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i, ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i, iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii, iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii, iii",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 416
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "উত্তর-পূর্ব অয়ন বায়ু ঘণ্টায় প্রায় কত কি.মি. বেগে প্রবাহিত হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২২.৫৪",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "২০",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১৬",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৬.৩৫",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 416
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "“পৃথিবী ও এর অধিবাসীদের বর্ণনাই হলো ভূগোল - উড়িটি কার?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অধ্যাপক ম্যাকনি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অধ্যাপক কার্ল রিটার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অধ্যাপক ডাডলি স্ট্যাম্প",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "রিচার্ড হার্টশোর্ন",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 416
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "পৃথিবী ঘড়ির কাটার বিপরীত দিকে আবর্তন গতির প্রমান হলো - i. ফেরেলের সূত্রের প্রয়োগ ii. মহাকাশ থেকে পাঠানো ছবি iii. পৃথিবীর আকৃতি নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i, ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i, iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii, iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i,ii, iii",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 416
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "জাপান উপকূলে প্রচুর মাছ পাওয়া যায় কেন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অগভির মগ্নচড়া থাকায়",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "শীতল স্রোতের প্রভাবে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "উষ্ণ স্রোতের প্রভাবে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "গভীরতা অধিক হওয়ায়",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 416
+    }
+  ]
+}

@@ -1,0 +1,716 @@
+{
+  "exam": {
+    "remote_id": "259",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ইংরেজী (আবশ্যিক) ১ম পত্র",
+    "subject": "ইংরেজী (আবশ্যিক) ১ম পত্র",
+    "board": "jessore",
+    "board_bn": "যশোর বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 10,
+    "cq_count": 28,
+    "id": 562
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "Meherjan is living ----- in her makeshift house now.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "with her relatives",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "alone",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "with her family",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "with her husband",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "healthy",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "wealthy",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "unhappy",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "sad",
+          "images": []
+        },
+        {
+          "index": 9,
+          "text": "Build",
+          "images": []
+        },
+        {
+          "index": 10,
+          "text": "Preserve",
+          "images": []
+        },
+        {
+          "index": 11,
+          "text": "Destroy",
+          "images": []
+        },
+        {
+          "index": 12,
+          "text": "Support",
+          "images": []
+        },
+        {
+          "index": 13,
+          "text": "Cruel hunger",
+          "images": []
+        },
+        {
+          "index": 14,
+          "text": "River erosion",
+          "images": []
+        },
+        {
+          "index": 15,
+          "text": "Landed property",
+          "images": []
+        },
+        {
+          "index": 16,
+          "text": "The course of nature",
+          "images": []
+        },
+        {
+          "index": 17,
+          "text": "cruel impact on people",
+          "images": []
+        },
+        {
+          "index": 18,
+          "text": "benefits",
+          "images": []
+        },
+        {
+          "index": 19,
+          "text": "natural advantages",
+          "images": []
+        },
+        {
+          "index": 20,
+          "text": "adverse effect on wildlife",
+          "images": []
+        },
+        {
+          "index": 21,
+          "text": "the erosion of the Jamuna",
+          "images": []
+        },
+        {
+          "index": 22,
+          "text": "selling of the house",
+          "images": []
+        },
+        {
+          "index": 23,
+          "text": "destruction of her house",
+          "images": []
+        },
+        {
+          "index": 24,
+          "text": "flood",
+          "images": []
+        },
+        {
+          "index": 25,
+          "text": "To explain the importance of river.",
+          "images": []
+        },
+        {
+          "index": 26,
+          "text": "To describe the impact of monsoon.",
+          "images": []
+        },
+        {
+          "index": 27,
+          "text": "To describe the effect of river erosion.",
+          "images": []
+        },
+        {
+          "index": 28,
+          "text": "To describe the fate of woman.",
+          "images": []
+        },
+        {
+          "index": 29,
+          "text": "Smile",
+          "images": []
+        },
+        {
+          "index": 30,
+          "text": "Cry",
+          "images": []
+        },
+        {
+          "index": 31,
+          "text": "Moan",
+          "images": []
+        },
+        {
+          "index": 32,
+          "text": "To make loud deep harsh sound",
+          "images": []
+        },
+        {
+          "index": 33,
+          "text": "Monsoon",
+          "images": []
+        },
+        {
+          "index": 34,
+          "text": "Temperature rise",
+          "images": []
+        },
+        {
+          "index": 35,
+          "text": "Climate change",
+          "images": []
+        },
+        {
+          "index": 36,
+          "text": "River pollution",
+          "images": []
+        },
+        {
+          "index": 37,
+          "text": "faced",
+          "images": []
+        },
+        {
+          "index": 38,
+          "text": "exterminated",
+          "images": []
+        },
+        {
+          "index": 39,
+          "text": "impoverished",
+          "images": []
+        },
+        {
+          "index": 40,
+          "text": "confronted",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 562
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "Meherjan is living ----- in her makeshift house now.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "with her relatives",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "alone",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "with her family",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "with her husband",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 562
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "Before the erosion of river, she was ------",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "healthy",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "wealthy",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "unhappy",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "sad",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 562
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "What does the word demolish mean?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Build",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Preserve",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Destroy",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Support",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 562
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "What is the dangerous result of climate change?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Cruel hunger",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "River erosion",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Landed property",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "The course of nature",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 562
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "River erosion has -",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "cruel impact on people",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "benefits",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "natural advantages",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "adverse effect on wildlife",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 562
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "Meherjan was homeless because of-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "the erosion of the Jamuna",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "selling of the house",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "destruction of her house",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "flood",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 562
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "What is the main purpose of the author of the passage?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "To explain the importance of river.",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "To describe the impact of monsoon.",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "To describe the effect of river erosion.",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "To describe the fate of woman.",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 562
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "What does the word 'roar' mean?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Smile",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Cry",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Moan",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "To make loud deep harsh sound",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 562
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "Which one is the true cause of river erosion-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Monsoon",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Temperature rise",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Climate change",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "River pollution",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 562
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "The word 'Shattered' means-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "faced",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "exterminated",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "impoverished",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "confronted",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 562
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "Meherjan lives in a slum on the Sirajgonj Town Protection Embankment. The whispering wind from the river Jamuna makes the fire unsteady. The dancing flames remind Meherjan of the turmoil in her life. Not long ago Meherjan had everything a family, arable land and cattle. The erosion of the Jamuna gradually consumed all her land property. It finally claimed her only shelter during the last monsoon. It took the river only a day to devour Meher's house, trees, vegetable garden and the bamboo bush. She had a happy family once. Over the years, she lost her husband and her family to diseases that cruel hunger and poverty brought to the family. Now, she is the only one left to live on with the loss and pain. The greedy Jamuna has shattered her dreams and happiness. There are thousand others waiting to share the same fate like Meherjan. Bangladesh is a land of rivers. Some of whose banks overflow or erode during monsoon. Erosion is a harsh reality for the people living along the river banks. During each monsoon many more villages are threatened by the mighty rivers like the Jamuna, the Padma and the Meghna. It is estimated that river erosion makes at least 100,000 people homeless every year in Bangladesh. In fact, river erosion is one of the main dangers caused by climate change. If we can't take prompt actions to adapt to climate change, there will be thousands of more Meherjans in our towns and villages every year. Answer the following questions:",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/meherjan-lives-in-a-slum-on-the-sirajgonj-town-protection-embankment-the-whisper",
+      "remote_id": null,
+      "exam_id": 562
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "Choose the correct answer from the alternatives :",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/choose-the-correct-answer-from-the-alternatives-36587",
+      "remote_id": "36587",
+      "exam_id": 562
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "Where does Meherjan live?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/where-does-meherjan-live-91952",
+      "remote_id": "91952",
+      "exam_id": 562
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "Who are the worst sufferers of climate change?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/who-are-the-worst-sufferers-of-climate-change",
+      "remote_id": null,
+      "exam_id": 562
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "What crushed Meherjan's dream and happiness? How?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-crushed-meherjans-dream-and-happiness-how",
+      "remote_id": null,
+      "exam_id": 562
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "What property did Meherjan lose due to river erosion?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-property-did-meherjan-lose-due-to-river-erosion-10462",
+      "remote_id": "10462",
+      "exam_id": 562
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "What will happen if we cannot control river erosion?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-will-happen-if-we-cannot-control-river-erosion",
+      "remote_id": null,
+      "exam_id": 562
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "Do you agree with the view that we should take prompt actions to adapt to climate change? Why?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/do-you-agree-with-the-view-that-we-should-take-prompt-actions-to-adapt-to-climat",
+      "remote_id": null,
+      "exam_id": 562
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "Read the following passage and answer the questions no. 3 and 4: Lipi, a 14-year old girl was in class 9 in a rural school in Rangpur. Lipi is the eldest of five children- three daughters and two sons. Their father is a day labourer working on other people's land and mother is a homemaker and a part-time worker at other people's homes. The parents particularly the mother, found it really difficult to raise five children on the small income the father could earn. Perhaps that is why Lipi's father wanted to marry her off. But Lipi was not ready to accept what her parents wanted to impose on her. She wanted to pursue her education. Her mother stood by her, though secretly. When her father arranged her marriage with Tara Mia, the only son of a farmer in the same village. She became greatly upset. Tara Mia was a widower-illiterate, but well off. His father had a few acres of arable land and was influential in the village. The marriage seemed to be inevitable.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-following-passage-and-answer-the-questions-no-3-and-4-lipi-a-14-year-ol",
+      "remote_id": null,
+      "exam_id": 562
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "Fill in each gap with a suitable word based on the information of the passage:\r\nLipi is the eldest child of her parents. Her parents have (a)---- more children. Two of them are sons and two others are daughters. Lipi's family is not well (b)---- Her father (c) ---- as a day labourer on other's land. Her mother works as a part-time worker at other people's houses. It was so (d) ---- for Lipi's mother to (e) ----- the family with their very limited income.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/fill-in-each-gap-with-a-suitable-word-based-on-the-information-of-the-passage-li",
+      "remote_id": null,
+      "exam_id": 562
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "Match the parts of sentences given in columns 'A' 'B' and 'C' to 1x write seven complete sentences. Column 'A' Column 'B' Column 'C' (a) Lipi, teenager (b) She was not (c) But her parents wanted (d) Lipi was not ready to accept (e)She wanted to pursue her    education (f) But her father arranged her         marriage (g) Tara Mia had a few acres of (i)willing to marry (ii) to marry her off (iii) wanted to continue her study (vi) what her parents (v) though there was (vi) arable land and (vii) with Tara Mia, the only son of a           farmer i. against her will ii. wanted to impose on her iii. a barrier iv. in the same village. v. was influential in the village. vi. at an early age. vii. to build her career.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/match-the-parts-of-sentences-given-in-columns-a-b-and-c-to-1x-write-seven-comple",
+      "remote_id": null,
+      "exam_id": 562
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "Read the following passage carefully and answer the questions no. 5 and 6: Abraham Lincoln was the 16th President of the USA. He is famous for his Gettysburg Address. It was delivered by him during the American Civil War on November 19, 1863. Lincoln was born on February 12, 1809 in Kentucky, the USA. His parents were from Virginia. In 1819, his mother died. Then his father moved to Indiana State. He grew up there. He was a captain in the Black Hawk War. He got the 18 nomination for President in 1860. Then he became the President of the USA in 1861. Lincoln declared a ban on slavery in America on January 1, 1863. He was re-elected President in 1864. On Good Friday, April 14, 1865, he was assassinated at Ford's Theatre in Washington.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-following-passage-carefully-and-answer-the-questions-no-5-and-6-abraham",
+      "remote_id": null,
+      "exam_id": 562
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "Complete the following table with information from the passage: Name of Events Place Time/Year Born (i) -------- November 19, 1863 (i) -------- Became the President The U.S.A (iii)-------- Baned slavery (iv)-------- January 1, 1863 Died (v)-------- (vi)--------",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/complete-the-following-table-with-information-from-the-passagename-of-eventsplac",
+      "remote_id": null,
+      "exam_id": 562
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "Write a summary of the above passage in your own words.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/write-a-summary-of-the-above-passage-in-your-own-words-92747",
+      "remote_id": "92747",
+      "exam_id": 562
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "Write a paragraph on 'A Street Hawkar' answering the following questions: (a) Who is a street hawker? (b) Where does he usually live? (c) How does he earn his livelihood? (d) How does he attract his customers? (e) How is his lifestyle?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/write-a-paragraph-on-a-street-hawkar-answering-the-following-questions-a-who-is-",
+      "remote_id": null,
+      "exam_id": 562
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "Read the beginning of the story, write at least ten new sentences to complete it. One day, a crow became very thirsty. He flew from one place to another in search of water -----------",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-beginning-of-the-story-write-at-least-ten-new-sentences-to-complete-it-",
+      "remote_id": null,
+      "exam_id": 562
+    }
+  ]
+}

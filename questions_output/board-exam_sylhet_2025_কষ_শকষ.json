@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "1738",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "কৃষি শিক্ষা",
+    "subject": "কৃষি শিক্ষা",
+    "board": "sylhet",
+    "board_bn": "সিলেট বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 193
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "কোন গাছের বীজ সংরক্ষণ করা যায় না?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ঝাউ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "রেইনট্রি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কড়ই",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "দেবদারু",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 193
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "আলু গাছের সম্পূর্ণ অংশ উপড়ে ফেলাকে কী বলে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "কালচার পদ্ধতি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কাটিং পদ্ধতি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "উত্তোলন পদ্ধতি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "হাম পুলিং",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 193
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "কোনটি পারিবারিক খামারের স্থায়ী খরচ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বালতি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "লিটার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "টিকা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "খাদ্য ক্রয়",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 193
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "কোন ফসলটি বাংলাদেশে সারা বছর চাষ করা হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ধান",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "গম",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ভুট্টা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পাট",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 193
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "কৃষির সবচেয়ে গুরুত্বপূর্ণ কাজ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সার প্রয়োগ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "জমি প্রস্তুতি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সেচ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "আগাছা দমন",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 193
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি ভূমিক্ষয়ের জন্য সবচেয়ে ক্ষতিকর?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বৃষ্টি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বায়ু",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "হালচাষ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "জুমচাষ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 193
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "জমিতে কয় পর্যায়ে রোগিং করতে হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "দুই",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "তিন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "চার",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পাঁচ",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 193
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "প্ল্যাঙ্কটনের উপস্থিতির জন্য পানির রং কেমন হবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "হালুদাভ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বেগুনি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "নীলাভ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বাদামি সবুজ",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 193
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "হাঁস-মুরগির ঘর কোন মুখী হতে হবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পূর্বমুখী",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "পশ্চিমমুখী",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "দক্ষিণমুখী",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "উত্তরমুখী",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 193
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "আমিষের অভাব পূরণের জন্য মুরগিকে কোন খাদ্যটি খাওয়াতে হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ঝিনুক খোসাচূর্ণ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "হাড়ের গুঁড়া",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ডিমের খোসা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "শুঁটকি মাছের গুঁড়া",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 193
+    }
+  ]
+}

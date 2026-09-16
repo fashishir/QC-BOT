@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "1880",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "বাংলা ২য় পত্র",
+    "subject": "বাংলা ২য় পত্র",
+    "board": "mymensingh",
+    "board_bn": "ময়মনসিংহ বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 4
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "বাংলা ভাষার নিজস্ব লিপির নাম কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ব্রাহ্মী",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কুঠিল",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মণিপুরি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বাংলা",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 4
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "বাংলা ভাষার ক্ষুদ্রতম একক কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "শব্দ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বাক্য",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অক্ষর",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ধ্বনি",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 4
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "শক্ত তালু ও উপরের পাটির দাঁতের মধ্যবর্তী উত্তল অংশকে কী বলে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ওষ্ঠ্য",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মূর্ধা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "দন্তমূল",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নাসিকা",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 4
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "আকাশ শব্দের প্রতিশব্দ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "আগুন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অন্তরীক্ষ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ইচ্ছা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পৃথিবী",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 4
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "যেসব স্বরধ্বনি পুরোপুরি উচ্চারিত হয় না, তাদেরকে কী বলে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "হ্রস্বস্বর",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অর্ধস্বর",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "দীর্ঘস্বর",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পূর্ণস্বর",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 4
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "কর্তা নিজেই কোনো কাজ করেছে, এ ভাবটি জোর দিয়ে বোঝানোর জন্য যে ধরনের সর্বনাম ব্যবহার করা হয় তা হলো-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "উনি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "এই",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "স্বয়ং",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "যে-সে",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 4
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "'চলন্ত ট্রেন থেকে লাফ দিয়ো না।' বাক্যটিতে 'চলন্ত' কোন জাতীয় বিশেষণ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নির্দিষ্টতাবাচক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "গুণবাচক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অবস্থাবাচক",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ভাববাচক",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 4
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি যৌগিক ক্রিয়ার উদাহরণ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পকেট মারা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "চেপে রাখা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ছট্‌ফটায়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "খাওয়ায়",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 4
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "'টিপ টিপ বৃষ্টি পড়ছে।' বাক্যটিতে কোন ধরনের ক্রিয়া বিশেষণ ব্যবহৃত হয়েছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ধরনবাচক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কালবাচক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "স্থানবাচক",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নেতিবাচক",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 4
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "'যত পড়ছি, ততই নতুন করে জানছি।'-এ বাক্যে কোন ধরনের যোজক ব্যবহার করা হয়েছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সাধারণ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বিরোধ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বিকল্প",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সাপেক্ষ",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 4
+    }
+  ]
+}

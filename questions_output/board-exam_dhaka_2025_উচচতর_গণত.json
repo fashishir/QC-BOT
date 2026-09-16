@@ -1,0 +1,595 @@
+{
+  "exam": {
+    "remote_id": "1814",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "উচ্চতর গণিত",
+    "subject": "উচ্চতর গণিত",
+    "board": "dhaka",
+    "board_bn": "ঢাকা বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/written",
+    "mcq_count": 25,
+    "cq_count": 32,
+    "id": 53
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "চিত্রে, D ও E মধ্যবিন্দু হলে- i . P E → = P D → + D E → i i . P Q → + Q R → + R P → = 0 i i i . Q R → = 2 E D → নিচের কোনটি সঠিক?",
+      "images": [
+        "https://sattacademy.com/uploads/ckeditor/1746346789.png"
+      ],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 53
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "একটি ছককা নিক্ষেপে 4 উঠার সম্ভাবনা কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "1 6",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "1 4",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "2 3",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "5 6",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 53
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "কিছু সংখ্যক লোকের মধ্যে 60 জন বাংলা, 35 জন ইংরেজি এবং 15 জন বাংলা ও ইংরেজি বলতে পারে। দুইটি ভাষার অন্তত একটি ভাষা কতজন বলতে পারে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "10",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "40",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "60",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "80",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 53
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "S = { ( x , y ) : ( x 2 ) + y 2 = 36 এবং 4 ≥ 0 } হলে - i. অন্বয়টি ফাংশন ii. অন্বয়টির লেখচিত্র একটি অর্ধবৃত্ত iii. অন্বয়টির লেখচিত্র অক্ষের উপরি অর্ধতলে থাকবে নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 53
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "F ( x ) = 2 x - 3 ফাংশনটির ডোমেন নিচের কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ডোম F = x ∈ R : x ≠ 3 2",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ডোম F = x ∈ R : x > 3 2",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ডোম F = x ∈ R : x ≥ 3 2",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ডোম F = x ∈ R : x ≤ 3 2",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 53
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "P ( x , y , z ) = x 2 y + y 2 z + z 2 x হলে- i. P (x, y, z) সমমাত্রিক বহুপদী ii. P (x, y, z) প্রতিসম রাশি iii. P(x, y, z) চক্র-ক্রমিক রাশি নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 53
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "x 2 - 3 x - 2 = 0 সমীকরণের নিশ্চায়ক কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "1 2 3 - 17",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "1 2 3 + 17",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "17",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "17",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 53
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "7 ( 2 x - 3 ) = 6 ( 2 x - 3 ) সমীকরণের সমাধান কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "2 3",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "6 7",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "7 6",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "3 2",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 53
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "3 x + 7 ≤ 5 x + 3 অসমতাটির সমাধান সেট কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "S = { x ∈ R : x ≥ 2 }",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "S = { x ∈ R : x > 2 }",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "S = { x ∈ R : x ≤ 2 }",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "S = { x ∈ R : x ≥ - 2 }",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 53
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "2+0-2+0.02+ _______ ধারাটির অসীমতক সমষ্টি কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "9 20",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "20 11",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "111 50",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "20 9",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 53
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "( i ) p - 1 = l o g a ( b c ) , q - 1 = l o g b ( c a ) , r - 1 = l o g c ( a b ) ( i i ) y = 5 - x 5 + x",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/i-p-1logabc-q-1logbca-r-1logcabii-y-5-x5-x",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "y y y = y y y হলে, y এর মান নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/yyyy%C2%A0yy%C2%A0%E0%A6%B9%E0%A6%B2%E0%A7%87-y-%E0%A6%8F%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "প্রমাণ কর যে, pq + qr + rp - pqr = 0",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3-%E0%A6%95%E0%A6%B0-%E0%A6%AF%E0%A7%87-pq-qr-rp-pqr-0",
+      "remote_id": "0",
+      "exam_id": 53
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "g(x) = ln(y) হলে, g(x) এর রেঞ্জ নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/gx-lny-%E0%A6%B9%E0%A6%B2%E0%A7%87-gx-%E0%A6%8F%E0%A6%B0-%E0%A6%B0%E0%A7%87%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "একটি ধারার n -তম পদ U n = ( 2 p + 1 ) n - 2 যেখানে n ∈ N এবং A = x 2 + k x 8 একটি দ্বিপদী রাশি।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B0-n-%E0%A6%A4%E0%A6%AE-%E0%A6%AA%E0%A6%A6-%C2%A0un2p1n2-%E0%A6%AF%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A7%87-%C2%A0nn-%E0%A6%8F%E0%A6%AC%E0%A6%82-%C2%A0ax2kx8-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%A6%E0%A7%80-%E0%A6%B0%E0%A6%BE%E0%A6%B6%E0%A6%BF",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "প্যাসকেলের ত্রিভুজের সাহায্যে ( 1 - 3 x ) 5 কে বিস্তৃত কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A7%81%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF%E0%A7%87%C2%A013x5%C2%A0%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%83%E0%A6%A4-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "p এর উপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/p-%E0%A6%8F%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0-%E0%A6%95%E0%A7%80-%E0%A6%B6%E0%A6%B0%E0%A7%8D%E0%A6%A4-%E0%A6%86%E0%A6%B0%E0%A7%8B%E0%A6%AA-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%85%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%A4%E0%A6%95-%E0%A6%B8%E0%A6%AE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%B8%E0%A7%87%E0%A6%87-%E0%A6%B8%E0%A6%AE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "এ এর বিস্তৃতিতে x 4 এর সহগ 43750 হলে, k-এর মান নির্ণয় কর",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%8F-%E0%A6%8F%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87%C2%A0x4%C2%A0%E0%A6%8F%E0%A6%B0-%E0%A6%B8%E0%A6%B9%E0%A6%97-43750-%E0%A6%B9%E0%A6%B2%E0%A7%87-k%E0%A6%8F%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "p ( x , y , z ) = x - 3 + y - 3 + z - 3 - 3 x - 1 y - 1 z - 1 এবং f ( x ) = x 3 + x 2 + 4 x + 4",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/pxyzx3y3z33x1%C2%A0y1z1-%E0%A6%8F%E0%A6%AC%E0%A6%82-%C2%A0fxx3x24x4",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "f ( x ) = x 3 + 5 x 2 + a x + 8 এর একটি উৎপাদক (x + 2) হলে, এ এর মান নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/fxx35x2ax8%C2%A0%E0%A6%8F%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%95-x-2-%E0%A6%B9%E0%A6%B2%E0%A7%87-%E0%A6%8F-%E0%A6%8F%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "p(x, y, z) = 0 হলে, প্রমাণ কর যে, xy + yz + zx = 0 অথবা x = y = z",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/px-y-z-0-%E0%A6%B9%E0%A6%B2%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3-%E0%A6%95%E0%A6%B0-%E0%A6%AF%E0%A7%87-xy-yz-zx-0-%E0%A6%85%E0%A6%A5%E0%A6%AC%E0%A6%BE-x-y-z",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "x 2 + 4 x - 7 f ( x ) কে আংশিক ভগ্নাংশে প্রকাশ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/x24x7fx%C2%A0%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%82%E0%A6%B6%E0%A6%BF%E0%A6%95-%E0%A6%AD%E0%A6%97%E0%A7%8D%E0%A6%A8%E0%A6%BE%E0%A6%82%E0%A6%B6%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "AABC-এ AD, BE CF যথাক্রমে  BC, CA এবং  AB বাহুর উপর মধ্যমা। মধ্যমা তিনটি পরস্পর G  বিন্দুতে ছেদ করেছে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/aabc%E0%A6%8F-ad-be-cf-%E0%A6%AF%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A7%87-%C2%A0bc-ca-%E0%A6%8F%E0%A6%AC%E0%A6%82-%C2%A0ab-%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%81%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BE-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BE-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%B0-g-%C2%A0%E0%A6%AC",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "একটি সমবাহু ত্রিভুজের পরিবৃত্তের ব্যাসার্ধ ও সে.মি হলে ত্রিভুজটির বাহুর দৈর্ঘ্য নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%81-%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A7%81%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A7-%E0%A6%93-%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A6%BF-%E0%A6%B9%E0%A6%B2%E0%A7%87-%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A7%81%E0%A6%9C%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%81%E0%A6%B0-%E0%A6%A6%E0%A7%88%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A7%8D%E0%A6%AF-%E0%A6%A8",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "প্রমাণ কর যে, A D 2 + B D 2 = 1 2 A B 2 + A C 2",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3-%E0%A6%95%E0%A6%B0-%E0%A6%AF%E0%A7%87%C2%A0ad2bd212%C2%A0ab2ac2",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "ভেক্টরের সাহায্যে প্রমাণ কর যে, A D → + B E → + C F → = 0",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AD%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3-%E0%A6%95%E0%A6%B0-%E0%A6%AF%E0%A7%87%C2%A0ad%C2%A0%C2%A0be%C2%A0%C2%A0cf%C2%A0%C2%A00",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "একটি চতুর্ভুজের চারটি শীর্ষ বিন্দুর স্থানাঙ্ক যথাক্রমে A(0, - 1) B(-2, 3), C(6, 7) এবং D(8, 3) ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%9A%E0%A6%A4%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A7%81%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%9F%E0%A6%BF-%E0%A6%B6%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95-%E0%A6%AF%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A7%87-a0-1-b2-3-c6-7-%E0%A6%8F%E0%A6%AC%E0%A6%82-d8-3",
+      "remote_id": "3",
+      "exam_id": 53
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "x - y + 2 = 0 রেখাটি -অক্ষের ধনাত্মক দিকের সাথে যে কোণ উৎপন্ন করে, তা নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/x-y-2-0-%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%9F%E0%A6%BF-%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%A8%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A5%E0%A7%87-%E0%A6%AF%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A3-%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "প্রমাণ কর যে, চতুর্ভুজ ABCD এর ক্ষেত্রফল ∆ ABC এর ক্ষেত্রফলের দ্বিগুণ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3-%E0%A6%95%E0%A6%B0-%E0%A6%AF%E0%A7%87-%E0%A6%9A%E0%A6%A4%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A7%81%E0%A6%9C-abcd-%E0%A6%8F%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%AB%E0%A6%B2%C2%A0abc-%E0%A6%8F%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%AB%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A7%81%E0%A6%A3",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "BC রেখা y-অক্ষকে p বিন্দুতে এবং AD রেখা x-অক্ষকে Q বিন্দুতে ছেদ করলে PQ রেখার ঢাল নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/bc-%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A6%BE-y%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A7%87-p-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%8F%E0%A6%AC%E0%A6%82-ad-%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A6%BE-x%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A7%87-q-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%9B%E0%A7%87%E0%A6%A6-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87-pq-%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%B0-%E0%A6%A2%E0%A6%BE%E0%A6%B2-",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "(1) 5x + y = 35 (ii) x - y + 5 = 0 দুটি সরলরেখার সমীকরণ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/1-5x-y-35-ii-x-y-5-0-%E0%A6%A6%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A6%B0%E0%A6%B2%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%80%E0%A6%95%E0%A6%B0%E0%A6%A3",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "মূলবিন্দু হতে (6, k) (-6,6) বিন্দু দুটি সমদূরবর্তী হলে, k এর মান নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81-%E0%A6%B9%E0%A6%A4%E0%A7%87-6-k-66-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81-%E0%A6%A6%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A6%AE%E0%A6%A6%E0%A7%82%E0%A6%B0%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%80-%E0%A6%B9%E0%A6%B2%E0%A7%87-k-%E0%A6%8F%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "(1) নং রেখাটি x-অক্ষ এবং y-অক্ষকে যথাক্রমে A ও B বিন্দুতে ছেদ করলে মূল বিন্দু এবং AB এর মধ্যবিন্দুগামী রেখার সমীকরণ নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/1-%E0%A6%A8%E0%A6%82-%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%9F%E0%A6%BF-x%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%B7-%E0%A6%8F%E0%A6%AC%E0%A6%82-y%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A7%87-%E0%A6%AF%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A7%87-a-%E0%A6%93-b-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%9B%E0%A7%87%E0%A6%A6-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87-%E0%A6%AE%E0%A7%82%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81-%E0%A6%8F%E0%A6%AC%E0%A6%82-ab",
+      "remote_id": null,
+      "exam_id": 53
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "(i) ও (ii) নং রেখা x-অক্ষের সাথে যে ত্রিভুজ গঠন করে তার ক্ষেত্রফল নির্ণয় কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/i-%E0%A6%93-ii-%E0%A6%A8%E0%A6%82-%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A6%BE-x%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A5%E0%A7%87-%E0%A6%AF%E0%A7%87-%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A7%81%E0%A6%9C-%E0%A6%97%E0%A6%A0%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%AB%E0%A6%B2-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 53
+    }
+  ]
+}

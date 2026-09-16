@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "1739",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "কৃষি শিক্ষা",
+    "subject": "কৃষি শিক্ষা",
+    "board": "jessore",
+    "board_bn": "যশোর বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 191
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "হাঁস-মুরগির ঘর কোন মুখী হলে ভালো?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পূর্বমুখী",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "পশ্চিমমুখী",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "উত্তরমুখী",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "দক্ষিণমুখী",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 191
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "কেনাফ কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "তেল জাতীয় ফসল",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "আঁশ জাতীয় ফসল",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ডাল জাতীয় ফসল",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "দানা জাতীয় ফসল",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 191
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "পারিবারিক কৃষি খামারে করা যায়- i. মৎস্য খামার ii. পোল্ট্রি খামার iii. গবাদিপশু খামার নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 191
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "২টি ভেড়ার (প্রাপ্ত বয়স্ক) জন্য দৈনিক কত গ্রাম দানাদার খাদ্যের প্রয়োজন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৪০০-৫০০ গ্রাম",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৪৫০-৫০০ গ্রাম",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৫০০-৬০০ গ্রাম",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৬০০-৭০০ গ্রাম",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 191
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "কোন ধরনের বনায়নে জনগণ সরাসরি সম্পৃক্ত থাকে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "শাল বন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সামাজিক বন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ম্যানগ্রোভ বন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "উপকূলীয় বন",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 191
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "পলি ব্যাগের আকার ১৮ সে. মি. × '১২ সে. মি. হলে ২ বর্গমিটার জায়গায় কতটি চারা রাখা যাবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৪৫টি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৯০টি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১৩০টি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "২০০টি",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 191
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "খরা সহিষ্ণু ফসলের বৈশিষ্ট্য- i. গভীর মূলী ও সরু পাতাযুক্ত ii. মূল খুব দৃঢ় ও শাখা-প্রশাখাযুক্ত iii. পাতা ছোট, পুরু বা পেঁচানো হয়ে থাকে নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 191
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "ধান চাষে ৬ শতক জমিতে কী পরিমাণ গোবর সার দিতে হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২০ কেজি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৬০ কেজি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১০০ কেজি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১২০ কেজি",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 191
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "ফিশমিল কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মাছের খাদ্য",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "শুটকীর গুড়া",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সম্পূরক খাদ্য",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "খাদ্য মিশ্রণ",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 191
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "আমাদের দেশে হাঁস পালন পদ্ধতি কয়টি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২টি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৩টি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৪টি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৫টি",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 191
+    }
+  ]
+}

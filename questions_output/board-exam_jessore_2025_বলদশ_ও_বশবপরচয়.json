@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "1866",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "board": "jessore",
+    "board_bn": "যশোর বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 35
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "হিসাব তথ্যের অভ্যন্তরীণ ব্যবহারকারী কে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ব্যবস্থাপক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সরকার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পাওনাদার",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ঋণ প্রদানকারী",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 35
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "বর্ধিত হিসাব সমীকরণ হলো-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "A=L+E",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "E=L+A",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "A=L+(C+R-Ex-D)",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "A=L-(C+R-Ex-D)",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 35
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "যন্ত্রপাতি ক্রয়ের ভাড়া কোন জাতীয় ব্যয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বিলম্বিত মুনাফা জাতীয়",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মূলধন জাতীয়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মুনাফা জাতীয়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নিয়মিত",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 35
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "হিসাব সমীকরণ অনুযায়ী হিসাব কত প্রকার?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৪",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৫",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৬",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৭",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 35
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "বিশেষ জাবেদা কয় ধরনের?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৪",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৫",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৬",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 35
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "কন্ট্রা এন্ট্রির ক্ষেত্রে কোন প্রতীক লেখা হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "B",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "C",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "K",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "F",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 35
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "সমাপনী হাতে নগদের মধ্যে কোনটি অন্তর্ভুক্ত থাকে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "প্রারম্ভিক মজুদ পণ্য",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "প্রারম্ভিক নগদ তহবিল",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সমাপনী মূলধন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সমাপনী ব্যাংক জমা",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 35
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "মোট ব্যয়ের সাথে যোগ করা হয় কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অর্জিত মুনাফা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বোনাস",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বিক্রয় মূল্য",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "প্রত্যাশিত মুনাফা",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 35
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "বাজেট কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "প্রকৃত আয়-ব্যয়",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ভবিষ্যৎ পরিকল্পনা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পরিকল্পনা বাস্তবায়ন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পরিকল্পনার সংখ্যাত্মক প্রকাশ",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 35
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "সভ্যতার সূচনালগ্নে মানুষ হিসাব রাখত কীভাবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ঘরে দাগ কেটে",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "পাথরে চিহ্ন দিয়ে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মাটিয় দেয়ালে রং দিয়ে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "রশিতে গিট দিয়ে",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 35
+    }
+  ]
+}

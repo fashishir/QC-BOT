@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "1879",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "বাংলা ২য় পত্র",
+    "subject": "বাংলা ২য় পত্র",
+    "board": "barishal",
+    "board_bn": "বরিশাল বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 6
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "প্রথম বাংলা ব্যাকরণ রচয়িতা কে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মানোএল দা আসসুম্পসাঁউ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "রামমোহন রায়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "নাথানিয়েল ব্রাসি হ্যালহেড",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "উইলিয়াম কেরি",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 6
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "'নিমরাজি' শব্দের 'নিম' উপসর্গটি কোন অর্থদ্যোতক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অল্প",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "প্রায়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অর্ধেক",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সম্পূর্ণ",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 6
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "'ডাক্তারকে জানাও' বাক্যে 'ডাক্তার' কোন কারক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অধিকরণ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "করণ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কর্ম",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কর্তা",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 6
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "মাতৃভাষী জনসংখ্যার দিক দিয়ে বাংলা পৃথিবীর কততম ভাষা?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৪র্থ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৫ম",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৬ষ্ঠ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৭ম",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 6
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "স্বরবর্ণের মোট সংক্ষিপ্ত রূপ কয়টি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৮টি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "১০টি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১১ টি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১২টি",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 6
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "'লাউ' শব্দের মধ্যে কোন কোন স্বরধ্বনি আছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "আ+ উ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "আ+ই",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অ+ই",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "আ+এ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 6
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "'হাতাহাতি' কোন সমাসের উদাহরণ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "দ্বন্দ্ব",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কর্মধারয়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "তৎপুরুষ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বহুব্রীহি",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 6
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "'চিঠিটা পড়া হয়েছে'- এটি কোন বাচ্যের উদাহরণ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "কর্ম-কর্তাবাচ্য",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ভাববাচ্য",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কর্তাবাচ্য",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কর্মবাচ্য",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 6
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "কৃৎপ্রত্যয় সাধিত শব্দকে কী বলে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পদান্ত",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "তদ্বিতান্ত",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কৃদন্ত",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নিজন্ত",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 6
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "পূর্বপদ ও পরপদ উভয় পদের অর্থের সমান প্রাধান্য থাকে কোন সমাসে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বহুব্রীহি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "তৎপুরুষ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "দ্বন্দ্ব",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কর্মধারয়",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 6
+    }
+  ]
+}

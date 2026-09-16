@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "1807",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ভূগোল ও পরিবেশ",
+    "subject": "ভূগোল ও পরিবেশ",
+    "board": "sylhet",
+    "board_bn": "সিলেট বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 67
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "প্রাকৃতিক ভূগোলের কোন শাখা উদ্ভিদের বণ্টন নিয়ে আলোচনা করে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ভূমিরূপবিদ্যা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "জলবায়ুবিদ্যা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "জীবভূগোল",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মৃত্তিকা ভূগোল",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 67
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "কোন গ্রহে ৬৮৭ দিনে এক বছর হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "শুক্র",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মঙ্গাল",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "শনি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নেপচুন",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 67
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "সরকার ভূমির মালিক থেকে কর নেয় কোন মানচিত্রের মাধ্যমে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ভূতাত্ত্বিক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "এটলাস",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "দেয়াল",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মৌজা",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 67
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "নক্ষত্রের রয়েছে i. নিজস্ব জ্বালানি ii. নিজের আলো iii. উচ্চ-তাপমাত্রা নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 67
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "বাংলাদেশের মোট বৃষ্টিপাতের কত অংশ কালবৈশাখী দ্বারা সংঘটিত হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২০%",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "২৫%",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৪০%",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৫০%",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 67
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "ভূ-পৃষ্ঠ থেকে প্রতি ১০০০ মিটার উচ্চতায় তাপমাত্রা কত কমে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৪°সে",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৬°সে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৮°সে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১০°সে",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 67
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "ভূমির তুলনায় জনসংখ্যা কম হলে তাকে কী বলে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "কাম্য জনসংখ্যা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মানুষ ভূমি অনুপাত",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অতি-জনাকীর্ণতা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "জনস্বল্পতা",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 67
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "'A' একটি সাময়িক প্রাকৃতিক দুর্যোগ যেটি গত ৩০ বছরে বাংলাদেশের পূর্বাংশে বেশি সংঘটিত হয়েছে। 'A' দুর্যোগটির নাম কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নদীভাঙ্গন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "খড়া",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ঘূর্ণিঝড়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বন্যা",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 67
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "জনসংখ্যার ঘনত্ব সর্বনিম্ন কত হলে কোনো বসতিকে শহর বলা যায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৫০০০",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "১৫০০",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১১১৬",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১০১৫",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 67
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "উপকূল কেমন হলে মহীসোপান অধিক প্রশস্ত হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সংকীর্ণ সমভূমি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বিস্তৃত সমভূমি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পার্বত্যভূমি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মালভূমি",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 67
+    }
+  ]
+}

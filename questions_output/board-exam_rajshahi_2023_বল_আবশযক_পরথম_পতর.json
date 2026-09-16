@@ -1,0 +1,659 @@
+{
+  "exam": {
+    "remote_id": "176",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "বাংলা (আবশ্যিক) প্রথম পত্র",
+    "subject": "বাংলা (আবশ্যিক) প্রথম পত্র",
+    "board": "rajshahi",
+    "board_bn": "রাজশাহী বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 30,
+    "cq_count": 55,
+    "id": 598
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "মাইনে পনের টাকা শুনে মমতাদির দুচোখে জল এলো কেন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "আনন্দে",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কৃতজ্ঞতায়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কষ্টে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "উত্তেজনায়",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 598
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "‘রানার' কবিতায় ‘নতুন দিনের প্রত্যাশা' প্রকাশ পেয়েছে কোন কথায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সহানুভূতির চিঠি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "শপথের চিঠি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "আকাশ হয়েছে লাল",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "দেখা দেবে বুঝি প্ৰভাত এখুনি",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 598
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "‘আমরা তিনজন নই, একজন'–এ উক্তিতে প্রকাশ পেয়েছে—",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "দেশপ্রেম",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "প্রতিবাদ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "আত্মবিশ্বাস",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ঐক্যবোধ",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 598
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "নিচের উদ্দীপকটি পড়ে ৪ নং প্রশ্নের উত্তর দাও : “নমঃ নমঃ নমঃ সুন্দরী মম জননী বঙ্গভূমি গঙ্গার তীর, স্নিগ্ধ সমীর, জীবন জুড়ালে তুমি।” উদ্দীপকে ‘কপোতাক্ষ নদ' কবিতার কোন ভাবটি ধরা পড়েছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "দেশপ্রেম",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "স্মৃতিকাতরতা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মিনতি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সংশয়",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 598
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "নিচের উদ্দীপকটি পড়ে ৫ নং প্রশ্নের উত্তর দাও : “নমঃ নমঃ নমঃ সুন্দরী মম জননী বঙ্গভূমি গঙ্গার তীর, স্নিগ্ধ সমীর, জীবন জুড়ালে তুমি।” সাদৃশ্যপূর্ণ ভাবটি প্রকাশ পেয়েছে কোন চরণে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "আর কি হে হবে দেখা?",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "গাবে বঙ্গজ জনের কানে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "দুগ্ধ-স্রোতোরূপী তুমি জন্মভূমি-স্তনে।",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সতত, হে নদ, তুমি পড় মোর মনে!",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 598
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "কাহিনীর বিষয়বস্তু ও পরিণতির দিক থেকে বিচার করলে নাটক প্রধানত কত প্রকার?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "দুই",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "তিন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "চার",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পাঁচ",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 598
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "‘গণসূর্যের মঞ্চ' রেসকোর্স ময়দানের কোন প্রান্তে নির্মিত হয়েছিল?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "উত্তর",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "দক্ষিণ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পূর্ব",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পশ্চিম",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 598
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "শিক্ষা ও মনুষ্যত্ব' প্রবন্ধ অনুযায়ী শিক্ষার আসল কাজ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "জ্ঞান পরিবেশন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বুদ্ধির বিকাশ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মূল্যবোধ সৃষ্টি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "আত্মিক মুক্তি",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 598
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "“তোমাকে পাওয়ার জন্যে, হে স্বাধীনতা' কবিতায় সগীর আলী ছিলেন—",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সাহসী",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কর্মঠ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "জোয়ান",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "তেজি",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 598
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "কী খেলে বুধার মগজ ভরে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বাতাস",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "রোদ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "জোছনা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পানি",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 598
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "ফুলবাবু বাংলাদেশ থেকে চিকিৎসার উদ্দেশ্যে কোলকাতায় যান। তার বন্ধু রবিন তাকে দেখাশোনার কাজে সোমেনকে নিয়োজিত করে। রান্নাবান্না, ঘর গোছানো, বাজার করা, কোনো কাজে অলসতা নেই সোমেনের। আন্তরিকতার সাথে সে ফুলবাবুর সেবা যত্ন করে । দেশে ফেরার সময় হলে ফুলবাবু সোমেনকে সঙ্গে নিয়ে যেতে চাইলে সে বলে, “এ দেশ ছেড়ে আমি কোথাও যাবনা বাবু। খাই বা না খাই, দেশের মাটি আঁকড়ে পড়ে থাকতে চাই।”",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AB%E0%A7%81%E0%A6%B2%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A7%81-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A7%8E%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%81-%E0%A6%B0%E0%A6%AC%E0%A6%BF%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%B6",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "বরফ আসে কোথা থেকে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%B0%E0%A6%AB-%E0%A6%86%E0%A6%B8%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A5%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "কাবুলের হাওয়া তো হাওয়া নয় আতসবাজির হল্কা—কেন একথা বলা হয়েছে? বুঝিয়ে লেখ ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A6%BE%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%A4%E0%A7%8B-%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%A8%E0%A6%AF%E0%A6%BC-%E0%A6%86%E0%A6%A4%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%B0-%E0%A6%B9%E0%A6%B2%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%8F%E0%A6%95%E0%A6%A5%E0%A6%BE-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%81%E0%A6%9D%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B2%E0%A7%87%E0%A6%96",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের ফুলবাবুর সেবাযত্ন পাওয়ার বিষয়টি 'প্রবাসবন্ধু' রচনার কোন দিককে ইঙ্গিত করে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A7%81%E0%A6%B2%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A7%81%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%BE%E0%A6%AF%E0%A6%A4%E0%A7%8D%E0%A6%A8-%E0%A6%AA%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%81-%E0%A6%B0%E0%A6%9A%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A6%95%E0%A7%87-%E0%A6%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BF%E0%A6%A4-%E0%A6%95",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের সোমেন এবং 'প্রবাসবন্ধু' রচনার আবদুর রহমান দুজনেই স্বদেশপ্রেমে উদ্দীপ্ত——মন্তব্যটির যতার্থতা নিরূপণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8B%E0%A6%AE%E0%A7%87%E0%A6%A8-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%81-%E0%A6%B0%E0%A6%9A%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%AC%E0%A6%A6%E0%A7%81%E0%A6%B0-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%A6%E0%A7%81%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AE%E0%A7%87-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%AE%E0%A6%A8",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "গৃহকর্মী হিসেবে গ্রাম থেকে আসেন পাতার মা। ষোলো বছর যাবত সুমনাদের বাসায় প্রায় সবকাজ করেন তিনি। পাতার মা সুমনাকে মাতৃস্নেহে লালন-পালন করছেন। সুমনার মাও পাতার মাকে কাজের মানুষ নয় বরং পরিবারের একজন সদস্য হিসেবে গণ্য করেন। সুখে দুঃখে সুমনাদের পরিবারে জড়িয়ে আছেন তিনি। কেবল সুমনা নয় পরিবারের সবার প্রতিই তার স্নেহদৃষ্টি।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%97%E0%A7%83%E0%A6%B9%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80-%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A7%87%E0%A6%A8-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE-%E0%A6%B7%E0%A7%8B%E0%A6%B2%E0%A7%8B-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A6%A4-%E0%A6%B8%E0%A7%81%E0%A6%AE%E0%A6%A8%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A6%AC",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "” মমাতাদি কোথায় থাকতো?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A6%BF-%E0%A6%95%E0%A7%8B%E0%A6%A5%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%A4%E0%A7%8B",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "মমতাদি উপার্জনের জন্য বাইরে এসেছিল কেন? বুঝিয়ে লিখ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A6%BF-%E0%A6%89%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%B8%E0%A7%87%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%81%E0%A6%9D%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B2%E0%A6%BF%E0%A6%96",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের পাতার মায়ের মধ্যে 'মমতাদি' গল্পের মমতাদি চরিত্রের কোন গুণটি ফুটে উঠেছে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%AE%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A6%BF-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A6%BF-%E0%A6%9A%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%97%E0%A7%81%E0%A6%A3%E0%A6%9F%E0%A6%BF-%E0%A6%AB%E0%A7%81%E0%A6%9F%E0%A7%87-%E0%A6%89%E0%A6%A0%E0%A7%87%E0%A6%9B%E0%A7%87-",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "“উদ্দীপকের সুমনার মা এবং 'মমতাদি গল্পের\" খোকার মা দুজনই সম্মান ও সহমর্মিতা নিয়ে গৃহকর্মীর পাশে দাঁড়িয়েছেন বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%AE%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%AE%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A6%BF-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%8B%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE-%E0%A6%A6%E0%A7%81%E0%A6%9C%E0%A6%A8%E0%A6%87-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%93-%E0%A6%B8%E0%A6%B9%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%97%E0%A7%83",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "ইকরাম আহমেদ উনিশশো একাত্তর সালের একজন যুদ্দাহত বীর মুক্তিযোদ্ধা। তার শরীরের ক্ষত শুকিয়ে গেলেও মনের ক্ষত শুকায়নি। চোখের সামনে নিজের বাড়িঘর পুড়ে যেতে দেখেছেন, হানাদার বাহিনী টেনে হিঁচড়ে নিয়ে গেছে স্ত্রী ও বোনকে। যুদ্ধ শেষে বিজয়ীবেশে তিনি ফিরেছেন, কিন্তু তাদের ফিরে পাননি। সেসব ঘটনা মনে হলে এখনও শিউরে ওঠেন তিনি।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%87%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%86%E0%A6%B9%E0%A6%AE%E0%A7%87%E0%A6%A6-%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A6%B6%E0%A6%B6%E0%A7%8B-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%9C%E0%A6%A8-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%B9%E0%A6%A4-%E0%A6%AC%E0%A7%80%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%B6%E0%A6%B0%E0%A7%80%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4-",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "'মার্সি পিটিশন' কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A6%BF-%E0%A6%AA%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%B6%E0%A6%A8-%E0%A6%95%E0%A7%80",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "স্কুল খুললেও স্কুলে যাওয়া হবে না। কেন? বুঝিয়ে লেখ",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B2-%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%B2%E0%A7%87%E0%A6%93-%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%81%E0%A6%9D%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B2%E0%A7%87%E0%A6%96",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের হানাদার বাহিনীর নৃশংসতায় ‘একাত্তরের দিনগুলি' রচনার কোন দিকটি ফুটে উঠেছে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80%E0%A6%B0-%E0%A6%A8%E0%A7%83%E0%A6%B6%E0%A6%82%E0%A6%B8%E0%A6%A4%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF-%E0%A6%B0%E0%A6%9A%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AB%E0%A7%81%E0%A6%9F%E0%A7%87-%E0%A6%89%E0%A6%A0%E0%A7%87%E0%A6%9B%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের ইকরাম আহমেদ-এর অনুভূতি ‘একাত্তরের দিনগুলি' রচনার লেখিকার মধ্যেও লক্ষ্য করা যায়—মন্তব্যটি বিশ্লেষণ কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%87%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%86%E0%A6%B9%E0%A6%AE%E0%A7%87%E0%A6%A6%E0%A6%8F%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AD%E0%A7%82%E0%A6%A4%E0%A6%BF-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF-%E0%A6%B0%E0%A6%9A%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%93-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "(i) মনোরমা স্কুলের ম্যাগাজিনের জন্য একটি লেখা জমা দেয়। তার লিখিত বিষয়টি ছিল তথ্যবহুল ও সৃজনশীল। অতি দীর্ঘ না হলেও লেখাটিতে চিন্তনশীল মননের পরিচয় পাওয়া যায় । (ii) একটি কাহিনী লেখকের সাবলীল বর্ণনায় পাঠকের চোখে ভেসে উঠে বেশ কিছু চরিত্রের পদচারনায়। লেখকের সৃষ্টির মাঝে একাত্ম হয়ে মিশে যায় পাঠকের হৃদয়। জনপ্রিয় এই সাহিত্য মাধ্যমের দুর্বার আকর্ষণ রয়েছে ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/i-%E0%A6%AE%E0%A6%A8%E0%A7%8B%E0%A6%B0%E0%A6%AE%E0%A6%BE-%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%BE-%E0%A6%9C%E0%A6%AE%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%9F%E0%A6%BF-%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A6%AC",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "বাংলা সাহিত্যে গীতিকবিতার আদি নিদর্শন কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%97%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%A6%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%A8-%E0%A6%95%E0%A7%80",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "“নাটকের লক্ষ্য সর্বকালেই দর্শক সমাজ”—কথাটি কেন বলা হয়েছে? বুঝিয়ে লেখ ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%BE%E0%A6%9F%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%87-%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%95-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A6%95%E0%A6%A5%E0%A6%BE%E0%A6%9F%E0%A6%BF-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%81%E0%A6%9D%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B2%E0%A7%87%E0%A6%96",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের (i) নং অংশে ‘সাহিত্যের রূপ ও রীতি' প্রবন্ধে বর্ণিত সাহিত্যের কোন শাখাকে ইঙ্গিত করে? ব্যাখ্যা কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-i-%E0%A6%A8%E0%A6%82-%E0%A6%85%E0%A6%82%E0%A6%B6%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A7%82%E0%A6%AA-%E0%A6%93-%E0%A6%B0%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%B6%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%87%E0%A6%99",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের (ii) নং অংশের সাহিত্য শাখাটি পাঠকসমাজকে সবচেয়ে বেশি মুগ্ধ করে। ৪ —‘সাহিত্যের রূপ ও রীতি' প্রবন্ধের আলোকে মূল্যায়ন কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-ii-%E0%A6%A8%E0%A6%82-%E0%A6%85%E0%A6%82%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AF-%E0%A6%B6%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%95%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%AC%E0%A6%9A%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%AE%E0%A7%81%E0%A6%97%E0%A7%8D%E0%A6%A7-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A7%AA-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AF",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "কামাল লেখাপড়া শেষ করে চাকরির জন্যে অনেক চেষ্টা করেও সফল হয় না। বন্ধু জামালকে সে দুঃখ করে বলে, “আমি যে কাজই করি, যেদিকেই হাঁটি— কেবল ব্যর্থতা আর ব্যর্থতা।” জবাবে জামাল বলে, “তোমার এই নৈরাশ্যের কারণ অমনোযোগ আর কুঁড়েমি।” প্রতিদিন কিছু না কিছু কাজ কর। বছর শেষে, এমনকি মাস শেষে তোমার কাজ দেখে তুমি নিজেই বিস্মিত হবে। জীবনকে ব্যবহার কর, দেখবে মৃত্যু হাজার জীবনের কীর্তির নিশান উড়িয়ে দিয়েছে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B2-%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A6%BE-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%85%E0%A6%A8%E0%A7%87%E0%A6%95-%E0%A6%9A%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%93-%E0%A6%B8%E0%A6%AB%E0%A6%B2-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%81-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "কবি আয়ুকে কীসের সঙ্গে তুলনা করেছেন?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A6%AC%E0%A6%BF-%E0%A6%86%E0%A6%AF%E0%A6%BC%E0%A7%81%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%80%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "‘মহিমাই জগতে দুৰ্লভ' কবি কেন এ কথা বলেছেন? বুঝিয়ে লেখ ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%B9%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%87-%E0%A6%9C%E0%A6%97%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A7%B0%E0%A7%8D%E0%A6%B2%E0%A6%AD-%E0%A6%95%E0%A6%AC%E0%A6%BF-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%8F-%E0%A6%95%E0%A6%A5%E0%A6%BE-%E0%A6%AC%E0%A6%B2%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%81%E0%A6%9D%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B2%E0%A7%87%E0%A6%96",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের কামালের মধ্যে 'জীবন সঙ্গীত' কবিতার কোন দিকটি ফুটে উঠেছে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%80%E0%A6%A4-%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AB%E0%A7%81%E0%A6%9F%E0%A7%87-%E0%A6%89%E0%A6%A0%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 25,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের জামালের বক্তব্যে 'জীবন সঙ্গীত' কবিতার কবির আকাঙ্ক্ষার প্রকাশ ঘটেছে কি? উত্তরের সপক্ষে যুক্তি দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%80%E0%A6%A4-%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%98%E0%A6%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%95%E0%A6%BF-%E0%A6%89%E0%A6%A4",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 26,
+      "question_type": "written",
+      "question_text": "(i) জাতিতে জাতিতে ধর্মে নিশিদিন হিংসা ও বিদ্বেষ মানুষে করিছে ক্ষুদ্র, বিষাইছে বিশ্বের আকাশ মানবতা মহাধর্ম রোধ করি করিছে উল্লাস । (ii) জাতি ধর্ম রাষ্ট্র ন্যায় সকলি যে মানুষের তরে মানুষ সবার ঊর্ধ্বে, নহে কিছু তাহার অধিক ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/i-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B6%E0%A6%BF%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%B9%E0%A6%BF%E0%A6%82%E0%A6%B8%E0%A6%BE-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%B7-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A6%BF%E0%A6%9B%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%BE%E0%A6%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 27,
+      "question_type": "written",
+      "question_text": "মোল্লা ভুখারিকে কোথায় গিয়ে মরতে বলেছে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AD%E0%A7%81%E0%A6%96%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A5%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%97%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AE%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87%E0%A6%9B%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 28,
+      "question_type": "written",
+      "question_text": "“তব মসজিদ মন্দিরে প্রভু নাই মানুষের দাবি”—চরণটি বুঝিয়ে লেখ ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A4%E0%A6%AC-%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A7%81-%E0%A6%A8%E0%A6%BE%E0%A6%87-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%B0%E0%A6%A3%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A7%81%E0%A6%9D%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B2%E0%A7%87%E0%A6%96",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 29,
+      "question_type": "written",
+      "question_text": "উদ্দীপক (i) এ মোল্লা-পুরোহিত চরিত্রের যে দিকটির প্রকাশ ঘটেঠে তা বর্ননা কর",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95-i-%E0%A6%8F-%E0%A6%AE%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%A4-%E0%A6%9A%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%98%E0%A6%9F%E0%A7%87%E0%A6%A0%E0%A7%87-%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 598
+    },
+    {
+      "question_no": 30,
+      "question_type": "written",
+      "question_text": "“উদ্দীপক (ii) এ মানুষ কবিতার কবি চেতনারই প্রকাশ ঘটেছে।” বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95-ii-%E0%A6%8F-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7-%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%AC%E0%A6%BF-%E0%A6%9A%E0%A7%87%E0%A6%A4%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A6%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%98%E0%A6%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 598
+    }
+  ]
+}

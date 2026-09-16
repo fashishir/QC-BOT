@@ -1,0 +1,331 @@
+{
+  "exam": {
+    "remote_id": "1809",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ভূগোল ও পরিবেশ",
+    "subject": "ভূগোল ও পরিবেশ",
+    "board": "jessore",
+    "board_bn": "যশোর বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 63
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "চট্টগ্রাম বন্দরের মাধ্যমে দেশের শতকরা কতভাগ রপ্তানি কার্য সম্পন্ন হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৭০",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৭৫",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৮০",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৮৫",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 63
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "বাংলাদেশের \"বিলিয়ন ডলার\" নামে পরিচিত শিল্প প্রতিষ্ঠানটি হলো-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পোশাক শিল্প",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "পর্যটন শিল্প",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পাট শিল্প",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কাগজ শিল্প",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 63
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "নিচের কোন জেলায় রেলপথ আছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বরিশাল",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "রাঙামাটি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "লক্ষ্মীপুর",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "রংপুর",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 63
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "এসডিজি অর্জনের লক্ষ্যমাত্রা কত সালের মধ্যে অর্জন করতে হবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২০২০",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "২০৩০",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "২০৪০",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "২০৫০",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 63
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "কোনটি মৎস্য বিলুপ্তির কারণ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পানি দূষণ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মৎস্য খাদ্যের অভাব",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "জলাশয় ভরাট করা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "জলজ বাস্তুসংস্থানের অভাব",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 63
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "কোনটি সারাবছর চলমান থাকে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নদী ভাঙ্গন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ভূমিকম্প",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বন্যা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "খরা",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 63
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "চিত্র: সৌরজগতের একাংশ চিত্রে 'A' দ্বারা কোন গ্রহকে নির্দেশ করা হয়েছে?",
+      "images": [
+        "https://sattacademy.com/uploads/ckeditor/1746012723.png"
+      ],
+      "options": [
+        {
+          "index": 1,
+          "text": "বুধ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "শুক্র",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পৃথিবী",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মঙ্গল",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 63
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "ওয়াশিংটন ডিসি বিজ্ঞান একাডেমি কত সালে ভূগোলের সংজ্ঞা দিয়েছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "১৯০১",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "১৯৬৫",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১৯৮১",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "২০১১",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 63
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "সৌরজগতের সবচেয়ে বড় গ্রহ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বৃহস্পতি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "শনি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "নেপচুন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বুধ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 63
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "কোন পেশাজীবীদের মধ্যে জন্মহার বেশি লক্ষ করা যায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "আইনজীবী",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "শ্রমজীবী",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "শিক্ষক",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ডাক্তার",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 63
+    }
+  ]
+}

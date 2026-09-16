@@ -1,0 +1,738 @@
+{
+  "exam": {
+    "remote_id": "257",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ইংরেজী (আবশ্যিক) ১ম পত্র",
+    "subject": "ইংরেজী (আবশ্যিক) ১ম পত্র",
+    "board": "chattogram",
+    "board_bn": "চট্টগ্রাম বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 10,
+    "cq_count": 29,
+    "id": 566
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "What did Mother Teresa teach us?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "She taught us crime",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "She taught us humanity",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "She taught us cruelty",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "She taught us English",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "1971",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "1972",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "1978",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "1979",
+          "images": []
+        },
+        {
+          "index": 9,
+          "text": "Nirmol Hriday",
+          "images": []
+        },
+        {
+          "index": 10,
+          "text": "Niramoy Centre",
+          "images": []
+        },
+        {
+          "index": 11,
+          "text": "Niribili Kendra",
+          "images": []
+        },
+        {
+          "index": 12,
+          "text": "Rest House",
+          "images": []
+        },
+        {
+          "index": 13,
+          "text": "sari",
+          "images": []
+        },
+        {
+          "index": 14,
+          "text": "shirt",
+          "images": []
+        },
+        {
+          "index": 15,
+          "text": "coat",
+          "images": []
+        },
+        {
+          "index": 16,
+          "text": "veil",
+          "images": []
+        },
+        {
+          "index": 17,
+          "text": "humanity",
+          "images": []
+        },
+        {
+          "index": 18,
+          "text": "charity",
+          "images": []
+        },
+        {
+          "index": 19,
+          "text": "peace",
+          "images": []
+        },
+        {
+          "index": 20,
+          "text": "rehabilitation",
+          "images": []
+        },
+        {
+          "index": 21,
+          "text": "great love",
+          "images": []
+        },
+        {
+          "index": 22,
+          "text": "little love",
+          "images": []
+        },
+        {
+          "index": 23,
+          "text": "hatred",
+          "images": []
+        },
+        {
+          "index": 24,
+          "text": "no sympathy",
+          "images": []
+        },
+        {
+          "index": 25,
+          "text": "Mother Teresa",
+          "images": []
+        },
+        {
+          "index": 26,
+          "text": "her fellow sisters",
+          "images": []
+        },
+        {
+          "index": 27,
+          "text": "the dying people",
+          "images": []
+        },
+        {
+          "index": 28,
+          "text": "both i and ii",
+          "images": []
+        },
+        {
+          "index": 29,
+          "text": "the donating preachers",
+          "images": []
+        },
+        {
+          "index": 30,
+          "text": "the preachers",
+          "images": []
+        },
+        {
+          "index": 31,
+          "text": "the donors",
+          "images": []
+        },
+        {
+          "index": 32,
+          "text": "all the answers are correct",
+          "images": []
+        },
+        {
+          "index": 33,
+          "text": "in our country only",
+          "images": []
+        },
+        {
+          "index": 34,
+          "text": "throughout the world",
+          "images": []
+        },
+        {
+          "index": 35,
+          "text": "in India only",
+          "images": []
+        },
+        {
+          "index": 36,
+          "text": "in Asian continent only",
+          "images": []
+        },
+        {
+          "index": 37,
+          "text": "an environment of peaceful death",
+          "images": []
+        },
+        {
+          "index": 38,
+          "text": "full medicine",
+          "images": []
+        },
+        {
+          "index": 39,
+          "text": "job opportunity",
+          "images": []
+        },
+        {
+          "index": 40,
+          "text": "an opportunity to get jobs",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 566
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "What did Mother Teresa teach us?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "She taught us crime",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "She taught us humanity",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "She taught us cruelty",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "She taught us English",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 566
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "She got Nobel Prize for peace in-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "1971",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "1972",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "1978",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "1979",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 566
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "Teresa founded-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Nirmol Hriday",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Niramoy Centre",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Niribili Kendra",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Rest House",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 566
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "Mother Teresa use to wear-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "sari",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "shirt",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "coat",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "veil",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 566
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "Mother Teresa won the Nobel Prize for-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "humanity",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "charity",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "peace",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "rehabilitation",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 566
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "Mother Teresa showed _ to the unloved and uncared for people.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "great love",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "little love",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "hatred",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "no sympathy",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 566
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "The streets of Kolkata are trodden by-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Mother Teresa",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "her fellow sisters",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "the dying people",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "both i and ii",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 566
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "What does the phrase 'Missionaries of Charity' mean?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "the donating preachers",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "the preachers",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "the donors",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "all the answers are correct",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 566
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "Mother Teresa was recognized-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "in our country only",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "throughout the world",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "in India only",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "in Asian continent only",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 566
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "What were the uncared people given?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "an environment of peaceful death",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "full medicine",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "job opportunity",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "an opportunity to get jobs",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 566
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "Mother Teresa was moved by the sight of the sick and dying on the streets of Kolkata. She founded a home for the dying destitute and named it 'Nirmol Hriday* meaning 'Pure Heart'. She and her fellow nuns brought the dying people off the streets of Kolkata to this home. They were lovingly looked after and cared for. Since then many men, women and children have been taken from the streets and carried to 'Nirmo! Hriday. These unloved and uncared for people get an opportunity to die in an environment of kindness and love. In their last hours they get human and divine love, and can feel they are also children of God. The Missionaries of Charity try to find jobs for those who survive, or send them to homes where they can live happily for some more years in a caring environment. Regarding commitment to family, Mother Teresa said. \"May be in our own family, we have somebody, who is feeling lonely, who is feeling sick, who is feeling worried. Are we there? Are we willing to give until it hurts in order to be with our families, or do we put our interest first? We must remember that love begins at home and we must also remember that future of humanity passes through the family.\" Mother Teresa's work has been recognized throughout the world and she received a number of awards. These include the Pope John XXIII Peace Prize (1971), the Nehru Prize for Promotion of International Peace & Understanding (1972), the Balzan Prize (1978), the Nobel Peace Prize (1979) and the Bharat Ratna (1980). Mother Teresa died at the age of 87, on 5 September 1997. The world salutes her for her love and compassion for humanity. She has taught us how to extend our hand towards those who need our love and support irrespective of creed, caste and religion. The picture of Mother Teresa, draped in a white and blue-bordered sari with a wrinkled face, ever soft eyes and a saintly smile, lives on in our mind. Answer the following questions :",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/mother-teresa-was-moved-by-the-sight-of-the-sick-and-dying-on-the-streets-of-kol",
+      "remote_id": null,
+      "exam_id": 566
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "Choose the correct answer from the alternatives :",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/choose-the-correct-answer-from-the-alternatives-97897",
+      "remote_id": "97897",
+      "exam_id": 566
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "Why do you think Mother Teresa won so many awards ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/why-do-you-think-mother-teresa-won-so-many-awards-92853",
+      "remote_id": "92853",
+      "exam_id": 566
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "Why did Mother Teresa win the Nobel-Prize ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/why-did-mother-teresa-win-the-nobel-prize",
+      "remote_id": null,
+      "exam_id": 566
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "Why do you think the home is named 'Nirmol Hriday' ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/why-do-you-think-the-home-is-named-nirmol-hriday",
+      "remote_id": null,
+      "exam_id": 566
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "Why did Mother Teresa want the dying people to feel that they too deserve care and love ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/why-did-mother-teresa-want-the-dying-people-to-feel-that-they-too-deserve-care-a",
+      "remote_id": null,
+      "exam_id": 566
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "What are the things that we have learnt from Mother Teresa ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-are-the-things-that-we-have-learnt-from-mother-teresa",
+      "remote_id": null,
+      "exam_id": 566
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "Why does the world salute her ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/why-does-the-world-salute-her-19032",
+      "remote_id": "19032",
+      "exam_id": 566
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "26 March, our Independence Day, is the one of the most important state festival. The day is celebrated every year in the country with great enthusiasm and fervour. It is a national holiday. All offices, educational institutions, shops and factories remain closed on this day. The day begins with a 31 gun salute. Early in the morning the President and the Prime Minister, on behalf of the nation place floral wreaths at the National Mausoleum at Savar. Then other leaders, political parties, diplomats, social and cultural organizations, educational institutions and freedom fighters pay homage to the martyrs. People from all walks of life also go there in rallies and processions. There are many cultural programmes throughout the day, highlighting the heroic struggle and sacrifice in 1971. In Bangabandhu National Stadium, school children, scouts and girl guides take part in various displays to entertain thousands of spectators. Educational institutions also organise their individual programmes. Sports meets and tournaments are also organised on the day, including the exciting boat race in the river Buriganga. In the evening, all major public buildings are illuminated with colourful lights. Bangla Academy, Bangladesh Shilpakala Academy and other socio-cultural organisations hold cultural functions. Similar functions are also arranged in other places in the country.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/26-march-our-independence-day-is-the-one-of-the-most-important-state-festival-th-56989",
+      "remote_id": "56989",
+      "exam_id": 566
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "Choose the correct answer from the alternatives :",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/choose-the-correct-answer-from-the-alternatives-82179",
+      "remote_id": "82179",
+      "exam_id": 566
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "Fill in each gap with a suitable word based on the information of the text:\r\n26 March is a red-letter day in our national (a)___. It is our Independence Day. This is a day to (b)___ why and how Bangladesh is created. The birth of Bangladesh was not easy. Our heroic people protested (c)___ the evil motive and plan of the Pakistani rulers. Conscious people of our country (d)___ against Pak rulers in 1952. 62, 68, 69 and finally in 1971. So 1971 was the (e)___ of the\r\nprevious movements.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/fill-in-each-gap-with-a-suitable-word-based-on-the-information-of-the-text-26-ma",
+      "remote_id": null,
+      "exam_id": 566
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "Match the parts of sentences given in column A, B and C to write seven complete sentences: Column A Column B Column C ( a) Our Independence Day (i) educational institutions, shop (1) a 31 gun salute (b) The day (ii) in the biggest (ii) to celebrate the day. (c) On the day, all offices (iii) organise their individual programmes iii) with rallies and processions (d) The day (iv) on behalf of the nation iv) state festival in our country (e) The President and the Prime Minister (v) also come there (v) place floral wreaths at the National Mausoleum (f) People from all walks of life (vi) begins with (vi) in the country with great enthusiasm and fervour (g) Different institutions Sand organisaitons (vii) is celebrated every year (vii) and factories remain closed",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/match-the-parts-of-sentences-given-in-column-a-b-and-c-to-write-seven-complete-s",
+      "remote_id": null,
+      "exam_id": 566
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "Rabindranath Tagore was one of the most leading poets in the history of the world literature. He was at the same time a poet, a novelist, a dramatist, a philosopher and a musician. He was born in the renowned Tagore family on 7 May, 1861. After the completion of his house education, he was sent to school. But he did not like institutional education. So, arrangements were made at house for his proper education. In his thirteenth year, Rabindranath along with his father went to visit the Himalayas. At the age of seventeen, he was sent to London to study law. But he studied literature with Professor Henry Morley only for a few months and then returned home. Only at the age of eight, he started composing poems. He wrote his poetic novel 'Banaful' at the age of fifteen. When he was sixteen, his poems and essays were being published in journals. After returning from England, he began to write tirelessly in all branches of literature. In 1911, he translated his poems of 'Gitanjali' into English which brought him the highest honour in the form of the Nobel Prize in 1913. One year after his awarding of the Nobel Prize, he was made a knight by the British Government which he rejected as a protest against the atrocities of the British Government at Jallianwala Bagh. The University of Oxford honoured him with D Lit in 1940. Earlier in 1921, he laid the foundation of Viswa Bharati. At the age of 80. Rabindranath Tagore breathed his last.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/rabindranath-tagore-was-one-of-the-most-leading-poets-in-the-history-of-the-worl",
+      "remote_id": null,
+      "exam_id": 566
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "Complete the table with the information from the above passage : Biography of Rabindranath Tagore Known as A poet, a novelist, a dramatist, a philosopher and musician Lifespan From 1861 to (i)…………… Who What Event/ Activity Time/ When Place/ Where Subject/ Specialty Rabindranath Tagore tour went to visit (ii)…… Himalayas accompanied by his father He education was sent to study (iii)…….. London (iv)………. (v)……. brought him the highest honour in the form of the Nobel Prize in 1913 He Viswa Bharati laid the foundation (vi)……..",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/complete-the-table-with-the-information-from-the-above-passage-biography-of-rabi",
+      "remote_id": null,
+      "exam_id": 566
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "Write a summary of the above passage in your own words.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/write-a-summary-of-the-above-passage-in-your-own-words-31139",
+      "remote_id": "31139",
+      "exam_id": 566
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "Answer the following questions to write a paragraph on ‘A Winter Morning’. You should write it in about 150 words: (a) How is a winter morning? (b) What happens in a winter morning? (c) What do people do at that time? (d) How does it look? (e) What is the food habit of the people in the winter morning? (f) How long does it last? (g) Do you like winter morning? Why?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/answer-the-following-questions-to-write-a-paragraph-on-a-winter-morning-you-shou",
+      "remote_id": null,
+      "exam_id": 566
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "Read the beginning of the story. Use your imagination to complete the story. Give a title of it. One sunny morning a boy of eleven years was tending cattle by the side of a railway line. Suddenly he noticed that a small railway slipper was about to collapse……………….",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-beginning-of-the-story-use-your-imagination-to-complete-the-story-give-",
+      "remote_id": null,
+      "exam_id": 566
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "Suppose, you are Robin/Rubina. Your younger brother, Rana does not take physical exercise at all. Now, write an e-mail telling him the importance of taking physical exercise.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/suppose-you-are-robinrubina-your-younger-brother-rana-does-not-take-physical-exe",
+      "remote_id": null,
+      "exam_id": 566
+    }
+  ]
+}

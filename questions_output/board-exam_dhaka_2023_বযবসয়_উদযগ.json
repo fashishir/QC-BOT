@@ -1,0 +1,710 @@
+{
+  "exam": {
+    "remote_id": "496",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ব্যবসায় উদ্যোগ",
+    "subject": "ব্যবসায় উদ্যোগ",
+    "board": "dhaka",
+    "board_bn": "ঢাকা বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 30,
+    "cq_count": 55,
+    "id": 437
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "উক্ত বণ্টন প্রণালী অনুসরণ করে নিচের কোন পণ্য বিক্রয় অধিক সুবিধাজনক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ফলমূল",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "চাল",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কাগজ-কলম",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ফ্রিজ",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "i, ii",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "i, iii",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "ii,iii",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "i,ii,iii",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 437
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "উক্ত বণ্টন প্রণালী অনুসরণ করে নিচের কোন পণ্য বিক্রয় অধিক সুবিধাজনক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ফলমূল",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "চাল",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কাগজ-কলম",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ফ্রিজ",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 437
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "উক্ত বণ্টন প্রণালিতে মধ্যস্থ ব্যবসায়ী হলো— i. W ii. R iii. M নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i, ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i, iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii,iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i,ii,iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 437
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "বিপণনের আবশ্যকীয় কাজ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ক্রয়",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বিক্রয়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পরিবহণ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "প্রমিতকরণ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 437
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "ভোক্তা বিশ্লেষণ বিপণনের কোন ধরনের কাজ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অন্যতম কাজ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "গুরুত্বপূর্ণ কাজ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "আবশ্যকীয় কাজ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "অতিরিক্ত কাজ",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 437
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "পরিবেশ দূষণ দিন দিন বেড়ে যাওয়ার কারণ- i. যথোপযুক্ত আইনের অভাব ii. বিদ্যমান আইনের যথার্থ প্রয়োগের অভাব iii. জনগণের অসচেতনতা নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i, ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i, iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii,iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii, iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 437
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "শ্রমিক কর্মচারীর প্রতি একজন ব্যবসায়ীর দায়িত্ব কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পণ্য সংক্রান্ত তথ্য সরবরাহ করা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "প্রশিক্ষণ ও পদোন্নতির ব্যবস্থা করা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কর্মসংস্থানের সুযোগ সৃষ্টি করা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নিয়মনীতি যথাযথভাবে পালন করা",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 437
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "পূর্ব নির্ধারিত লক্ষ্য অর্জনের জন্য সম্পাদিত কার্যাবলিকে কী বলা হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ব্যবসায়",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সংগঠন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "নেতৃত্ব",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ব্যবস্থাপনা",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 437
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "শিল্প-কারখানায় উৎপন্ন বর্জ্যের জন্য কী থাকা বাধ্যতামূলক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পরিবেশ অধিদপ্তরের ছাড়পত্র",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বর্জ্য শোধনাগার",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কর্তৃপক্ষের অনুমতিপত্র",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "স্থানীয় জন প্রতিনিধির অনুমোদন",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 437
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "মি. শওকত এর উৎপাদিত পণ্য BSTI এর আওতাধীন বিধায় মান নিয়ন্ত্রণে সহযোগীতা পাওয়া যায়। BSTI কোন মন্ত্রণালয়ের অধীন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "শিল্প",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বানিজ্য",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পাট ও বস্র",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "শিক্ষা",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 437
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "ব্যবসায়ের ক্ষেত্রে তথ্যগত প্রতিবন্ধকতা দূর করে কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "গবেষণা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ভাববিনিময়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বিজ্ঞাপন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ব্যাংকিং",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 437
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "জনাব আকরাম বিভিন্ন এলাকা থেকে কাঠ সংগ্রহ করে আসবাবপত্র তৈরি করে এলাকার বিভিন্ন দোকানে স্বল্পমূল্যে বিক্রি করেন। তার তৈরিকৃত আসবাবপত্রের চাহিদা থাকায় তিনি ব্যবসার পরিধি বাড়াতে চান। কিন্তু পুঁজিগত কারণে সমস্যা হলেও সাফল্যের ব্যাপারে তিনি আশাবাদী।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%86%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%A0-%E0%A6%B8%E0%A6%82%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%A6",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "ব্যবসায়ের উৎপত্তির মূলে কী ছিল?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%9B%E0%A6%BF%E0%A6%B2",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "প্রত্যক্ষ সেবামূলক ব্যবসায় বলতে কী বোঝায়?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%B7-%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%BE%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%95-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%9D%E0%A6%BE%E0%A6%AF%E0%A6%BC-90593",
+      "remote_id": "90593",
+      "exam_id": 437
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "জনাব আকরাম কোন ধরনের শিল্পের সাথে জড়িত? ব্যাখ্যা কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%86%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A7%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A5%E0%A7%87-%E0%A6%9C%E0%A6%A1%E0%A6%BC%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "ব্যবসায় সফল হতে চাইলে তাকে ব্যবসায়ের কোন বাধাকে গুরুত্ব দেওয়া উচিত বলে মনে কর? বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A6%AB%E0%A6%B2-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%87%E0%A6%B2%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%89%E0%A6%9A%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A6%B2%E0%A7%87-%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "জনাব আমিনুল লেখা-পড়া শেষ করে চাকুরী না করে নিজেদের পরিত্যাক্ত জমিতে একটি মৎস্য খামার করেন। আগে থেকে মৎস্য খামার সম্পর্কে জ্ঞান না থাকায় তিনি প্রথমদিকে লোকসানের সম্মুখীন হন। পরবর্তীতে প্রশিক্ষণ নিয়ে নতুন উদ্যমে ব্যবসায় করে সফলতা অর্জন করেন।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%81%E0%A6%B2-%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A6%BE-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A7%80-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%9C%E0%A6%AE%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AE%E0%A7%8E%E0%A6%B8%E0%A7%8D%E0%A6%AF-%E0%A6%96",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "আমেরিকার ফোর্ড কোম্পানির প্রতিষ্ঠাতা কে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%AE%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-%E0%A6%95%E0%A7%8B%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "ব্যবসায়িক ঝুঁকি ও আর্থিক ঝুঁকির মধ্যে পার্থক্য কী? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%BF%E0%A6%95-%E0%A6%9D%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%BF-%E0%A6%93-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%95-%E0%A6%9D%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "ব্যবসায় সম্প্রসারণে জনাব আমিনুলের মাঝে কোন গুণটি প্রতিফলিত হয়েছে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%9D%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%97%E0%A7%81%E0%A6%A3%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AB%E0%A6%B2%E0%A6%BF%E0%A6%A4-%E0%A6%B9%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "জনাব আমিনুলের উদ্যোগ অন্যদের জন্য অনুকরণীয় হতে পারে”- উক্তিটি মূল্যায়ন কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%95%E0%A6%B0%E0%A6%A3%E0%A7%80%E0%A6%AF%E0%A6%BC-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%9F%E0%A6%BF-%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A8-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "জনাব কাজল যুব প্রশিক্ষণ কেন্দ্র হতে মাছ ও সবজি চাষের প্রশিক্ষণ নিয়ে খামার প্রতিষ্ঠা করেন। বর্তমানে তার খামার পরিচালনায় সফলতা অর্জনের পাশাপাশি অনেক বেকার যুবকের কর্মসংস্থানের ব্যবস্থা করেছেন।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A6%B2-%E0%A6%AF%E0%A7%81%E0%A6%AC-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%9B-%E0%A6%93-%E0%A6%B8%E0%A6%AC%E0%A6%9C%E0%A6%BF-%E0%A6%9A%E0%A6%BE%E0%A6%B7%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%96%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "কর্মসংস্থানের প্রধান উৎস কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%89%E0%A7%8E%E0%A6%B8-%E0%A6%95%E0%A7%80",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "\"ব্যবসায় উদ্যোগের সাথে আত্মকর্মসংস্থানের সম্পর্ক খুবই নিবিড়”—ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A5%E0%A7%87-%E0%A6%86%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95-%E0%A6%96%E0%A7%81%E0%A6%AC%E0%A6%87-%E0%A6%A8%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%A1%E0%A6%BC%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "জনাব কাজলের খামার প্রতিষ্ঠা কর্মসংস্থানের ভিত্তিতে কোন কাজের অন্তর্ভুক্ত? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "দেশের বেকারত্ব লাঘবে জনাব কাজলের প্রতিষ্ঠিত খামারের অবদান বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%B2%E0%A6%BE%E0%A6%98%E0%A6%AC%E0%A7%87-%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BF%E0%A6%A4-%E0%A6%96%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AC%E0%A6%A6%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "জনাব হাসান মধ্যবিত্ত পরিবারের বড় সন্তান। বাবার মৃত্যুর পর লেখাপড়ার খরচ ও সংসারের দায়িত্ব তার কাঁধে পড়ে। সংসারের অভাব দূর করতে তিনি অল্প পুঁজি নিয়ে একটি মুদি ব্যবসায় শুরু করেন। তার ব্যবসায় ছিল কম ঝুঁকিপূর্ণ অথচ অসীমদায় সম্পন্ন।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%A1%E0%A6%BC-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%96%E0%A6%B0%E0%A6%9A-%E0%A6%93-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "ব্যবসায় সংগঠন কত প্রকার?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A6%82%E0%A6%97%E0%A6%A0%E0%A6%A8-%E0%A6%95%E0%A6%A4-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-65178",
+      "remote_id": "65178",
+      "exam_id": 437
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "একমালিকানা ব্যবসায়ের জনপ্রিয়তার কারণ ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%8F%E0%A6%95%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0-15176",
+      "remote_id": "15176",
+      "exam_id": 437
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "জনাব হাসানের ব্যবসায়টি সংগঠনের ভিত্তিতে কোন ধরনের ব্যবসায়? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A6%82%E0%A6%97%E0%A6%A0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A7%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "কম ঝুঁকিপূর্ণ ও অসীমদায় সম্পন্ন”—কথাটি উদ্দীপকের আলোকে আলোচনা কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A6%AE-%E0%A6%9D%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%93-%E0%A6%85%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%95%E0%A6%A5%E0%A6%BE%E0%A6%9F%E0%A6%BF-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "আসমান তারা একটি গবেষণামূলক বই প্রকাশ করেন। বইটি বিভিন্ন মহলে সমাদৃত হলেও পরবর্তী পর্যায়ে বাজারে বিক্রি আশানুরূপ না হওয়ায় তিনি খোঁজ নিয়ে জেনেছেন বইটি নকল কপি প্রকৃত দামের থেকে অনেক কম দামে বাজারে বিক্রি হচ্ছে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%97%E0%A6%AC%E0%A7%87%E0%A6%B7%E0%A6%A3%E0%A6%BE%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%95-%E0%A6%AC%E0%A6%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A6%87%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%AE%E0%A6%B9%E0%A6%B2%E0%A7%87-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%83%E0%A6%A4-%E0%A6%B9%E0%A6%B2%E0%A7%87%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%80-",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "পেটেন্ট কোন ধরনের সম্পদ?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%87%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A7%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A6",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "ট্রেডমার্ক রেজিস্ট্রেশনের প্রয়োজনীয়তা ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A1%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95-%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "আসমান তারার সৃষ্ট কাজটি কীসের অন্তর্ভুক্ত? বর্ণনা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A6%9F%E0%A6%BF-%E0%A6%95%E0%A7%80%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 25,
+      "question_type": "written",
+      "question_text": "নকল প্রতিরোধে জনাব আসমান তারার কোন পদক্ষেপ গ্রহণ করা উচিত ছিল বলে তুমি মনে কর? বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%95%E0%A6%B2-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%87-%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%86%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AA%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%89%E0%A6%9A%E0%A6%BF%E0%A6%A4-%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%AC%E0%A6%B2%E0%A7%87-%E0%A6%A4%E0%A7%81%E0%A6%AE%E0%A6%BF-%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A6%B0-%E0%A6%AC%E0%A6%BF",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 26,
+      "question_type": "written",
+      "question_text": "মি. আলম একজন ব্যবস্থাপক। তিনি তাঁর প্রতিষ্ঠানের কর্মীদের সাথে বিভিন্ন বিষয় আলোচনা করে তাঁদের মতামতের মূল্যায়ন করেন। ফলে প্রতিষ্ঠানের উৎপাদনের মান বেড়েছে। তবে কিছুদিন থেকে কর্মীদের মাঝে অবাধ্যতা দেখা দেওয়ায় তিনি নেতৃত্বের ধরনে পরিবর্তন আনার চিন্তা করছেন। তিনি মার্জিত ব্যবহার ও সম্মোহনী ক্ষমতার দ্বারা সাহস ও সততার সাথে কর্মীদের অসন্তোষ দূর করার চেষ্টা করছেন।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%BF-%E0%A6%86%E0%A6%B2%E0%A6%AE-%E0%A6%8F%E0%A6%95%E0%A6%9C%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%95-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF-%E0%A6%A4%E0%A6%BE%E0%A6%81%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A5%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 27,
+      "question_type": "written",
+      "question_text": "আধুনিক ব্যবস্থাপনার জনক কে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%A7%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A6%95-%E0%A6%95%E0%A7%87-32342",
+      "remote_id": "32342",
+      "exam_id": 437
+    },
+    {
+      "question_no": 28,
+      "question_type": "written",
+      "question_text": "নেতৃত্ব বলতে কী বুঝায়? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%AC%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%81%E0%A6%9D%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 29,
+      "question_type": "written",
+      "question_text": "মি. আলম দীর্ঘদিন ধরে প্রতিষ্ঠানে কীরূপ নেতৃত্ব অনুসরণ করেছেন?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%BF-%E0%A6%86%E0%A6%B2%E0%A6%AE-%E0%A6%A6%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%A7%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A7%80%E0%A6%B0%E0%A7%82%E0%A6%AA-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B8%E0%A6%B0%E0%A6%A3-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8",
+      "remote_id": null,
+      "exam_id": 437
+    },
+    {
+      "question_no": 30,
+      "question_type": "written",
+      "question_text": "একজন ব্যবস্থাপক হিসেবে মি. আলমের মাঝে আদর্শ নেতার কী কী গুণাবলি পরিলক্ষিত হয় বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%8F%E0%A6%95%E0%A6%9C%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%95-%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A7%87-%E0%A6%AE%E0%A6%BF-%E0%A6%86%E0%A6%B2%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%9D%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%B6-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%80-%E0%A6%95%E0%A7%80-%E0%A6%97%E0%A7%81%E0%A6%A3%E0%A6%BE%E0%A6%AC%E0%A6%B2%E0%A6%BF-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A4-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A6%BF%E0%A6%B6",
+      "remote_id": null,
+      "exam_id": 437
+    }
+  ]
+}

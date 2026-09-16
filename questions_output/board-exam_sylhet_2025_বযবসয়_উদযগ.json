@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "1777",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ব্যবসায় উদ্যোগ",
+    "subject": "ব্যবসায় উদ্যোগ",
+    "board": "sylhet",
+    "board_bn": "সিলেট বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 119
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "ব্যবসায়ের ক্রমবিকাশের প্রাচীন যুগের পর্যায় কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বাজার সৃষ্টি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মুদ্রা প্রচলন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "দ্রব্য বিনিময়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ব্যবসায়ের বিকাশ",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 119
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "নিচের কোন কাজটিকে শিল্প বলা যায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পণ্যের সংরক্ষণাগার স্থাপন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সম্পদের ঝুঁকি নিরসনের ব্যবস্থা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বিদ্যুতের উইন্ডমিল স্থাপন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পণ্য প্রসারে প্রচার করা",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 119
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "ব্যবসায়ের উৎপত্তির মূলে ছিল- i. অভাববোধ ii. অর্থনৈতিক কর্মকাণ্ড iii. লেনদেন নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 119
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "একজন সফল উদ্যোক্তা প্রথমত কোন কাজটি করে থাকেন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বেকার সমস্যা চিহ্নিতকরণ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বিরাজমান সুযোগ-সুবিধা চিহ্নিতকরণ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সরকারি সহায়তা গ্রহণ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "যোগ্য কর্মী নির্বাচন",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 119
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "উদ্যোক্তার চ্যালেঞ্জমূলক কাজ বলতে কী বোঝায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "'যে কাজে ঝুঁকি ও সাফল্য সমানভাবে বিদ্যমান",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "স্বল্প ঝুঁকি এবং সাফল্যের সম্ভাবনাপূর্ণ কাজ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ঝুঁকিবিহীন নিশ্চিত সাফল্যের কাজ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ঝুঁকিপূর্ণ কাজ কিন্তু সাফল্য নিশ্চিত",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 119
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "একজন উদ্যোক্তা- i. ব্যবসায় স্থাপনের ধারণা চিহ্নিত করেন ii. সফলভাবে ব্যবসা পরিচালনা করেন iii. ব্যবসায়ের মুনাফা অবশ্যই নিশ্চিত করেন নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 119
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "\"বাংলাদেশ অর্থনৈতিক রিভিউ-২০১১\" এর পরিসংখ্যান অনুযায়ী জাতীয় অর্থনীতিতে কৃষিখাতের অবদান কত শতাংশ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "১০",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "২০",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৩০",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৪০",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 119
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি আত্মকর্মসংস্থানের উপযুক্ত ক্ষেত্র?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সুতা থেকে কাপড় তৈরি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ভারী যন্ত্রের সাহায্যে সার উৎপাদন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বেত থেকে নান্দনিক মাদুর তৈরি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নদী পারাপারের জন্য সেতু তৈরি",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 119
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "ভূমিহীন নারী-পুরুষদের আত্মকর্মসংস্থানের জন্য প্রশিক্ষণ দিয়ে থাকে কোন সংস্থা?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বাংলাদেশ ইনস্টিটিউট অব ম্যানেজমেন্ট",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মহিলা বিষয়ক মন্ত্রণালয়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বাংলাদেশ পল্লি উন্নয়ন বোর্ড",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "যুব প্রশিক্ষণ কেন্দ্র",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 119
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "জনাব মিতুল বিত্তহীন, ভূমিহীন ও আশ্রয়হীনদের দারিদ্র বিমোচনের লক্ষ্যে একটি সমবায়সমিতি গঠন করেন। যার সদস্য সংখ্যা ন্যূনতম ২০। নিবন্ধনের জন্য মিতুলকে কত টাকা ট্রেজারি চালান দিতে হবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "১০০",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "২০০",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৩০০",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৪০০",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 119
+    }
+  ]
+}

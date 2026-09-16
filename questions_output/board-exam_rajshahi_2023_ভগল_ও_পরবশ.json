@@ -1,0 +1,615 @@
+{
+  "exam": {
+    "remote_id": "509",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ভূগোল ও পরিবেশ",
+    "subject": "ভূগোল ও পরিবেশ",
+    "board": "rajshahi",
+    "board_bn": "রাজশাহী বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 28,
+    "cq_count": 55,
+    "id": 422
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "Geography\" শব্দটি প্রথম কে ব্যবহার করেন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অধ্যাপক ম্যাকনি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ইরাটস থেনিস",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ডাডলি স্ট্যাম্প",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কার্ল রিচার্ড",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 422
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "ভূগোলের কোন শাখায় বায়ুমণ্ডলের মেঘ, বৃষ্টি, আদ্রতা ইত্যাদি সম্পর্কে আলোচনা করা হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "দুর্যোগ ব্যবস্থাপনা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "জলবায়ুবিদ্যা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সমুদ্রবিদ্যা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সংখ্যাতাত্ত্বিক ভূগোল",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 422
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "পৃথিবীর উভয় গোলার্ধে দিন-রাত সমান হয় কত তারিখে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২১ মার্চ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "২১ জুন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "২২ ডিসেম্বর",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "২১ সেপ্টেম্বর",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 422
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "মধ্য অন্টান্টিক শৈলশিরা কী দিয়ে গঠিত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পলি অবক্ষেপন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "গলিত শিলা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "দেহাবশেষ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "লাভা",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 422
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি মানব-ভূগোলের অন্তর্গত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মৃত্তিকা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বায়ুমন্ডল",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "জনসংখ্যা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বারিমন্ডল",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 422
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "গুরুবৃত্ত বলে কোনটিকে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "কর্কটক্রান্তি রেখা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মকরক্রান্তি রেখা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মূলমধ্যরেখা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নিরক্ষরেখা",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 422
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "ভূ-পৃষ্ঠ থেকে অভ্যন্তর দিকে প্রতি ১০০ মিটারে কত ডিগ্রি তাপমাত্রা বৃদ্ধি পায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৬°",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "১০°",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৩°",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৩০°",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 422
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "পরিবেশের ধারণার সাথে সম্পর্কিত বিষয় হলো i. স্থান ii. ভূ-প্রকৃতি iii. সময়",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i,ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 422
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "কোনটি সক্রিয় আগ্নেয়গিরি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ফুজিয়াম",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "পেরিকোটিন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মাওনাকেয়া",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কোহিসুলতান",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 422
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি সুনামি সংঘটনের জন্য দ্বায়ী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "জলপ্রপাত",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "আগ্নেয়গিরির অগ্ন্যুৎপাত",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ক্ষয়ীভবন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নগ্নীভবন",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 422
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "বারিমণ্ডল কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%B2-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-28266",
+      "remote_id": "28266",
+      "exam_id": 422
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "বঙ্গোপসাগরকে উপসাগর বলা হয় কেন? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%89%E0%A6%AA%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0-25689",
+      "remote_id": "25689",
+      "exam_id": 422
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "চিত্রের 'C' চিহ্নিত ভূমিরূপটি উল্লেখপূর্বক বর্ণনা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-c-%E0%A6%9A%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%A4-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%9F%E0%A6%BF-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "চিত্রে 'A' ও 'B' চিহ্নিত ভূমিরূপ দুইটি কি সাদৃশ্যপূর্ণ? তোমার উত্তরের সপক্ষে যুক্তি উপস্থাপন কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87-a-%E0%A6%93-b-%E0%A6%9A%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%A4-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A7%82%E0%A6%AA-%E0%A6%A6%E0%A7%81%E0%A6%87%E0%A6%9F%E0%A6%BF-%E0%A6%95%E0%A6%BF-%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%89",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "জ্যোতিষ্ক বৈশিষ্ট্য ক মাথা ও লেজবিশিষ্ট বিস্ময়কর খ হলুদ বর্ণের, মাঝারি আকারের গ এসিড বৃষ্টিবহুল",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%95%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A6%AE%E0%A6%BE%E0%A6%A5%E0%A6%BE-%E0%A6%93-%E0%A6%B2%E0%A7%87%E0%A6%9C%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A6%95%E0%A6%B0%C2%A0%E0%A6%96%E0%A6%B9%E0%A6%B2%E0%A7%81%E0%A6%A6-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%9D%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0%C2%A0%E0%A6%97%E0%A6%8F%E0%A6%B8%E0%A6%BF%E0%A6%A1-",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "নক্ষত্র কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%95%E0%A7%80",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "পৃথিবী সূর্যের চার দিকে ঘুরে কেন? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%83%E0%A6%A5%E0%A6%BF%E0%A6%AC%E0%A7%80-%E0%A6%B8%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%98%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের 'খ' জ্যোতিষ্কটি উল্লেখপূর্বক বৈশিষ্ট্য বর্ণনা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%96-%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%95-%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%AF-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে 'ক' ও 'গ' জ্যোতিষ্ক দুটির কোনটি বহু বছর পরপর দৃশ্যমান হয়? তোমার উত্তরের সপক্ষে মতামত দাও",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%95-%E0%A6%93-%E0%A6%97-%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%95-%E0%A6%A6%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%B9%E0%A7%81-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%AA%E0%A6%B0-%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AA%E0%A6%95",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "অক্ষরেখা কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A6%BE-%E0%A6%95%E0%A7%80-69518",
+      "remote_id": "69518",
+      "exam_id": 422
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "দিবা-রাত্রি সংঘটিত হওয়ার কারণ ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%9F%E0%A6%BF%E0%A6%A4-%E0%A6%B9%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "'A' অবস্থানে দিন-রাত্রির কীরূপ অবস্থা বিরাজ করে।  ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/a-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A7%80%E0%A6%B0%E0%A7%82%E0%A6%AA-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%9C-%E0%A6%95%E0%A6%B0%E0%A7%87%C2%A0%C2%A0%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "পৃথিবীর আবর্তনের ফলে 'B' ও 'C' অবস্থানে উত্তর গোলার্ধে কি একই ঋতু বিরাজ করবে? তোমার উত্তরের সপক্ষে যুক্তি দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%83%E0%A6%A5%E0%A6%BF%E0%A6%AC%E0%A7%80%E0%A6%B0-%E0%A6%86%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%B2%E0%A7%87-b-%E0%A6%93-c-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%95%E0%A6%BF-%E0%A6%8F%E0%A6%95%E0%A6%87-%E0%A6%8B%E0%A6%A4%E0%A7%81-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%9C-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%89",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "হুমায়ূন কবীর সাহেব ঢাকা থেকে রিয়াদের উদ্দেশ্যে সোমবার দুপুর ২টায় রওয়ানা দিলেন। রিয়াদ বিমান বন্দরে নামার পর দেখলেন যে, বিমান বন্দরের ঘড়িতে বিকাল ৫টা। কিন্তু নিজের হাত ঘড়িতে সময় রাত ৮টা।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B9%E0%A7%81%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%82%E0%A6%A8-%E0%A6%95%E0%A6%AC%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%B8%E0%A7%8B%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A7%A8%E0%A6%9F%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B0%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "প্রাকৃতিক মানচিত্র কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%95%E0%A7%80",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "জিপিএস এর মাধ্যমে কোন স্থানের অবস্থান জানা যায়? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%B8-%E0%A6%8F%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "হুমায়ুন কবীর সাহেবের যাত্রা স্থানের দ্রাঘিমা ৯০° পূর্ব হলে গন্তব্য স্থানের নির্ণয় কর",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B9%E0%A7%81%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%81%E0%A6%A8-%E0%A6%95%E0%A6%AC%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%98%E0%A6%BF%E0%A6%AE%E0%A6%BE-%E0%A7%AF%E0%A7%A6-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC-%E0%A6%B9%E0%A6%B2%E0%A7%87-%E0%A6%97%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে উল্লিখিত স্থান দুটির সময়ের তারতম্যের কারণ বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%BF%E0%A6%A4-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8-%E0%A6%A6%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "জৈব শিলা কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A7%88%E0%A6%AC-%E0%A6%B6%E0%A6%BF%E0%A6%B2%E0%A6%BE-%E0%A6%95%E0%A7%80",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "শিলা খনিজের সংমিশ্রণে গঠিত। ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B6%E0%A6%BF%E0%A6%B2%E0%A6%BE-%E0%A6%96%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%AE%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%97%E0%A6%A0%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "পৃথিবীর আভ্যন্তরীণ গঠনে \"C\" উপাদানের বর্ণনা দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%83%E0%A6%A5%E0%A6%BF%E0%A6%AC%E0%A7%80%E0%A6%B0-%E0%A6%86%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%80%E0%A6%A3-%E0%A6%97%E0%A6%A0%E0%A6%A8%E0%A7%87-c-%E0%A6%89%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%A8%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে 'A' ও 'B' উপাদানের স্তর ভিত্তিক তুলনামূলক বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-a-%E0%A6%93-b-%E0%A6%89%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "পরিপৃক্ত বায়ু কি?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AA%E0%A7%83%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%81-%E0%A6%95%E0%A6%BF",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "বায়ুমণ্ডল ভূপৃষ্ঠের চারিদিকে আবর্তন করছে কেন? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%81%E0%A6%AE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%B2-%E0%A6%AD%E0%A7%82%E0%A6%AA%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%9B%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 25,
+      "question_type": "written",
+      "question_text": "চিত্রে 'A' মণ্ডলটি উল্লেখপূর্বক বৈশিষ্ট্য বর্ণনা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87-a-%E0%A6%AE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%B2%E0%A6%9F%E0%A6%BF-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%95-%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%AF-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 422
+    },
+    {
+      "question_no": 26,
+      "question_type": "written",
+      "question_text": "পৃথিবীর জীবজগৎ রক্ষায় 'B' ও 'C' মণ্ডল দুটির কোনটি অধিক গুরুত্বপূর্ণ? তোমার উত্তরের সপক্ষে যুক্তি দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%83%E0%A6%A5%E0%A6%BF%E0%A6%AC%E0%A7%80%E0%A6%B0-%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%9C%E0%A6%97%E0%A7%8E-%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%AF%E0%A6%BC-b-%E0%A6%93-c-%E0%A6%AE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%B2-%E0%A6%A6%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A6%9F%E0%A6%BF-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8",
+      "remote_id": null,
+      "exam_id": 422
+    }
+  ]
+}

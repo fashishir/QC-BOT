@@ -1,0 +1,626 @@
+{
+  "exam": {
+    "remote_id": "525",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "জীববিজ্ঞান",
+    "subject": "জীববিজ্ঞান",
+    "board": "rajshahi",
+    "board_bn": "রাজশাহী বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 25,
+    "cq_count": 40,
+    "id": 405
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "পাতায় খাদ্য জমা করে রাখে কোন উদ্ভিদ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মিষ্টি আলু",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "গোল আলু",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ঘৃতকুমারী",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "প্যাপোরোমিয়া",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 405
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "কোন খাদ্যে চর্বিতে দ্রবণীয় সব ভিটামিন পাওয়া যায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ডিম",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মলা মাছ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কালিজা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মাছের তেল",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 405
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "কাদের রক্তে লোহিত রক্ত কণিকার পরিমাণ বেশি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পুরুষ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "শিশু",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "নারী",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "যুবক",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 405
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "টিউনিকা ইন্টারনা কি দিয়ে তৈরি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "তন্তময় যোজক কলা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অনৈচ্ছিক পেশী",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "স্নায়ু কলা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সরল আবরণী কলা",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 405
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "কোনটি ইস্ট ও ব্যাকটেরিয়ার ক্ষেত্রে প্রযোজ্য?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "এককোষী",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "নিউক্লিওলাস আছে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "দ্বি-বিভাজন ঘটে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "উন্নত টিস্যুতন্ত্র",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 405
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "কত ধরনের উপাদান নিয়ে একটি নিউক্লিওটাইড গঠিত হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৩",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৫",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৬",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 405
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি সালোক সংশ্লেষণের উপজাত দ্রব্য?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "C O 2",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "A T P",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "C 6 H 12 O 6",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "O 2",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 405
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "ক্যালোজ প্রভাবিত করে কোনটিকে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পানি চলাচল",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "খ্যাদ্য চলাচল",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "C O 2 প্রবেশ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "O 2 নির্গমন",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 405
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "বিবর্তন তত্ত্ব মতে নতুন প্রজাতি হতে পারে- i. মূল প্রজাতি থেকে পৃথক হয়ে ii. সংকরায়নের ফলে iii. Polyploidy- র ফলে নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 405
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "মানুষের শ্রেণিবিন্যাসের সঠিক ক্রম কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Mammalia →  Homo → Chordata",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "Homo → Primate → Hominidae",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "Mammalia → Primate → Hominidae",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Primate →  Chordata→ Mammalia",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 405
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "লসিকা কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B2%E0%A6%B8%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "কোন পেশীকে বিশেষ ধরনের পেশী বলা হয় এবং কেন?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AA%E0%A7%87%E0%A6%B6%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%A7%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%87%E0%A6%B6%E0%A7%80-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%95%E0%A7%87%E0%A6%A8",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "‘B’ টিস্যুর গঠনগত বৈশিষ্ট্য চিত্রসহ ব্যাখ্যা কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/b-%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B0-%E0%A6%97%E0%A6%A0%E0%A6%A8%E0%A6%97%E0%A6%A4-%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%AF-%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%B9-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "উদ্ভিদের জীবনে A, B, C টিস্যুর গুরুত্ব বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A7%87-a-b-c-%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "ফারহানের বয়স ১৭ বছর এবং সে খুব পরিশ্রমী। তার উচ্চতা ১৫১ সে.মি. এবং ওজন ৪৮ কেজি। প্রতিদিন সে ৩৮৫ গ্রাম শর্করা, ১২০.৫ গ্রাম আমিষ এবং ১৫ গ্রাম চর্বি গ্রহণ করে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%AF%E0%A6%BC%E0%A6%B8-%E0%A7%A7%E0%A7%AD-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%B8%E0%A7%87-%E0%A6%96%E0%A7%81%E0%A6%AC-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A7%80-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%BE-%E0%A7%A7%E0%A7%AB%E0%A7%A7-%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A6%BF-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%93%E0%A6%9C%E0%A6%A8-%E0%A7%AA%E0%A7%AE-%E0%A6%95%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "আত্তীকরণ কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%80%E0%A6%95%E0%A6%B0%E0%A6%A3-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "'মিশ্রগ্রন্থি – ব্যাখ্যা কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%A8%E0%A7%8D%E0%A6%A5%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "ফারহানের প্রতিদিনের গ্রহণকৃত খাদ্যশক্তির পরিমাণ নির্ণয় কর ৷",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3%E0%A6%95%E0%A7%83%E0%A6%A4-%E0%A6%96%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A3-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A6%B0-%E0%A7%B7",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "ফারহানের গ্রহণকৃত খাদ্য এবং তার প্রয়োজনীয় শক্তির মধ্যে সামঞ্জস্যতা বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3%E0%A6%95%E0%A7%83%E0%A6%A4-%E0%A6%96%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%AF-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%AF%E0%A6%BC-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "A জীব = Homo sapiens B= Artocarpus heterophyllus C জীব = Penicillium notatum",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/a-%E0%A6%9C%E0%A7%80%E0%A6%AC-homo-sapiensb-artocarpus-heterophyllus%C2%A0c-%E0%A6%9C%E0%A7%80%E0%A6%AC-penicillium-notatum",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "বিবর্তনবিদ্যা কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A8%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "বৈজ্ঞানিক নামকরণ কী? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A7%88%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%95%E0%A6%B0%E0%A6%A3-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "A জীবটির বৈজ্ঞানিক শ্রেণিবিন্যাস লেখ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/a-%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A7%88%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8-%E0%A6%B2%E0%A7%87%E0%A6%96",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "B ও C জীব দুইটির মধ্যে কোনটি উন্নত? যুক্তিসহকারে মতামত দাও ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/b-%E0%A6%93-c-%E0%A6%9C%E0%A7%80%E0%A6%AC-%E0%A6%A6%E0%A7%81%E0%A6%87%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A6%9F%E0%A6%BF-%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%B9%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%A4-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "সড়ক দুর্ঘটনায় আহত মুরাদের অতিরিক্ত রক্তক্ষরণের ফলে তাঁর দেহের পাম্প যন্ত্রটির কাজে সমস্যা দেখা দেয়। জীবন বাঁচানোর জন্য মুরাদের দুই বন্ধু তুহিন ও শাফিন তাকে রক্ত দিতে চাইলে ডাক্তার মুরাদসহ তিনজনের রক্তের গ্রুপ পরীক্ষা করে দেখলেন, মুরাদের রক্তের গ্রুপ B + , তুহিনের A + এবং সাফিনের O + ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A6%A1%E0%A6%BC%E0%A6%95-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%86%E0%A6%B9%E0%A6%A4-%E0%A6%AE%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%B0%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%B2%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%81%E0%A6%B0-%E0%A6%A6%E0%A7%87%E0%A6%B9%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA-%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%B0-",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "আপেক্ষিক আর্দ্রতা কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%AA%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "কোষপ্রাচীর পানি শুষে স্ফীত হয় কেন? ব্যাখ্যা কর",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A7%8B%E0%A6%B7%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%9A%E0%A7%80%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%B6%E0%A7%81%E0%A6%B7%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%80%E0%A6%A4-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে উল্লিখিত অঙ্গটির গঠন বর্ণনা কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%BF%E0%A6%A4-%E0%A6%85%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A6%A0%E0%A6%A8-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "তুহিন ও শাফিন উভয়ের রক্তই কী মুরাদ গ্রহণ করতে পারবে? যুক্তিসহ মতামত বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A4%E0%A7%81%E0%A6%B9%E0%A6%BF%E0%A6%A8-%E0%A6%93-%E0%A6%B6%E0%A6%BE%E0%A6%AB%E0%A6%BF%E0%A6%A8-%E0%A6%89%E0%A6%AD%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%87-%E0%A6%95%E0%A7%80-%E0%A6%AE%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A6%A6-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%A4-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "নিউক্লিওটাইড কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%93%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%A1-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-34712",
+      "remote_id": "34712",
+      "exam_id": 405
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "কীভাবে ADP সৃষ্টি হয়? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-adp-%E0%A6%B8%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "B প্রক্রিয়ায় ATP উৎপন্ন হওয়ার প্রবাহচিত্র আঁক।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/b-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AF%E0%A6%BC-atp-%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%B9%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%86%E0%A6%81%E0%A6%95",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "জীবজগতে A প্রক্রিয়ার প্রভাব বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%9C%E0%A6%97%E0%A6%A4%E0%A7%87-a-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%AC-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "রেনাল টিউব্যুল কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%9F%E0%A6%BF%E0%A6%89%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B2-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 25,
+      "question_type": "written",
+      "question_text": "যোগ্যতমরা টিকে থাকে কেন? ব্যাখ্যা কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%AE%E0%A6%B0%E0%A6%BE-%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 26,
+      "question_type": "written",
+      "question_text": "A এর গঠন বর্ণনা কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/a-%E0%A6%8F%E0%A6%B0-%E0%A6%97%E0%A6%A0%E0%A6%A8-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 405
+    },
+    {
+      "question_no": 27,
+      "question_type": "written",
+      "question_text": "নাইট্রোজেন ঘটিত বর্জ্য অপসারণে উদ্দীপকের অঙ্গটির ভূমিকা মূল্যায়ন কর",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A7%87%E0%A6%A8-%E0%A6%98%E0%A6%9F%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%AA%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A8-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 405
+    }
+  ]
+}

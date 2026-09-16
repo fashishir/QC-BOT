@@ -1,0 +1,650 @@
+{
+  "exam": {
+    "remote_id": "453",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "পদার্থবিজ্ঞান",
+    "subject": "পদার্থবিজ্ঞান",
+    "board": "dinajpur",
+    "board_bn": "দিনাজপুর বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 25,
+    "cq_count": 40,
+    "id": 478
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "কোন পদার্থ বৃদ্ধির কারণে বাতাসের ঘনত্ব কমে যায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "কার্বন ডাই-অক্সাইড",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অক্সিজেন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মাইট্রোজেন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "জলীয় বাষ্প",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 478
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "প্যাসকেলের সূত্রানুসারে বড় সিলিন্ডার ও ছোট সিলিন্ডারের প্রস্থচ্ছেদের ক্ষেত্রফলের অনুপাত ১০০ হলে, বড় সিলিন্ডারে-- i. বল বৃদ্ধি পাবে ii. শক্তি বৃদ্ধি পাবে iii. 100 গুণ বল পাওয়া যাবে নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i, ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i, iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "iii, ii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i , ii, iii",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 478
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "নিচের কোন পদার্থের মধ্য দিয়ে শব্দের বেগ বেশি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "হাইড্রোজেন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "পারদ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মিথেন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বরফ",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 478
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "তরঙ্গটির কম্পাংক কত?",
+      "images": [
+        "data:image/jpeg;base64,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"
+      ],
+      "options": [
+        {
+          "index": 1,
+          "text": "0.25 Hz",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "0.5 Hz",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "0.625 Hz",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "1.6 Hz",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 478
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "উদ্দীপকে উল্লিখিত তরঙ্গটির বেগ কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "1 m s - 1",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "1 . 28 m s - 1",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "2 m s - 1",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "16 m s - 1",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 478
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "নিচের কোন তরঙ্গ দৈর্ঘ্যের আলো আমরা দেখতে পাই?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "400 m",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "700 cm",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "652 nm",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "652 am",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 478
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "অবতল আয়নায় লক্ষবস্তুকে কোথায় রাখলে রৈখিক বিবর্ধনের মান m = 1 হবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বক্রতার কেন্দ্রে",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ফোকাস ও বক্রতার কেন্দ্রের মাঝে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ফোকাসে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মেরু ও ফোকাসের মাঝে",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 478
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "উত্তল আপনার প্রতিবিম্বের ক্ষেত্রে কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "উলটা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সোজা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বাস্তব",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বিবর্ধিত",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 478
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি যান্ত্রিক শক্তিকে তড়িৎ শক্তিতে রূপান্তর করে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "তড়িৎ মোটর",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "জেনারেটর",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ট্রান্সফর্মার",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সলিনয়েড",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 478
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "5 Ω মানের চারটি রোধ সমান্তরালে সংযোগ দিলে তুল্য রোধ কত হবে।",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "1.25 Ω",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "0.8 Ω",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "0.25 Ω",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "0.2 Ω",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 478
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "স্লাইড ক্যালিপার্সের সাহায্যে ঘনকাকৃতি একটি বাক্সের দৈর্ঘ্য পরিমাপে 10 cm পাওয়া গেল; এতে 5% আপেক্ষিক ত্রুটি বিদ্যমান। যন্ত্রটির ভার্নিয়ার স্কেলের 20 ভাগ মূল স্কেলের 19 ভাগের সমান।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A1-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%98%E0%A6%A8%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%88%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%AA%E0%A7%87-10-cm-%E0%A6%AA%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "ন্যূনাঙ্ক কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A7%82%E0%A6%A8%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "আকাবাঁকা পথে সুষম দ্রুতিতে চলতে পারলেও সুষম বেগে চলা অসম্ভব- ব্যাখ্যা কর",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%81%E0%A6%95%E0%A6%BE-%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%B7%E0%A6%AE-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%93-%E0%A6%B8%E0%A7%81%E0%A6%B7%E0%A6%AE-%E0%A6%AC%E0%A7%87%E0%A6%97%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A6%BE-%E0%A6%85%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%AC-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "যন্ত্রটির ভার্নিয়ার ধ্রুবক নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%A7%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AC%E0%A6%95-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "বাক্সের আয়তন পরিমাপে আপেক্ষিক ত্রুটি এবং দৈর্ঘ্য পরিমাপে আপেক্ষিক ত্রুটির তুলনামূলক ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A6%A8-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%86%E0%A6%AA%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95-%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%A6%E0%A7%88%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%86%E0%A6%AA%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95-%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "একটি ফুটবলে আঘাত করার পর ফুটবলটি মাঠে সুষম মন্দনে গড়িয়ে 90m দূরত্ব অতিক্রম করার পর গোলরক্ষক বলটি ধরে ফেলে। আঘাতের সময় বলটির বেগ ছিল 108 kmh -1",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AB%E0%A7%81%E0%A6%9F%E0%A6%AC%E0%A6%B2%E0%A7%87-%E0%A6%86%E0%A6%98%E0%A6%BE%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AB%E0%A7%81%E0%A6%9F%E0%A6%AC%E0%A6%B2%E0%A6%9F%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A0%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%B7%E0%A6%AE-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%A8%E0%A7%87-%E0%A6%97%E0%A6%A1%E0%A6%BC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-90m-%E0%A6%A6%E0%A7%82%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%95%E0%A6%B0%E0%A6%BE",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "পর্যায়বৃত্ত গতি কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%AC%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%A4-%E0%A6%97%E0%A6%A4%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-63241",
+      "remote_id": "63241",
+      "exam_id": 478
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "সিঁড়ি দিয়ে নামার সময় ক্লান্তি কম অনুভব হয় - ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A6%BF%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A6%BF-%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%95%E0%A6%AE-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AD%E0%A6%AC-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "গোলরক্ষক কত সময় পর বলকে ধরতে পারবে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95-%E0%A6%95%E0%A6%A4-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%AA%E0%A6%B0-%E0%A6%AC%E0%A6%B2%E0%A6%95%E0%A7%87-%E0%A6%A7%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "বলটিকে একই বেগে উপরের দিকে নিক্ষেপ করা হলে, উপরের দিকে একই দূরত্ব উঠা সম্ভব হতো কিনা— গাণিতিকভাবে মতামত দাও ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%B2%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%87-%E0%A6%AC%E0%A7%87%E0%A6%97%E0%A7%87-%E0%A6%89%E0%A6%AA%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%B9%E0%A6%B2%E0%A7%87-%E0%A6%89%E0%A6%AA%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%87-%E0%A6%A6%E0%A7%82%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%89%E0%A6%A0%E0%A6%BE-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%AC-%E0%A6%B9%E0%A6%A4%E0%A7%8B-%E0%A6%95",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "30 kg ভরের একটি স্থির বস্তুর উপর একটি বল 5 sec ক্রিয়া করায় 15 ms -1 বেগ প্রাপ্ত হয়। এরপর বস্তুটি সমবেগে 2 sec চলার পর বাধাদানকারী বল প্রয়োগ করে 3 sec এ বস্তুটি থামানো হয়।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/30-kg-%E0%A6%AD%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%B2-5-sec-%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC-15-ms1-%E0%A6%AC%E0%A7%87%E0%A6%97-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4-",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "ভরবেগের সংরক্ষণ সূত্রটি লেখ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AD%E0%A6%B0%E0%A6%AC%E0%A7%87%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3-%E0%A6%B8%E0%A7%82%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%9F%E0%A6%BF-%E0%A6%B2%E0%A7%87%E0%A6%96",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "একটি কাঠের গুড়ি দড়ি দিয়ে টেনে নেয়ার চেয়ে ঠেলা গাড়িতে তুলে টেনে নেয়া সহজ কেন?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%A0%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%A1%E0%A6%BC%E0%A6%BF-%E0%A6%A6%E0%A6%A1%E0%A6%BC%E0%A6%BF-%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%A0%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A6%97%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%B8%E0%A6%B9%E0%A6%9C-%E0%A6%95",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "যাত্রা শুরুর ১ম 5 sec এ বস্তুর অতিক্রান্ত দূরত্ব নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%B0-%E0%A7%A7%E0%A6%AE-5-sec-%E0%A6%8F-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%B0-%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%A6%E0%A7%82%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "তথ্য অনুসারে বল-সময়ের লেখচিত্র অঙ্কন কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%85%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%A8-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "10kg ভরের একটি বস্তু 30m উঁচু হতে বিনা বাধায় 20 ms -1 বেগে একটি স্প্রিং এর উপর পরায় স্প্রিংটি সংকুচিত হলো। সংকুচিত অবস্থায় স্প্রিং এর দৈর্ঘ্য 10 cm এবং স্প্রিং ধ্রুবক 10 5 Jm 2",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/10kg-%E0%A6%AD%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81-30m-%E0%A6%89%E0%A6%81%E0%A6%9A%E0%A7%81-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%AF%E0%A6%BC-20-ms1-%E0%A6%AC%E0%A7%87%E0%A6%97%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%82-%E0%A6%8F%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "বিভব শক্তি কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%AC-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-74529",
+      "remote_id": "74529",
+      "exam_id": 478
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "তালগাছ থেকে তাল পড়ার সময় শক্তির রূপান্তর ঘটে ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%BE%E0%A6%9B-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B2-%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "স্প্রিংটি কতটুকু সংকুচিত হবে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%82%E0%A6%9F%E0%A6%BF-%E0%A6%95%E0%A6%A4%E0%A6%9F%E0%A7%81%E0%A6%95%E0%A7%81-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%81%E0%A6%9A%E0%A6%BF%E0%A6%A4-%E0%A6%B9%E0%A6%AC%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "পতনের পূর্বে বস্তুটির যান্ত্রিক শক্তি ও সংকুচিত স্প্রিংয়ের উপর বস্তুটির যান্ত্রিক শক্তি সমান হবে কি-না? গাণিতিকভাবে ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%A4%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%81%E0%A6%9A%E0%A6%BF%E0%A6%A4-%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%82%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "প্যাসকেলের সূত্রটি লেখ ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%82%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%9F%E0%A6%BF-%E0%A6%B2%E0%A7%87%E0%A6%96",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "টরিসেলির পরীক্ষায় পারদের উচ্চতা 76cm-এ এসে থেমে যায়— ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9F%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%BE-76cm%E0%A6%8F-%E0%A6%8F%E0%A6%B8%E0%A7%87-%E0%A6%A5%E0%A7%87%E0%A6%AE%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "বারটির পানিতে ওজন কত হবে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%93%E0%A6%9C%E0%A6%A8-%E0%A6%95%E0%A6%A4-%E0%A6%B9%E0%A6%AC%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "সোনার বারটি বিশুদ্ধ কিনা গাণিতিক যুক্তিসহ মতামত দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A6%BE-%E0%A6%97%E0%A6%BE%E0%A6%A3%E0%A6%BF%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%A4-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 25,
+      "question_type": "written",
+      "question_text": "সুরশলাকা থেকে সৃষ্ট শব্দের বায়ু ও পানিতে বেগ যথাক্রমে 343 ms -1 ও 1493 ms -1 এবং তরঙ্গদৈর্ঘ্য 1 5m ও 6:51m. [0°C তাপমাত্রায় বায়ুতে শব্দের বেগ 330 ms -1 ]",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%81%E0%A6%B0%E0%A6%B6%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%81-%E0%A6%93-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A6%97-%E0%A6%AF%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A7%87-343-ms1-%E0%A6%93-1493-ms1-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%A4%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 26,
+      "question_type": "written",
+      "question_text": "তরঙ্গের বিস্তার কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A4%E0%A6%B0%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 27,
+      "question_type": "written",
+      "question_text": "বাদুর কর্তৃক সৃষ্ট শব্দ বাদুর শুনলেও মানুষ শুনতে পায় না— ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%81%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%83%E0%A6%95-%E0%A6%B8%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6-%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%81%E0%A6%B0-%E0%A6%B6%E0%A7%81%E0%A6%A8%E0%A6%B2%E0%A7%87%E0%A6%93-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7-%E0%A6%B6%E0%A7%81%E0%A6%A8%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 28,
+      "question_type": "written",
+      "question_text": "বায়ুর তাপমাত্রা কত ছিল?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%81%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%A4-%E0%A6%9B%E0%A6%BF%E0%A6%B2",
+      "remote_id": null,
+      "exam_id": 478
+    },
+    {
+      "question_no": 29,
+      "question_type": "written",
+      "question_text": "উভয় ক্ষেত্রে সুরশলাকাটি একই ছিল কিনা – গাণিতিকভাবে ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%AD%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%B0%E0%A6%B6%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%9F%E0%A6%BF-%E0%A6%8F%E0%A6%95%E0%A6%87-%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A6%BE-%E0%A6%97%E0%A6%BE%E0%A6%A3%E0%A6%BF%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 478
+    }
+  ]
+}

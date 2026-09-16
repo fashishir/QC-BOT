@@ -1,0 +1,505 @@
+{
+  "exam": {
+    "remote_id": "234",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "বাংলা (আবশ্যিক) দ্বিতীয় পত্র",
+    "subject": "বাংলা (আবশ্যিক) দ্বিতীয় পত্র",
+    "board": "sylhet",
+    "board_bn": "সিলেট বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 30,
+    "cq_count": 19,
+    "id": 582
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "সঞ্জিব অংকে ভালো—বাক্যে 'অংক' কোন কারক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অপাদান কারক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অধিকরণ কারক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সম্বন্ধ কারক",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "করণ কারক",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 582
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "বাক্যে গৌণ কর্মের সাথে কোন বিভক্তির প্রয়োগ হয়।",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "-য়ের",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "- তে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "- র",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "- কে",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 582
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "সাধারণ বাক্যের প্রধান অংশ কয়টি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "দুটি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "তিনটি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "চারটি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পাঁচটি",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 582
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "অর্থের সংগতি রাখার জন্য বাক্যে ব্যবহৃত কোন পদের পরিবর্তনের প্রয়োজন হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সর্বনাম",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বিশেষ্য",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অব্যায়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বিশেষণ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 582
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "প্রতিশব্দ কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অভিন্ন শব্দ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ভিন্ন শব্দ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ভিন্নার্থক শব্দ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বিপরীত শব্দ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 582
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "ঠোঁট গোলা বা বন্ধ থাকার ভিত্তিতে স্বরধ্বনি কয় ভাগে বিভক্ত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "দুই",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "তিন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "চার",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পাঁচ",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 582
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "সমীরণ' 'অনিল' 'মরুৎ' ইত্যাদি কোন শব্দের প্রতিশব্দ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বাতাস",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মেঘ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "রাত",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সমুদ্র",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 582
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "কোনটি সকলবাচক সর্বনাম?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "যেমন তেমন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "এই",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কারা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সবাই",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 582
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "কোন সমাসে পূর্বপদ বা পরপদ কোনোটির অর্থ না বুঝিয়ে অন্যকিছু বোঝায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বহুবীহি সমাস",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কর্মধারয় সমাস",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "দন্দ সমাস",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "তৎপুরুষ সমাস",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 582
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "'ঔষধ' শব্দের সঠিক উচ্চারণ কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "'ঔষোধ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ঔউশধ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ঔশোধ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ঔসৌদধ",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 582
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "যে কোনো একটি বিষয়ে অনুচ্ছেদ লেখো :",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AF%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A6-%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A7%8B-94434",
+      "remote_id": "94434",
+      "exam_id": 582
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "স্বাধীনতা দিবস",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A7%80%E0%A6%A8%E0%A6%A4%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%B8-40811",
+      "remote_id": "40811",
+      "exam_id": 582
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "বইমেলা।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%87%E0%A6%AE%E0%A7%87%E0%A6%B2%E0%A6%BE-14384",
+      "remote_id": "14384",
+      "exam_id": 582
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "মনে করো, তুমি মাহিন। ভূমি কুমিল্লার লাকসাম উপজেলার অধিবাসী। তোমার এলাকায় পাঠাগার স্থাপনের জন্যে উপজেলা চেয়ারম্যানের কাছে একটি আবেদন পত্র লেখো।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A7%8B-%E0%A6%A4%E0%A7%81%E0%A6%AE%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%B8%E0%A6%BE%E0%A6%AE-%E0%A6%89%E0%A6%AA%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80-%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%B0-%E0%A6%B8",
+      "remote_id": null,
+      "exam_id": 582
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "তোমার উপজেলায় অবস্থিত স্বাস্থ্যকেন্দ্রের দুর্দশার কথা জানিয়ে পত্রিকায় প্রকাশের উপযোগী একটি পত্র লেখো।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%A4-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A6%B6%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%A5%E0%A6%BE-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 582
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "অভ্যাস ভয়ানক জিনিস— একে হঠাৎ স্বভাব থেকে তুলে ফেলা কঠিন; মানুষ হবার সাধনাতেও তোমাকে ধীর ও সহিষ্ণু হতে হবে। সত্যবাদী হতে চাও? তাহলে ঠিক কর সপ্তাহে অন্তত একদিন তুমি মিথ্যা বলবে না। ছয়মাস ধরে এমনি করে নিজে সত্যকথা বলতে অভ্যাস কর। তারপর এক শুভদিনে আর একবার প্রতিজ্ঞা কর, সপ্তাহে তুমি দুইদিন মিথ্যা বলবে না। এক বছর পরে দেখবে সত্যকথা বলা তোমার কাছে অনেকটা সহজ হয়ে পড়েছে। সাধনা করতে করতে এমন একদিন আসবে তখন ইচ্ছা করলেও মিথ্যা বলতে পারবে না। নিজেকে মানুষ করার চেষ্টায় পাপ ও প্রবৃত্তির সঙ্গে সংগ্রামে তুমি হঠাৎ জয়ী হতে কখনও ইচ্ছা কোরো না। তাহলে সব পণ্ড হবে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%85%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8-%E0%A6%AD%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A6%95-%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%B8-%E0%A6%8F%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%A0%E0%A6%BE%E0%A7%8E-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AD%E0%A6%BE%E0%A6%AC-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A6%95%E0%A6%A0%E0%A6%BF%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7-%E0%A6%B9%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A7%E0%A6%A8%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%93-%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%BE-33988",
+      "remote_id": "33988",
+      "exam_id": 582
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "বসুমতী, কেন তুমি এতই কৃপণা কত খোঁড়াখুঁড়ি করি পাই শস্যকণা। দিতে যদি হয় দে মা, প্রসন্ন সহাস-- কেন এ মাথার ঘাম পায়েতে বহাम? বিনা চাষে শস্য দিলে কী তাহাতে ক্ষতি? শুনিয়া ঈষৎ হাসি কন বসুমতী, আমার গৌরব তাহে সামান্যই বাড়ে, তোমার গৌরব তাহে নিতান্তই ছাড়ে",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%B8%E0%A7%81%E0%A6%AE%E0%A6%A4%E0%A7%80-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A7%81%E0%A6%AE%E0%A6%BF-%E0%A6%8F%E0%A6%A4%E0%A6%87-%E0%A6%95%E0%A7%83%E0%A6%AA%E0%A6%A3%E0%A6%BE-%E0%A6%95%E0%A6%A4-%E0%A6%96%E0%A7%8B%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%96%E0%A7%81%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A6%BF-%E0%A6%AA%E0%A6%BE%E0%A6%87-%E0%A6%B6%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A6%A3%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A6%A6%E0%A6%BF-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%A6%E0%A7%87-%E0%A6%AE%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0-55611",
+      "remote_id": "55611",
+      "exam_id": 582
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "যে কোনো একটির ভাব-সম্প্রসারণ করো :",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AF%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%95%E0%A6%B0%E0%A7%8B-91557",
+      "remote_id": "91557",
+      "exam_id": 582
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "দুর্জন বিদ্বান হইলেও পরিত্যাজ্য।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A8-%E0%A6%B9%E0%A6%87%E0%A6%B2%E0%A7%87%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9C%E0%A7%8D%E0%A6%AF-12347",
+      "remote_id": "12347",
+      "exam_id": 582
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "অন্যায় যে করে আর অন্যায় যে সহে তব ঘৃণা যেন তারে তৃণসম দহে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AF%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AF%E0%A7%87-%E0%A6%B8%E0%A6%B9%E0%A7%87-%E0%A6%A4%E0%A6%AC-%E0%A6%98%E0%A7%83%E0%A6%A3%E0%A6%BE-%E0%A6%AF%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A7%83%E0%A6%A3%E0%A6%B8%E0%A6%AE-%E0%A6%A6%E0%A6%B9%E0%A7%87-48843",
+      "remote_id": "48843",
+      "exam_id": 582
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "মনে কর, তুমি মুনিম। দৈনিক প্রথম আলো' পত্রিকার স্টাফ রিপোর্টার। তোমার এলাকায় অনুষ্ঠিত সুন্দর হাতের লেখা প্রতিযোগিতা বিষয়ক একটি সংবাদ প্রতিবেদন তৈরি করো।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A6%B0-%E0%A6%A4%E0%A7%81%E0%A6%AE%E0%A6%BF-%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A6%AE-%E0%A6%A6%E0%A7%88%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%86%E0%A6%B2%E0%A7%8B-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%AB-%E0%A6%B0%E0%A6%BF%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0-%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BF",
+      "remote_id": null,
+      "exam_id": 582
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "মনে কর, তুমি অর্থি। একটি দৈনিক পত্রিকার নিজস্ব প্রতিবেদক। রামপুর উচ্চ বিদ্যালয়ে “শহিদ ও আন্তর্জাতিক মাতৃভাষা দিবস” উদ্‌যাপন সম্পর্কিত একটি সংবাদ প্রতিবেদন রচনা করো।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A6%B0-%E0%A6%A4%E0%A7%81%E0%A6%AE%E0%A6%BF-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%BF-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%A6%E0%A7%88%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A6%B8%E0%A7%8D%E0%A6%AC-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B6%E0%A6%B9",
+      "remote_id": null,
+      "exam_id": 582
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "যে কোনো একটি বিষয়ে প্রবন্ধ রচনা করো :",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AF%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%B0%E0%A6%9A%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A7%8B-69180",
+      "remote_id": "69180",
+      "exam_id": 582
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "সময়ানুবর্তিতা",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A6%BE-54240",
+      "remote_id": "54240",
+      "exam_id": 582
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "কৃষিকাজে বিজ্ঞান",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-41414",
+      "remote_id": "41414",
+      "exam_id": 582
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "বাংলাদেশের প্রাকৃতিক দুর্যোগ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-77100",
+      "remote_id": "77100",
+      "exam_id": 582
+    }
+  ]
+}

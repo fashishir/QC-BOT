@@ -1,0 +1,659 @@
+{
+  "exam": {
+    "remote_id": "488",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "পৌরনীতি ও নাগরিকতা",
+    "subject": "পৌরনীতি ও নাগরিকতা",
+    "board": "rajshahi",
+    "board_bn": "রাজশাহী বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 30,
+    "cq_count": 55,
+    "id": 448
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "কোন ধরনের সমাজ ব্যবস্থায় খরচ কম ও সহজে যে কোনো বিষয়ে সিদ্ধান্ত নিতে পারে.?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "যুক্তরাষ্ট্রিয়",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "এককেন্দ্রিক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "গনতান্ত্রিক",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "একনায়কতান্ত্রিক",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 448
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "নতুন পরিস্থিতি ও সময়ের সাথে তাল মিলিয়ে চলতে পারে কোন ধরনের সংবিধান",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "লিখিত",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অলিখিত",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সুপরিবর্তনীয়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "দুষপরিবর্তনীয়",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 448
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "বাংলাদেশের সর্বোচ্চ আদালতের নাম কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সুপ্রিম কোর্ট",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "জর্জকোর্ট",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "হাইকোর্ট",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "আপীল বিভাগ",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 448
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "সরকার ও দেশের নাগরিকদের মাঝে সেতুবন্ধন হিসেবে কাজ করে কোন পরিষদ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "উপজেলা পরিষদ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "জেলা পরিষদ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "জাতীয় সংসদ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মন্ত্রিপরিষদ",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 448
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "রুমা তার নানার নিকট একটি আন্দোলনের গল্প শুনে আবেগপ্রবণ হয়ে পড়ে। উক্ত আন্দোলনে ঢাকা বিশ্ববিদ্যালয়ের শিক্ষার্থীরা স্বতস্ফুর্তভাবে অংশগ্রহণ করে। উক্ত আন্দোলন আমাদের স্বাধীনতা যুদ্ধ প্রেক্ষাপট তৈরিতে গুরুত্বপূর্ণ ভূমিকা পালন করে। রুমা তার দাদার নিট কোন আন্দোলনের কথা শুনেছিলা?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ভাষা আন্দোলন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অসহযোগ আন্দোলন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ঊনসত্তরের গণ-অভু্থান",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মুক্তিযুদ্ধ",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 448
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "উদ্দীপকে বর্ণিত আন্দোলনটি স্বাধীনতা যুদ্ধের প্রেক্ষাপট- তৈরি করে- i. বাঙালি জাতীয়তাবাদের মাধ্যমে ii. অধিকার সচেতনতার মাধ্যমে iii. মৌলিক গণতন্ত্র চালুর মাধ্যমে",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i,ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 448
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "রাষ্ট্র পরিচালনার মূল দলিল হলো-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সরকার",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সংবিধান",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "চুক্তি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সংগঠন",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 448
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "কোন কর্মসূচির মাধ্যমে বাঙালি জাতি পশ্চিম পাকিস্তানীদের শোষণ ও নির্যাতন থেকে যুক্ত হওয়ার লক্ষ্য স্থির করেছিল",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৮ দফা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৬ দফা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "২১ দফা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১১ দফা",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 448
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "বিশ্ব নিরাপত্তা রক্ষায় মুখ্য ভূমিকা পালন করে। জাতিসংঘের কোন সংস্থা",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নিরাপত্তা পরিষদ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "জাতিসংঘ সচিবালয়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সাধারণ পরিষদ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "অছি পরিষদ",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 448
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "ক' দেশের নাগরিকগণ সম্পত্তির মালিকানা ও ভোগের ক্ষেত্রে স্বাধীন। ‘ক’ দেশে কোন ধরনের রাষ্ট্রব্যবস্থা বিদ্যমান?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পুঁজিবাদী",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সমাজতান্ত্রিক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "গণতান্ত্রিক",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "একনায়কতান্ত্রিক",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 448
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "জনাব কায়সার উচ্চ শিক্ষার জন্য কানাডায় গমন করেন। উচ্চতর ডিগ্রী অর্জনের পরে সেদেশে সরকারি চাকরি লাভ করেন এবং দীর্ঘদিন চাকরি করার পর সেদেশের নাগরিকত্ব লাভের জন্য আবেদন করেন এবং সেদেশের নাগরিকত্ব লাভ করার কিছুদিন পর স্ত্রী ও সন্তানদেরকে কানাডায় নিয়ে যান। তারাও সেদেশের নাগরিকত্ব লাভ করে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A1%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%97%E0%A6%AE%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%A8-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%A1%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A7%87%E0%A6%A6%E0%A7%87%E0%A6%B6-70045",
+      "remote_id": "70045",
+      "exam_id": 448
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "নাগরিক কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-13096",
+      "remote_id": "13096",
+      "exam_id": 448
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "দ্বৈত নাগরিকতা কী? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A7%88%E0%A6%A4-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0-36908",
+      "remote_id": "36908",
+      "exam_id": 448
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের জনাব কায়সার যে পদ্ধতিতে কানাডার নাগরিকত্ব লাভ করল—তা বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%AF%E0%A7%87-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A1%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%B2%E0%A6%BE%E0%A6%AD-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0-85488",
+      "remote_id": "85488",
+      "exam_id": 448
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "জনাব কায়সারের পরিবার কীভাবে কানাডায় বসবাসের অনুমতি পেল? উক্ত নাগরিকত্ব লাভের নীতিগুলো বিশ্লেষণ কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A1%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AE%E0%A6%A4%E0%A6%BF-%E0%A6%AA%E0%A7%87%E0%A6%B2-%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%B2%E0%A6%BE%E0%A6%AD%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A7%80-17645",
+      "remote_id": "17645",
+      "exam_id": 448
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "জনাব ফারুক একজন শিক্ষিত ও মার্জিত ব্যক্তি। তিনি পিতা-মাতা ও সন্তানদের নিয়ে একত্রে বসবাস করেন। তিনি পরিবারের সকল ব্যয়বহন করেন। পরিবারের সকলের সুন্দর মানসিক বিকাশের জন্য তিনি পরিবারের সকল সদস্যদের নিয়ে ভ্রমণে বের হন এবং সবাইকে নিয়ে রেস্টুরেন্টে গিয়ে খাওয়া-দাওয়া করেন।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%81%E0%A6%95-%E0%A6%8F%E0%A6%95%E0%A6%9C%E0%A6%A8-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A4-%E0%A6%93-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF-%E0%A6%AA%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A6%BE-%E0%A6%93-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87-46228",
+      "remote_id": "46228",
+      "exam_id": 448
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "যৌথ পরিবার কাকে বলে?\r\nযৌথ পরিবার কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AF%E0%A7%8C%E0%A6%A5-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-%E0%A6%AF%E0%A7%8C%E0%A6%A5-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 448
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "পরিবারের শিক্ষামূলক কাজ বলতে কী বুঝায়? ব্যাখ্যা কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%95-%E0%A6%95%E0%A6%BE%E0%A6%9C-%E0%A6%AC%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%81%E0%A6%9D%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0-25836",
+      "remote_id": "25836",
+      "exam_id": 448
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে জনাব ফারুকের পরিবার কোন ধরনের পরিবার? ব্যাখ্যা কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%81%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A7%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0-38718",
+      "remote_id": "38718",
+      "exam_id": 448
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে বর্ণিত জনাব ফারুকের কাজসমূহ পরিবারের একমাত্র কাজ নয়। উক্তিটির যথার্থতা নিরূপণ কর",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%81%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9C-%E0%A6%A8%E0%A6%AF%E0%A6%BC-%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AF%E0%A6%A5%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A4%E0%A6%BE--81402",
+      "remote_id": "81402",
+      "exam_id": 448
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "স্বপ্না ও রত্না নবম শ্রেণির মানবিক বিভাগের ছাত্রী। তারা রাষ্ট্রের উৎপত্তি সম্পর্কে নিজেদের মধ্যে কথা বলে। স্বপ্না মনে করে, শক্তি প্রয়োগের ফলেই রাষ্ট্রের উৎপত্তি হয়েছে। শক্তিশালী ব্যক্তিরাই দুর্বলদের উপর আধিপত্য প্রতিষ্ঠা করে। অপরপক্ষে রত্না বলে, সমাজে জনগণের পারস্পরিক সহযোগিতা ও শান্তিপূর্ণ চুক্তির মাধ্যমে রাষ্ট্রের জন্ম হয়। জনগণ নিজেদের নিরাপত্তার জন্য অন্যের উপর শাসন করার ক্ষমতা অর্পণ করে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%8D%E0%A6%A8%E0%A6%BE-%E0%A6%93-%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%A8%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95-74049",
+      "remote_id": "74049",
+      "exam_id": 448
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "আধুনিক রাষ্ট্রবিজ্ঞানীরা রাষ্ট্র উৎপত্তির কোন মতবাদকে অগণতান্ত্রিক ও অযৌক্তিক বলেছেন?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%A7%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%B0%E0%A6%BE-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AE%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%97%E0%A6%A3%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%93-%E0%A6%85%E0%A6%AF%E0%A7%8C%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B2-54058",
+      "remote_id": "54058",
+      "exam_id": 448
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "মানুষ সমাজে বসবাস করে কেন? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%B8-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0-42024",
+      "remote_id": "42024",
+      "exam_id": 448
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের স্বপ্না রাষ্ট্রের উৎপত্তি সম্পর্কে কোনো মতবাদকে সমর্থন করছে? ব্যাখ্যা কর",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%8D%E0%A6%A8%E0%A6%BE-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%AE%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95-56403",
+      "remote_id": "56403",
+      "exam_id": 448
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে রত্না ও স্বপ্নার রাষ্ট্রের উৎপত্তি সংক্রান্ত মতবাদের মধ্যে তুমি কোন মতবাদকে অধিকতর যুক্তিযুক্ত মনে কর? বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%A8%E0%A6%BE-%E0%A6%93-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%8D%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AE%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%A4%E0%A7%81%E0%A6%AE%E0%A6%BF-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AE%E0%A6%A4%E0%A6%AC-14307",
+      "remote_id": "14307",
+      "exam_id": 448
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "করিম সাহেবের দুই ছেলে ও দুই মেয়ে। বাবার মৃত্যুর পর মেয়েরা পৈতৃক সম্পত্তির ভাগ চাইলে, ছেলেরা নানা অজুহাত পেশ করে এবং ভয়ভীতি প্রদর্শন করে। এমতাবস্থায় বোনেরা ঝগড়া বিবাদ না করে আইনের আশ্রয় গ্রহণ করে। তারা সকলে আদালতের রায় অনুযায়ী যার যার সম্পত্তির দখল বুঝে পায়।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A6%B0%E0%A6%BF%E0%A6%AE-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%9B%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%93-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AE%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0%E0%A6%BE-%E0%A6%AA%E0%A7%88%E0%A6%A4%E0%A7%83%E0%A6%95-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%AD%E0%A6%BE%E0%A6%97-%E0%A6%9A-82750",
+      "remote_id": "82750",
+      "exam_id": 448
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "আইনগত কর্তব্য কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A6%97%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A7%80-90901",
+      "remote_id": "90901",
+      "exam_id": 448
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "অধিকার ভোগ করতে হলে, কর্তব্য পালন করতে হয় — উক্তিটি ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A7%8B%E0%A6%97-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%B2%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0-84135",
+      "remote_id": "84135",
+      "exam_id": 448
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের করিম সাহেবের মেয়েরা কোন ধরনের অধিকার থেকে বঞ্চিত হয়েছে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%BF%E0%A6%AE-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A7%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%A4-%E0%A6%B9%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0-48170",
+      "remote_id": "48170",
+      "exam_id": 448
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "করিম সাহেবের ছেলে-মেয়েদের মধ্যে সুনাগরিকের গুণাবলি ফুটে উঠেছে? বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A6%B0%E0%A6%BF%E0%A6%AE-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%9B%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%AE%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%A3%E0%A6%BE%E0%A6%AC%E0%A6%B2%E0%A6%BF-%E0%A6%AB%E0%A7%81%E0%A6%9F%E0%A7%87-%E0%A6%89%E0%A6%A0%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0-19738",
+      "remote_id": "19738",
+      "exam_id": 448
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "ক' অঞ্চলটি দীর্ঘদিন 'খ' অঞ্চল দ্বারা নিয়ন্ত্রিত ছিল। 'ক' অঞ্চলের জাতীয় পরিষদ নির্বাচনে রনি সাহেব সদস্য নির্বাচিত হন। অপরদিকে গতবারে নির্বাচিত সদস্য জহির সাহেব পরাজিত হন। তিনি পরাজয় মেনে না নিয়ে রনি সাহেবের বিরুদ্ধে বিভিন্ন হয়রানীমূলক মামলা দায়ের করেন। প্রশাসন রনি সাহেবকে প্রেপ্তার করে জেলে আটকে রাখেন। 'ক' অঞ্চলের তীব্র আন্দোলনের ফলে প্রশাসন রনি সাহেবকে মুক্তি দিতে বাধ্য হয়। পর্যায়ক্রমে 'ক' অঞ্চলের জনগণের সশস্ত্র সংগ্রামের মধ্য দিয়ে স্বাধীনতা লাভ করে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A6%9F%E0%A6%BF-%E0%A6%A6%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%96-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A4-%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%95-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B7%E0%A6%A6-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A-59318",
+      "remote_id": "59318",
+      "exam_id": 448
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "পাকিস্তান সৃষ্টির মূল ভিত্তি কী ছিল?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%82%E0%A6%B2-%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%95%E0%A7%80-%E0%A6%9B%E0%A6%BF%E0%A6%B2-89329",
+      "remote_id": "89329",
+      "exam_id": 448
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "৬ দফা কর্মসূচিকে বাঙালী জাতির মুক্তির সনদ বলা হয় কেন? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A7%AC-%E0%A6%A6%E0%A6%AB%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%B8%E0%A7%82%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%99%E0%A6%BE%E0%A6%B2%E0%A7%80-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%A8%E0%A6%A6-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0-95991",
+      "remote_id": "95991",
+      "exam_id": 448
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে বর্ণিত জহির সাহেবের আচরণের সাথে তোমার পাঠ্যবইয়ের কোন শাসকগোষ্ঠীর কর্মকাণ্ডের মিল রয়েছে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%9C%E0%A6%B9%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%9A%E0%A6%B0%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A5%E0%A7%87-%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%95%E0%A6%97%E0%A7%8B%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A7%80%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95-15773",
+      "remote_id": "15773",
+      "exam_id": 448
+    },
+    {
+      "question_no": 25,
+      "question_type": "written",
+      "question_text": "রনি সাহেবের নির্বাচনী এলাকার জনগণের সাথে তুমি বাঙালী জাতির কোন ঘটনার সাথে সাদৃশ্য দেখতে পাও? বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A6%A8%E0%A6%BF-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%80-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A6%97%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A5%E0%A7%87-%E0%A6%A4%E0%A7%81%E0%A6%AE%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%99%E0%A6%BE%E0%A6%B2%E0%A7%80-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A5%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D-63019",
+      "remote_id": "63019",
+      "exam_id": 448
+    },
+    {
+      "question_no": 26,
+      "question_type": "written",
+      "question_text": "X Y * সুস্পষ্ট * অস্পষ্ট * স্থিতিশীল * অস্থিতিশীল * যুক্তরাষ্ট্রীয় সরকারের ব্যবস্থার জন্য সহায়ক * এককেন্দ্রিক সরকারের জন্য সহায়ক",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/xy-%E0%A6%B8%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A7%80%E0%A6%B2-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A7%80%E0%A6%B2-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF--25394",
+      "remote_id": "25394",
+      "exam_id": 448
+    },
+    {
+      "question_no": 27,
+      "question_type": "written",
+      "question_text": "বাংলাদেশের আইন সভার নাম কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%87%E0%A6%A8-%E0%A6%B8%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE-%E0%A6%95%E0%A7%80-97711",
+      "remote_id": "97711",
+      "exam_id": 448
+    },
+    {
+      "question_no": 28,
+      "question_type": "written",
+      "question_text": "বাংলাদেশ সংবিধানের দ্বাদশ সংশোধনীর বিষয়বস্তু কী? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%B6-%E0%A6%B8%E0%A6%82%E0%A6%B6%E0%A7%8B%E0%A6%A7%E0%A6%A8%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0-98055",
+      "remote_id": "98055",
+      "exam_id": 448
+    },
+    {
+      "question_no": 29,
+      "question_type": "written",
+      "question_text": "ছকে 'Y' এ কোন ধরনের সংবিধানের দিকে ইঙ্গিত করে? এর বৈশিষ্ট্যগুলো ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9B%E0%A6%95%E0%A7%87-y-%E0%A6%8F-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A7%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%B0-%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0-60578",
+      "remote_id": "60578",
+      "exam_id": 448
+    },
+    {
+      "question_no": 30,
+      "question_type": "written",
+      "question_text": "ছকের X ও Y এর মধ্যকার কোন সংবিধানটি উত্তম? বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9B%E0%A6%95%E0%A7%87%E0%A6%B0-x-%E0%A6%93-y-%E0%A6%8F%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%9F%E0%A6%BF-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%AE-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0-85745",
+      "remote_id": "85745",
+      "exam_id": 448
+    }
+  ]
+}

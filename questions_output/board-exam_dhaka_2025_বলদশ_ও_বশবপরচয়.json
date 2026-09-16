@@ -1,0 +1,648 @@
+{
+  "exam": {
+    "remote_id": "1870",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "board": "dhaka",
+    "board_bn": "ঢাকা বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/written",
+    "mcq_count": 30,
+    "cq_count": 55,
+    "id": 27
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "তমদ্দুন মজলিস কার নেতৃত্বে গঠিত হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ড. মুহাম্মদ শহীদুল্লাহ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ড. মুহাম্মদ এনামুল হক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ড. জিয়াউদ্দীন আহমদ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "অধ্যাপক আবুল কাশেম",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 27
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "আমাদের সমাজ থেকে দুর্নীতির অবসান ঘটবে কীসের মাধ্যমে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "কর্মসংস্থান সৃষ্টি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "জনসংখ্যা নিয়ন্ত্রণ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "জনশক্তি রপ্তানি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "দ্রব্যমূল্য নিয়ন্ত্রণ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 27
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "ছাত্রীদের উপবৃত্তি প্রকল্প ভূমিকা রাখছে কোনটিতে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নারীর ক্ষমতায়নে",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "নারীর সামাজিক মর্যাদা বৃদ্ধিতে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "নারীর শিক্ষার সম্প্রসারণে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নারীর কর্মসংস্থান বৃদ্ধিতে",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 27
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "গ্রামীণ ব্যাংক কাদের ঋণ প্রদান করে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "শিল্পপতিদের",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ভূমিহীনদের",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "আমদানিকারকদের",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "রপ্তানিকারকদের",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 27
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "অপারেশন সার্চ লাইট কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "গণঅভ্যুত্থান",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "গণহত্যা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "যুদ্ধ প্রস্তুতি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নৌ-ঘাটি আক্রমণ",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 27
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "যুক্তফ্রন্ট সরকারের মুখ্যমন্ত্রী কে ছিলেন",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ধীরেন্দ্রনাথ দত্ত",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "এ. কে. ফজলুল হক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "শামসুল হক",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ড. শামসুজ্জোহা",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 27
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "কোনো স্থানের সময় সকাল ১০টা হলে তার ২° পশ্চিমের স্থানের স্থানীয় সময় কত হবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "১০ টা ০৪ মিনিট",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "১০ টা ৮ মিনিট",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৯টা ৫২ মিনিট",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৯টা ৫৮ মিনিট",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 27
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "লালমাই পাহাড়ের অবস্থান কোন জেলায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ময়মনসিংহ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "রংপুর",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কুমিল্লা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "চট্টগ্রাম",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 27
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "বাংলাদেশের জলবায়ুর বৈশিষ্ট্য কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অত্যধিক শীতল",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অত্যধিক উষ্ণ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অধিক বৃষ্টিপাত",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সমভাবাপন্ন",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 27
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "কর্ণফুলী নদী কোন শহরের নিকট দিয়ে বঙ্গোপসাগরে পতিত হয়েছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সিলেট",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ঢাকা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "খুলনা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "চট্টগ্রাম",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 27
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "পলাশ বিশ্বাস ঢাকা বিশ্ববিদ্যালয় থেকে এম.বি.এ পাশ করে বিদেশে পাড়ি জমান। দীর্ঘ ১০ বছর পর তিনি দেশে ফিরে এসে নিজ গ্রামে একটি মুড়ি ও একটি চানাচুর কারখানা গড়ে তোলেন। এসব কারখানায় তিনি গ্রামের মহিলাদের কাজের সুযোগ করে দেন। এই কাজের মাধ্যমে মহিলাদের পরিবারে আর্থিক স্বচ্ছলতা ফিরে এসেছে। তারা ছেলে-মেয়েদের লেখাপড়া শেখাচ্ছেন ও স্বাস্থ্য সেবাও নিশ্চিত করছেন।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%B2%E0%A6%BE%E0%A6%B6-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%8F%E0%A6%AE%E0%A6%AC%E0%A6%BF%E0%A6%8F-%E0%A6%AA%E0%A6%BE%E0%A6%B6-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%9C%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%A6%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%98-%E0%A7%A7%E0%A7%A6-%E0%A6%AC%E0%A6%9B%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "প্রযুক্তি কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%95%E0%A7%80-16271",
+      "remote_id": "16271",
+      "exam_id": 27
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "সমাজ কাঠামো কীভাবে গড়ে ওঠে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%9C-%E0%A6%95%E0%A6%BE%E0%A6%A0%E0%A6%BE%E0%A6%AE%E0%A7%8B-%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%97%E0%A7%9C%E0%A7%87-%E0%A6%93%E0%A6%A0%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে বর্ণিত পলাশ বিশ্বাসের কাজ সামাজিক পরিবর্তনের কোন উপাদানকে নির্দেশ করে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%AA%E0%A6%B2%E0%A6%BE%E0%A6%B6-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9C-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%89%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AC",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে বর্ণিত মহিলাদের কাজ নারীর ক্ষমতায়নের পথকে সুগম করেছে-বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%AE%E0%A6%B9%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9C-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A5%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%97%E0%A6%AE-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "রাজন সাহেব একটি আন্তর্জাতিক সংস্থায় কাজ করেন। এই সংস্থাটি বিশ্ব শান্তি প্রতিষ্ঠায় কাজ করে যাচ্ছে। এ ছাড়া তার ভাই জনাব মহিউদ্দীন পুলিশের চাকরি করেন। তিনি উক্ত সংস্থার একজন প্রতিনিধি হিসেবে আফ্রিকার একটি দেশে কর্মরত। সেখানকার মানুষের নিয়ম-শৃঙ্খলা, চাষাবাদ ইত্যাদি বিষয়ে সচেতনার মাধ্যমে জনাব মহিউদ্দীন বিশ্ব শান্তি প্রতিষ্ঠায় অংশ নিচ্ছেন।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A6%BE%E0%A6%9C-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%A8-%E0%A6%8F%E0%A6%87-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC-%E0%A6%B6%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A7%9F",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "ভেটো কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AD%E0%A7%87%E0%A6%9F%E0%A7%8B-%E0%A6%95%E0%A7%80-84739",
+      "remote_id": "84739",
+      "exam_id": 27
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "নারীর প্রতি বৈষম্য নিরসনে সিডও এর ভূমিকা ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A7%88%E0%A6%B7%E0%A6%AE%E0%A7%8D%E0%A6%AF-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A6%BF%E0%A6%A1%E0%A6%93-%E0%A6%8F%E0%A6%B0-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "রাজন সাহেব যে সংস্থায় কাজ করেন তা প্রতিষ্ঠার পটভূমি বর্ণনা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC-%E0%A6%AF%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A6%BE%E0%A6%9C-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%9F%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "জনাব মহিউদ্দীনের কাজ বাংলাদেশের ভাবমূর্তি বিশ্বের বুকে উজ্জ্বল করেছে -এ বিষয়ে তুমি কি একমত? তোমার উত্তরের পক্ষে যুক্তি দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%AE%E0%A6%B9%E0%A6%BF%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9C-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%AE%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%81%E0%A6%95%E0%A7%87-%E0%A6%89%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A7%8D%E0%A6%AC%E0%A6%B2-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%8F-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%9F%E0%A7%87-%E0%A6%A4%E0%A7%81%E0%A6%AE",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "ঘটনা-১: রমিজ মিয়া ১০ বছর ধরে আফ্রিকার একটি দেশে কর্মরত। তিনি প্রায়ই জ্বর এবং ডায়রিয়ায় ভোগেন। সাথে শুকনাকাশি লেগেই থাকে। তিনি দেশে ফিরে ডাক্তারের কাছে যান। ডাক্তারি পরীক্ষায় তার রক্তে একটি বিশেষ ধরনের ভাইসের উপস্থিতি পাওয়া যায়। ঘটনা-২ : অটোচালক সেলিম প্রতিদিনের ন্যায় যাত্রী নিয়ে চুয়াডাঙ্গার উদ্দেশ্যে যাচ্ছিলেন। পিছন থেকে একটি লরি অটোবাইকে ধাক্কা দিলে সেলিমসহ দুজন যাত্রি আহত হন। এই ঘটনায় সেলিম একটি পা হারান। এই অবস্থায় তাঁর পরিবার একটি বড় সমস্যায় পড়ে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A7%A7-%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%9C-%E0%A6%AE%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A7%A7%E0%A7%A6-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%A7%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%AB%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%B0%E0%A6%A4-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A6%87-%E0%A6%9C%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%A1%E0%A6%BE%E0%A7%9F%E0%A6%B0%E0%A6%BF%E0%A7%9F",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "শিশু শ্রম কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%95%E0%A7%80",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "কীভাবে সমাজে নৈরাজ্য সৃষ্টি হয়?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%A8%E0%A7%88%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%B9%E0%A7%9F",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "ঘটনা-১ এ বর্ণিত রমিজ মিয়া যে রোগে আক্রান্ত, তা প্রতিরোধে করণীয় কী? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A7%A7-%E0%A6%8F-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%9C-%E0%A6%AE%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%AF%E0%A7%87-%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%87-%E0%A6%86%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%A4%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A6%A3%E0%A7%80%E0%A7%9F-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "ঘটনা-২ এ সেলিমের পরিবারের বর্তমান অবস্থার জন্য যে ঘটনা দায়ী তা নিরসনে কী পদক্ষেপ নেওয়া যায় বলে তুমি মনে কর? বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A7%A8-%E0%A6%8F-%E0%A6%B8%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%AF%E0%A7%87-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A7%80-%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AA%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA-",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "হারুন সাহেব একজন স্থানীয় সরকারের প্রধান। তিনি ছাড়াও তার প্রতিষ্ঠানে আরো ২০ জন সদস্য আছেন। তার সরকার উপজেলা, পৌরসভা ও জেলার সকল উন্নয়ন কার্যক্রম পর্যালোচনা করেন। অপরদিকে, জনাব কবির অন্য একটি স্থানীয় সরকারের প্রধান। তিনি ছাড়াও তার সরকারে ১২ জন নির্বাচিত প্রতিনিধি রয়েছেন। তার সরকার এলাকার সড়ক, সেতু, বাধ ইত্যাদি নির্মাণ ও রক্ষণাবেক্ষণ করে থাকেন।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%81%E0%A6%A8-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC-%E0%A6%8F%E0%A6%95%E0%A6%9C%E0%A6%A8-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A7%9F-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%93-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A7%8B-%E0%A7%A8%E0%A7%A6-%E0%A6%9C%E0%A6%A8-%E0%A6%B8%E0%A6%A6%E0%A6%B8",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "নির্বাহী বিভাগ কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97-%E0%A6%95%E0%A7%80",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "স্থানীয় প্রশাসন দরকার কেন? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%A8-%E0%A6%A6%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে বর্ণিত হারুন সাহেব যে প্রতিষ্ঠানের প্রধান তার গঠন-কাঠামো বর্ণনা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%81%E0%A6%A8-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC-%E0%A6%AF%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A6%A0%E0%A6%A8%E0%A6%95%E0%A6%BE%E0%A6%A0%E0%A6%BE%E0%A6%AE%E0%A7%8B-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "জনাব কবির যে স্থানীয় সরকারের প্রধান উদ্দীপকে বর্ণিত কাজ ছাড়াও তারা আরো গুরুত্বপূর্ণ কাজ করে থাকেন বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%AF%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A7%9F-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%BE%E0%A6%9C-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%93-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%86%E0%A6%B0%E0%A7%8B-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%82",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "প্রাকৃতিক সম্পদ কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A6-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-19564",
+      "remote_id": "19564",
+      "exam_id": 27
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "গরান বনভূমির ব্যাখ্যা দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%97%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%A8%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "চিত্রে B নদীর গতিপথ ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87-b-%E0%A6%A8%E0%A6%A6%E0%A7%80%E0%A6%B0-%E0%A6%97%E0%A6%A4%E0%A6%BF%E0%A6%AA%E0%A6%A5-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "বাংলাদেশের অর্থনীতিতে A চিহ্নিত নদীর গুরুত্ব বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-a-%E0%A6%9A%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A6%A6%E0%A7%80%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 25,
+      "question_type": "written",
+      "question_text": "আশ্রয়ণ প্রকল্পে বসবাসকারী জনাব রশিদ বিনা জামানতে একটি আর্থিক প্রতিষ্ঠান থেকে ৫,০০০ টাকা ঋণ নিয়ে মুরগির খামার করেন। অন্যদিকে জনাব নাইম এম.এ পাশ করে নিজের জমি বন্ধক রেখে অন্য একটি আর্থিক প্রতিষ্ঠান থেকে ২০,০০,০০০ টাকা ঋণ গ্রহণ করেন। সে টাকা দিয়ে তিনি নিজ পুকুরে মাছ চাষ শুরু করেন। এখন তার খামারে ৫ জন ব্যক্তি কাজ করেন।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%9F%E0%A6%A3-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%B0%E0%A6%B6%E0%A6%BF%E0%A6%A6-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BE-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%A4%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%AB%E0%A7%A6%E0%A7%A6",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 26,
+      "question_type": "written",
+      "question_text": "আবগারি শুল্ক কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%AC%E0%A6%97%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%B6%E0%A7%81%E0%A6%B2%E0%A7%8D%E0%A6%95-%E0%A6%95%E0%A7%80-80067",
+      "remote_id": "80067",
+      "exam_id": 27
+    },
+    {
+      "question_no": 27,
+      "question_type": "written",
+      "question_text": "কেন্দ্রীয় ব্যাংককে নিকাশ ঘর বলা হয় কেন?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A7%9F-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%98%E0%A6%B0-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A7%9F-%E0%A6%95%E0%A7%87%E0%A6%A8-28862",
+      "remote_id": "28862",
+      "exam_id": 27
+    },
+    {
+      "question_no": 28,
+      "question_type": "written",
+      "question_text": "জনাব রশিদ যে প্রতিষ্ঠান থেকে ঋণ গ্রহণ করেন, তার ব্যাখ্যা দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%B0%E0%A6%B6%E0%A6%BF%E0%A6%A6-%E0%A6%AF%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%8B%E0%A6%A3-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 27
+    },
+    {
+      "question_no": 29,
+      "question_type": "written",
+      "question_text": "উদ্যোক্তা সৃষ্টিতে জনাব নাইমের ঋণ গ্রহণ করা ব্যাংকটির গুরুত্ব অপরিসীম বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%B8%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%8B%E0%A6%A3-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%85%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A7%80%E0%A6%AE-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95",
+      "remote_id": null,
+      "exam_id": 27
+    }
+  ]
+}

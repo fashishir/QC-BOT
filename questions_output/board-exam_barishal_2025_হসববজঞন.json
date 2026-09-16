@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "1860",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "হিসাববিজ্ঞান",
+    "subject": "হিসাববিজ্ঞান",
+    "board": "barishal",
+    "board_bn": "বরিশাল বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 47
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটিকে সকল বইয়ের রাজা বলা হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "জাবেদা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "খতিয়ান",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "নগদান বই",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বেওয়ামিল",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 47
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি মূলধন জাতীয় প্রাপ্তি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "পণ্য বিক্রয়",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ব্যাংকে বিনিয়োগের সুদ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পুরোনো কম্পিউটার বিক্রয়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "শেয়ারে বিনিয়োগের লভ্যাংশ",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 47
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "আসমা এন্টারপ্রাইজের ২০২৪ সালের শেয়ারে বিনিয়োগ থেকে প্রাপ্তি ৫০,০০০ টাকা যার মধ্যে ১০,০০০ টাকা ২০২৩ সালের। এ ক্ষেত্রে মুনাফা জাতীয় আয় কত টাকা?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৬০,০০০ টাকা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৫০,০০০ টাকা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৪০,০০০ টাকা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১০,০০০ টাকা",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 47
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "অফিসের জন্য ল্যাপটপ ক্রয় ৬০,০০০ টাকা। লেনদেনটিকে কোন কোন হিসাবটি প্রভাবিত হয়েছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সম্পদ বৃদ্ধি এবং সম্পদ হ্রাস",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ব্যয় বৃদ্ধি এবং ব্যয় হ্রাস",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ব্যয় বৃদ্ধি এবং আয় হ্রাস",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সম্পদ হ্রাস এবং মালিকানাস্বত হ্রাস",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 47
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি ক্রয়ের জন্য অফিস সরঞ্জাম হিসাব ডেবিট হবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ক্যালকুলেটর মেশিন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ফটোকপি মেশিন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পেপার ওয়েট",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "স্ট্যাপলার পিন",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 47
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "অরাভ ব্রাদার্সের নিকট হতে পণ্য বিক্রয় বাবদ ছেক প্রাপ্তি ২০,০০০ টাকা। এর সঠিক জাবেদা নিচের কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ব্যাংক হিসাব ডেবিট ২০,০০০ টাকা বিক্রয় হিসাব ক্রেডিট ২০,০০০ টাকা,",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ব্যাংক হিসাব ডেবিট ২০,০০০ টাকা দেনাদার হিসাব ক্রেডিট ২০,০০০ টাকা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ব্যাংক হিসাব ডেবিট ২০,০০০ টাকা নগদান হিসার ক্রেডিট ২০,০০০ টাকা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নগদান হিসাব ডেবিট ২০,০০০ টাকা বিক্রয় হিসাব ক্রেডিট ২০,০০০ টাকা",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 47
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "দীর্ঘমেয়াদি দায় কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "প্রদেয় হিসাব",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "প্রদেয় বিল",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ব্যাংকে জমাতিরিক্ত",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ঋণ পত্র",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 47
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "পারিবারিক তহবিল আর্থিক অবস্থার বিবরণীতে কী হিসাবে দেখানো হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "দায়",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "আয়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ব্যায়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সম্পদ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 47
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "প্রত্যক্ষ কাঁচামালের উদাহরণ হলো- i. টেবিল তৈরিতে কাঠের বায় ২৫,০০০ টাকা ii. ব্যাগ প্রস্তুতের জন্য পাটের ব্যয় ১০,০০০ টাকা iii. শার্ট তৈরিতে কাপড়ের ব্যয় ২০,০০০ টাকা নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 47
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "একজন গায়কের পরিবারের মুনাফা জাতীয় ব্যয় নিচের কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "আয়কর",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "গিটার ক্রয়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সাইকেল ক্রয়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মঞ্চ নির্মাণ খরচ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 47
+    }
+  ]
+}

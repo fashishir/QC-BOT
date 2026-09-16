@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "582",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "হিসাববিজ্ঞান",
+    "subject": "হিসাববিজ্ঞান",
+    "board": "dhaka",
+    "board_bn": "ঢাকা বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 343
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "কোন দাখিলার মাধ্যমে আয়-ব্যয় হিসাব বন্ধ করা হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "প্রারম্ভিক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "স্থানান্তর",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সমন্বয়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সমাপনী",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 343
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "চলমান জের ছকে হিসাবের জের জানা যায়—",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নির্দিষ্ট সময়ে",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "যে কোনো সময়ে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মাসের শেষে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মাসের প্রথমে",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 343
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "ব্যয় হিসাবসমূহ সর্বদা কোন জের প্রকাশ করে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ডেবিট",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ক্রেডিট",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "প্রারম্ভিক",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সমাপনী",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 343
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "কোনটি অন্য তিনটি হতে ভিন্ন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "খাজনা ও কর",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সুনাম",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বীমা প্রিমিয়াম",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "কুঋণ",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 343
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "বিক্রয় ৪৫,০০০ টাকা, বিক্রয় ফেরত ৫,০০০ টাকা। পণ্য ক্রয় ২৫,০০০ টাকা। মোট মুনাফা কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৪৫,০০০ টাকা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "২৫,০০০ টাকা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "২০,০০০ টাকা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১৫,০০০ টাকা",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 343
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "বিক্রেতা প্রস্তুত করেন— i. ডেবিট নোট ii. চালান iii. ক্যাশমেমো নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 343
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "রেওয়ামিল কীসের ব্যালেস দ্বারা প্রস্তুত করা হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "খতিয়ান",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "জাবেদা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "নগদান বই",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "প্রকৃত জাবেদা",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 343
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "অগ্রিম খরচ কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "দায়",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সম্পদ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ব্যয়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "মালিকানাস্বত্ব",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 343
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "অনিশ্চিত হিসাব রেওয়ামিলের কোন দিকে বসে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ডেবিট দিকে",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ক্রেডিট দিকে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ডেবিট ও ক্রেডিট উভয় দিকে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সম্পদের দিকে",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 343
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি তরল সম্পদ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "জমি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "নগদ টাকা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "দালানকোঠা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সুনাম",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 343
+    }
+  ]
+}

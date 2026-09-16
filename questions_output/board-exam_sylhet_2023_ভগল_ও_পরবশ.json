@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "511",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ভূগোল ও পরিবেশ",
+    "subject": "ভূগোল ও পরিবেশ",
+    "board": "sylhet",
+    "board_bn": "সিলেট বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": null,
+    "mcq_count": 30,
+    "cq_count": null,
+    "id": 418
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "সমুদ্র তলদেশের ভূমিরূপকে কয়টি ভাগে বিভক্ত করা হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২ টি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৩ টি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৪ টি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৫ টি",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 418
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "নদী ভরাটের কারণ-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "প্রাকৃতিক জলাধার সংরক্ষণ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "পানি প্রবাহ সচল থাকা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পরিকল্পিত বাঁধ নির্মাণ করে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "পলি সঞ্চিত হওয়া",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 418
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "অবক্ষেপনের ফলে -- i. শিলারাশি চূর্ণ-বিচূর্ণ হয়। ii. শিলাসমূহ একস্থানে জমাট বাধে iii. নতুন নতুন ভূমিরূপ গঠিত হয়। নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 418
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "উৎপত্তিগত বৈশিষ্ট্যের ভিত্তিতে পর্বত কত প্রকার?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৩",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৪",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৫",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৬",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 418
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "জার্মানির ব্লাক ফরেস্ট কোন জাতীয় পর্বত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ভঙ্গিল",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "আগ্নেয়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "চ্যুতি স্তূপ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ল্যাকোলিথ",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 418
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "চিনুক' কোন প্রকারের বায়ু?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মেরু",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অয়ন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মৌসুমী",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "স্থানীয়",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 418
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "মরুভূমিতে রাতে প্রচণ্ড ঠাণ্ডা অনুভূত হওয়ার কারণ কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সূর্য কিরণ তির্যকভাবে পড়ে",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "মৃত্তিকা তাপ ধরে রাখতে পারে না।",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অক্ষাংশ ভেদে সূর্যের তাপ ভিন্ন হয় বলে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ভূমির ঢাল অত্যন্ত খাড়া হয় বলে",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 418
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "নাতিশীতোষ্ণ অঞ্চলে কোন প্রকারের বৃষ্টিপাত হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ঘূর্ণ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "পরিচলন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "শৈলোৎক্ষেপ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বায়ুপ্রাচীরজনিত",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 418
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "বায়ুমণ্ডলে ক্লোরোফ্লোরো কার্বন প্যাসের মাত্রাধিক্যের ফলে - i. ক্রমান্বয়ে তাপমাত্রা বেড়ে যাচ্ছে ii. মরুকরণ প্রক্রিয়া শুরু হচ্ছে iii.নিচুভূমি প্লাবিত হচ্ছে নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 418
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নটির উত্তর দাও: বায়ুর স্তর বৈশিষ্ট্য P ওজোন (O 3 ) গ্যাসের আধিকা উদ্দীপকে 'P' বায়ুর স্তর কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মেসোমণ্ডল",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "তাপমণ্ডল",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "স্ট্রাটোমণ্ডল",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "এক্সোমণ্ডল",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 418
+    }
+  ]
+}

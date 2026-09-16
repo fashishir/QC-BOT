@@ -1,0 +1,406 @@
+{
+  "exam": {
+    "remote_id": "698",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "English First Paper",
+    "subject": "English First Paper",
+    "board": "barishal",
+    "board_bn": "বরিশাল বোর্ড",
+    "year": 2022,
+    "mcq_url": "https://sattacademy.com/board-exams/english-first-paper-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+    "written_url": "https://sattacademy.com/board-exams/english-first-paper-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/written",
+    "mcq_count": 5,
+    "cq_count": 18,
+    "id": 616
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "Meherjan's hands are trembling because-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "she is tired",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "she is exhausted",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "she is frightened",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "she is feeble",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "climate change",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "environment pollution",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "natural disaster",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "cyclone",
+          "images": []
+        },
+        {
+          "index": 9,
+          "text": "well off",
+          "images": []
+        },
+        {
+          "index": 10,
+          "text": "sad",
+          "images": []
+        },
+        {
+          "index": 11,
+          "text": "unhappy",
+          "images": []
+        },
+        {
+          "index": 12,
+          "text": "healthy",
+          "images": []
+        },
+        {
+          "index": 13,
+          "text": "Jumping",
+          "images": []
+        },
+        {
+          "index": 14,
+          "text": "unstable",
+          "images": []
+        },
+        {
+          "index": 15,
+          "text": "glittering",
+          "images": []
+        },
+        {
+          "index": 16,
+          "text": "bright",
+          "images": []
+        },
+        {
+          "index": 17,
+          "text": "throughout the year",
+          "images": []
+        },
+        {
+          "index": 18,
+          "text": "in one season",
+          "images": []
+        },
+        {
+          "index": 19,
+          "text": "in two seasons",
+          "images": []
+        },
+        {
+          "index": 20,
+          "text": "in three seasons",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/english-first-paper-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+      "exam_id": 616
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "Meherjan's hands are trembling because-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "she is tired",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "she is exhausted",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "she is frightened",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "she is feeble",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/english-first-paper-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+      "exam_id": 616
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "River erosion is the effect of-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "climate change",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "environment pollution",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "natural disaster",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "cyclone",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/english-first-paper-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+      "exam_id": 616
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "Before the erosion of the river, Meherjan was-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "well off",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "sad",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "unhappy",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "healthy",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/english-first-paper-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+      "exam_id": 616
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "The dancing flames remind Meherjan of the turmoil in her life, Here 'dancing means-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "Jumping",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "unstable",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "glittering",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "bright",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/english-first-paper-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+      "exam_id": 616
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "Riverbanks erode-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "throughout the year",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "in one season",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "in two seasons",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "in three seasons",
+          "images": []
+        }
+      ],
+      "answer": "0",
+      "source_url": "https://sattacademy.com/board-exams/english-first-paper-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+      "exam_id": 616
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "Read the passage below and answer questions no. 1: Meherjan lives in a slum on the Sirajganj Town Protection Embankment. Her polythene roofed shelter looks like a cage. She is nearly 45 but looks more than her age. In front of her shelter, she is trying to make a fire to cook the day's only meal. Her weak hands tremble as she adds some fallen leaves and straw to the fire. The whispering wind from the river Jamuna makes the fire unsteady. The dancing flames remind Meherjan of the turmoil in her life. Not long ago Meherjan had everything, a family, cultivable land and cattle. The erosion of the Jamuna gradually consumed all her landed property. It finally claimed her only shelter during the last monsoon. It took the river only a day to devour Meher's house, trees. vegetable garden and the bamboo bush. She had a happy family once. Over the years, she lost her husband and her family to diseases that cruel hunger and poverty brought to the family. Now, she is the only one left to live on with the loss and the pain. The greedy Jamuna has shattered her dreams and happiness. There are thousand others waiting to share the same fate like Meherjan. Bangladesh is a land of rivers, some of whose banks overflow or erode during monsoon. Erosion is a harsh reality, for the people living along the riverbanks. During each monsoon, many more villages are threatened by the mighty rivers like the Jamuna, the Padma and the Meghna. It is estimated that river erosion makes at least 100,000 people homeless every year in Bangladesh. In fact, river erosion is one of the main dangers caused by climate change. If we can't take prompt actions to adapt to climate change, there will be thousands of more Meherjans in our towns arid villages every year. Answer the following questions",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-passage-below-and-answer-questions-no-1meherjan-lives-in-a-slum-on-the-",
+      "remote_id": null,
+      "exam_id": 616
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "Choose the correct answer from the alternatives :",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/choose-the-correct-answer-from-the-alternatives-81952",
+      "remote_id": "81952",
+      "exam_id": 616
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "How was Meherjan's life earlier?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/how-was-meherjans-life-earlier",
+      "remote_id": null,
+      "exam_id": 616
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "Why are many more villages in the threat of erosion?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/why-are-many-more-villages-in-the-threat-of-erosion",
+      "remote_id": null,
+      "exam_id": 616
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "Where does Meherjan live?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/where-does-meherjan-live-93674",
+      "remote_id": "93674",
+      "exam_id": 616
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "Why does the writer call the Jamuna greedy?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/why-does-the-writer-call-the-jamuna-greedy",
+      "remote_id": null,
+      "exam_id": 616
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "Read the following text and answer questions no. 2 and 3: Fish population is in serious danger from global warming. Climate change is increasing the water temperature in rivers, lakes and seas. This means there is less food and oxygen available for fish. It also means the fish may not grow fully and may have fewer offsprings. Some fishes will become extinct if temperatures rise even by one or two degrees celsius, Climate change increases the percere on fish population. Fishes are one of the world's most valuable biological assets. Forty greenhouse gas emissions, we will increase the pressure on fish. As a result, people who depend of people in the world eat fish a of the main source of protein. If we fail to reduce greenhouse on fish will suffer from hunger and poverty. Read the above text and fill in each gap with a suitable word based on the information of the text. Global warming is causing serious threat to fish population. It is climate change which is the cause oche (a) ---- of water temperature in river seas. For this reason, available food and oxygen for fish in these water (b) ---- will be less than (c) ----. For the same reason, the (d) ---- fish may not be full and offsprings may not be (e) -----. So, the pressure on fish population is (f) ---- due to climate change. Fishes are one of the world's most (g) ---- biological assets. The (h) ---- of people in the world eating fish as their main source of protein is 40%. In case of our (i) ----  to reduce greenhouse gas emissions, the pressure on fish will be increased and consequently people (j) ---- on fish will suffer from hunger and poverty.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-following-text-and-answer-questions-no-2-and-3fish-population-is-in-ser",
+      "remote_id": null,
+      "exam_id": 616
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "Match the parts of sentences given in column 'A', 'B' and 'C to write four complete sentences. Column A Column B Column C (a) Fish is regarded (i)will extinct some (i) from lack of protein, hunger and poverty (b) Fish population is under pressure (ii) fish will suffer (ii)fishes very soon (c) Increasing temperatures (iii) and serious danger (iii) about 40% of people in the world (d) People depending on (iv)as the main source protein of (iv) due to global warming",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/match-the-parts-of-sentences-given-in-column-a-b-and-c-to-write-four-complete-se-69949",
+      "remote_id": "69949",
+      "exam_id": 616
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "Read the passage below and answer the questions no. 4 and 5. May Day or International Workers Day is observed on May 1 all over the world today to commemorate the historical struggle and sacrifices of the working people to establish an eight- hour workday. It is a public holiday in almost all the countries of the world. Since the Industrial Revolution in the 18th and 19th centuries in Europe and the US, the workers in mills and factories had been working a long shift, fourteen or even more hours a day. On May 1st in 1886, inspired by the trade unions, half of the workers at the McCormick Harvesting Machine Company in Chicago went on strike demanding an eight-hour workday. Two days later, a workers' rally was held near the McCormick Harvester Machine Company and about 6000 workers joined it. The rally was addressed by the labour leaders. They urged the workers to stand together, to go on with their struggle and not to give in to their bosses. At one point of the rally, some strikebreakers started leaving the meeting place. The strikers went down the street to bring them back. Suddenly about 200 policemen attacked them with clubs and revolvers. One striker was killed instantly, five or six others were seriously wounded and many others were injured. The events of May 1, 1886 are a reminder that workers will continue to be exploited until they stand up and speak out to gain better working conditions, better pay and better lives. Complete the following table with information from the passage above. International Workers' Day Who Event/Activity When Where The workers in mills and factories (i) ----- in the 18th and 19th century (ii) ---- (iii) ----- went on strike on May 1, 1886 at the McCormick Harvesting Machine Company 6000 workers (iv) ---- on May 3, 1886 (v) ---- (vi) ---- attacked the workers on May 3, 1886 near the McCormick Harvesting Machine Company",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-passage-below-and-answer-the-questions-no-4-and-5may-day-or-internation",
+      "remote_id": null,
+      "exam_id": 616
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "Write a summary of the above passage in your own words.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/write-a-summary-of-the-above-passage-in-your-own-words-96912",
+      "remote_id": "96912",
+      "exam_id": 616
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "Answer the following questions to write a paragraph on \"The Life of a Farmer': (a) Who is a farmer? (b) When does he start his daily work? (c) How does he lead his life? (d) What is his contribution to the nation? (e) How can we improve his condition?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/answer-the-following-questions-to-write-a-paragraph-on-the-life-of-a-farmer-a-wh",
+      "remote_id": null,
+      "exam_id": 616
+    }
+  ]
+}

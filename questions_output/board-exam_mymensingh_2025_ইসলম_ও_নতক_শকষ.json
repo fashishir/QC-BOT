@@ -1,0 +1,659 @@
+{
+  "exam": {
+    "remote_id": "1713",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ইসলাম ও নৈতিক শিক্ষা",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "board": "mymensingh",
+    "board_bn": "ময়মনসিংহ বোর্ড",
+    "year": 2025,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/written",
+    "mcq_count": 30,
+    "cq_count": 55,
+    "id": 236
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "আয-যিকর অর্থ কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "প্রজ্ঞা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "উপদেশ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "গ্রন্থ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সত্য",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 236
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "আকাইদ শব্দের অর্থ কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "শাস্তির পথ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "একত্ববাদ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বিশ্বাস মালা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "আত্মসমর্পণ",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 236
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "\"যার কাছে আমি একটি শব্দও শিখেছি; আমি তার দাস\"- উক্তিটি কার?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "হযরত আলি (রাঃ)",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "হযরত উসমান (রাঃ)",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "হযরত উমর (রাঃ)",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "হযরত আবু বকর (রাঃ)",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 236
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "কবরের অপর নাম কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "হাশর",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "আখিরাত",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "কিয়ামত",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বারযাখ",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 236
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "যাকাত হলো ইসলামের-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "শান্তি চুক্তি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "সেতুবন্ধন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "আর্থিক শক্তি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বড় ইবাদত",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 236
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "মুনাফিকরা জাহান্নামের সর্বনিম্নস্তরে থাকবে কেন? i. তারা মুসলমানদের গোপন তথ্য শত্রুদের জানিয়ে দেয় ii. তারা ইসলামের মৌলিক বিষয়গুলোকে অস্বীকার করে iii. তাদের কারণে সমাজে বিশৃঙ্খলা, সৃষ্টি হয় নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 236
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "আলকিয়াস ইসলামী শরিয়তের কততম উৎস?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "প্রথম",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "দ্বিতীয়",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "তৃতীয়",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "চতুর্থ",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 236
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "কোনটি মক্কী সুরার বৈশিষ্ট্য?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ব্যবসায়-বাণিজ্যের নিয়ম",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বিচার ব্যবস্থা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "রিসালাতের আহ্বান",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ইবাদতের রীতি-নীতি",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 236
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "সুন্নত কয় প্রকার?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৩",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৪",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৫",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 236
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "নাঈমুল ইসলাম আসর সালাত আদায় করেন। তবে তিনি 'রুকু করার পরে সোজা হয়ে দাঁড়াননি'। এতে তার কোন কাজটি বাদ পড়েছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "মুস্তাহাব",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ওয়াজিব",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সুন্নাতে মুয়াক্কাদাহ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ফরজে কিফায়াহ",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%93-%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2025/mcq",
+      "exam_id": 236
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "মোর্শেদ সাহেব একজন স্বল্প বেতনের চাকুরীজীবী। তার একমাত্র সন্তান সাহেদ হার্টের রোগে আক্রান্ত হলে তার চিকিৎসার জন্য আত্মীয় স্বজনের কাছে সাহায্যের হাত বাড়ান। তাতে ব্যর্থ হলে মোর্শেদ সাহেব হতাশ হয়ে পড়েন। তার স্ত্রী-নার্গিস তাকে শান্তনা দিয়ে বলেন যে, দুঃখ ও কষ্টে হতাশ হওয়া যাবেনা। নার্গিস বেগম চিড়িয়াখানায় চাকুরী করেন। মানব সেবার পাশাপাশি তিনি জীব জন্তুকে ভালবাসেন। একদিন তিনি অফিস থেকে বাড়ী ফেরার পথে একটি আহত পাখি দেখতে পান। পাখিটিকে বাড়ীতে নিয়ে এসে স্বযত্নে সুস্থ করে তোলেন নার্গিস বেগমের বাবা রিফাত সাহেব তার কাজের প্রশংসা করে বলেন \"তুমি আল্লাহর ভালবাসা লাভ করবে\"।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A7%87%E0%A6%A6-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC-%E0%A6%8F%E0%A6%95%E0%A6%9C%E0%A6%A8-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B2%E0%A7%8D%E0%A6%AA-%E0%A6%AC%E0%A7%87%E0%A6%A4%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A7%80%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A7%80-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%A6-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A7%8B%E0%A6%97",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "হাদিসে কুদসি কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%B8%E0%A7%87-%E0%A6%95%E0%A7%81%E0%A6%A6%E0%A6%B8%E0%A6%BF-%E0%A6%95%E0%A7%80-13389",
+      "remote_id": "13389",
+      "exam_id": 236
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "ইসলামের প্রাথমিক যুগে হাদিস লিখে রাখা নিষেধ ছিল কেন? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A7%81%E0%A6%97%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%B8-%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A7%87%E0%A6%A7-%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "মোর্শেদ সাহেবের কর্মকাণ্ডে কোন সুরার শিক্ষা প্রতিফলিত হযেছে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A7%87%E0%A6%A6-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%B8%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AB%E0%A6%B2%E0%A6%BF%E0%A6%A4-%E0%A6%B9%E0%A6%AF%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "নার্গিস বেগমের কাজটি সংশ্লিষ্ট হাদিসের আলোকে চিহ্নিত করে তার সম্পর্কে বাবা রিফাত সাহেবের মন্তব্যটি বিশ্লেষণ কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%BF%E0%A6%B8-%E0%A6%AC%E0%A7%87%E0%A6%97%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A6%82%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87-%E0%A6%9A%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%B0%E0%A6%BF%E0%A6%AB%E0%A6%BE%E0%A6%A4",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "জনাব 'ক' টেলিভিশনের একটি অনুষ্ঠানে ইবাদত সম্পর্কিত আলোচনায় বললেন, ইসলামে এমন একটি এবাদত রয়েছে যার প্রতিদান আল্লাহ তায়ালা নিজহাতে দান করবেন এবং তার অতীত জীবনের পাপ ক্ষমা করে দিবেন। একজন শ্রোতাব প্রশ্নের উত্তরে তিনি বলেন, ইসলামে এমন আরো একটি ইবাদত রয়েছে, যার নির্দিষ্ট পরিমাণ মালের মালিকগণের উপর ফরজ করা হয়েছে। এ ইবাদতটি যথাযথভাবে আদায় করা হলে সমাজের সুবিধা বঞ্চিত অসহায় গরীব মানুষদের ভাগ্যের পরিবর্তন ঘটানো সম্ভব।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%95-%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%A4-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A4-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%B2%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%8F%E0%A6%AE%E0%A6%A8-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%8F",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "হাক্কুল ইবাদ কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B9%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B2-%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-98375",
+      "remote_id": "98375",
+      "exam_id": 236
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "\"শিক্ষা\" মানুষকে কীভাবে প্রকৃত মানুষ হতে সাহায্য করে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%83%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "জনাব 'ক' এর আলোচনায় কোন ইবাদতের প্রতি ইঙ্গিত করা হয়েছে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%95-%E0%A6%8F%E0%A6%B0-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF-%E0%A6%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0-52195",
+      "remote_id": "52195",
+      "exam_id": 236
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "শ্রোতার প্রশ্নের উত্তরে জনাব 'ক' যে ইবাদতের কথা বলেছেন তা চিহ্নিত করে এর শিক্ষা ও তাৎপর্য বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A7%8D%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%87-%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%95-%E0%A6%AF%E0%A7%87-%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%A5%E0%A6%BE-%E0%A6%AC%E0%A6%B2%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A6%BE-%E0%A6%9A%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%93--28708",
+      "remote_id": "28708",
+      "exam_id": 236
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "রুবিনা খাতুন একজন স্কুল শিক্ষিকা। তার ব্যাংকে দুইলক্ষ টাকা এবং ছয়লক্ষ টাকার স্বর্ণের অলংকার আছে। বছর শেষে তিনি অসহায় গরিবদের মাঝে ১৫ হাজার টাকা বিতরণ করেন। অপরদিকে রুবিনার ছেলে রাশেদ পাঁচ ওয়াক্ত নামাজ আদায় করে কিন্তু কষ্টকর ভেবে এমন একটি ফরজ ইবাদত পালনে অবহেলা করে সেটা রমজান মাসের সাথে সম্পৃক্ত। বিষয়টি জানতে পেরে তার বাবা বলেন, এ মাসের ইবাদত পালন করা অত্যাবশ্যক। এর মাধ্যমে পারস্পরিক সহানুভূতি ও সহমর্মিতা সৃষ্টি হয়।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A7%81%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BE-%E0%A6%96%E0%A6%BE%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%8F%E0%A6%95%E0%A6%9C%E0%A6%A8-%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B2-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%87%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%9B%E0%A7%9F%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "ইজমা কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%87%E0%A6%9C%E0%A6%AE%E0%A6%BE-%E0%A6%95%E0%A7%80",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "হাক্কুল ইবাদ বলতে কী বুঝায়? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B9%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B2-%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%AC%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%81%E0%A6%9D%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "রুবিনা খাতুন এর ইবাদতটি কি সঠিক হয়েছে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A7%81%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BE-%E0%A6%96%E0%A6%BE%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%8F%E0%A6%B0-%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%A4%E0%A6%9F%E0%A6%BF-%E0%A6%95%E0%A6%BF-%E0%A6%B8%E0%A6%A0%E0%A6%BF%E0%A6%95-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "রাশেদের অবহেলা করা ইবাদতটি চিহ্নিত করে তার বাবার বক্তব্যটির যথার্থতা বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A6%BE%E0%A6%B6%E0%A7%87%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AC%E0%A6%B9%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%A4%E0%A6%9F%E0%A6%BF-%E0%A6%9A%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AF%E0%A6%A5%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "শ্রেণি শিক্ষক শ্রেণিতে মহামানবদের জীবনী আলোচনা করতে গিয়ে বলেন, তৎকালীন আরবের সবচেয়ে সৎ, বিশ্বস্ত ও সত্যবাদী মানুষটিও নবুয়ত লাভের পর চরমভাবে নির্যাতিত ও উপহাসের পাত্র হতে থাকেন। এক পর্যায়ে তাঁর চরম উদ্বিগ্নতা ও হতাশা বাড়লে মহান আল্লাহ তাকে শান্তনা দিয়ে একটি সুরা নাযিল করেন। অপরদিকে বিদ্যালয়ের শিক্ষক মি. ফারুক ইয়াতীম শিক্ষার্থীদের সাথে ভালো আচরণ করেন এবং অভাবগ্রস্তদেরকে খাদ্য প্রদানে উৎসাহ প্রদান করেন।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A7%80-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A7%8E%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A8-%E0%A6%86%E0%A6%B0%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AC%E0%A6%9A%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "ইজমা কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%87%E0%A6%9C%E0%A6%AE%E0%A6%BE-%E0%A6%95%E0%A7%80-40974",
+      "remote_id": "40974",
+      "exam_id": 236
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "\"বালাদুল আমীন\" বলতে কী বুঝ? ব্যাখ্যা কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%81%E0%A6%B2-%E0%A6%86%E0%A6%AE%E0%A7%80%E0%A6%A8-%E0%A6%AC%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%81%E0%A6%9D-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "শ্রেণি শিক্ষকের আলোচিত সুরাটির শিক্ষা ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%BF%E0%A6%A4-%E0%A6%B8%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "মি. ফারুকের কর্মকাণ্ডে কোন সুরার শিক্ষা প্রতিফলিত হয়েছে তা বিশ্লেষণ কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%BF-%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%81%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%B8%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AB%E0%A6%B2%E0%A6%BF%E0%A6%A4-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "মি. 'ক' একজন নামাজী ব্যক্তি। তিনি ইসলামের পাঁচটি স্তম্ভ মেনে চলার ব্যাপারে দ্বিধা করেন না। কিন্তু আল্লাহর আইনদ্বারা সমাজ ও রাষ্ট্র পরিচালনা করা মেনে নিতে পারেননা। অথচ আল্লাহর আইন অনুযায়ী রাষ্ট্র পরিচালনার জন্য আল্লাহ নির্দেশ দিয়েছেন। আল্লাহর আইন প্রতিষ্ঠার চেষ্টা ও পরিশ্রম করা ফরজ। অপরদিকে মি. 'খ' আরবি নির্দিষ্ট মাসে নির্দিষ্ট ইবাদত পালন করার জন্য দেশের বাইরে যাবেন। তিনি নির্দিষ্ট সময় সেখানে অবস্থান করবেন। ইবাদতসমূহ শেষ করে দেশে ফিরবেন।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%BF-%E0%A6%95-%E0%A6%8F%E0%A6%95%E0%A6%9C%E0%A6%A8-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%80-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AE%E0%A7%8D%E0%A6%AD-%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "ইবাদত কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%A4-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-68802",
+      "remote_id": "68802",
+      "exam_id": 236
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "যাকাতকে কেন ইসলামের সেতুবন্ধন বলা হয়েছে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%A4%E0%A7%81%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%A8-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "মি. 'ক' এর মনোভাবে ইসলামের কোন বিষয়টি উপেক্ষিত হয়েছে? এর গুরুত্ব ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%BF-%E0%A6%95-%E0%A6%8F%E0%A6%B0-%E0%A6%AE%E0%A6%A8%E0%A7%8B%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%9F%E0%A6%9F%E0%A6%BF-%E0%A6%89%E0%A6%AA%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A4-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%8F%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 25,
+      "question_type": "written",
+      "question_text": "মি. 'খ' এর ইবাদতটি চিহ্নিত করে এর ঐতিহাসিক গুরুত্ব বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%BF-%E0%A6%96-%E0%A6%8F%E0%A6%B0-%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%A4%E0%A6%9F%E0%A6%BF-%E0%A6%9A%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%B0-%E0%A6%90%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 26,
+      "question_type": "written",
+      "question_text": "জনাব 'ক' একজন কাপড় ব্যবসায়ী কোনো কারণে গুদামসহ দোকানে আগুন লেগে সমস্ত দোকানের কাপড় পুড়ে যাওয়ায় তিনি অসহায় হয়ে পড়েন। অভাব অনটনের সংসারে তিনি দোকানের মেরামত ও পুনরায় চালু করার জন্য তার ভাই জনাব 'খ' এর কাছে দুই লক্ষ টাকা ধার চাইলে বছরান্তে দুই লক্ষ পঞ্চাশ হাজার টাকা দেওয়ার শর্তে তাকে ধার দেন। জনাব 'খ' এর মেয়ে 'গ' অশালীন পোষাক পরে কোচিং সেন্টারে যাওয়া আসা করে। পথে কিছু বখাটে যুবক তাকে দেখে আপত্তিকর অঙ্গ ভঙ্গি করে। 'গ' কোচিং থেকে ফিরে এসে দাদা 'ঘ' কে বিষয়টি জানালে তিনি পবিত্র কুরআনের উদ্ধৃতি তুলে ধরেন। \"তোমরা নিজ গৃহে অবস্থান করবে এবং প্রাচীন জাহেলী যুগের মত নিজেকে প্রদর্শন করে বেড়াবেনা\"।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%95-%E0%A6%8F%E0%A6%95%E0%A6%9C%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%9C-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%A6%E0%A6%BE%E0%A6%AE%E0%A6%B8%E0%A6%B9-%E0%A6%A6%E0%A7%8B%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8-%E0%A6%B2%E0%A7%87%E0%A6%97%E0%A7%87-%E0%A6%B8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%A4-%E0%A6%A6%E0%A7%8B%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%9C",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 27,
+      "question_type": "written",
+      "question_text": "সত্যবাদিতা কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A7%80-47389",
+      "remote_id": "47389",
+      "exam_id": 236
+    },
+    {
+      "question_no": 28,
+      "question_type": "written",
+      "question_text": "\"ইসলামে কর্মবিমুখতার সুযোগ নেই\" ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 29,
+      "question_type": "written",
+      "question_text": "জনাব 'খ' এর মধ্যে আখলাকে যামীমাহ এর কোন দিকটি প্রকাশ পেয়েছে? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%96-%E0%A6%8F%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%86%E0%A6%96%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%80%E0%A6%AE%E0%A6%BE%E0%A6%B9-%E0%A6%8F%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%AA%E0%A7%87%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 236
+    },
+    {
+      "question_no": 30,
+      "question_type": "written",
+      "question_text": "'গ' এর আচরণ চিহ্নিতপূর্বক তার দাদার উক্তিটি বিশ্লেষণ কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%97-%E0%A6%8F%E0%A6%B0-%E0%A6%86%E0%A6%9A%E0%A6%B0%E0%A6%A3-%E0%A6%9A%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%95-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 236
+    }
+  ]
+}

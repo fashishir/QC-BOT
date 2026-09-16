@@ -1,0 +1,329 @@
+{
+  "exam": {
+    "remote_id": "481",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "রসায়ন",
+    "subject": "রসায়ন",
+    "board": "sylhet",
+    "board_bn": "সিলেট বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 462
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "নাইট্রোজেন পর্যায় সারণির কোন গ্রুপে অবস্থিত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "15",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "7",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "9",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "5",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 462
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "C 3 H 8 + C l 2 → U V A + H C I A -যৌগের সাথে NaOH এর জলীয় দ্রবণের বিক্রিয়ায় কোন যৌগটি উৎপন্ন হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "প্রোপানল",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "প্রোপান্যাল",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "প্রোপিন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "প্রোপানয়িক এসিত",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 462
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "1 লিটার দ্রবণে 24.5g H 2 SO 4 দ্রবীভূত থাকলে দ্রবণের মোলারিটি কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "0.1 M",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "0.15 M",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "0.25 M",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "0.5 M",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 462
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "পেট্রোলিয়ামে শতকরা কত ভাগ পেট্রোল থাকে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "2%",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "5%",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "10%",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "13%",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 462
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "50g CaCO 3 কে উত্তপ্ত করলে কী পরিমাণ গ্যাস উৎপন্ন হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "56g",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "44g",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "28g",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "22g",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 462
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "এক অণু ফেরাস সালফেট কত অণু পানির সাথে যুক্ত হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "2",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "5",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "6",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "7",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 462
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "কোনটি পরিবেশের জন্য ক্ষতিকারক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "টিন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "লেড",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "দস্তা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "তামা",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 462
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "কোনটির ব্যাপনের হার বেশি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "ফ্লোরিন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "কার্বন মনোক্সাইড",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "হাইড্রোজেন সালফাইড",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নাইট্রোজেন ডাইঅক্সাইড",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 462
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "কোনটি যৌগিক পদার্থ?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "লোহা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "রুপা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "মোম",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সালফার",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 462
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "কোনটি অরবিটালটিতে = 4 এবং 1 = 2?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "4s",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "4p",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "4d",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "4f",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 462
+    }
+  ]
+}

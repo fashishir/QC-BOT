@@ -1,0 +1,648 @@
+{
+  "exam": {
+    "remote_id": "576",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "বিজ্ঞান",
+    "subject": "বিজ্ঞান",
+    "board": "sylhet",
+    "board_bn": "সিলেট বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 30,
+    "cq_count": 55,
+    "id": 355
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "৬০ ওয়াটের একটি বাল্ব প্রতিদিন ১৫ ঘন্টা করে ৩০ দিন জ্বললে কত তড়িৎ শক্তি ব্যয় হবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "৯ ইউনিট",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "১৮ ইউনিট",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "২৭ ইউনিট",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৩৬ ইউনিট",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 355
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "বাংলাদেশে এলনিনোর প্রভাবে কী ঘটেছে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "অধিক বৃষ্টি হচ্ছে",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "শীত বেশি হচ্ছে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "খরাপ্রবণ হচ্ছে",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ভূমিকম্প হচ্ছে",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 355
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "তড়িৎ বিশ্লেষ্য পদার্থ হলো- i. Na 2 O ii. NaOH iii. AgNO 3 নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 355
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটি 'মিল্প অব লাইম'?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "C a ( O H ) 2",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "CaO",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "C a C O 3",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "Z n C O 3",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 355
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "এসিডোসিস রোগ সৃষ্টি হয় কোনটির অভাবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "আমিষ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "শর্করা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "পানি",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "খনিজ লবণ",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 355
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "পানি বিশুদ্ধকরণের জন্য যে ট্যাবলেট ব্যবহার করা হয় সেটি কী?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "NaOH",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "N a 2 O",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "NaCl",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "NaOCl",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 355
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "পিরিডক্সিনের অভাবে দেখা দেয়- i. খাওয়ায় অরুচি ii. ত্বকে লালচে দাগ iii. অ্যানিমিয়া নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 355
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "ফুসফুসের ক্যান্সারের জন্য দায়ী গ্যাসসমূহ হচ্ছে- i. CO ii. SO 2 iii. NO 2 নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i ও iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii ও iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 355
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "ডিটারজেন্ট কারখানা হতে কোনটি নির্গত হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "সালফেট",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ফসফেট",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ক্লোরাইড",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "নাইট্রেট",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 355
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "এরি হ্রদকে কত সালে মরা হ্রদ হিসেবে ঘোষণা করা হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "১৯০৫",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "১৯৫০",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "১৯৬০",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "১৯৮১",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 355
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "আমিনার ওজন ৬৫ কেজি এবং উচ্চতা ১৫৫ সে. মি.। তার বোন সোনিয়ার ঠোঁটের দুই পাশে ফাটল দেখা যায় এবং জিভে ঘা হয়। ওদের ভাই তানিমের শরীরের ক্ষত সহজে শুকায় না এবং দাঁতের মাড়ি দিয়ে রক্ত পড়ে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%93%E0%A6%9C%E0%A6%A8-%E0%A7%AC%E0%A7%AB-%E0%A6%95%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%BE-%E0%A7%A7%E0%A7%AB%E0%A7%AB-%E0%A6%B8%E0%A7%87-%E0%A6%AE%E0%A6%BF-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%A8-%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%A0%E0%A7%8B%E0%A6%81%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AA%E0%A6%BE%E0%A6%B6%E0%A7%87-%E0%A6%AB%E0%A6%BE%E0%A6%9F%E0%A6%B2-%E0%A6%A6%E0%A7%87%E0%A6%96",
+      "remote_id": null,
+      "exam_id": 355
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "পুষ্টি কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-26706",
+      "remote_id": "26706",
+      "exam_id": 355
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "জাঙ্কফুড শরীরের জন্য ক্ষতিকর কেন?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%AB%E0%A7%81%E0%A6%A1-%E0%A6%B6%E0%A6%B0%E0%A7%80%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%B0-%E0%A6%95%E0%A7%87%E0%A6%A8-72474",
+      "remote_id": "72474",
+      "exam_id": 355
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "আমিনার বিএমআই নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%AE%E0%A6%86%E0%A6%87-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%9F-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 355
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "সোনিয়া ও তানিমের সমস্যাগুলো কি একই ভিটামিনের অভাবে হয়েছে? যুক্তিসহ মতামত দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%93-%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%95%E0%A6%BF-%E0%A6%8F%E0%A6%95%E0%A6%87-%E0%A6%AD%E0%A6%BF%E0%A6%9F%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%A4-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 355
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "ক্লোরিনেশন কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-43052",
+      "remote_id": "43052",
+      "exam_id": 355
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "পানির পুনরাবর্তন বলতে কী বুঝায়?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A8-%E0%A6%AC%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%81%E0%A6%9D%E0%A6%BE%E0%A7%9F-27133",
+      "remote_id": "27133",
+      "exam_id": 355
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "চিত্রের 'B' প্রাণীটি প্রচুর পরিমাণে কমে গেলে মানবদেহের বৃদ্ধি ব্যাহত হতে পারে- ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-b-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3%E0%A7%80%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A7%81%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A3%E0%A7%87-%E0%A6%95%E0%A6%AE%E0%A7%87-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A6%E0%A7%87%E0%A6%B9%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B9%E0%A6%A4-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE-25595",
+      "remote_id": "25595",
+      "exam_id": 355
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "চিত্রের 'A' এবং 'B' এর বেঁচে থাকা 'C' এর মানদণ্ডের উপর নির্ভর করে- যুক্তিসহ তোমার মতামত বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-a-%E0%A6%8F%E0%A6%AC%E0%A6%82-b-%E0%A6%8F%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%81%E0%A6%9A%E0%A7%87-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%BE-c-%E0%A6%8F%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%A6%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%A4-52948",
+      "remote_id": "52948",
+      "exam_id": 355
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "জনি সাহেব তার বন্ধুর মেয়ের বিয়েতে বিরিয়ানী খাওয়ার পর পাকস্থলীতে 'A' জাতীয় রাসায়নিক পদার্থের মাত্রা বেড়ে যাওয়ায় পেট ব্যথা ও বদহজম শুরু হলো।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BF-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%81%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8%E0%A7%80-%E0%A6%96%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%B2%E0%A7%80%E0%A6%A4%E0%A7%87-a-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A6%BF%E0%A6%95",
+      "remote_id": null,
+      "exam_id": 355
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "নির্দেশক কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-11438",
+      "remote_id": "11438",
+      "exam_id": 355
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "ভিনেগারকে দুর্বল এসিড বলা হয় কেন?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%97%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%B2-%E0%A6%8F%E0%A6%B8%E0%A6%BF%E0%A6%A1-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A7%9F-%E0%A6%95%E0%A7%87%E0%A6%A8-18356",
+      "remote_id": "18356",
+      "exam_id": 355
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "জনি সাহেবের সমস্যা থেকে পরিত্রাণের উপায় ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A8%E0%A6%BF-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 355
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "আমাদের দৈনন্দিন জীবনে 'A' জাতীয় পদার্থের ব্যবহার বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%88%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A7%87-a-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0-69028",
+      "remote_id": "69028",
+      "exam_id": 355
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "নিচের উদ্দীপকটি লক্ষ কর : A B লোহিত কণিকা শ্বেত কণিকা",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%BF%E0%A6%9A%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7-%E0%A6%95%E0%A6%B0-%C2%A0a%C2%A0b%C2%A0%E0%A6%B2%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%A3%E0%A6%BF%E0%A6%95%E0%A6%BE%C2%A0%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%A4-%E0%A6%95%E0%A6%A3%E0%A6%BF%E0%A6%95%E0%A6%BE",
+      "remote_id": null,
+      "exam_id": 355
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "অ্যান্টিবডি কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AC%E0%A6%A1%E0%A6%BF-%E0%A6%95%E0%A7%80",
+      "remote_id": null,
+      "exam_id": 355
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "রক্তের গ্রুপ জানা জরুরি কেন?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AA-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%9C%E0%A6%B0%E0%A7%81%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A7%87%E0%A6%A8-42115",
+      "remote_id": "42115",
+      "exam_id": 355
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "'A' উপাদানটির গঠন বর্ণনা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/a-%E0%A6%89%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%A8%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A6%A0%E0%A6%A8-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 355
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের 'B' বিশেষ প্রক্রিয়ায় রোগজীবাণু ভক্ষণ ও ধ্বংস করে-কথাটি মূল্যায়ন কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-b-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%BE%E0%A6%A3%E0%A7%81-%E0%A6%AD%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3-%E0%A6%93-%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%82%E0%A6%B8-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%A5%E0%A6%BE%E0%A6%9F%E0%A6%BF-%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 355
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "সেলিনা রেশমি কাপড়ের পোশাক পরে কিন্তু তার বান্ধবী পিংকি সুতির পোশাক পড়তে পছন্দ করে।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%A8%E0%A6%BE-%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%AE%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%9C%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8B%E0%A6%B6%E0%A6%BE%E0%A6%95-%E0%A6%AA%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%81-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%AC%E0%A7%80-%E0%A6%AA%E0%A6%BF%E0%A6%82%E0%A6%95%E0%A6%BF-%E0%A6%B8%E0%A7%81%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%8B%E0%A6%B6%E0%A6%BE%E0%A6%95-%E0%A6%AA%E0%A7%9C%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%9B%E0%A6%A8%E0%A7%8D%E0%A6%A6-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 355
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "পলিমারকরণ কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%B2%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A6%B0%E0%A6%A3-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-25401",
+      "remote_id": "25401",
+      "exam_id": 355
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "বাকেলাইটকে পলিমার বলা হয় কেন?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A6%B2%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A7%9F-%E0%A6%95%E0%A7%87%E0%A6%A8-93466",
+      "remote_id": "93466",
+      "exam_id": 355
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "সেলিনার পছন্দের কাপড়ের সুতা সংগ্রহের পদ্ধতি ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%9B%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%A4%E0%A6%BE-%E0%A6%B8%E0%A6%82%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0-50990",
+      "remote_id": "50990",
+      "exam_id": 355
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "পিংকির পরিহিত পোশাক তুলনামূলক আরামদায়ক- বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%BF%E0%A6%82%E0%A6%95%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B9%E0%A6%BF%E0%A6%A4-%E0%A6%AA%E0%A7%8B%E0%A6%B6%E0%A6%BE%E0%A6%95-%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%95-%E0%A6%86%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0-79183",
+      "remote_id": "79183",
+      "exam_id": 355
+    },
+    {
+      "question_no": 25,
+      "question_type": "written",
+      "question_text": "A B C D জনসংখ্যা বৃদ্ধি তাপমাত্রা বৃদ্ধি বায়ু দূষণ ও পানি দূষণ পরিবেশ বিপর্যয়",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/a%C2%A0b%C2%A0c%C2%A0d%C2%A0%E0%A6%9C%E0%A6%A8%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF%C2%A0%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE-%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF%C2%A0%E0%A6%AC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%81-%E0%A6%A6%E0%A7%82%E0%A6%B7%E0%A6%A3-%E0%A6%93-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%A6%E0%A7%82%E0%A6%B7%E0%A6%A3%C2%A0%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A7%9F",
+      "remote_id": null,
+      "exam_id": 355
+    },
+    {
+      "question_no": 26,
+      "question_type": "written",
+      "question_text": "গলনাঙ্ক কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%97%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-86636",
+      "remote_id": "86636",
+      "exam_id": 355
+    },
+    {
+      "question_no": 27,
+      "question_type": "written",
+      "question_text": "জলজ উদ্ভিদ পানির স্রোতে ভেঙে যায় না কেন?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%B2%E0%A6%9C-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BF%E0%A6%A6-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A4%E0%A7%87-%E0%A6%AD%E0%A7%87%E0%A6%99%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8-21230",
+      "remote_id": "21230",
+      "exam_id": 355
+    },
+    {
+      "question_no": 28,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের ধাপ 'A' ধাপ 'C' এর জন্য দায়ী- বর্ণনা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%AA-a-%E0%A6%A7%E0%A6%BE%E0%A6%AA-c-%E0%A6%8F%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A7%80-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 355
+    },
+    {
+      "question_no": 29,
+      "question_type": "written",
+      "question_text": "'A' নিয়ন্ত্রণ সম্ভব হলে 'D' প্রতিরোধ সম্ভব- যুক্তিসহ তোমার মতামত দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/a-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%AC-%E0%A6%B9%E0%A6%B2%E0%A7%87-d-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%AC-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%A4-%E0%A6%A6%E0%A6%BE%E0%A6%93",
+      "remote_id": null,
+      "exam_id": 355
+    }
+  ]
+}

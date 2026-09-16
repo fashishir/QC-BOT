@@ -1,0 +1,771 @@
+{
+  "exam": {
+    "remote_id": "258",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "ইংরেজী (আবশ্যিক) ১ম পত্র",
+    "subject": "ইংরেজী (আবশ্যিক) ১ম পত্র",
+    "board": "sylhet",
+    "board_bn": "সিলেট বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/written",
+    "mcq_count": 10,
+    "cq_count": 35,
+    "id": 564
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "The celebration of Independence Day starts with.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "processions",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "placing wreaths at the National Mausoleum",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "gun salute",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "parade by defence forces",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "on Dhaka University campus",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "at Ramna Park",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "at Savar",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "near Dhaka Medical College",
+          "images": []
+        },
+        {
+          "index": 9,
+          "text": "at the National Parade Ground",
+          "images": []
+        },
+        {
+          "index": 10,
+          "text": "in the streets",
+          "images": []
+        },
+        {
+          "index": 11,
+          "text": "in the decorated vehicles",
+          "images": []
+        },
+        {
+          "index": 12,
+          "text": "in Bangabandhu Stadium",
+          "images": []
+        },
+        {
+          "index": 13,
+          "text": "All the ordinary people",
+          "images": []
+        },
+        {
+          "index": 14,
+          "text": "All the poor people",
+          "images": []
+        },
+        {
+          "index": 15,
+          "text": "All the rich people",
+          "images": []
+        },
+        {
+          "index": 16,
+          "text": "All categories of people",
+          "images": []
+        },
+        {
+          "index": 17,
+          "text": "put out",
+          "images": []
+        },
+        {
+          "index": 18,
+          "text": "put on",
+          "images": []
+        },
+        {
+          "index": 19,
+          "text": "light on",
+          "images": []
+        },
+        {
+          "index": 20,
+          "text": "put off",
+          "images": []
+        },
+        {
+          "index": 21,
+          "text": "modesty",
+          "images": []
+        },
+        {
+          "index": 22,
+          "text": "respect",
+          "images": []
+        },
+        {
+          "index": 23,
+          "text": "consecration",
+          "images": []
+        },
+        {
+          "index": 24,
+          "text": "earnestness",
+          "images": []
+        },
+        {
+          "index": 25,
+          "text": "irritate",
+          "images": []
+        },
+        {
+          "index": 26,
+          "text": "annoy",
+          "images": []
+        },
+        {
+          "index": 27,
+          "text": "amuse",
+          "images": []
+        },
+        {
+          "index": 28,
+          "text": "sadden",
+          "images": []
+        },
+        {
+          "index": 29,
+          "text": "represents his/her own country",
+          "images": []
+        },
+        {
+          "index": 30,
+          "text": "represents his/her own family in a foreign country",
+          "images": []
+        },
+        {
+          "index": 31,
+          "text": "creates anarchy among the people of foreign countries",
+          "images": []
+        },
+        {
+          "index": 32,
+          "text": "highlights their political and social interest to the world  community",
+          "images": []
+        },
+        {
+          "index": 33,
+          "text": "highlight the sacrifice of martyrs",
+          "images": []
+        },
+        {
+          "index": 34,
+          "text": "praise highly of the martyrs",
+          "images": []
+        },
+        {
+          "index": 35,
+          "text": "show due respect and gratitude to the martyrs",
+          "images": []
+        },
+        {
+          "index": 36,
+          "text": "maintain silence of the programmes",
+          "images": []
+        },
+        {
+          "index": 37,
+          "text": "To highlight the celebration of Independence Day",
+          "images": []
+        },
+        {
+          "index": 38,
+          "text": "To show us the way of arranging programmes",
+          "images": []
+        },
+        {
+          "index": 39,
+          "text": "To describe our tradition",
+          "images": []
+        },
+        {
+          "index": 40,
+          "text": "To show our nationalism and Bangali culture",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 564
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "The celebration of Independence Day starts with.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "processions",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "placing wreaths at the National Mausoleum",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "gun salute",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "parade by defence forces",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 564
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "The National Mausoleum is situated-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "on Dhaka University campus",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "at Ramna Park",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "at Savar",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "near Dhaka Medical College",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 564
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "On Independence Day various displays are held-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "at the National Parade Ground",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "in the streets",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "in the decorated vehicles",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "in Bangabandhu Stadium",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 564
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "What does the expression \"people from all walks of life\" in the passage mean?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "All the ordinary people",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "All the poor people",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "All the rich people",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "All categories of people",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 564
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "Illuminate' stands for-.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "put out",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "put on",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "light on",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "put off",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 564
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "What is the meaning for 'homage\"?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "modesty",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "respect",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "consecration",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "earnestness",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 564
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "Various displays are arranged to the spectators.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "irritate",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "annoy",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "amuse",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "sadden",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 564
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "A diplomat is a person who-.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "represents his/her own country",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "represents his/her own family in a foreign country",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "creates anarchy among the people of foreign countries",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "highlights their political and social interest to the world  community",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 564
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "Freedom fighters pay homage to the martyrs\" means that they-.",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "highlight the sacrifice of martyrs",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "praise highly of the martyrs",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "show due respect and gratitude to the martyrs",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "maintain silence of the programmes",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 564
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "What is the main purpose of the author of the passage?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "To highlight the celebration of Independence Day",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "To show us the way of arranging programmes",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "To describe our tradition",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "To show our nationalism and Bangali culture",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 564
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "Read the following text and answer the questions 2: 26 March, our independence day, is one of the most important state festivals. The day is celebrated every year in the country with great enthusiasm and fervour. It is a national holiday. All offices, educational institutions, shops and factories remain closed on this day. The day begins with a 31gun salute. Early in the morning the President and the Prime Minister, on behalf of the nation place floral wreaths at the National Mausoleum at Savar. Then other leaders, political parties, diplomats, social and cultural organizations, educational institutions and freedom fighters pay homage to the martyrs? People from all walks of life also go there in rallies and processions. There are many cultural programmes throughout the day, high lighting the heroic struggle and sacrifice in 1971. In Bangabandhu National Stadium, school children, scouts and girl guides take part in various displays to entertain thousands of spectators. Educational institutions also organize their individual programmes. Sports meets and tournaments are also organized on the day, including the exciting boat race in the river Buriganga. In the evening, all major public buildings are illuminated with colourful lights.j Bangla Academy e Bangladesh Shilpakala Academy and other socio-cultural organizations hold cultural functions Similar functions are also arranged other places in the country.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-following-text-and-answer-the-questions-226-march-our-independence-day-",
+      "remote_id": null,
+      "exam_id": 564
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "Choose the correct answer from the alternatives :",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/choose-the-correct-answer-from-the-alternatives-64229",
+      "remote_id": "64229",
+      "exam_id": 564
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "What does 26 March remind us?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-does-26-march-remind-us-90183",
+      "remote_id": "90183",
+      "exam_id": 564
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "Who pay homage to the martyred freedom fighters?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/who-pay-homage-to-the-martyred-freedom-fighters-87909",
+      "remote_id": "87909",
+      "exam_id": 564
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "Why does the nation observe 26 March?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/why-does-the-nation-observe-26-march-43775",
+      "remote_id": "43775",
+      "exam_id": 564
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "How is the Independence Day observed?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/how-is-the-independence-day-observed-28799",
+      "remote_id": "28799",
+      "exam_id": 564
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "When and who place floral wreaths at the National Memorial on behalf  of the nation?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/when-and-who-place-floral-wreaths-at-the-national-memorial-on-behalf-of-the-nati",
+      "remote_id": null,
+      "exam_id": 564
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "What is the significance of a 31 gun salute?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-is-the-significance-of-a-31-gun-salute",
+      "remote_id": null,
+      "exam_id": 564
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "Read the following text and fill in each gap with a suitable word based on the information of the text: In a speech at the 90th science congress, internationally acknowledged scientist and former Indian President Mr. APJ Abdul Kalam mentioned a very important aspect of this mankind's future energy crisis. He pointed out that the era of wood and bio-mass has almost come to an end. The age of oil and natural gas would soon be over within the next few decades. Massive burning of world's coal reserves may lead to a worldwide ecological disaster because coal burning emits the highest amount of carbon in the atmosphere. So according to Kalam, the only solution that mankind can look to is the massive use of solar energy in future because it has some advantages over other forms of renewable energies. Now, why has Kalam put so much importance to the issue of energy? The energy sources have always been a major factor of change throughout history. The world's petroleum consumption has increased from 3 billion barrels annually in 1930 to 37 billion barrels annually today. In the next quarter century, the world's population is expected to be about 8 billion which is 30 percent higher than today. Developing countries will grow their economics about two times faster than industrialized countries. Global economic growth is expected to continue at 3 percent per year. Consequently, the global demand for energy will grow at about 1-7 percent per year on an average. It indicates a 50-percent rise of energy consumption by 2030. If the world's daily petroleum consumption is 100 million barrels now, it will rise to 150 million barrels by that time. The present reserve of hydro- carbon energy resources is limited and it will not be sufficient to meet the future energy challenges of the world. Hence, leading industrial counties have taken initiatives to use alternative energy sources mainly known as green or renewable energy sources. The bottom line of Kalam's speech indicates the concern of mankind in the 21st century.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-following-text-and-fill-in-each-gap-with-a-suitable-word-based-on-the-i-10085",
+      "remote_id": "10085",
+      "exam_id": 564
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "Mr. APJ Abdul Kalam was not only a scientist but also the President of India. At the 90th science congress, he (a) ___ a speech on the aspect of mankind's future energy crisis. He (b)___ pressure on the (c) ___ of solar energy. (d)___ to the history, the energy sources have always been a major factor of change all the general people should have a (e) ___ about the fact.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/mr-apj-abdul-kalam-was-not-only-a-scientist-but-also-the-president-of-india-at-t",
+      "remote_id": null,
+      "exam_id": 564
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "Match the parts of sentences given in column 'A', 'B' and 'C' to write 7 complete sentences.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/match-the-parts-of-sentences-given-in-column-a-b-and-c-to-write-7-complete-sente",
+      "remote_id": null,
+      "exam_id": 564
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "Column A Column B Column C (a) Wood was used (i) to meet the future (i) is limited (b) The scientist Kalam is concerned (ii) of hydrocarbon energy (ii) of current civilization (c) It is clear that (iii) energy source (iii) future energy crisis (d) With the discovery of (iv) about mankind's (iv) lighting and cooking (e) Hydrocarbon is a primary (v) as the means of heating (v) energy challenges of heating the world (f) The present stock (vi) the era of wood and biomass (vi) of energy has changed (g) It will not be sufficient (vii) petroleum and coal, people's source (vii) will end soon",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/column-acolumn-bcolumn-ca-wood-was-usedi-to-meet-the-futurei-is-limitedb-the-sci",
+      "remote_id": null,
+      "exam_id": 564
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "Read the following passage carefully and complete the table below with the information given in the passage: Albert Einstein, the greatest scientist of the twentieth century and one of the supreme intellects of all time, was born on March 14, 1879 in the city of Ulm in Germany. He attended Ulm high school in Switzerland and became a Swiss Citizen in 1901. He was appointed an examiner at the Swiss patent office in 1902. He served at this post for three years. He received his PhD in 1905 from the University of Zurich, but was unable to find an academic position at that time. However, the same year he began to publish original papers on the theoretical aspects of problems of Physics. Within a few years, these papers, particularly the one on relativity, established his reputation as one of the most brilliant and original scientists in the world. His theories were highly controversial. In spite of this, he was appointed a professor at the University of Berlin. At the same time becoming a member of the Prussian Academy of Science. In 1921 he was awarded the Nobel Prize for Physics Einstein's situation in Germany became precarious when Hitler rose to power. He moved to Princeton. New Jersey, the USA in 1933 to work at the institute for advanced study and in 1940, he became a United States citizen. Einstein's first marriage ended in divorce, but his second one was quite happy. He had two sons. He died in 1955 in Princeton.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/read-the-following-passage-carefully-and-complete-the-table-below-with-the-infor",
+      "remote_id": null,
+      "exam_id": 564
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "Albert Einstein Aims Propounding his theoretical aspects of problems of Physics and some outlying situations of his life to the readers Life span Born in 1879 and died in 1955 in (i) ____ Significant occurrences with necessary details Who/what Event Place Time Why/How Speciality Albert Einstein was appointed (ii) ___ 1902 as an examiner He eceived his PhD (iii) ___ 1905 unable to find an academic position at that time he (iv)___ New Jersey, 1933 the USA 1933 (v) ___ became a US citizen in 1940 His first marriage ended (vi) ___",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/albert-einsteinaimspropounding-his-theoretical-aspects-of-problems-of-physics-an",
+      "remote_id": null,
+      "exam_id": 564
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "Write a summary of the above passage in your own words.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/write-a-summary-of-the-above-passage-in-your-own-words-82020",
+      "remote_id": "82020",
+      "exam_id": 564
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "Answer the following questions to write a paragraph on 'Early Rising'.",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/answer-the-following-questions-to-write-a-paragraph-on-early-rising",
+      "remote_id": null,
+      "exam_id": 564
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "What is early rising?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/what-is-early-rising",
+      "remote_id": null,
+      "exam_id": 564
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "How is early rising beneficial to good health?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/how-is-early-rising-beneficial-to-good-health",
+      "remote_id": null,
+      "exam_id": 564
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "Why is it important for the students?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/why-is-it-important-for-the-students",
+      "remote_id": null,
+      "exam_id": 564
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "In what other ways early rising help us?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/in-what-other-ways-early-rising-help-us",
+      "remote_id": null,
+      "exam_id": 564
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "How can we form the habit of early rising?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/how-can-we-form-the-habit-of-early-rising",
+      "remote_id": null,
+      "exam_id": 564
+    }
+  ]
+}

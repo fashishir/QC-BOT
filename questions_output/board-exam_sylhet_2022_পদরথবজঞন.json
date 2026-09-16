@@ -1,0 +1,626 @@
+{
+  "exam": {
+    "remote_id": "683",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "পদার্থবিজ্ঞান",
+    "subject": "পদার্থবিজ্ঞান",
+    "board": "sylhet",
+    "board_bn": "সিলেট বোর্ড",
+    "year": 2022,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+    "written_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/written",
+    "mcq_count": 25,
+    "cq_count": 40,
+    "id": 628
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "নিচের কোনটির তরঙ্গ দৈর্ঘ্য দৃশ্যমান আলোর তরঙ্গ দৈর্ঘ্যের চেয়ে বড়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "গামা রে",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "এক্স-রে",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "রেডিও ওয়েভ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "অ্যাস্ট্রাভায়োলেট",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+      "exam_id": 628
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "কোনো গতিশীল বস্তুর গতিশক্তি চারগুণ হবে, যদি- i. বেগ দ্বিগুণ হয় ii. বেগ ও ভর উভয়ই দ্বিগুণ হয় iii. বেগ দ্বিগুণ ও ভর অর্ধেক হয় নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+      "exam_id": 628
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "স্থির অবস্থান হতে বিনা বাধায় পড়ন্ত বস্তুর ক্ষেত্রে-",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "বেগ অতিক্রান্ত দূরত্বের বর্গের সমানুপাতিক",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "অতিক্রান্ত দূরত্ব বেগের বর্গমূলের সমানুপাতিক",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অতিক্রান্ত দূরত্ব সময়ের বর্গমূলের সমানুপাতিক",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বেগ সময়ের সমানুপাতিক",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+      "exam_id": 628
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "কোনটির আপেক্ষিক রোধ বেশি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "রূপা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "তামা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "সোনা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "গ্রাফাইট",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+      "exam_id": 628
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "1 টেরা = কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "10 15",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "10 12",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "10 - 12",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "10 - 15",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+      "exam_id": 628
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "কোনটি অনবায়নযোগ্য শক্তি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "নিউক্লিয়ার শক্তি",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "বায়ুশক্তি",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "বায়োফুয়েল",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "ভূ-তাপীয় শক্তি",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+      "exam_id": 628
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "কোনো বস্তুর ত্বরণ না থাকলে- i. কাজ W= 0 ii. বল F = 0 iii. আদিবেগ u = শেষবেগ v নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "i ও ii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii ও iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+      "exam_id": 628
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "একটি দণ্ডের দৈর্ঘ্য (12 ° 0.05) cm - দৈর্ঘ্য পরিমাপের আপেক্ষিক ত্রুটি কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "12.05",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "11.95",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "0.42",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "0,0042",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+      "exam_id": 628
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "ক্ষমতার একক কোনটি?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "k g m 2 s - 3",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "k g m 2 s - 2",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "k g m s - 2",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "k g m - 1 s - 2",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+      "exam_id": 628
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "কোনো স্থির বস্তুতে 2 ms -2 ত্বরণ সৃষ্টি করলে  কত সময় পর 20 ms -1 বেগ প্রাপ্ত হবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "0.1 s",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "10 s",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "18 s",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "40 s",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+      "exam_id": 628
+    },
+    {
+      "question_no": 1,
+      "question_type": "written",
+      "question_text": "একটি সাধারণ স্কেলে দণ্ডের দৈর্ঘ্য 18 mm পাওয়া গেল । উক্ত দণ্ডটিকে 0.005 cm ভার্নিয়ার ধ্রুবকবিশিষ্ট একটি স্লাইড ক্যালিপার্সে পরিমাপ করে ভার্নিয়ার সমপাতন 14 পাওয়া গেল ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%A6%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%88%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A7%8D%E0%A6%AF-18-mm-%E0%A6%AA%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%97%E0%A7%87%E0%A6%B2-%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%A6%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%87-0005-cm-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%AF",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 2,
+      "question_type": "written",
+      "question_text": "মৌলিক রাশি কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A7%8C%E0%A6%B2%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%B6%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-56500",
+      "remote_id": "56500",
+      "exam_id": 628
+    },
+    {
+      "question_no": 3,
+      "question_type": "written",
+      "question_text": "“ক্ষমতা একটি লব্ধ রাশি”- ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B2%E0%A6%AC%E0%A7%8D%E0%A6%A7-%E0%A6%B0%E0%A6%BE%E0%A6%B6%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 4,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের তথ্য অনুযায়ী ভার্নিয়ার স্কেলের ঘরের সংখ্যা নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%80-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%98%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A6%B0-16054",
+      "remote_id": "16054",
+      "exam_id": 628
+    },
+    {
+      "question_no": 5,
+      "question_type": "written",
+      "question_text": "উদ্দীপকে উল্লিখিত স্লাইড ক্যালিপার্সের সাহায্যে দণ্ডটির দৈর্ঘ্য কত হবে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%BF%E0%A6%A4-%E0%A6%B8%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A1-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%A6%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A7%88%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A6%A4-%E0%A6%B9%E0%A6%AC%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 6,
+      "question_type": "written",
+      "question_text": "সুষম বেগ কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%B8%E0%A7%81%E0%A6%B7%E0%A6%AE-%E0%A6%AC%E0%A7%87%E0%A6%97-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 7,
+      "question_type": "written",
+      "question_text": "তোমার ওজন পৃথিবীর সকল দেশেই সমান হবে কি? ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%93%E0%A6%9C%E0%A6%A8-%E0%A6%AA%E0%A7%83%E0%A6%A5%E0%A6%BF%E0%A6%AC%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%95%E0%A6%B2-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%87-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%95%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 8,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের তথ্যের আলোকে প্রথম 6 s-এ অতিক্রান্ত দূরত্ব নির্ণয় কর",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-6-s%E0%A6%8F-%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%A6%E0%A7%82%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 9,
+      "question_type": "written",
+      "question_text": "প্রদত্ত তথ্যের আলোকে লেখচিত্র অঙ্কন কর এবং বিভিন্ন অংশের বেগের প্রকৃতি বিশ্লেষণ কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A6%A4%E0%A7%8D%E0%A6%A4-%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87-%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%85%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%A8-%E0%A6%95%E0%A6%B0-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%85%E0%A6%82%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 10,
+      "question_type": "written",
+      "question_text": "358.8 N ওজনের একটি বস্তুকে 2 N ঘর্ষণ বল যুক্ত কোনো মেঝেতে 10 s যাবৎ বল প্রয়োগ করে 50 m দূরত্বে নেওয়া হলো। এরপর বল সরিয়ে নেওয়ায় ঘর্ষণ বলের কারণে কিছুক্ষণ বস্তুটি থেমে গেল ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/3588-n-%E0%A6%93%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%95%E0%A7%87-2-n-%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3-%E0%A6%AC%E0%A6%B2-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%AE%E0%A7%87%E0%A6%9D%E0%A7%87%E0%A6%A4%E0%A7%87-10-s-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%8E-%E0%A6%AC%E0%A6%B2-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%97-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 11,
+      "question_type": "written",
+      "question_text": "জড়তা কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9C%E0%A6%A1%E0%A6%BC%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A7%80-76844",
+      "remote_id": "76844",
+      "exam_id": 628
+    },
+    {
+      "question_no": 12,
+      "question_type": "written",
+      "question_text": "মন্দন লব্ধ রাশি কেন?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%A8-%E0%A6%B2%E0%A6%AC%E0%A7%8D%E0%A6%A7-%E0%A6%B0%E0%A6%BE%E0%A6%B6%E0%A6%BF-%E0%A6%95%E0%A7%87%E0%A6%A8",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 13,
+      "question_type": "written",
+      "question_text": "উদ্দীপকের বস্তুর উপর প্রযুক্ত বলের মান নির্ণয় কর",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%AC%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 14,
+      "question_type": "written",
+      "question_text": "বল সরিয়ে নেওয়ার পর কত দূরত্বে বস্তুটি থেমেছিল?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%B2-%E0%A6%B8%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%A8%E0%A7%87%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%95%E0%A6%A4-%E0%A6%A6%E0%A7%82%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%A5%E0%A7%87%E0%A6%AE%E0%A7%87%E0%A6%9B%E0%A6%BF%E0%A6%B2",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 15,
+      "question_type": "written",
+      "question_text": "বিভবশক্তি কাকে বলে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%AC%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A7%87-41463",
+      "remote_id": "41463",
+      "exam_id": 628
+    },
+    {
+      "question_no": 16,
+      "question_type": "written",
+      "question_text": "নিউক্লিয়ার রি-অ্যাকটরে কন্ট্রোল রড ব্যবহার করা হয় কেন?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%B0%E0%A6%BF%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%9F%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%B2-%E0%A6%B0%E0%A6%A1-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%B9%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%87%E0%A6%A8",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 17,
+      "question_type": "written",
+      "question_text": "A বিন্দু থেকে বস্তুটিকে মুক্তভাবে পড়তে দিলে এটি কত বেগে C বিন্দুতে আঘাত করবে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/a-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87-%E0%A6%8F%E0%A6%9F%E0%A6%BF-%E0%A6%95%E0%A6%A4-%E0%A6%AC%E0%A7%87%E0%A6%97%E0%A7%87-c-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%98%E0%A6%BE%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 18,
+      "question_type": "written",
+      "question_text": "ভূপৃষ্ঠ থেকে কত উচ্চতায় বিভবশক্তি গতিশক্তির দ্বিগুণ হবে? গাণিতিক বিশ্লেষণ করে মতামত দাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AD%E0%A7%82%E0%A6%AA%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%A0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A6%A4-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%AC%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%97%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A7%81%E0%A6%A3-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%97%E0%A6%BE%E0%A6%A3%E0%A6%BF%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%B7%E0%A6%A3-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A6%A4",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 19,
+      "question_type": "written",
+      "question_text": "পীড়ন কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A7%80%E0%A6%A1%E0%A6%BC%E0%A6%A8-%E0%A6%95%E0%A7%80",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 20,
+      "question_type": "written",
+      "question_text": "টরিসেলির শূন্যস্থান বলতে কী বুঝায়?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%9F%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%B6%E0%A7%82%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%81%E0%A6%9D%E0%A6%BE%E0%A6%AF%E0%A6%BC",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 21,
+      "question_type": "written",
+      "question_text": "C 1 পিস্টনের উপর 10 kg ভরের বস্তু রাখলে C 2 পিস্টনের উপর কী পরিমাণ ঊর্ধ্বমুখী বল অনুভূত হবে?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/c1-%E0%A6%AA%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0-10-kg-%E0%A6%AD%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%B2%E0%A7%87-c2-%E0%A6%AA%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0-%E0%A6%95%E0%A7%80-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A3-%E0%A6%8A%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%80-%E0%A6%AC%E0%A6%B2-%E0%A6%85",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 22,
+      "question_type": "written",
+      "question_text": "C 1 পিস্টনে 1 N, 2 N, 3 N বল প্রযুক্ত হলে F 1 ও F 2 কে ছক কাগজে স্থাপন করলে লেখচিত্র কেমন হবে? দেখাও।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/c1-%E0%A6%AA%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%A8%E0%A7%87-1-n-2-n-3-n-%E0%A6%AC%E0%A6%B2-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%B9%E0%A6%B2%E0%A7%87-f1-%E0%A6%93-f2-%E0%A6%95%E0%A7%87-%E0%A6%9B%E0%A6%95-%E0%A6%95%E0%A6%BE%E0%A6%97%E0%A6%9C%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87-%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0-",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 23,
+      "question_type": "written",
+      "question_text": "P ও Q মাধ্যমে শব্দের বেগ যথাক্রমে 350ms -1 এবং 400ms -1 । মাধ্যমদ্বয়ে তরঙ্গ দৈর্ঘ্যের পার্থক্য 0.4m 1",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/p-%E0%A6%93-q-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A7%87-%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%97-%E0%A6%AF%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A7%87-350ms1-%E0%A6%8F%E0%A6%AC%E0%A6%82-400ms1%C2%A0-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%A4%E0%A6%B0%E0%A6%99%E0%A7%8D%E0%A6%97-%E0%A6%A6%E0%A7%88%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A7%8D%E0%A6%AF%E0%A7%87",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 24,
+      "question_type": "written",
+      "question_text": "তরঙ্গ কী?",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%A4%E0%A6%B0%E0%A6%99%E0%A7%8D%E0%A6%97-%E0%A6%95%E0%A7%80-69267",
+      "remote_id": "69267",
+      "exam_id": 628
+    },
+    {
+      "question_no": 25,
+      "question_type": "written",
+      "question_text": "“পানির ঢেউ আড় তরঙ্গ”- ব্যাখ্যা কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%A2%E0%A7%87%E0%A6%89-%E0%A6%86%E0%A6%A1%E0%A6%BC-%E0%A6%A4%E0%A6%B0%E0%A6%99%E0%A7%8D%E0%A6%97-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 26,
+      "question_type": "written",
+      "question_text": "P মাধ্যমে তরঙ্গ দৈর্ঘ্য নির্ণয় কর।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/p-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A7%87-%E0%A6%A4%E0%A6%B0%E0%A6%99%E0%A7%8D%E0%A6%97-%E0%A6%A6%E0%A7%88%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A7%8D%E0%A6%AF-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A6%B0",
+      "remote_id": null,
+      "exam_id": 628
+    },
+    {
+      "question_no": 27,
+      "question_type": "written",
+      "question_text": "P ও Q মাধ্যমে শব্দটি 40 বার কম্পনের জন্য অতিক্রান্ত দূরত্বের পার্থক্য কত হবে? গাণিতিকভাবে বিশ্লেষণ কর ।",
+      "images": [],
+      "options": [],
+      "answer": null,
+      "source_url": "https://sattacademy.com/question/p-%E0%A6%93-q-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A7%87-%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A6%9F%E0%A6%BF-40-%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%A6%E0%A7%82%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A6%A4-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%97%E0%A6%BE%E0%A6%A3",
+      "remote_id": null,
+      "exam_id": 628
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "exam": {
+    "remote_id": "524",
+    "source_type": "board-exam",
+    "class_key": "ssc",
+    "exam_name": "জীববিজ্ঞান",
+    "subject": "জীববিজ্ঞান",
+    "board": "dhaka",
+    "board_bn": "ঢাকা বোর্ড",
+    "year": 2023,
+    "mcq_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+    "written_url": null,
+    "mcq_count": 25,
+    "cq_count": null,
+    "id": 407
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "question_type": "mcq",
+      "question_text": "চিত্রে P অংশের দৈর্ঘ্য কত?",
+      "images": [
+        "data:image/png;base64,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"
+      ],
+      "options": [
+        {
+          "index": 1,
+          "text": "34 A °",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "10 A °",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "20 A °",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "3 . 4 A °",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "i, ii",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "i, iii",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "ii, iii",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "i, ii, iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 407
+    },
+    {
+      "question_no": 2,
+      "question_type": "mcq",
+      "question_text": "চিত্রে P অংশের দৈর্ঘ্য কত?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "34 A °",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "10 A °",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "20 A °",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "3 . 4 A °",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 407
+    },
+    {
+      "question_no": 3,
+      "question_type": "mcq",
+      "question_text": "চিত্রটির কাজ হলো- i. বংশগত বৈশিষ্ট্য বজায় রাখা ii. পিতৃমাতৃ শনাক্তকরণ iii. বংশগত ব্যাধি সৃষ্টি করা নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i, ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i, iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii, iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii, iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 407
+    },
+    {
+      "question_no": 4,
+      "question_type": "mcq",
+      "question_text": "রোমান কোন গ্রুপের রক্ত নিতে পারবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "B-(ve)",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "AB + (ve)",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "O-(ve)",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "AB - (ve)",
+          "images": []
+        },
+        {
+          "index": 5,
+          "text": "i, ii",
+          "images": []
+        },
+        {
+          "index": 6,
+          "text": "i, iii",
+          "images": []
+        },
+        {
+          "index": 7,
+          "text": "ii, iii",
+          "images": []
+        },
+        {
+          "index": 8,
+          "text": "i, ii, iii",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 407
+    },
+    {
+      "question_no": 5,
+      "question_type": "mcq",
+      "question_text": "রোমান কোন গ্রুপের রক্ত নিতে পারবে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "B-(ve)",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "AB + (ve)",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "O-(ve)",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "AB - (ve)",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 407
+    },
+    {
+      "question_no": 6,
+      "question_type": "mcq",
+      "question_text": "শাকিল যে গ্রুপকে রক্ত দিতে পারবে তা হলো— i A+ (ve) ii. O+ (ve) iii. B-(ve) নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i, ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i, iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii, iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii, iii",
+          "images": []
+        }
+      ],
+      "answer": "4",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 407
+    },
+    {
+      "question_no": 7,
+      "question_type": "mcq",
+      "question_text": "RNA তে কোনটির পরিবর্তে ইউরাসিন থাকে?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "এডিনিন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "গুয়ানিন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "থায়ামিন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সাইটোসিন",
+          "images": []
+        }
+      ],
+      "answer": "3",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 407
+    },
+    {
+      "question_no": 8,
+      "question_type": "mcq",
+      "question_text": "প্রচ্ছন্ন জিন F 2 বংশধরে কতভাগ জীবে প্রকাশ পায়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "এক-চতুর্থাংশ",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "এক-তৃতীয়াংশ",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অর্ধাংশ",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "সম্পূর্ণ",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 407
+    },
+    {
+      "question_no": 9,
+      "question_type": "mcq",
+      "question_text": "পর-পরাগায়ন হতে দেখা যায়— i. শিমুল ii. পেঁপে iii. ধুতুরা নিচের কোনটি সঠিক?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "i, ii",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "i, iii",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "ii, iii",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "i, ii, iii",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 407
+    },
+    {
+      "question_no": 10,
+      "question_type": "mcq",
+      "question_text": "ডিম্বাশয় থেকে কোন হরমোন নিঃসৃত হয়?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "টেস্টোস্টেরন, অ্যান্ড্রোজেন",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "ইস্ট্রোজেন, প্রোজেস্টেরন",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "অ্যান্ড্রোজেন, ইস্ট্রোজেন",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "প্রোজেস্টেরন, টেস্টোস্টেরন",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 407
+    },
+    {
+      "question_no": 11,
+      "question_type": "mcq",
+      "question_text": "কোনটি জীববিজ্ঞানের ফলিত শাখা?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "শারীরবিদ্যা",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "পরজীবীবিদ্যা",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "জণবিদ্যা",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "বাস্তুবিদ্যা",
+          "images": []
+        }
+      ],
+      "answer": "2",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 407
+    },
+    {
+      "question_no": 12,
+      "question_type": "mcq",
+      "question_text": "ক্যারোলাস লিনিয়াস জীবজগতকে কয়টি রাজ্যে ভাগ করেন?",
+      "images": [],
+      "options": [
+        {
+          "index": 1,
+          "text": "২",
+          "images": []
+        },
+        {
+          "index": 2,
+          "text": "৩",
+          "images": []
+        },
+        {
+          "index": 3,
+          "text": "৪",
+          "images": []
+        },
+        {
+          "index": 4,
+          "text": "৫",
+          "images": []
+        }
+      ],
+      "answer": "1",
+      "source_url": "https://sattacademy.com/board-exams/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2023/mcq",
+      "exam_id": 407
+    }
+  ]
+}

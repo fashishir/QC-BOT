@@ -1,0 +1,27 @@
+[07:01:12] [INFO] ============================================================
+[07:01:12] [INFO] Bangladesh Board Question Scraper — Starting
+[07:01:12] [INFO]   Levels : ['ssc', 'dakhil', 'hsc']
+[07:01:12] [INFO]   Years  : 2015–2026
+[07:01:12] [INFO]   Boards : 12
+[07:01:12] [INFO]   Limit  : 3
+[07:01:12] [INFO] ============================================================
+[07:01:12] [INFO] Listing: ssc | dhaka | 2015 -> https://sattacademy.com/board-exams/%E0%A6%A8%E0%A6%AC%E0%A6%AE-%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95?board=%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1&year=2015
+[07:01:14] [INFO]   Found 2 exam(s)
+[07:01:17] [INFO]   [MCQ] বাংলাদেশ ও বিশ্বপরিচয়: 14 Qs (truncated - pagination exists)
+[07:01:20] [INFO]   [MCQ] বাংলাদেশ ও বিশ্বপরিচয়: 14 Qs (truncated - pagination exists)
+[07:01:23] [INFO]   [CQ]  বাংলাদেশ ও বিশ্বপরিচয়: 29 Qs
+[07:01:23] [INFO] Listing: ssc | dhaka | 2016 -> https://sattacademy.com/board-exams/%E0%A6%A8%E0%A6%AC%E0%A6%AE-%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95?board=%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1&year=2016
+[07:01:26] [INFO]   No exams found for dhaka 2016 ssc
+[07:01:26] [INFO] Listing: ssc | dhaka | 2017 -> https://sattacademy.com/board-exams/%E0%A6%A8%E0%A6%AC%E0%A6%AE-%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95?board=%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1&year=2017
+[07:01:29] [INFO]   Found 4 exam(s)
+[07:01:32] [INFO]   [MCQ] বিজ্ঞান: 11 Qs (truncated - pagination exists)
+[07:01:32] [INFO] Limit of 3 exams reached — stopping.
+[07:01:32] [INFO] ============================================================
+[07:01:32] [INFO] Done! Scraped 3 exams, 68 questions
+[07:01:32] [INFO] CSV report written → questions_output\report.csv  (2 exams)
+[07:01:32] [INFO]   completed                 : 2
+[07:01:32] [INFO] Database  → D:\FA Myself\FA\web screping bot\board_questions.db
+[07:01:32] [INFO] Output    → D:\FA Myself\FA\web screping bot\questions_output
+[07:01:32] [INFO] ============================================================
+D:\FA Myself\FA\web screping bot\scraper.py:208: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.utcnow().isoformat()

@@ -15,6 +15,9 @@ logs/
 *.db-wal
 *.db-shm
 *.db-journal
+
+# generated PDF exports (regenerable via export_pdf.py)
+pdf_exports/
 reports/*.json
 reports/*.csv
 

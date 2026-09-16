@@ -249,3 +249,22 @@ git add ssc_archive.db; git commit -m "data: refresh"; git push   # live app reb
 
     # View all questions in the browser:
     streamlit run app.py
+
+
+### How to Run PDF Exports: 
+
+  • Export ALL collected exams to PDF:
+    python export_pdf.py
+
+  • Export SSC exams only:
+    python export_pdf.py --class ssc
+
+  • Export HSC exams only:
+    python export_pdf.py --class hsc
+
+  • Export a specific year (e.g. 2025):
+    python export_pdf.py --year 2025
+
+  • Export only Board Exams or Test Papers:
+    python export_pdf.py --source board-exam
+    python export_pdf.py --source test-paper

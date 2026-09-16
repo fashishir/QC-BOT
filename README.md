@@ -35,6 +35,9 @@ mirrors the site's header (Level / Subject / Board / Type / Year / Search
 
 ```
 config/sources.example.yaml   # example config (all sources disabled by default)
+app.py                        # Streamlit filter UI (reads ssc_archive.db)
+scraper.py                    # raw board-question scraper (board_questions.db)
+sync_db.py                    # publish raw scrape -> ssc_archive.db (app DB)
 ssc_scraper/
   cli.py                       # CLI: scrape | extract_text | ocr | report | check_missing | export_csv
   config.py                    # YAML loading/validation
@@ -123,6 +126,39 @@ streamlit run app.py
 Every command is **idempotent and resumable** - running it again skips URLs and
 files that were already processed.
 
+## Publishing updates to the live app
+
+`scraper.py` writes the raw scrape to `board_questions.db` (git-ignored, local).
+The Streamlit app reads `ssc_archive.db`, so a scrape is not visible online until
+the two are synced and pushed:
+
+```bash
+python scraper.py                  # 1. scrape (board_questions.db + questions_output/)
+python sync_db.py --dry-run        # 2. preview what would be published
+python sync_db.py                  # 3. merge into ssc_archive.db (idempotent)
+git add ssc_archive.db             # 4. publish -> triggers a Streamlit Cloud rebuild
+git commit -m "data: refresh board question archive"
+git push
+```
+
+On Windows the same flow is on the `run.bat` menu: **8** = sync only,
+**9** = sync + commit + push (updates https://faqcbot.streamlit.app).
+
+`sync_db.py` never deletes archive rows and maps fields like this:
+
+| archive column | source |
+| --- | --- |
+| `board_exams.mcq_url` | `exams.mcq_url` (unique key, drives upsert) |
+| `board_exams.subject` | `exams.subject`, falling back to `exam_name` when NULL (`--no-subject-from-name` to disable) |
+| `board_exams.mcq_count` / `cq_count` | site totals from the raw DB, else the number of questions actually stored (`--page-1` scrapes are partial) |
+| `board_exams.total_questions` | questions copied for that exam |
+| `exam_questions.options_json` | normalised to `{"options": [...], "images": []}` so the UI renders options + answers |
+| `exam_questions.answer` | `questions.correct_answer` (MCQ only; CQ answers are login-gated) |
+
+Re-running the sync after a later scrape only touches the rows it re-reads, and it
+finishes with a `wal_checkpoint(TRUNCATE)` + `VACUUM` so `ssc_archive.db` is
+committed as a single self-contained file (no `-wal` / `-shm` side files).
+
 ## Data layout
 
 ```
@@ -182,3 +218,8 @@ python -m ssc_scraper export_board_exams --board combined --year 2026
 streamlit run app.py   # filter UI: Level/Subject/Board/Type/Year/Search + PDF
 python -m ssc_scraper report         # dashboard
 python -m ssc_scraper check_missing  # missing-data matrix
+
+# scraper.py (raw questions) -> live app
+python scraper.py                    # scrape into board_questions.db
+python sync_db.py                    # merge into ssc_archive.db
+git add ssc_archive.db; git commit -m "data: refresh"; git push   # live app rebuilds

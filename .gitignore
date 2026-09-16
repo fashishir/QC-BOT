@@ -12,6 +12,9 @@ logs/
 *.sqlite3
 *.sqlite-wal
 *.sqlite-shm
+*.db-wal
+*.db-shm
+*.db-journal
 reports/*.json
 reports/*.csv
 

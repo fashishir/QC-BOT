@@ -1,11 +1,6 @@
-"""Board Exams Question Bank UI (SSC/HSC, subject/board/year/type filters).
+"""Board Exams & Test Papers Question Bank UI (SSC/HSC, subject/board/year/type filters).
 
-Matches the sattacademy.com/board-exams filter header from the screenshots:
-  Row1: [Level] [Subject] [Board]
-  Row2: [Type] [Year] [Search]
-  Toggle: [Board Exams | Test Papers] + pdf/share buttons.
-
-Reads from the local SQLite DB (board_exams + exam_questions tables).
+Reads from board_questions.db (exams + questions tables) with fallback to ssc_archive.db.
 Run: streamlit run app.py
 """
 
@@ -21,8 +16,6 @@ import streamlit as st
 
 st.set_page_config(page_title="Board Exams Question Bank", layout="wide")
 
-RAW_DB_URL = "https://raw.githubusercontent.com/fashishir/QC-BOT/main/ssc_archive.db"
-
 LEVEL_LABELS = {
     "ssc": "এসএসসি",
     "dakhil": "দাখিল",
@@ -36,28 +29,17 @@ YEAR_OPTIONS = ["All Year"] + [str(y) for y in range(2026, 2014, -1)]
 
 
 # ---------------------------------------------------------------- db helpers
-def ensure_db() -> Path:
-    candidates = [
-        Path(__file__).resolve().parent / "ssc_archive.db",
-        Path.cwd() / "ssc_archive.db",
-        Path("/mount/src/qc-bot/ssc_archive.db"),
-    ]
-    for p in candidates:
-        if p.exists() and p.stat().st_size > 0:
-            return p
-
-    target = Path(__file__).resolve().parent / "ssc_archive.db"
-    try:
-        urllib.request.urlretrieve(RAW_DB_URL, str(target))
-        if target.exists() and target.stat().st_size > 0:
-            return target
-    except Exception as exc:
-        st.warning(f"Could not download database automatically: {exc}")
-    return target
+def get_db_path() -> Path:
+    # Prefer newly scraped board_questions.db, fallback to ssc_archive.db
+    p1 = Path(__file__).resolve().parent / "board_questions.db"
+    if p1.exists() and p1.stat().st_size > 0:
+        return p1
+    p2 = Path(__file__).resolve().parent / "ssc_archive.db"
+    return p2
 
 
 def get_conn() -> sqlite3.Connection | None:
-    db_path = ensure_db()
+    db_path = get_db_path()
     if not db_path.exists() or db_path.stat().st_size == 0:
         return None
     try:
@@ -74,29 +56,46 @@ def get_conn() -> sqlite3.Connection | None:
             return None
 
 
-def load_filter_values(conn: sqlite3.Connection, class_key: str):
+def get_table_names(conn: sqlite3.Connection) -> tuple[str, str]:
+    cur = conn.cursor()
+    cur.execute("SELECT name FROM sqlite_master WHERE type='table'")
+    tables = [r[0] for r in cur.fetchall()]
+    exams_tbl = "exams" if "exams" in tables else "board_exams"
+    qs_tbl = "questions" if "questions" in tables else "exam_questions"
+    return exams_tbl, qs_tbl
+
+
+def load_filter_values(conn: sqlite3.Connection, exams_tbl: str, class_key: str):
     cur = conn.cursor()
     cur.execute(
-        "SELECT DISTINCT subject FROM board_exams WHERE class_key=? AND subject IS NOT NULL ORDER BY subject",
+        f"SELECT DISTINCT subject FROM {exams_tbl} WHERE class_key=? AND subject IS NOT NULL ORDER BY subject",
         (class_key,),
     )
     subjects = [r[0] for r in cur.fetchall() if r[0]]
     cur.execute(
-        "SELECT DISTINCT board FROM board_exams WHERE class_key=? AND board IS NOT NULL ORDER BY board",
+        f"SELECT DISTINCT board FROM {exams_tbl} WHERE class_key=? AND board IS NOT NULL ORDER BY board",
         (class_key,),
     )
     boards = [r[0] for r in cur.fetchall() if r[0]]
     cur.execute(
-        "SELECT DISTINCT year FROM board_exams WHERE class_key=? AND year IS NOT NULL ORDER BY year DESC",
+        f"SELECT DISTINCT year FROM {exams_tbl} WHERE class_key=? AND year IS NOT NULL ORDER BY year DESC",
         (class_key,),
     )
     years = [str(r[0]) for r in cur.fetchall() if r[0]]
     return subjects, boards, years
 
 
-def query_exams(conn, class_key, subject, board, qtype, year, search, limit=200):
+def query_exams(conn, exams_tbl, class_key, subject, board, qtype, year, search, source_mode="board-exam", limit=2000):
+    cur = conn.cursor()
     clauses = ["class_key = ?"]
     params: list = [class_key]
+
+    # Check if source_type column exists
+    cols = [r[1] for r in cur.execute(f"PRAGMA table_info({exams_tbl})").fetchall()]
+    if "source_type" in cols and source_mode:
+        clauses.append("source_type = ?")
+        params.append(source_mode)
+
     if subject != "All Subject":
         clauses.append("subject = ?")
         params.append(subject)
@@ -107,26 +106,26 @@ def query_exams(conn, class_key, subject, board, qtype, year, search, limit=200)
         clauses.append("year = ?")
         params.append(int(year))
     if qtype == "MCQ":
-        clauses.append("((mcq_count IS NOT NULL AND mcq_count > 0) OR (total_questions > 0 AND mcq_url IS NOT NULL))")
+        clauses.append("((mcq_count IS NOT NULL AND mcq_count > 0) OR (mcq_url IS NOT NULL))")
     elif qtype == "CQ":
         clauses.append("((cq_count IS NOT NULL AND cq_count > 0) OR (written_url IS NOT NULL))")
     if search:
         clauses.append("(exam_name LIKE ? OR subject LIKE ? OR mcq_url LIKE ?)")
         like = f"%{search}%"
         params.extend([like, like, like])
+
     where = " AND ".join(clauses)
-    cur = conn.cursor()
     cur.execute(
-        f"SELECT * FROM board_exams WHERE {where} ORDER BY year DESC, subject LIMIT ?",
+        f"SELECT * FROM {exams_tbl} WHERE {where} ORDER BY year DESC, exam_name LIMIT ?",
         (*params, limit),
     )
     return [dict(r) for r in cur.fetchall()]
 
 
-def load_questions(conn, exam_id: int):
+def load_questions(conn, qs_tbl: str, exam_id: int):
     cur = conn.cursor()
     cur.execute(
-        "SELECT * FROM exam_questions WHERE exam_id=? ORDER BY question_type, question_no",
+        f"SELECT * FROM {qs_tbl} WHERE exam_id=? ORDER BY question_type, question_no",
         (exam_id,),
     )
     return [dict(r) for r in cur.fetchall()]
@@ -134,10 +133,11 @@ def load_questions(conn, exam_id: int):
 
 def parse_options(row: dict):
     try:
-        data = json.loads(row.get("options_json") or "{}")
+        data = json.loads(row.get("options_json") or "[]")
     except (TypeError, ValueError):
         return [], [], {}
-    if isinstance(data, list):  # legacy safety
+    if isinstance(data, list):
+        # Format: [{"index": 1, "text": "...", "images": [...]}]
         return data, [], {}
     return data.get("options", []), data.get("images", []), data
 
@@ -146,9 +146,8 @@ def parse_options(row: dict):
 def build_print_html(exam: dict, questions: list[dict]) -> str:
     title = html.escape(exam.get("exam_name") or exam.get("subject") or "Board Exam")
     parts = [
-        f"<h1>{title} — {exam.get('board')} {exam.get('year')}</h1>",
-        f"<p>Source: {html.escape(exam.get('mcq_url') or '')} | "
-        f"{html.escape(exam.get('written_url') or '')}</p><hr/>",
+        f"<h1>{title} — {exam.get('board', '')} {exam.get('year', '')}</h1>",
+        f"<p>Source: {html.escape(exam.get('mcq_url') or '')}</p><hr/>",
     ]
     for q in questions:
         opts, imgs, _meta = parse_options(q)
@@ -159,8 +158,9 @@ def build_print_html(exam: dict, questions: list[dict]) -> str:
         for o in opts:
             if isinstance(o, dict):
                 parts.append(f"<p>{o.get('index')}. {html.escape(o.get('text') or '')}</p>")
-        if q.get("answer"):
-            parts.append(f"<p><b>Answer: {html.escape(str(q['answer']))}</b></p>")
+        if q.get("correct_answer") or q.get("answer"):
+            ans = q.get("correct_answer") or q.get("answer")
+            parts.append(f"<p><b>Answer: {html.escape(str(ans))}</b></p>")
         parts.append("<hr/>")
     return "<html><body>" + "".join(parts) + "</body></html>"
 
@@ -173,10 +173,6 @@ st.markdown(
 .header-bar {background: #16191d; border-radius: 8px 8px 0 0; padding: 14px 18px; color: #fff;}
 .header-bar h2 {text-align: center; font-size: 20px; margin: 0; color: #fff;}
 .filter-bar {background: #1d2126; border-radius: 0 0 8px 8px; padding: 16px;}
-.filter-bar select, .filter-bar input {background: #2a2f36 !important; color: #fff !important;
-  border: 1px solid #3a4048 !important; border-radius: 6px !important;}
-.toggle-green {background: #0d9d58; color: #fff; border-radius: 20px; padding: 6px 18px; border: none;}
-.toggle-grey {background: #3a4048; color: #fff; border-radius: 20px; padding: 6px 18px; border: none;}
 .exam-card {background: #1d2126; border: 1px solid #2e343c; border-radius: 8px; padding: 14px 16px; margin: 10px 0; color:#eee;}
 .exam-card a {color: #4da3ff;}
 .q-card {background: #22262c; border: 1px solid #333a43; border-radius: 8px; padding: 12px 14px; margin: 8px 0; color:#eee;}
@@ -187,13 +183,12 @@ st.markdown(
 
 conn = get_conn()
 if conn is None:
-    st.error(
-        "Database not found. Please make sure `ssc_archive.db` is present, or run the scraper: "
-        "`python -m ssc_scraper scrape --source sattacademy --limit 20`"
-    )
+    st.error("Database not found. Please run `python scraper.py` first.")
     st.stop()
 
-# ---- header (matches screenshots) ----
+exams_tbl, qs_tbl = get_table_names(conn)
+
+# Header
 level_ui = st.session_state.get("level_sel", "SSC")
 if level_ui not in LEVEL_OPTIONS:
     level_ui = "SSC"
@@ -203,11 +198,10 @@ level_bn = LEVEL_LABELS[class_key]
 header_html = f"""
 <div class="header-bar">
   <div style="display:flex; justify-content:space-between; align-items:center;">
-    <span title="Board question bank info" style="background:#3a4048;border-radius:50%;width:28px;height:28px;display:inline-flex;align-items:center;justify-content:center;">i</span>
-    <h2>{level_bn} সকল বোর্ড পরীক্ষার প্রশ্নপত্র ও ডিজিটাল প্র্যাকটিস হাব</h2>
+    <span style="background:#3a4048;border-radius:50%;width:28px;height:28px;display:inline-flex;align-items:center;justify-content:center;">i</span>
+    <h2>{level_bn} সকল বোর্ড ও টেস্ট পেপারের প্রশ্নপত্র ও ডিজিটাল হাব</h2>
     <span>
-      <span style="background:#2a2f36;border-radius:6px;padding:4px 10px;">🖨 pdf</span>
-      <span style="margin-left:10px;">🔗</span>
+      <span style="background:#2a2f36;border-radius:6px;padding:4px 10px;">PDF Export</span>
     </span>
   </div>
 </div>
@@ -215,7 +209,7 @@ header_html = f"""
 st.markdown(header_html, unsafe_allow_html=True)
 
 # Pre-load filter options from DB for selected level
-subjects_db, boards_db, years_db = load_filter_values(conn, class_key)
+subjects_db, boards_db, years_db = load_filter_values(conn, exams_tbl, class_key)
 subject_opts = ["All Subject"] + subjects_db
 board_opts = ["All board"] + boards_db
 year_opts = ["All Year"] + (years_db if years_db else [str(y) for y in range(2026, 2014, -1)])
@@ -260,21 +254,19 @@ with c6:
     )
 st.markdown("</div>", unsafe_allow_html=True)
 
-# ---- toggle ----
-t1, t2, t3 = st.columns([1, 1, 4])
+# ---- Mode Toggle ----
+t1, t2 = st.columns([1, 4])
 with t1:
     mode = st.radio("mode", ["Board Exams", "Test Papers"], horizontal=True, label_visibility="collapsed")
-if mode == "Test Papers":
-    st.info("Test Papers source is not part of v1 (board-exams only). Toggle back to Board Exams.")
-    st.stop()
+source_mode = "board-exam" if mode == "Board Exams" else "test-paper"
 
-# ---- results ----
+# ---- Results ----
 qtype_map = {"All Types": "all", "MCQ": "MCQ", "CQ": "CQ", "MCQ+CQ": "all"}
-exams = query_exams(conn, class_key, subject_ui, board_ui, qtype_map[type_ui], year_sel, search_ui.strip())
-st.write(f"**{len(exams)}** exam(s) — {level_bn} | {subject_ui} | {board_ui} | {type_ui} | {year_sel}")
+exams = query_exams(conn, exams_tbl, class_key, subject_ui, board_ui, qtype_map[type_ui], year_sel, search_ui.strip(), source_mode=source_mode)
+st.write(f"**{len(exams)}** exam(s) found — {level_bn} | {mode} | {subject_ui} | {board_ui} | {year_sel}")
 
 if not exams:
-    st.info("কোনো পরীক্ষা পাওয়া যায়নি। অনুগ্রহ করে ফিল্টার পরিবর্তন করে আবার চেষ্টা করুন।")
+    st.info("কোনো পরীক্ষা পাওয়া যায়নি। ডেটা সংগ্রহ করতে `python scraper.py` চালান।")
 
 for exam in exams:
     mcq_n = exam.get("mcq_count") or 0
@@ -282,19 +274,20 @@ for exam in exams:
     with st.container():
         st.markdown('<div class="exam-card">', unsafe_allow_html=True)
         st.markdown(f"### {html.escape(exam.get('exam_name') or '')}")
-        st.caption(f"{LEVEL_LABELS.get(exam.get('class_key') or class_key, '')} | {exam.get('board')} | {exam.get('year')}")
+        st.caption(f"{LEVEL_LABELS.get(exam.get('class_key') or class_key, '')} | {exam.get('board')} | {exam.get('year')} | {exam.get('source_type', 'board-exam')}")
         mcq_link = exam.get("mcq_url") or ""
         written_link = exam.get("written_url") or ""
         link_line = []
-        if mcq_n:
-            link_line.append(f"[MCQ {mcq_n}]({mcq_link})")
-        if cq_n:
-            link_line.append(f"[CQ {cq_n}]({written_link})")
-        st.markdown(" | ".join(link_line) if link_line else "No questions yet")
-        with st.expander("View questions (page-1, robots-limited)"):
-            questions = load_questions(conn, exam["id"])
+        if mcq_link:
+            link_line.append(f"[MCQ {mcq_n if mcq_n else ''}]({mcq_link})")
+        if written_link:
+            link_line.append(f"[CQ {cq_n if cq_n else ''}]({written_link})")
+        st.markdown(" | ".join(link_line) if link_line else "Source available")
+        
+        with st.expander("View questions"):
+            questions = load_questions(conn, qs_tbl, exam["id"])
             if not questions:
-                st.warning("No questions collected yet for this exam. Run the scraper for this board/year.")
+                st.warning("No questions collected yet for this exam.")
             show = type_ui
             for q in questions:
                 if show == "MCQ" and q["question_type"] != "mcq":
@@ -305,29 +298,20 @@ for exam in exams:
                 st.markdown('<div class="q-card">', unsafe_allow_html=True)
                 st.markdown(f"**Q{q['question_no']} [{q['question_type']}]** {q.get('question_text') or ''}")
                 for src in imgs:
-                    try:
-                        st.image(src, width=300)
-                    except Exception:
-                        st.caption(f"[Image: {src}]")
+                    st.caption(f"[Image: {src}]")
                 for o in opts:
                     if isinstance(o, dict):
                         st.write(f"{o.get('index')}. {o.get('text')}")
-                        for oi in o.get("images", []) or []:
-                            try:
-                                st.image(oi, width=250)
-                            except Exception:
-                                pass
-                if q.get("answer"):
-                    st.success(f"Answer: {q['answer']}")
-                if meta.get("question_href"):
-                    st.caption(meta["question_href"])
+                ans = q.get("correct_answer") or q.get("answer")
+                if ans:
+                    st.success(f"Answer: {ans}")
                 st.markdown('</div>', unsafe_allow_html=True)
             if questions:
                 print_html = build_print_html(exam, questions)
                 st.download_button(
                     "⬇ PDF / Print (HTML)",
                     data=print_html.encode("utf-8"),
-                    file_name=f"{exam.get('board')}_{exam.get('year')}_{exam.get('subject')}_exam{exam['id']}.html",
+                    file_name=f"{exam.get('board')}_{exam.get('year')}_{exam['id']}.html",
                     mime="text/html",
                     key=f"dl_{exam['id']}",
                 )

@@ -8,11 +8,16 @@ from __future__ import annotations
 
 import html
 import json
+import logging
 import sqlite3
 import urllib.request
 from pathlib import Path
 
 import streamlit as st
+
+from ssc_scraper.pdf_export import build_export_payload, html_to_pdf
+
+log = logging.getLogger(__name__)
 
 st.set_page_config(page_title="Board Exams Question Bank", layout="wide")
 
@@ -143,26 +148,16 @@ def parse_options(row: dict):
 
 
 # ---------------------------------------------------------------- pdf export
-def build_print_html(exam: dict, questions: list[dict]) -> str:
-    title = html.escape(exam.get("exam_name") or exam.get("subject") or "Board Exam")
-    parts = [
-        f"<h1>{title} — {exam.get('board', '')} {exam.get('year', '')}</h1>",
-        f"<p>Source: {html.escape(exam.get('mcq_url') or '')}</p><hr/>",
-    ]
-    for q in questions:
-        opts, imgs, _meta = parse_options(q)
-        parts.append(f"<h3>Q{q['question_no']} ({q['question_type']})</h3>")
-        parts.append(f"<p>{html.escape(q.get('question_text') or '')}</p>")
-        for src in imgs:
-            parts.append(f'<img src="{html.escape(src)}" style="max-width:400px"/><br/>')
-        for o in opts:
-            if isinstance(o, dict):
-                parts.append(f"<p>{o.get('index')}. {html.escape(o.get('text') or '')}</p>")
-        if q.get("correct_answer") or q.get("answer"):
-            ans = q.get("correct_answer") or q.get("answer")
-            parts.append(f"<p><b>Answer: {html.escape(str(ans))}</b></p>")
-        parts.append("<hr/>")
-    return "<html><body>" + "".join(parts) + "</body></html>"
+# NOTE: html_to_pdf / build_print_html live in ssc_scraper.pdf_export so they
+# stay importable/testable without running the Streamlit UI. Re-exported here
+# for backward compatibility with any external callers.
+from ssc_scraper.pdf_export import build_print_html as build_print_html  # noqa: F401,E402
+
+
+@st.cache_data(show_spinner=False)
+def _cached_html_to_pdf(html_content: str) -> bytes | None:
+    """Cache PDF renders across Streamlit reruns (WeasyPrint is ~0.5-1s/doc)."""
+    return html_to_pdf(html_content)
 
 
 # ---------------------------------------------------------------- ui
@@ -307,14 +302,16 @@ for exam in exams:
                     st.success(f"Answer: {ans}")
                 st.markdown('</div>', unsafe_allow_html=True)
             if questions:
-                print_html = build_print_html(exam, questions)
+                payload = build_export_payload(exam, questions, pdf_converter=_cached_html_to_pdf)
                 st.download_button(
-                    "⬇ PDF / Print (HTML)",
-                    data=print_html.encode("utf-8"),
-                    file_name=f"{exam.get('board')}_{exam.get('year')}_{exam['id']}.html",
-                    mime="text/html",
+                    payload["label"],
+                    data=payload["data"],
+                    file_name=payload["file_name"],
+                    mime=payload["mime"],
                     key=f"dl_{exam['id']}",
                 )
+                if not payload["is_pdf"]:
+                    st.caption("PDF engine unavailable — serving printable HTML instead.")
         st.markdown('</div>', unsafe_allow_html=True)
 
 conn.close()

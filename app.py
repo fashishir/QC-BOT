@@ -14,11 +14,14 @@ from __future__ import annotations
 import html
 import json
 import sqlite3
+import urllib.request
 from pathlib import Path
 
 import streamlit as st
 
-DB_PATH = Path(__file__).with_name("ssc_archive.db")
+st.set_page_config(page_title="Board Exams Question Bank", layout="wide")
+
+RAW_DB_URL = "https://raw.githubusercontent.com/fashishir/QC-BOT/main/ssc_archive.db"
 
 LEVEL_LABELS = {
     "ssc": "এসএসসি",
@@ -33,12 +36,42 @@ YEAR_OPTIONS = ["All Year"] + [str(y) for y in range(2026, 2014, -1)]
 
 
 # ---------------------------------------------------------------- db helpers
+def ensure_db() -> Path:
+    candidates = [
+        Path(__file__).resolve().parent / "ssc_archive.db",
+        Path.cwd() / "ssc_archive.db",
+        Path("/mount/src/qc-bot/ssc_archive.db"),
+    ]
+    for p in candidates:
+        if p.exists() and p.stat().st_size > 0:
+            return p
+
+    target = Path(__file__).resolve().parent / "ssc_archive.db"
+    try:
+        urllib.request.urlretrieve(RAW_DB_URL, str(target))
+        if target.exists() and target.stat().st_size > 0:
+            return target
+    except Exception as exc:
+        st.warning(f"Could not download database automatically: {exc}")
+    return target
+
+
 def get_conn() -> sqlite3.Connection | None:
-    if not DB_PATH.exists():
+    db_path = ensure_db()
+    if not db_path.exists() or db_path.stat().st_size == 0:
         return None
-    conn = sqlite3.connect(str(DB_PATH))
-    conn.row_factory = sqlite3.Row
-    return conn
+    try:
+        conn = sqlite3.connect(f"file:{db_path.resolve()}?mode=ro", uri=True)
+        conn.row_factory = sqlite3.Row
+        return conn
+    except Exception:
+        try:
+            conn = sqlite3.connect(str(db_path))
+            conn.row_factory = sqlite3.Row
+            return conn
+        except Exception as exc:
+            st.error(f"Error opening database at {db_path}: {exc}")
+            return None
 
 
 def load_filter_values(conn: sqlite3.Connection, class_key: str):
@@ -74,9 +107,9 @@ def query_exams(conn, class_key, subject, board, qtype, year, search, limit=200)
         clauses.append("year = ?")
         params.append(int(year))
     if qtype == "MCQ":
-        clauses.append("(mcq_count IS NOT NULL AND mcq_count > 0)")
+        clauses.append("((mcq_count IS NOT NULL AND mcq_count > 0) OR (total_questions > 0 AND mcq_url IS NOT NULL))")
     elif qtype == "CQ":
-        clauses.append("(cq_count IS NOT NULL AND cq_count > 0)")
+        clauses.append("((cq_count IS NOT NULL AND cq_count > 0) OR (written_url IS NOT NULL))")
     if search:
         clauses.append("(exam_name LIKE ? OR subject LIKE ? OR mcq_url LIKE ?)")
         like = f"%{search}%"
@@ -133,8 +166,6 @@ def build_print_html(exam: dict, questions: list[dict]) -> str:
 
 
 # ---------------------------------------------------------------- ui
-st.set_page_config(page_title="Board Exams Question Bank", layout="wide")
-
 st.markdown(
     """
 <style>
@@ -156,12 +187,19 @@ st.markdown(
 
 conn = get_conn()
 if conn is None:
-    st.error(f"Database not found at {DB_PATH}. Run the scraper first: python -m ssc_scraper scrape --source sattacademy --limit 20")
+    st.error(
+        "Database not found. Please make sure `ssc_archive.db` is present, or run the scraper: "
+        "`python -m ssc_scraper scrape --source sattacademy --limit 20`"
+    )
     st.stop()
 
 # ---- header (matches screenshots) ----
-level_ui = st.session_state.get("level_ui", "SSC")
-level_bn = LEVEL_LABELS[LEVEL_TO_KEY[level_ui]]
+level_ui = st.session_state.get("level_sel", "SSC")
+if level_ui not in LEVEL_OPTIONS:
+    level_ui = "SSC"
+class_key = LEVEL_TO_KEY[level_ui]
+level_bn = LEVEL_LABELS[class_key]
+
 header_html = f"""
 <div class="header-bar">
   <div style="display:flex; justify-content:space-between; align-items:center;">
@@ -176,34 +214,51 @@ header_html = f"""
 """
 st.markdown(header_html, unsafe_allow_html=True)
 
+# Pre-load filter options from DB for selected level
+subjects_db, boards_db, years_db = load_filter_values(conn, class_key)
+subject_opts = ["All Subject"] + subjects_db
+board_opts = ["All board"] + boards_db
+year_opts = ["All Year"] + (years_db if years_db else [str(y) for y in range(2026, 2014, -1)])
+
 # ---- filters ----
 st.markdown('<div class="filter-bar">', unsafe_allow_html=True)
 c1, c2, c3 = st.columns(3)
 with c1:
-    level_ui = st.selectbox("Level", LEVEL_OPTIONS, index=LEVEL_OPTIONS.index(level_ui), key="level_ui", label_visibility="collapsed")
+    level_ui = st.selectbox(
+        "Level",
+        LEVEL_OPTIONS,
+        index=LEVEL_OPTIONS.index(level_ui),
+        key="level_sel",
+        label_visibility="collapsed",
+    )
 with c2:
-    subject_ui = st.selectbox("Subject", ["All Subject"], key="subject_ui", label_visibility="collapsed")
+    subject_ui = st.selectbox(
+        "Subject",
+        subject_opts,
+        key=f"subject_sel_{level_ui}",
+        label_visibility="collapsed",
+    )
 with c3:
-    board_ui = st.selectbox("Board", ["All board"], key="board_ui", label_visibility="collapsed")
+    board_ui = st.selectbox(
+        "Board",
+        board_opts,
+        key=f"board_sel_{level_ui}",
+        label_visibility="collapsed",
+    )
+
 c4, c5, c6 = st.columns(3)
 with c4:
-    type_ui = st.selectbox("Type", TYPE_OPTIONS, key="type_ui", label_visibility="collapsed")
+    type_ui = st.selectbox("Type", TYPE_OPTIONS, key="type_sel", label_visibility="collapsed")
 with c5:
-    year_ui = st.selectbox("Year", YEAR_OPTIONS, key="year_ui", label_visibility="collapsed")
+    year_sel = st.selectbox("Year", year_opts, key=f"year_sel_{level_ui}", label_visibility="collapsed")
 with c6:
-    search_ui = st.text_input("Search", placeholder="এক্সাম সার্চ করুন...", key="search_ui", label_visibility="collapsed")
-st.markdown('</div>', unsafe_allow_html=True)
-
-class_key = LEVEL_TO_KEY[level_ui]
-subjects_db, boards_db, years_db = load_filter_values(conn, class_key)
-# refresh dropdown options while preserving selection
-subject_opts = ["All Subject"] + subjects_db
-board_opts = ["All board"] + boards_db
-year_opts = ["All Year"] + (years_db or [y for y in [str(v) for v in range(2026, 2014, -1)]])
-# Streamlit needs key-based update; use sidebar-free rerun-safe approach:
-subject_ui = st.selectbox("Subject ", subject_opts, key="subject_sel")
-board_ui = st.selectbox("Board ", board_opts, key="board_sel")
-year_sel = st.selectbox("Year ", year_opts, key="year_sel")
+    search_ui = st.text_input(
+        "Search",
+        placeholder="এক্সাম সার্চ করুন...",
+        key="search_sel",
+        label_visibility="collapsed",
+    )
+st.markdown("</div>", unsafe_allow_html=True)
 
 # ---- toggle ----
 t1, t2, t3 = st.columns([1, 1, 4])
@@ -217,6 +272,9 @@ if mode == "Test Papers":
 qtype_map = {"All Types": "all", "MCQ": "MCQ", "CQ": "CQ", "MCQ+CQ": "all"}
 exams = query_exams(conn, class_key, subject_ui, board_ui, qtype_map[type_ui], year_sel, search_ui.strip())
 st.write(f"**{len(exams)}** exam(s) — {level_bn} | {subject_ui} | {board_ui} | {type_ui} | {year_sel}")
+
+if not exams:
+    st.info("কোনো পরীক্ষা পাওয়া যায়নি। অনুগ্রহ করে ফিল্টার পরিবর্তন করে আবার চেষ্টা করুন।")
 
 for exam in exams:
     mcq_n = exam.get("mcq_count") or 0
@@ -247,12 +305,18 @@ for exam in exams:
                 st.markdown('<div class="q-card">', unsafe_allow_html=True)
                 st.markdown(f"**Q{q['question_no']} [{q['question_type']}]** {q.get('question_text') or ''}")
                 for src in imgs:
-                    st.image(src, width=300)
+                    try:
+                        st.image(src, width=300)
+                    except Exception:
+                        st.caption(f"[Image: {src}]")
                 for o in opts:
                     if isinstance(o, dict):
                         st.write(f"{o.get('index')}. {o.get('text')}")
                         for oi in o.get("images", []) or []:
-                            st.image(oi, width=250)
+                            try:
+                                st.image(oi, width=250)
+                            except Exception:
+                                pass
                 if q.get("answer"):
                     st.success(f"Answer: {q['answer']}")
                 if meta.get("question_href"):

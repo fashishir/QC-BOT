@@ -50,7 +50,7 @@ def test_exam_page_parses_leaf_cards_only_and_marks_missing_answer():
     assert second["review_status"] == "auto"
 
 
-def test_livemcq_parser_extracts_answers_and_discards_explanations():
+def test_livemcq_parser_extracts_answers_and_explanations():
     parsed = parse_solution_page(
         _read("livemcq_solution.html"),
         "https://web.livemcq.com/blog/47th-bcs-question-solution-pdf",
@@ -64,4 +64,4 @@ def test_livemcq_parser_extracts_answers_and_discards_explanations():
     assert questions[0]["review_status"] == "auto"
     assert questions[1]["answer_index"] == 1  # answer-note fallback
     assert all("ব্যাখ্যা" not in q["question_text"] for q in questions)
-    assert "explanation" not in questions[0]
+    assert questions[0].get("explanation") == "এটি প্রকাশ করা হবে না।"

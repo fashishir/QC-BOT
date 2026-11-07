@@ -29,8 +29,8 @@ rejected (token-gated / bot-blocked).
 - No login, paywall, CAPTCHA, download-token, or anti-bot bypass.
 - 401/403 responses stop the request and are reported, never retried.
 - Per-host delay (default 2 seconds) and identifying User-Agent.
-- Only questions, options, and published answers are stored; explanations are
-  discarded and never exported.
+- Questions, options, published answers, and detailed authentic explanations
+  from Live MCQ solution sets are preserved, archived, and exported.
 - Source name and link appear in the app and in every export.
 
 ---

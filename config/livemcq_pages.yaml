@@ -53,3 +53,48 @@ pages:
         slug: beza
         name: বাংলাদেশ অর্থনৈতিক অঞ্চল কর্তৃপক্ষ (BEZA)
         display_order: 41
+
+  - key: pwd-2025
+    url: https://web.livemcq.com/blog/public-works-department-exam-question-solution
+    total_questions: 200
+    create_exam:
+      exam_name: গণপূর্ত অধিদপ্তর (PWD) বিভিন্ন পদ নিয়োগ পরীক্ষা ২০২৫
+      institution: গণপূর্ত অধিদপ্তর
+      post_name: বিভিন্ন পদ
+      exam_date: 2025-08-22
+      year: 2025
+      total_questions: 200
+      category:
+        slug: pwd
+        name: গণপূর্ত অধিদপ্তর (PWD)
+        display_order: 42
+
+  - key: titas-gas-2025
+    url: https://web.livemcq.com/blog/titas-gas-limited-exam-question-solution-pdf
+    total_questions: 120
+    create_exam:
+      exam_name: তিতাস গ্যাস ট্রান্সমিশন অ্যান্ড ডিস্ট্রিবিউশন কোম্পানি লিমিটেড নিয়োগ পরীক্ষা ২০২৫
+      institution: তিতাস গ্যাস লিমিটেড
+      post_name: বিভিন্ন পদ
+      exam_date: 2025-06-14
+      year: 2025
+      total_questions: 120
+      category:
+        slug: titas-gas
+        name: তিতাস গ্যাস লিমিটেড
+        display_order: 43
+
+  - key: ntrca-17th-2025
+    url: https://web.livemcq.com/blog/17th-ntrca-exam-question-pdf-download
+    total_questions: 300
+    create_exam:
+      exam_name: ১৭তম শিক্ষক নিবন্ধন (NTRCA) স্কুল ও কলেজ পর্যায় পরীক্ষা ২০২৫
+      institution: বেসরকারি শিক্ষক নিবন্ধন ও প্রত্যয়ন কর্তৃপক্ষ (NTRCA)
+      post_name: সহকারী শিক্ষক / প্রভাষক
+      exam_date: 2025-04-18
+      year: 2025
+      total_questions: 300
+      category:
+        slug: ntrca-17th
+        name: বেসরকারি শিক্ষক নিবন্ধন ও প্রত্যয়ন কর্তৃপক্ষ (NTRCA)
+        display_order: 44

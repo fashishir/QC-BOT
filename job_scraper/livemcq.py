@@ -196,7 +196,7 @@ def _parse_block(block, sequence: int, page_url: str) -> dict | None:
 def _extract_explanation(block) -> str | None:
     expl_node = block.select_one(".qc__expl-body")
     if not expl_node:
-        expl_node = block.select_one("details.qc__expl, .qc__expl")
+        expl_node = block.select_one("details.qc__expl, .qc__expl, .qc__explanation")
     if not expl_node:
         return None
 

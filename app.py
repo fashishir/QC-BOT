@@ -87,6 +87,8 @@ def inject_css() -> None:
         .ans-missing { display: inline-block; margin-top: 6px; padding: 2px 10px;
                        background: #f3f4f6; color: #6b7280; border-radius: 999px;
                        font-size: .8rem; font-weight: 600; }
+        .expl-box { background: #f0fdf4; border-left: 3px solid #16a34a; padding: 8px 12px;
+                    border-radius: 4px; font-size: .86rem; color: #1e293b; margin-top: 8px; line-height: 1.55; }
         .notice { background: #fff7e6; border-left: 4px solid #d97706; padding: 8px 12px;
                   border-radius: 4px; font-size: .86rem; color: #92400e; margin-bottom: 12px; }
         .source-note { background: #eef6ff; border-left: 4px solid #0b6bcb; padding: 10px 14px;
@@ -104,9 +106,16 @@ def db_available() -> bool:
 
 
 def connect() -> sqlite3.Connection:
-    conn = sqlite3.connect(f"file:{DB_PATH}?mode=ro", uri=True)
-    conn.row_factory = sqlite3.Row
-    return conn
+    p = DB_PATH.resolve().as_posix()
+    try:
+        conn = sqlite3.connect(f"file:{p}?mode=ro", uri=True)
+        conn.row_factory = sqlite3.Row
+        conn.execute("SELECT 1")
+        return conn
+    except sqlite3.OperationalError:
+        conn = sqlite3.connect(f"file:{p}?immutable=1", uri=True)
+        conn.row_factory = sqlite3.Row
+        return conn
 
 
 @st.cache_data(ttl=60, show_spinner=False)
@@ -353,9 +362,15 @@ def render_question(q: dict, show_answer: bool) -> None:
         footer = f"<div class='ans-pill'>সঠিক উত্তর: {symbols[answer-1]}</div>" if show_answer else ""
     else:
         footer = "<div class='ans-missing'>উত্তর প্রকাশিত হয়নি</div>"
+
+    expl_div = ""
+    if show_answer and q.get("explanation"):
+        formatted_expl = html.escape(str(q["explanation"])).replace("\n", "<br>")
+        expl_div = f"<div class='expl-box'><b>ব্যাখ্যা:</b><br>{formatted_expl}</div>"
+
     st.markdown(
         f"<div class='q-card'><div class='q-stem'><span class='q-no'>{q['question_no']}.</span>"
-        f"{html.escape(q['question_text'])}</div>{''.join(rows)}{footer}</div>",
+        f"{html.escape(q['question_text'])}</div>{''.join(rows)}{footer}{expl_div}</div>",
         unsafe_allow_html=True,
     )
 

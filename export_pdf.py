@@ -15,7 +15,7 @@ import sys
 from pathlib import Path
 
 from job_scraper.config import ARCHIVE_DB
-from job_scraper.export import export_csv, export_pdf_files
+from job_scraper.export import export_csv, export_pdf_files, export_combined_pdf
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
@@ -32,6 +32,8 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--practice", action="store_true",
                         help="Questions only, no answer key")
     parser.add_argument("--csv", metavar="PATH", help="Write a CSV instead of PDFs")
+    parser.add_argument("--combined-pdf", metavar="PATH", nargs="?", const="pdf_exports/all_questions_with_answers.pdf",
+                        help="Write a single combined PDF for all exams")
     parser.add_argument("--output-dir", default="pdf_exports")
     parser.add_argument("--limit", type=int)
     return parser
@@ -50,6 +52,15 @@ def main(argv: list[str] | None = None) -> int:
             year=args.year, limit=args.limit,
         )
         print(f"Wrote {count} questions to {args.csv}")
+        return 0
+
+    if args.combined_pdf:
+        pdf_path = export_combined_pdf(
+            args.db, args.combined_pdf, exam_id=args.exam_id, category=args.category,
+            year=args.year, with_answers=with_answers, practice=args.practice,
+            limit=args.limit,
+        )
+        print(f"Wrote combined PDF to {pdf_path}")
         return 0
 
     files = export_pdf_files(

@@ -177,6 +177,8 @@ def _parse_block(block, sequence: int, page_url: str) -> dict | None:
         review = "auto"
         confidence = "high"
 
+    explanation = _extract_explanation(block)
+
     return {
         "question_no": number,
         "question_text": question_text,
@@ -185,9 +187,43 @@ def _parse_block(block, sequence: int, page_url: str) -> dict | None:
         "answer_source": "livemcq",
         "answer_confidence": confidence,
         "review_status": review,
+        "explanation": explanation,
         "images": [],
         "source_url": page_url,
     }
+
+
+def _extract_explanation(block) -> str | None:
+    expl_node = block.select_one(".qc__expl-body")
+    if not expl_node:
+        expl_node = block.select_one("details.qc__expl, .qc__expl")
+    if not expl_node:
+        return None
+
+    # Strip out toggle/summary headers
+    lines: list[str] = []
+    for elem in expl_node.children:
+        if getattr(elem, "name", None) == "summary":
+            continue
+        txt = elem.get_text("\n") if hasattr(elem, "get_text") else str(elem)
+        for line in txt.split("\n"):
+            normalized = normalize_ws(line)
+            if normalized and normalized != "ব্যাখ্যা দেখুন":
+                lines.append(normalized)
+
+    if not lines:
+        # Fallback to direct text if no children iteration gave text
+        for line in expl_node.get_text("\n").split("\n"):
+            normalized = normalize_ws(line)
+            if normalized and normalized != "ব্যাখ্যা দেখুন":
+                lines.append(normalized)
+
+    if not lines:
+        return None
+
+    cleaned = "\n".join(lines)
+    cleaned = re.sub(r"^ব্যাখ্যা\s*[:ঃ\-–—]\s*", "", cleaned, flags=re.IGNORECASE).strip()
+    return cleaned or None
 
 
 def _trim_extra_options(options: list[str]) -> list[str] | None:

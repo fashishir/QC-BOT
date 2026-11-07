@@ -295,7 +295,7 @@ class Database:
                 q.get("answer_source") or "sattacademy",
                 q.get("answer_confidence") or "high",
                 q.get("review_status") or "auto",
-                None,  # explanations are never stored/published in v1
+                q.get("explanation"),
                 json.dumps(q.get("images") or [], ensure_ascii=False),
                 q.get("source_url"),
                 q.get("content_hash") or question_hash(qtext, options),
@@ -527,14 +527,14 @@ def publish_archive(raw_path: str | Path, archive_path: str | Path,
                      option_3, option_4, answer_index, answer_text, answer_status,
                      answer_source, answer_confidence, review_status, explanation,
                      images_json, source_url, content_hash)
-                VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,NULL,?,?,?)
+                VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
                 """,
                 (
                     exam["id"], q["question_no"], q["question_text"], q["option_1"],
                     q["option_2"], q["option_3"], q["option_4"], q["answer_index"],
                     q["answer_text"], q["answer_status"], q["answer_source"],
-                    q["answer_confidence"], q["review_status"], q["images_json"],
-                    q["source_url"], q["content_hash"],
+                    q["answer_confidence"], q["review_status"], q.get("explanation"),
+                    q["images_json"], q["source_url"], q["content_hash"],
                 ),
             )
         docs = _rows_as_dicts(
@@ -609,8 +609,14 @@ def publish_archive(raw_path: str | Path, archive_path: str | Path,
 
 def archive_summary(path: str | Path) -> dict[str, Any]:
     """Read-only stats + meta for the app header."""
-    db = sqlite3.connect(path)
-    db.row_factory = sqlite3.Row
+    try:
+        db = sqlite3.connect(path)
+        db.row_factory = sqlite3.Row
+        db.execute("SELECT 1")
+    except sqlite3.OperationalError:
+        p = Path(path).resolve()
+        db = sqlite3.connect(f"file:{p.as_posix()}?immutable=1", uri=True)
+        db.row_factory = sqlite3.Row
     stats = {
         "exams": db.execute("SELECT COUNT(*) FROM job_exams").fetchone()[0],
         "questions": db.execute("SELECT COUNT(*) FROM job_questions").fetchone()[0],

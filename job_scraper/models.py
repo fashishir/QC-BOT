@@ -50,6 +50,7 @@ class QuestionRecord:
     answer_confidence: str = "high"
     review_status: str = "auto"
     images: list[str] = field(default_factory=list)
+    explanation: str | None = None
     source_url: str | None = None
     content_hash: str | None = None
 

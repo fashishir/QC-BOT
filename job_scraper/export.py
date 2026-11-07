@@ -222,13 +222,16 @@ def html_to_pdf(html_content: str) -> bytes | None:
             with tempfile.NamedTemporaryFile("rb", suffix=".pdf", delete=False) as f_pdf:
                 pdf_path = f_pdf.name
 
+            resolved_html = Path(html_path).resolve().as_posix()
+            profile_dir = Path(tempfile.gettempdir()) / "edge_export_profile"
             cmd = [
                 str(browser),
                 "--headless",
                 "--disable-gpu",
                 "--no-pdf-header-footer",
+                f"--user-data-dir={profile_dir}",
                 f"--print-to-pdf={pdf_path}",
-                html_path,
+                f"file:///{resolved_html}",
             ]
             subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             with open(pdf_path, "rb") as f:

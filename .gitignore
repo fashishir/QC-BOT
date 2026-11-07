@@ -8,17 +8,19 @@ venv/
 data/
 logs/
 *.db
-!ssc_archive.db
+!job_archive.db
 *.sqlite3
 *.sqlite-wal
 *.sqlite-shm
 *.db-wal
 *.db-shm
 *.db-journal
+job_questions.db
 
-# generated PDF exports (regenerable via export_pdf.py)
+# generated exports (regenerable)
 pdf_exports/
 reports/*.json
 reports/*.csv
+questions_output/
 
 .pytest_cache/

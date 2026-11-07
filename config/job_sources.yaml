@@ -1,0 +1,43 @@
+settings:
+  user_agent: "JobQuestionBank/1.0 (+educational archive; contact=local-project)"
+  request_delay_seconds: 2.0
+  max_retries: 3
+  backoff_factor: 2.0
+  request_timeout_seconds: 45
+  respect_robots_txt: true
+  storage_root: data
+  logs_dir: logs
+  reports_dir: reports
+  database:
+    backend: sqlite
+    sqlite_path: job_questions.db
+
+sources:
+  - name: SattAcademy
+    base_url: https://sattacademy.com
+    enabled: true
+    license_status: approved
+    permission_note: >-
+      Public job-solution pages, page 1 only. Pagination (?page=) is
+      disallowed by robots.txt and is never followed. 15 public MCQs per exam.
+    publish_allowed: true
+    params:
+      page_limit: 1
+
+  - name: Live MCQ
+    base_url: https://web.livemcq.com
+    enabled: true
+    license_status: approved
+    permission_note: >-
+      Public solution pages approved for this project. robots.txt content
+      signal ai-train=no, use=reference. Full sets imported with attribution.
+    publish_allowed: true
+
+  - name: JobsNoticeBD
+    base_url: https://jobsnoticebd.com
+    enabled: false
+    license_status: approved
+    permission_note: >-
+      Public solution pages are image-only in the audited 2025-2026 set;
+      no text MCQs can be extracted without OCR/manual review.
+    publish_allowed: false

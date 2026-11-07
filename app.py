@@ -1,317 +1,554 @@
-"""Board Exams & Test Papers Question Bank UI (SSC/HSC, subject/board/year/type filters).
+"""চাকরি পরীক্ষার MCQ প্রশ্নব্যাংক (২০২৫–২০২৬).
 
-Reads from board_questions.db (exams + questions tables) with fallback to ssc_archive.db.
-Run: streamlit run app.py
+Reads only ``job_archive.db`` (the validated, published archive). There is no
+fallback to raw scrape data or to any old SSC/HSC database.
 """
 
 from __future__ import annotations
 
 import html
 import json
-import logging
 import sqlite3
-import urllib.request
 from pathlib import Path
 
 import streamlit as st
 
-from ssc_scraper.pdf_export import build_export_payload, html_to_pdf
+from job_scraper.config import ARCHIVE_DB
 
-log = logging.getLogger(__name__)
-
-st.set_page_config(page_title="Board Exams Question Bank", layout="wide")
-
-LEVEL_LABELS = {
-    "ssc": "এসএসসি",
-    "dakhil": "দাখিল",
-    "hsc": "এইচএসসি",
-}
-LEVEL_OPTIONS = ["SSC", "HSC", "Dakhil"]
-LEVEL_TO_KEY = {"SSC": "ssc", "HSC": "hsc", "Dakhil": "dakhil"}
-
-TYPE_OPTIONS = ["All Types", "MCQ", "CQ", "MCQ+CQ"]
-YEAR_OPTIONS = ["All Year"] + [str(y) for y in range(2026, 2014, -1)]
-
-
-# ---------------------------------------------------------------- db helpers
-def get_db_path() -> Path:
-    # Prefer newly scraped board_questions.db, fallback to ssc_archive.db
-    p1 = Path(__file__).resolve().parent / "board_questions.db"
-    if p1.exists() and p1.stat().st_size > 0:
-        return p1
-    p2 = Path(__file__).resolve().parent / "ssc_archive.db"
-    return p2
-
-
-def get_conn() -> sqlite3.Connection | None:
-    db_path = get_db_path()
-    if not db_path.exists() or db_path.stat().st_size == 0:
-        return None
-    try:
-        conn = sqlite3.connect(f"file:{db_path.resolve()}?mode=ro", uri=True)
-        conn.row_factory = sqlite3.Row
-        return conn
-    except Exception:
-        try:
-            conn = sqlite3.connect(str(db_path))
-            conn.row_factory = sqlite3.Row
-            return conn
-        except Exception as exc:
-            st.error(f"Error opening database at {db_path}: {exc}")
-            return None
-
-
-def get_table_names(conn: sqlite3.Connection) -> tuple[str, str]:
-    cur = conn.cursor()
-    cur.execute("SELECT name FROM sqlite_master WHERE type='table'")
-    tables = [r[0] for r in cur.fetchall()]
-    exams_tbl = "exams" if "exams" in tables else "board_exams"
-    qs_tbl = "questions" if "questions" in tables else "exam_questions"
-    return exams_tbl, qs_tbl
-
-
-def load_filter_values(conn: sqlite3.Connection, exams_tbl: str, class_key: str):
-    cur = conn.cursor()
-    cur.execute(
-        f"SELECT DISTINCT subject FROM {exams_tbl} WHERE class_key=? AND subject IS NOT NULL ORDER BY subject",
-        (class_key,),
-    )
-    subjects = [r[0] for r in cur.fetchall() if r[0]]
-    cur.execute(
-        f"SELECT DISTINCT board FROM {exams_tbl} WHERE class_key=? AND board IS NOT NULL ORDER BY board",
-        (class_key,),
-    )
-    boards = [r[0] for r in cur.fetchall() if r[0]]
-    cur.execute(
-        f"SELECT DISTINCT year FROM {exams_tbl} WHERE class_key=? AND year IS NOT NULL ORDER BY year DESC",
-        (class_key,),
-    )
-    years = [str(r[0]) for r in cur.fetchall() if r[0]]
-    return subjects, boards, years
-
-
-def query_exams(conn, exams_tbl, class_key, subject, board, qtype, year, search, source_mode="board-exam", limit=2000):
-    cur = conn.cursor()
-    clauses = ["class_key = ?"]
-    params: list = [class_key]
-
-    # Check if source_type column exists
-    cols = [r[1] for r in cur.execute(f"PRAGMA table_info({exams_tbl})").fetchall()]
-    if "source_type" in cols and source_mode:
-        clauses.append("source_type = ?")
-        params.append(source_mode)
-
-    if subject != "All Subject":
-        clauses.append("subject = ?")
-        params.append(subject)
-    if board != "All board":
-        clauses.append("board = ?")
-        params.append(board)
-    if year != "All Year":
-        clauses.append("year = ?")
-        params.append(int(year))
-    if qtype == "MCQ":
-        clauses.append("((mcq_count IS NOT NULL AND mcq_count > 0) OR (mcq_url IS NOT NULL))")
-    elif qtype == "CQ":
-        clauses.append("((cq_count IS NOT NULL AND cq_count > 0) OR (written_url IS NOT NULL))")
-    if search:
-        clauses.append("(exam_name LIKE ? OR subject LIKE ? OR mcq_url LIKE ?)")
-        like = f"%{search}%"
-        params.extend([like, like, like])
-
-    where = " AND ".join(clauses)
-    cur.execute(
-        f"SELECT * FROM {exams_tbl} WHERE {where} ORDER BY year DESC, exam_name LIMIT ?",
-        (*params, limit),
-    )
-    return [dict(r) for r in cur.fetchall()]
-
-
-def load_questions(conn, qs_tbl: str, exam_id: int):
-    cur = conn.cursor()
-    cur.execute(
-        f"SELECT * FROM {qs_tbl} WHERE exam_id=? ORDER BY question_type, question_no",
-        (exam_id,),
-    )
-    return [dict(r) for r in cur.fetchall()]
-
-
-def parse_options(row: dict):
-    try:
-        data = json.loads(row.get("options_json") or "[]")
-    except (TypeError, ValueError):
-        return [], [], {}
-    if isinstance(data, list):
-        # Format: [{"index": 1, "text": "...", "images": [...]}]
-        return data, [], {}
-    return data.get("options", []), data.get("images", []), data
-
-
-# ---------------------------------------------------------------- pdf export
-# NOTE: html_to_pdf / build_print_html live in ssc_scraper.pdf_export so they
-# stay importable/testable without running the Streamlit UI. Re-exported here
-# for backward compatibility with any external callers.
-from ssc_scraper.pdf_export import build_print_html as build_print_html  # noqa: F401,E402
-
-
-@st.cache_data(show_spinner=False)
-def _cached_html_to_pdf(html_content: str) -> bytes | None:
-    """Cache PDF renders across Streamlit reruns (WeasyPrint is ~0.5-1s/doc)."""
-    return html_to_pdf(html_content)
-
-
-# ---------------------------------------------------------------- ui
-st.markdown(
-    """
-<style>
-.block-container {padding-top: 1rem; max-width: 1200px;}
-.header-bar {background: #16191d; border-radius: 8px 8px 0 0; padding: 14px 18px; color: #fff;}
-.header-bar h2 {text-align: center; font-size: 20px; margin: 0; color: #fff;}
-.filter-bar {background: #1d2126; border-radius: 0 0 8px 8px; padding: 16px;}
-.exam-card {background: #1d2126; border: 1px solid #2e343c; border-radius: 8px; padding: 14px 16px; margin: 10px 0; color:#eee;}
-.exam-card a {color: #4da3ff;}
-.q-card {background: #22262c; border: 1px solid #333a43; border-radius: 8px; padding: 12px 14px; margin: 8px 0; color:#eee;}
-</style>
-""",
-    unsafe_allow_html=True,
+st.set_page_config(
+    page_title="চাকরি পরীক্ষার MCQ প্রশ্নব্যাংক (২০২৫–২০২৬)",
+    page_icon="📚",
+    layout="wide",
 )
 
-conn = get_conn()
-if conn is None:
-    st.error("Database not found. Please run `python scraper.py` first.")
-    st.stop()
+DB_PATH = Path(ARCHIVE_DB)
 
-exams_tbl, qs_tbl = get_table_names(conn)
+COVERAGE_LABELS = {
+    "full": "পূর্ণ",
+    "partial_pdf": "আংশিক",
+    "fallback_15": "ফলব্যাক ১৫",
+    "missing": "অনুপলব্ধ",
+}
+COVERAGE_CLASSES = {
+    "full": "badge-full",
+    "partial_pdf": "badge-partial",
+    "fallback_15": "badge-fallback",
+    "missing": "badge-missing",
+}
+SOURCE_CLASSES = {
+    "Live MCQ": "badge-live",
+    "JobsNoticeBD": "badge-jobs",
+    "SattAcademy": "badge-satta",
+    "Official PDF": "badge-official",
+}
 
-# Header
-level_ui = st.session_state.get("level_sel", "SSC")
-if level_ui not in LEVEL_OPTIONS:
-    level_ui = "SSC"
-class_key = LEVEL_TO_KEY[level_ui]
-level_bn = LEVEL_LABELS[class_key]
 
-header_html = f"""
-<div class="header-bar">
-  <div style="display:flex; justify-content:space-between; align-items:center;">
-    <span style="background:#3a4048;border-radius:50%;width:28px;height:28px;display:inline-flex;align-items:center;justify-content:center;">i</span>
-    <h2>{level_bn} সকল বোর্ড ও টেস্ট পেপারের প্রশ্নপত্র ও ডিজিটাল হাব</h2>
-    <span>
-      <span style="background:#2a2f36;border-radius:6px;padding:4px 10px;">PDF Export</span>
-    </span>
-  </div>
-</div>
-"""
-st.markdown(header_html, unsafe_allow_html=True)
-
-# Pre-load filter options from DB for selected level
-subjects_db, boards_db, years_db = load_filter_values(conn, exams_tbl, class_key)
-subject_opts = ["All Subject"] + subjects_db
-board_opts = ["All board"] + boards_db
-year_opts = ["All Year"] + (years_db if years_db else [str(y) for y in range(2026, 2014, -1)])
-
-# ---- filters ----
-st.markdown('<div class="filter-bar">', unsafe_allow_html=True)
-c1, c2, c3 = st.columns(3)
-with c1:
-    level_ui = st.selectbox(
-        "Level",
-        LEVEL_OPTIONS,
-        index=LEVEL_OPTIONS.index(level_ui),
-        key="level_sel",
-        label_visibility="collapsed",
+# --------------------------------------------------------------------- styling
+def inject_css() -> None:
+    st.markdown(
+        """
+        <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;500;600;700&display=swap');
+        html, body, [class*="css"] { font-family: 'Noto Sans Bengali', 'Nirmala UI', sans-serif; }
+        .block-container { padding-top: 1.6rem; max-width: 1240px; }
+        h1, h2, h3 { color: #0b3b6f; letter-spacing: 0; }
+        .hero { background: linear-gradient(135deg, #0b3b6f 0%, #0b6bcb 100%);
+                color: #fff; border-radius: 14px; padding: 22px 26px; margin-bottom: 18px; }
+        .hero h1 { color: #fff; margin: 0 0 6px; font-size: 1.75rem; }
+        .hero p { margin: 0; opacity: .92; font-size: .98rem; }
+        .stat-row { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-bottom: 14px; }
+        .stat-card { background: #fff; border: 1px solid #e5e9f0; border-radius: 10px;
+                     padding: 12px 14px; box-shadow: 0 1px 3px rgba(16,24,40,.04); }
+        .stat-card .num { font-size: 1.42rem; font-weight: 700; color: #0b3b6f; line-height: 1.2; }
+        .stat-card .lbl { font-size: .78rem; color: #64748b; margin-top: 2px; }
+        .exam-card { background: #fff; border: 1px solid #e5e9f0; border-radius: 12px;
+                     padding: 14px 16px; margin-bottom: 10px; box-shadow: 0 1px 3px rgba(16,24,40,.04); }
+        .exam-title { font-weight: 600; font-size: 1.02rem; color: #172033; margin-bottom: 4px; }
+        .exam-meta { font-size: .82rem; color: #64748b; margin-bottom: 8px; }
+        .badge { display: inline-block; padding: 2px 9px; border-radius: 999px;
+                 font-size: .74rem; font-weight: 600; margin-right: 5px; }
+        .badge-full { background: #dcfce7; color: #166534; }
+        .badge-partial { background: #fef3c7; color: #92400e; }
+        .badge-fallback { background: #e0e7ff; color: #3730a3; }
+        .badge-missing { background: #f3f4f6; color: #4b5563; }
+        .badge-live { background: #dbeafe; color: #1e40af; }
+        .badge-jobs { background: #fce7f3; color: #9d174d; }
+        .badge-satta { background: #ede9fe; color: #5b21b6; }
+        .badge-official { background: #cffafe; color: #155e75; }
+        .q-card { background: #fff; border: 1px solid #e5e9f0; border-radius: 10px;
+                  padding: 14px 16px; margin-bottom: 12px; }
+        .q-stem { font-weight: 500; margin-bottom: 8px; line-height: 1.7; }
+        .q-no { color: #0b6bcb; font-weight: 700; margin-right: 4px; }
+        .opt { padding: 3px 0; color: #334155; }
+        .opt-correct { color: #166534; font-weight: 700; }
+        .ans-pill { display: inline-block; margin-top: 6px; padding: 2px 10px;
+                    background: #dcfce7; color: #166534; border-radius: 999px;
+                    font-size: .8rem; font-weight: 600; }
+        .ans-missing { display: inline-block; margin-top: 6px; padding: 2px 10px;
+                       background: #f3f4f6; color: #6b7280; border-radius: 999px;
+                       font-size: .8rem; font-weight: 600; }
+        .notice { background: #fff7e6; border-left: 4px solid #d97706; padding: 8px 12px;
+                  border-radius: 4px; font-size: .86rem; color: #92400e; margin-bottom: 12px; }
+        .source-note { background: #eef6ff; border-left: 4px solid #0b6bcb; padding: 10px 14px;
+                       border-radius: 4px; font-size: .88rem; color: #1e3a5f; }
+        div[data-testid="stSidebar"] { background: #f8fafc; }
+        </style>
+        """,
+        unsafe_allow_html=True,
     )
-with c2:
-    subject_ui = st.selectbox(
-        "Subject",
-        subject_opts,
-        key=f"subject_sel_{level_ui}",
-        label_visibility="collapsed",
+
+
+# ------------------------------------------------------------------------ data
+def db_available() -> bool:
+    return DB_PATH.exists()
+
+
+def connect() -> sqlite3.Connection:
+    conn = sqlite3.connect(f"file:{DB_PATH}?mode=ro", uri=True)
+    conn.row_factory = sqlite3.Row
+    return conn
+
+
+@st.cache_data(ttl=60, show_spinner=False)
+def load_summary() -> dict:
+    conn = connect()
+    one = lambda sql: int(conn.execute(sql).fetchone()[0] or 0)  # noqa: E731
+    meta = {row["key"]: row["value"] for row in conn.execute("SELECT * FROM archive_meta")}
+    result = {
+        "categories": one("SELECT COUNT(*) FROM job_categories"),
+        "exams": one("SELECT COUNT(*) FROM job_exams"),
+        "questions": one("SELECT COUNT(*) FROM job_questions"),
+        "answered": one("SELECT COUNT(*) FROM job_questions WHERE answer_status='published'"),
+        "full": one("SELECT COUNT(*) FROM job_exams WHERE coverage_status='full'"),
+        "partial": one("SELECT COUNT(*) FROM job_exams WHERE coverage_status<>'full'"),
+        "last_update": meta.get("built_at", "—"),
+    }
+    conn.close()
+    return result
+
+
+@st.cache_data(ttl=60, show_spinner=False)
+def load_categories() -> list[dict]:
+    conn = connect()
+    rows = [dict(r) for r in conn.execute(
+        """
+        SELECT c.*, COUNT(DISTINCT ec.exam_id) AS exam_count
+        FROM job_categories c
+        LEFT JOIN job_exam_categories ec ON ec.category_id = c.id
+        GROUP BY c.id ORDER BY c.display_order, c.name
+        """
+    )]
+    conn.close()
+    return rows
+
+
+@st.cache_data(ttl=60, show_spinner=False)
+def load_institutions() -> list[str]:
+    conn = connect()
+    rows = [r["institution"] for r in conn.execute(
+        "SELECT DISTINCT institution FROM job_exams WHERE institution IS NOT NULL "
+        "AND institution <> '' ORDER BY institution"
+    )]
+    conn.close()
+    return rows
+
+
+@st.cache_data(ttl=60, show_spinner=False)
+def load_exams(category_names: tuple[str, ...], institution: str | None,
+               year: int | None, coverage: str | None, answer_filter: str | None,
+               search: str) -> list[dict]:
+    conn = connect()
+    clauses = ["1=1"]
+    params: list = []
+    if category_names:
+        placeholders = ",".join("?" for _ in category_names)
+        clauses.append(
+            f"e.id IN (SELECT ec.exam_id FROM job_exam_categories ec "
+            f"JOIN job_categories c ON c.id=ec.category_id WHERE c.name IN ({placeholders}))"
+        )
+        params.extend(category_names)
+    if institution:
+        clauses.append("e.institution = ?")
+        params.append(institution)
+    if year:
+        clauses.append("e.year = ?")
+        params.append(year)
+    if coverage == "full":
+        clauses.append("e.coverage_status = 'full'")
+    elif coverage == "partial":
+        clauses.append("e.coverage_status IN ('partial_pdf','fallback_15')")
+    if answer_filter == "with":
+        clauses.append("e.answered_questions > 0")
+    elif answer_filter == "missing":
+        clauses.append("e.answered_questions < e.collected_questions")
+    if search:
+        clauses.append(
+            "(e.exam_name LIKE ? OR EXISTS (SELECT 1 FROM job_questions q "
+            "WHERE q.exam_id=e.id AND q.question_text LIKE ?))"
+        )
+        like = f"%{search}%"
+        params.extend([like, like])
+    sql = f"""
+        SELECT e.*, GROUP_CONCAT(DISTINCT c.name) AS category_names,
+               (SELECT d.source_name FROM job_documents d
+                WHERE d.exam_id=e.id AND d.publish_allowed=1
+                ORDER BY CASE d.source_name WHEN 'Live MCQ' THEN 0 ELSE 1 END LIMIT 1)
+               AS content_source
+        FROM job_exams e
+        LEFT JOIN job_exam_categories ec ON ec.exam_id=e.id
+        LEFT JOIN job_categories c ON c.id=ec.category_id
+        WHERE {' AND '.join(clauses)}
+        GROUP BY e.id
+        ORDER BY e.exam_date DESC, e.exam_name
+    """
+    rows = [dict(r) for r in conn.execute(sql, params)]
+    conn.close()
+    return rows
+
+
+@st.cache_data(ttl=60, show_spinner=False)
+def load_exam(exam_id: int) -> dict | None:
+    conn = connect()
+    row = conn.execute(
+        """
+        SELECT e.*, GROUP_CONCAT(DISTINCT c.name) AS category_names,
+               (SELECT d.source_name FROM job_documents d
+                WHERE d.exam_id=e.id AND d.publish_allowed=1
+                ORDER BY CASE d.source_name WHEN 'Live MCQ' THEN 0 ELSE 1 END LIMIT 1)
+               AS content_source
+        FROM job_exams e
+        LEFT JOIN job_exam_categories ec ON ec.exam_id=e.id
+        LEFT JOIN job_categories c ON c.id=ec.category_id
+        WHERE e.id=? GROUP BY e.id
+        """,
+        (exam_id,),
+    ).fetchone()
+    conn.close()
+    return dict(row) if row else None
+
+
+@st.cache_data(ttl=60, show_spinner=False)
+def load_questions(exam_id: int) -> list[dict]:
+    conn = connect()
+    rows = [dict(r) for r in conn.execute(
+        "SELECT * FROM job_questions WHERE exam_id=? ORDER BY question_no", (exam_id,)
+    )]
+    conn.close()
+    return rows
+
+
+@st.cache_data(ttl=60, show_spinner=False)
+def search_questions(term: str, category_names: tuple[str, ...], year: int | None,
+                     limit: int = 100) -> list[dict]:
+    conn = connect()
+    clauses = ["q.question_text LIKE ?"]
+    params: list = [f"%{term}%"]
+    if category_names:
+        placeholders = ",".join("?" for _ in category_names)
+        clauses.append(
+            f"e.id IN (SELECT ec.exam_id FROM job_exam_categories ec "
+            f"JOIN job_categories c ON c.id=ec.category_id WHERE c.name IN ({placeholders}))"
+        )
+        params.extend(category_names)
+    if year:
+        clauses.append("e.year = ?")
+        params.append(year)
+    params.append(limit)
+    rows = [dict(r) for r in conn.execute(
+        f"""
+        SELECT q.*, e.exam_name, e.exam_date, e.year, e.coverage_status
+        FROM job_questions q JOIN job_exams e ON e.id=q.exam_id
+        WHERE {' AND '.join(clauses)}
+        ORDER BY e.exam_date DESC, q.question_no LIMIT ?
+        """,
+        params,
+    )]
+    conn.close()
+    return rows
+
+
+@st.cache_data(ttl=60, show_spinner=False)
+def load_coverage() -> list[dict]:
+    conn = connect()
+    rows = [dict(r) for r in conn.execute(
+        """
+        SELECT c.name AS category, c.display_order,
+               COUNT(DISTINCT e.id) AS exams,
+               COUNT(q.id) AS questions,
+               SUM(CASE WHEN q.answer_status='published' THEN 1 ELSE 0 END) AS answered
+        FROM job_categories c
+        LEFT JOIN job_exam_categories ec ON ec.category_id=c.id
+        LEFT JOIN job_exams e ON e.id=ec.exam_id
+        LEFT JOIN job_questions q ON q.exam_id=e.id
+        GROUP BY c.id ORDER BY c.display_order, c.name
+        """
+    )]
+    conn.close()
+    return rows
+
+
+# ------------------------------------------------------------------ components
+def badge(text: str, css_class: str) -> str:
+    return f"<span class='badge {css_class}'>{html.escape(text)}</span>"
+
+
+def source_badge(source: str | None) -> str:
+    name = source or "SattAcademy"
+    return badge(name, SOURCE_CLASSES.get(name, "badge-satta"))
+
+
+def coverage_badge(status: str) -> str:
+    return badge(COVERAGE_LABELS.get(status, status), COVERAGE_CLASSES.get(status, "badge-missing"))
+
+
+def render_header(summary: dict) -> None:
+    answered_pct = (summary["answered"] / summary["questions"] * 100) if summary["questions"] else 0
+    st.markdown(
+        f"""
+        <div class="hero">
+          <h1>চাকরি পরীক্ষার MCQ প্রশ্নব্যাংক (২০২৫–২০২৬)</h1>
+          <p>বিসিএস, এনটিআরসিএ, বিচার বিভাগ, ব্যাংক, মন্ত্রণালয়, বাহিনী ও অন্যান্য সরকারি-বেসরকারি চাকরি পরীক্ষার উত্তরসহ বহুনির্বাচনি প্রশ্ন।</p>
+        </div>
+        <div class="stat-row">
+          <div class="stat-card"><div class="num">{summary['exams']}</div><div class="lbl">পরীক্ষা</div></div>
+          <div class="stat-card"><div class="num">{summary['questions']:,}</div><div class="lbl">মোট MCQ</div></div>
+          <div class="stat-card"><div class="num">{summary['answered']:,}</div><div class="lbl">উত্তরসহ MCQ ({answered_pct:.0f}%)</div></div>
+          <div class="stat-card"><div class="num">{summary['full']}</div><div class="lbl">পূর্ণ সেট</div></div>
+          <div class="stat-card"><div class="num">{summary['partial']}</div><div class="lbl">আংশিক সেট</div></div>
+        </div>
+        """,
+        unsafe_allow_html=True,
     )
-with c3:
-    board_ui = st.selectbox(
-        "Board",
-        board_opts,
-        key=f"board_sel_{level_ui}",
-        label_visibility="collapsed",
+
+
+def render_exam_card(exam: dict) -> None:
+    source = source_badge(exam.get("content_source"))
+    coverage = coverage_badge(exam["coverage_status"])
+    categories = html.escape(exam.get("category_names") or "—")
+    collected = exam.get("collected_questions") or 0
+    expected = exam.get("total_questions") or collected
+    st.markdown(
+        f"""
+        <div class="exam-card">
+          <div class="exam-title">{html.escape(exam['exam_name'])}</div>
+          <div class="exam-meta">{html.escape(str(exam.get('exam_date') or 'তারিখ নেই'))} · {categories}
+            · প্রশ্ন {collected}/{expected} · উত্তর {exam.get('answered_questions') or 0}</div>
+          <div>{coverage}{source}</div>
+        </div>
+        """,
+        unsafe_allow_html=True,
     )
 
-c4, c5, c6 = st.columns(3)
-with c4:
-    type_ui = st.selectbox("Type", TYPE_OPTIONS, key="type_sel", label_visibility="collapsed")
-with c5:
-    year_sel = st.selectbox("Year", year_opts, key=f"year_sel_{level_ui}", label_visibility="collapsed")
-with c6:
-    search_ui = st.text_input(
-        "Search",
-        placeholder="এক্সাম সার্চ করুন...",
-        key="search_sel",
-        label_visibility="collapsed",
+
+def render_question(q: dict, show_answer: bool) -> None:
+    options = [q.get(f"option_{i}") or "" for i in range(1, 5)]
+    symbols = ["(ক)", "(খ)", "(গ)", "(ঘ)"]
+    answer = q.get("answer_index")
+    rows = []
+    for idx, text in enumerate(options, start=1):
+        css = "opt-correct" if show_answer and answer == idx else "opt"
+        mark = " ✔" if show_answer and answer == idx else ""
+        rows.append(f"<div class='{css}'>{symbols[idx-1]} {html.escape(text)}{mark}</div>")
+    if q.get("answer_status") == "published":
+        footer = f"<div class='ans-pill'>সঠিক উত্তর: {symbols[answer-1]}</div>" if show_answer else ""
+    else:
+        footer = "<div class='ans-missing'>উত্তর প্রকাশিত হয়নি</div>"
+    st.markdown(
+        f"<div class='q-card'><div class='q-stem'><span class='q-no'>{q['question_no']}.</span>"
+        f"{html.escape(q['question_text'])}</div>{''.join(rows)}{footer}</div>",
+        unsafe_allow_html=True,
     )
-st.markdown("</div>", unsafe_allow_html=True)
 
-# ---- Mode Toggle ----
-t1, t2 = st.columns([1, 4])
-with t1:
-    mode = st.radio("mode", ["Board Exams", "Test Papers"], horizontal=True, label_visibility="collapsed")
-source_mode = "board-exam" if mode == "Board Exams" else "test-paper"
 
-# ---- Results ----
-qtype_map = {"All Types": "all", "MCQ": "MCQ", "CQ": "CQ", "MCQ+CQ": "all"}
-exams = query_exams(conn, exams_tbl, class_key, subject_ui, board_ui, qtype_map[type_ui], year_sel, search_ui.strip(), source_mode=source_mode)
-st.write(f"**{len(exams)}** exam(s) found — {level_bn} | {mode} | {subject_ui} | {board_ui} | {year_sel}")
+# ----------------------------------------------------------------------- views
+def render_library(summary: dict, categories: list[dict], institutions: list[str]) -> None:
+    st.sidebar.header("ফিল্টার")
+    category_names = tuple(c["name"] for c in categories)
+    selected_categories = st.sidebar.multiselect("বিভাগ", category_names)
+    year_label = st.sidebar.selectbox("বছর", ["সব", "২০২৬", "২০২৫"])
+    year = {"সব": None, "২০২৬": 2026, "২০২৫": 2025}[year_label]
+    institution = st.sidebar.selectbox("প্রতিষ্ঠান", ["সব"] + institutions)
+    institution = None if institution == "সব" else institution
+    coverage_label = st.sidebar.selectbox("কভারেজ", ["সব", "পূর্ণ সেট", "আংশিক সেট"])
+    coverage = {"সব": None, "পূর্ণ সেট": "full", "আংশিক সেট": "partial"}[coverage_label]
+    answer_label = st.sidebar.selectbox("উত্তর", ["সব", "উত্তরসহ", "উত্তর অনুপস্থিত"])
+    answer_filter = {"সব": None, "উত্তরসহ": "with", "উত্তর অনুপস্থিত": "missing"}[answer_label]
+    search = st.sidebar.text_input("পরীক্ষা/প্রশ্ন খুঁজুন", "")
 
-if not exams:
-    st.info("কোনো পরীক্ষা পাওয়া যায়নি। ডেটা সংগ্রহ করতে `python scraper.py` চালান।")
+    if st.sidebar.button("ফিল্টার মুছুন", use_container_width=True):
+        st.session_state.pop("selected_exam_id", None)
+        st.cache_data.clear()
+        st.rerun()
 
-for exam in exams:
-    mcq_n = exam.get("mcq_count") or 0
-    cq_n = exam.get("cq_count") or 0
-    with st.container():
-        st.markdown('<div class="exam-card">', unsafe_allow_html=True)
-        st.markdown(f"### {html.escape(exam.get('exam_name') or '')}")
-        st.caption(f"{LEVEL_LABELS.get(exam.get('class_key') or class_key, '')} | {exam.get('board')} | {exam.get('year')} | {exam.get('source_type', 'board-exam')}")
-        mcq_link = exam.get("mcq_url") or ""
-        written_link = exam.get("written_url") or ""
-        link_line = []
-        if mcq_link:
-            link_line.append(f"[MCQ {mcq_n if mcq_n else ''}]({mcq_link})")
-        if written_link:
-            link_line.append(f"[CQ {cq_n if cq_n else ''}]({written_link})")
-        st.markdown(" | ".join(link_line) if link_line else "Source available")
-        
-        with st.expander("View questions"):
-            questions = load_questions(conn, qs_tbl, exam["id"])
-            if not questions:
-                st.warning("No questions collected yet for this exam.")
-            show = type_ui
-            for q in questions:
-                if show == "MCQ" and q["question_type"] != "mcq":
-                    continue
-                if show == "CQ" and q["question_type"] != "written":
-                    continue
-                opts, imgs, meta = parse_options(q)
-                st.markdown('<div class="q-card">', unsafe_allow_html=True)
-                st.markdown(f"**Q{q['question_no']} [{q['question_type']}]** {q.get('question_text') or ''}")
-                for src in imgs:
-                    st.caption(f"[Image: {src}]")
-                for o in opts:
-                    if isinstance(o, dict):
-                        st.write(f"{o.get('index')}. {o.get('text')}")
-                ans = q.get("correct_answer") or q.get("answer")
-                if ans:
-                    st.success(f"Answer: {ans}")
-                st.markdown('</div>', unsafe_allow_html=True)
-            if questions:
-                payload = build_export_payload(exam, questions, pdf_converter=_cached_html_to_pdf)
-                st.download_button(
-                    payload["label"],
-                    data=payload["data"],
-                    file_name=payload["file_name"],
-                    mime=payload["mime"],
-                    key=f"dl_{exam['id']}",
+    exams = load_exams(
+        tuple(selected_categories), institution, year, coverage, answer_filter, search.strip(),
+    )
+    st.caption(f"{len(exams)}টি পরীক্ষা পাওয়া গেছে")
+
+    left, right = st.columns([1.05, 1.95], gap="large")
+    with left:
+        st.subheader("পরীক্ষার তালিকা")
+        if not exams:
+            st.info("এই ফিল্টারে কোনো পরীক্ষা নেই।")
+        for exam in exams[:80]:
+            render_exam_card(exam)
+            if st.button("প্রশ্ন দেখুন", key=f"open_{exam['id']}", use_container_width=True):
+                st.session_state["selected_exam_id"] = exam["id"]
+                st.rerun()
+        if len(exams) > 80:
+            st.caption("প্রথম ৮০টি পরীক্ষা দেখানো হচ্ছে। ফিল্টার ব্যবহার করে সংখ্যা কমিয়ে আনুন।")
+
+    with right:
+        selected_id = st.session_state.get("selected_exam_id")
+        if search.strip():
+            st.subheader(f"প্রশ্নে অনুসন্ধান: “{search.strip()}”")
+            hits = search_questions(search.strip(), tuple(selected_categories), year)
+            if not hits:
+                st.info("মিলে যাওয়া প্রশ্ন পাওয়া যায়নি।")
+            for q in hits:
+                st.markdown(
+                    f"<div class='exam-meta'>{html.escape(q['exam_name'])} · "
+                    f"{html.escape(str(q.get('exam_date') or ''))}</div>",
+                    unsafe_allow_html=True,
                 )
-                if not payload["is_pdf"]:
-                    st.caption("PDF engine unavailable — serving printable HTML instead.")
-        st.markdown('</div>', unsafe_allow_html=True)
+                render_question(q, True)
+            return
 
-conn.close()
+        if not selected_id:
+            st.subheader("প্রশ্ন দেখতে একটি পরীক্ষা বেছে নিন")
+            st.markdown(
+                "<div class='source-note'>বাম দিকের তালিকা থেকে যেকোনো পরীক্ষা খুলুন। "
+                "প্রতিটি প্রশ্নের উত্তর আলাদাভাবে দেখানো যায়; অনুশীলন মোডে উত্তর লুকানো থাকে।</div>",
+                unsafe_allow_html=True,
+            )
+            return
+
+        exam = load_exam(int(selected_id))
+        if exam is None:
+            st.warning("পরীক্ষাটি পাওয়া যায়নি।")
+            return
+        questions = load_questions(exam["id"])
+        st.subheader(exam["exam_name"])
+        st.markdown(
+            f"{coverage_badge(exam['coverage_status'])} {source_badge(exam.get('content_source'))} "
+            f"<span class='exam-meta'>{html.escape(str(exam.get('exam_date') or ''))} · "
+            f"{html.escape(exam.get('category_names') or '')} · "
+            f"প্রশ্ন {exam.get('collected_questions')}/{exam.get('total_questions')} · "
+            f"উত্তর {exam.get('answered_questions')}</span>",
+            unsafe_allow_html=True,
+        )
+        if exam["coverage_status"] != "full":
+            st.markdown(
+                f"<div class='notice'>এই পরীক্ষার সম্পূর্ণ প্রশ্নপত্র পাওয়া যায়নি। "
+                f"সংগৃহীত {exam.get('collected_questions')}টি প্রশ্নের মধ্যে "
+                f"{exam.get('answered_questions')}টির উত্তর প্রকাশিত আছে।</div>",
+                unsafe_allow_html=True,
+            )
+        if exam.get("source_url"):
+            st.markdown(f"উৎস: [{exam['source_url']}]({exam['source_url']})")
+
+        show_answers = st.toggle("উত্তর দেখাও", value=False, key=f"show_{exam['id']}")
+        practice = st.toggle("অনুশীলন মোড", value=False, key=f"practice_{exam['id']}")
+
+        if practice and not show_answers:
+            with st.form(f"practice_form_{exam['id']}"):
+                picks: dict[int, int] = {}
+                for q in questions:
+                    options = [q.get(f"option_{i}") or "" for i in range(1, 5)]
+                    labels = [f"(ক) {options[0]}", f"(খ) {options[1]}",
+                              f"(গ) {options[2]}", f"(ঘ) {options[3]}"]
+                    choice = st.radio(
+                        f"{q['question_no']}. {q['question_text']}",
+                        options=range(1, 5), format_func=lambda i, l=labels: l[i - 1],
+                        index=None, key=f"pick_{exam['id']}_{q['question_no']}",
+                    )
+                    picks[q["question_no"]] = choice
+                submitted = st.form_submit_button("উত্তর জমা দিন", use_container_width=True)
+            if submitted:
+                correct = 0
+                answered = 0
+                for q in questions:
+                    pick = picks.get(q["question_no"])
+                    if pick and q["answer_index"] in (1, 2, 3, 4):
+                        answered += 1
+                        if pick == q["answer_index"]:
+                            correct += 1
+                st.success(f"সঠিক উত্তর: {correct} / {answered} (উত্তর দেওয়া হয়েছে {answered}টি)")
+                for q in questions:
+                    render_question(q, True)
+            return
+
+        for q in questions:
+            render_question(q, show_answers)
+
+
+def render_coverage() -> None:
+    st.subheader("কভারেজ রিপোর্ট")
+    st.markdown(
+        "<div class='source-note'>প্রতিটি পরীক্ষার জন্য কতটি প্রশ্ন সংগ্রহ করা গেছে এবং "
+        "কতটির উত্তর প্রকাশিত আছে তা এখানে দেখানো হয়। যেখানে সম্পূর্ণ সেট পাওয়া যায়নি, "
+        "সেখানে ‘আংশিক’ বা ‘ফলব্যাক ১৫’ লেখা থাকে।</div>",
+        unsafe_allow_html=True,
+    )
+    rows = load_coverage()
+    st.dataframe(
+        [
+            {
+                "বিভাগ": r["category"],
+                "পরীক্ষা": r["exams"],
+                "প্রশ্ন": r["questions"],
+                "উত্তরসহ": r["answered"] or 0,
+            }
+            for r in rows
+        ],
+        use_container_width=True,
+        hide_index=True,
+    )
+
+
+def render_sources() -> None:
+    st.subheader("উৎস, অনুমতি ও সীমাবদ্ধতা")
+    st.markdown(
+        """
+        <div class="source-note">
+        <b>উৎস:</b> SattAcademy (public job-solution pages), Live MCQ (approved public solution pages)।
+        JobsNoticeBD-এর ২০২৫–২০২৬ পেজগুলো শুধু ছবি হিসেবে পাওয়া গেছে, তাই টেক্সট প্রশ্ন হিসেবে নেওয়া হয়নি।<br><br>
+        <b>সীমাবদ্ধতা:</b> SattAcademy প্রতিটি পরীক্ষার প্রথম পেজে শুধু ১৫টি MCQ প্রকাশ করে; পরবর্তী পেজ robots.txt দ্বারা নিষিদ্ধ।
+        তাই কোনো পরীক্ষার জন্য পূর্ণ সেট না পাওয়া গেলে সেখানে ১৫টি প্রশ্ন (fallback) দেখানো হয় এবং ‘আংশিক’ লেবেল দেওয়া হয়।<br><br>
+        <b>উত্তর:</b> শুধুমাত্র উৎসে প্রকাশিত উত্তর সংরক্ষণ করা হয়। কোনো উত্তর অনুমান করা হয় না; উত্তর না থাকলে
+        ‘উত্তর প্রকাশিত হয়নি’ দেখানো হয়। ব্যাখ্যা প্রকাশ করা হয় না।<br><br>
+        <b>স্বত্ব:</b> প্রশ্নের স্বত্ব সংশ্লিষ্ট উৎসের। এই অ্যাপ শুধু উদ্ধৃতি ও লিংকসহ শিক্ষামূলক সংগ্রহ দেখায়।
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+    summary = load_summary()
+    st.caption(f"সর্বশেষ আপডেট: {summary['last_update']} · সংকলন: চাকরি পরীক্ষার MCQ প্রশ্নব্যাংক")
+
+
+def main() -> None:
+    inject_css()
+    if not db_available():
+        st.error(
+            "`job_archive.db` পাওয়া যায়নি। প্রথমে `python -m job_scraper scrape`, "
+            "তারপর `python sync_db.py` চালান।"
+        )
+        return
+
+    summary = load_summary()
+    render_header(summary)
+    categories = load_categories()
+    institutions = load_institutions()
+
+    tab_library, tab_coverage, tab_sources = st.tabs(
+        ["প্রশ্নব্যাংক", "কভারেজ", "উৎস ও নীতি"]
+    )
+    with tab_library:
+        render_library(summary, categories, institutions)
+    with tab_coverage:
+        render_coverage()
+    with tab_sources:
+        render_sources()
+
+
+main()

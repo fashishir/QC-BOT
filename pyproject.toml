@@ -3,9 +3,9 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "ssc-scraper"
+name = "job-exam-mcq-bank"
 version = "1.0.0"
-description = "Ethical, production-grade scraper archiving public Bangladesh SSC+HSC board question papers (2015-2026)"
+description = "Ethical 2025-2026 Bangladesh job-exam MCQ archive with public answers"
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
@@ -14,23 +14,18 @@ dependencies = [
   "beautifulsoup4>=4.12",
   "lxml>=5.2",
   "PyYAML>=6.0",
-  "pdfplumber>=0.11",
-  "PyMuPDF>=1.24",
-  "pytesseract>=0.3.10",
-  "Pillow>=10.0",
   "streamlit>=1.32",
   "weasyprint>=60",
 ]
 
 [project.optional-dependencies]
-postgres = ["psycopg2-binary>=2.9"]
 dev = ["pytest>=8.0"]
 
 [project.scripts]
-ssc-scraper = "ssc_scraper.cli:main"
+job-scraper = "job_scraper.cli:main"
 
 [tool.setuptools.packages.find]
-include = ["ssc_scraper*"]
+include = ["job_scraper*"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

@@ -1,4 +1,4 @@
-"""Smoke test: the Streamlit app renders from the committed archive DB."""
+"""Streamlit smoke test: the app renders the published archive."""
 
 from pathlib import Path
 
@@ -7,32 +7,28 @@ from streamlit.testing.v1 import AppTest
 
 ROOT = Path(__file__).resolve().parents[1]
 APP = ROOT / "app.py"
-ARCHIVE = ROOT / "ssc_archive.db"
+ARCHIVE = ROOT / "job_archive.db"
 
 
-@pytest.mark.skipif(not ARCHIVE.exists(), reason="ssc_archive.db not present")
-def test_app_renders_board_exams():
+@pytest.mark.skipif(not ARCHIVE.exists(), reason="job_archive.db not built yet")
+def test_app_renders_job_question_bank():
     at = AppTest.from_file(str(APP), default_timeout=180).run()
-
     assert not at.exception, [f"{e.type}: {e.message}" for e in at.exception]
-    # the filter header from the screenshots: Level / Subject / Board / Type / Year
-    assert [s.label for s in at.selectbox][:3] == ["Level", "Subject", "Board"]
-    assert at.selectbox[0].value in {"SSC", "HSC", "Dakhil"}
-    # a result summary line is always rendered
-    assert any("exam(s)" in m.value for m in at.markdown)
+    assert any("চাকরি পরীক্ষার MCQ প্রশ্নব্যাংক" in m.value for m in at.markdown)
+    labels = [s.label for s in at.selectbox] + [s.label for s in at.multiselect]
+    assert "বছর" in labels
+    assert "বিভাগ" in labels
 
 
-@pytest.mark.skipif(not ARCHIVE.exists(), reason="ssc_archive.db not present")
-def test_sync_db_target_is_readable_by_the_app():
-    """The archive edited by sync_db.py must satisfy what app.py queries."""
-    from sync_db import ARCHIVE_DDL  # noqa: F401  (keeps the two schemas linked)
-
+@pytest.mark.skipif(not ARCHIVE.exists(), reason="job_archive.db not built yet")
+def test_archive_has_only_2025_2026_rows():
     import sqlite3
 
     conn = sqlite3.connect(f"file:{ARCHIVE.resolve()}?mode=ro", uri=True)
-    tables = {r[0] for r in conn.execute("SELECT name FROM sqlite_master WHERE type='table'")}
-    assert {"board_exams", "exam_questions"} <= tables
-    for sql in ("SELECT class_key, subject, board, year FROM board_exams",
-                "SELECT exam_id, question_type, question_no, options_json FROM exam_questions"):
-        conn.execute(sql).fetchall()
+    years = {row[0] for row in conn.execute("SELECT DISTINCT year FROM job_exams")}
+    assert years <= {2025, 2026}
+    bad = conn.execute(
+        "SELECT COUNT(*) FROM job_questions WHERE explanation IS NOT NULL"
+    ).fetchone()[0]
+    assert bad == 0
     conn.close()

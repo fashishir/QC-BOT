@@ -1,0 +1,55 @@
+# Approved Live MCQ public solution pages.
+# Each page is matched to a SattAcademy 2025-2026 exam by explicit source id
+# (preferred) or Bangla-name tokens. Only pages that expose the full set as
+# HTML div.qc blocks are listed.
+pages:
+  - key: 47th-bcs
+    url: https://web.livemcq.com/blog/47th-bcs-question-solution-pdf
+    sattacademy_source_id: "6718"
+    match_all: ["৪৭", "বিসিএস", "প্রিলিমিনারি"]
+    match_none: ["ইংরেজি ভার্সন", "লিখিত", "মানসিক"]
+    total_questions: 200
+    exam_date: 2025-09-19
+
+  - key: 48th-special-bcs
+    url: https://web.livemcq.com/blog/48th-special-bcs-question-pdf
+    # 48th special health cadre: medical and dental sets share the same paper.
+    sattacademy_source_id: "6640"
+    match_all: ["৪৮", "বিসিএস", "প্রিলিমিনারি"]
+    match_none: ["লিখিত", "ইংরেজি"]
+    total_questions: 200
+    exam_date: 2025-07-18
+
+  - key: 49th-bcs
+    url: https://web.livemcq.com/blog/49th-bcs-question-solution-pdf
+    sattacademy_source_id: "6745"
+    match_all: ["৪৯", "নন ডিপার্টমেন্ট", "প্রিলিমিনারি"]
+    match_none: ["ডিপার্টমেন্ট ২০২৫", "লিখিত"]
+    total_questions: 100
+    exam_date: 2025-10-10
+
+  - key: 50th-bcs
+    url: https://web.livemcq.com/blog/50th-bcs-preliminary-question-solution-2026
+    sattacademy_source_id: "7080"
+    match_all: ["৫০", "বিসিএস", "প্রিলিমিনারি"]
+    match_none: ["লিখিত", "মানসিক"]
+    total_questions: 200
+    exam_date: 2026-01-30
+
+  # One page stacks three BEZA solution sections (2018 / 25 Sep 2025 / 2024).
+  # Only the 25 September 2025 section is eligible.
+  - key: beza-2025
+    url: https://web.livemcq.com/blog/beza-exam-question-solution
+    section_date: "2025-09-25"
+    total_questions: 80
+    create_exam:
+      exam_name: বাংলাদেশ অর্থনৈতিক অঞ্চল কর্তৃপক্ষ (BEZA) — সহকারী ব্যবস্থাপক ২০২৫
+      institution: বাংলাদেশ অর্থনৈতিক অঞ্চল কর্তৃপক্ষ (BEZA)
+      post_name: সহকারী ব্যবস্থাপক
+      exam_date: 2025-09-25
+      year: 2025
+      total_questions: 80
+      category:
+        slug: beza
+        name: বাংলাদেশ অর্থনৈতিক অঞ্চল কর্তৃপক্ষ (BEZA)
+        display_order: 41

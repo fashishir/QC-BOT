@@ -1,270 +1,199 @@
-# SSC + HSC Archive Bot
+# চাকরি পরীক্ষার MCQ প্রশ্নব্যাংক (২০২৫–২০২৬)
 
-A production-grade, **ethical** Python web scraper that collects
-**publicly available** Bangladesh SSC + HSC board questions (2015-2026),
-subject-wise / board-wise / year-wise, MCQ + CQ(written), from
-`https://sattacademy.com/board-exams` — plus a Streamlit filter UI that
-mirrors the site's header (Level / Subject / Board / Type / Year / Search
-+ Board Exams toggle + PDF export).
+A Bangladesh **job-exam MCQ question bank** with public answers, covering
+2025–2026 exams across all 40 SattAcademy job categories: BCS, NTRCA,
+Judiciary/BJS, ATEO, banks, ministries, forces, and more.
 
-> **Ethics first.** This bot respects `robots.txt`, rate-limits every request,
-> and **never** bypasses authentication, CAPTCHAs, paywalls, or anti-bot
-> protection. Sources that block the bot are automatically flagged for manual
-> review and skipped. Every stored file keeps full source attribution.
+The Streamlit app reads only the validated `job_archive.db`. Every question is
+shown with its source and coverage status; answers that are not published at
+the source are explicitly marked **উত্তর প্রকাশিত হয়নি** — they are never guessed.
 
 ---
 
-## Features
+## Sources
 
-- **Modular architecture** - config, discovery, crawling, downloading,
-  metadata extraction, deduplication, OCR, storage, and reporting are separate modules.
-- **Config-driven sources** - add/remove websites in a YAML file; nothing is hard-coded.
-- **Checkpoint / resume** - `crawl_state` + `papers.status` record exactly where
-  each URL/file stands; re-running any command continues where it stopped.
-- **Deduplication** - SHA-256 content hash plus normalized
-  `(board, year, subject, paper_type)` metadata signature.
-- **Bangla-aware metadata extraction** - English and Bangla keywords, Bangla
-  numerals (`\u09e6-\u09ef`) converted for year detection.
-- **Text extraction** - pdfplumber (primary) with PyMuPDF fallback; DOCX best-effort.
-- **Optional OCR** - Tesseract with `ben+eng` language packs; fails soft to
-  `ocr_pending` when Tesseract is unavailable.
-- **Reports** - dashboard (JSON/CSV) and missing board-year-subject matrix.
-- **PostgreSQL optional** - SQLite by default; switch via config.
+| Source | Role | What is collected |
+|---|---|---|
+| **SattAcademy** (`sattacademy.com`) | fallback | Public page 1 of each exam: up to 15 MCQs with answers |
+| **Live MCQ** (`web.livemcq.com`) | primary full sets | Approved public solution pages that embed the complete MCQ set as HTML |
+| **JobsNoticeBD** (`jobsnoticebd.com`) | audited, not used | 2025–2026 solution pages are image-only; excluded rather than OCR-guessed |
+
+No other third-party source is used. Biddabari and EduDaily24 are explicitly
+rejected (token-gated / bot-blocked).
+
+### Compliance
+
+- `robots.txt` is checked before every request.
+- SattAcademy pagination (`/*?page=*`, `/*&page=*`) is **never** followed;
+  only page 1 is collected.
+- No login, paywall, CAPTCHA, download-token, or anti-bot bypass.
+- 401/403 responses stop the request and are reported, never retried.
+- Per-host delay (default 2 seconds) and identifying User-Agent.
+- Only questions, options, and published answers are stored; explanations are
+  discarded and never exported.
+- Source name and link appear in the app and in every export.
+
+---
 
 ## Project structure
 
+```text
+job_scraper/
+  __init__.py
+  __main__.py
+  cli.py                 # scrape | import-livemcq | publish | stats | report
+  config.py              # YAML settings
+  models.py              # exam/question records
+  normalize.py           # Bangla digits, dates, option labels, hashes
+  db.py                  # schema, upserts, validation, atomic publish
+  http_client.py         # robots-aware, rate-limited HTTP
+  robots.py              # robots.txt gate
+  logging_setup.py       # console + rotating file logs
+  sattacademy_jobs.py    # hub/category/exam parsers
+  livemcq.py             # Live MCQ div.qc parser
+  pipeline.py            # SattAcademy + Live MCQ collection flows
+  export.py              # CSV / printable HTML / PDF
+app.py                   # Streamlit UI (job_archive.db only)
+scraper.py               # thin CLI wrapper
+sync_db.py               # publish raw -> job_archive.db
+export_pdf.py            # PDF/CSV CLI
+run.bat                  # Windows menu
+config/job_sources.yaml  # source settings
+config/livemcq_pages.yaml# approved Live MCQ pages + matching rules
+tests/                   # parser, DB/publish, export, app tests
 ```
-config/sources.example.yaml   # example config (all sources disabled by default)
-app.py                        # Streamlit filter UI (reads ssc_archive.db)
-scraper.py                    # raw board-question scraper (board_questions.db)
-sync_db.py                    # publish raw scrape -> ssc_archive.db (app DB)
-ssc_scraper/
-  cli.py                       # CLI: scrape | extract_text | ocr | report | check_missing | export_csv
-  config.py                    # YAML loading/validation
-  models.py                    # PaperRecord schema + status lifecycle
-  db.py                        # SQLite/PostgreSQL storage layer
-  robots.py                    # robots.txt compliance gate
-  http_client.py               # polite HTTP: delays, retries, blocked->manual review
-  crawler.py                   # checkpointed BFS discovery
-  downloader.py                # streaming downloads, hashing, storage layout
-  metadata.py                  # English+Bangla metadata extraction
-  dedupe.py                    # hash + metadata duplicate detection
-  text_extraction.py           # pdfplumber / PyMuPDF / DOCX text
-  ocr.py                       # optional Tesseract OCR (ben+eng)
-  reports.py                   # dashboards + missing-data report
-  pipeline.py                  # orchestration with checkpoint/resume
-  utils.py                     # hashing, paths, sanitization
-  logging_setup.py             # console + rotating file logs
-tests/                         # pytest unit tests (no network needed)
-data/ logs/ reports/           # runtime artifacts
-```
+
+### Databases
+
+- `job_questions.db` — raw/local scrape store, git-ignored.
+- `job_archive.db` — validated, publishable archive, committed for the app.
+
+The app never falls back to the raw DB or to any old SSC/HSC database.
+
+---
 
 ## Setup
 
-Requires **Python 3.11+**.
+Requires Python 3.11+.
 
 ```bash
-# 1. (recommended) create a virtual environment
 python -m venv .venv
-.venv\Scripts\activate          # Windows
-# source .venv/bin/activate     # Linux/macOS
-
-# 2. install dependencies
+.venv\Scripts\activate
 pip install -r requirements.txt
-
-# 3. (optional) OCR support - install Tesseract with Bangla+English packs
-#    Windows:  choco install tesseract        (then add install dir to PATH)
-#    Debian:   apt install tesseract-ocr tesseract-ocr-ben tesseract-ocr-eng
-#    macOS:    brew install tesseract tesseract-lang
 ```
 
-### Configuration
+`weasyprint` also needs Pango/HarfBuzz system libraries. On Streamlit Cloud
+they are installed from `packages.txt`; locally, use the official WeasyPrint
+installation notes if PDF rendering is unavailable. If WeasyPrint cannot
+render, exports fall back to printable HTML.
 
-Copy `config/sources.example.yaml` to your own file (or edit it in place).
-**All sources ship disabled** - enable one only after *you* have reviewed that
-site's terms of service and `robots.txt`:
-
-```yaml
-settings:
-  user_agent: "SSC-Archive-Bot/1.0 (+educational archive; contact=you@example.com)"
-  request_delay_seconds: 5.0     # per-host politeness delay (>= 1.0 enforced)
-  max_pages_per_source: 500
-  database:
-    backend: sqlite              # or: postgres (+ pip install psycopg2-binary)
-  ocr:
-    enabled: false               # set true after installing Tesseract
-
-sources:
-  - name: my_board_site
-    enabled: true                # <- your explicit opt-in
-    base_url: https://www.example-board.gov.bd
-    seed_urls: [https://www.example-board.gov.bd/question-archives]
-    allow_domains: [www.example-board.gov.bd]
-    keywords: [question, ssc]    # optional URL filter
-    notes: null                  # e.g. "manual review: ..."
-```
+---
 
 ## Usage
 
 ```bash
-# board-exam questions (SSC+HSC, 2015-2026, MCQ+written) — enable `sattacademy`
-# in config/sources.example.yaml first, then:
-python -m ssc_scraper scrape --source sattacademy --limit 20   # safe trial
-python -m ssc_scraper scrape --source sattacademy              # full backfill (resumable)
+# 1. scrape all 40 SattAcademy categories (page 1 only)
+python -m job_scraper scrape
 
-# question-bank exports + reports
-python -m ssc_scraper export_board_exams                        # reports/by_board_exam/... + coverage CSV
-python -m ssc_scraper export_board_exams --board combined --year 2026
-python -m ssc_scraper report          # reports/dashboard.json + .csv
-python -m ssc_scraper check_missing   # reports/missing_combinations.csv + .json
-python -m ssc_scraper export_csv      # reports/papers_export.csv
+# 2. import approved Live MCQ full sets
+python -m job_scraper import-livemcq
 
-# filter UI (like the screenshots: SSC/Subject/Board/Type/Year/Search)
+# 3. validate and build the app archive
+python sync_db.py
+
+# 4. run the app
 streamlit run app.py
+
+# coverage report
+python -m job_scraper report
+
+# exports
+python export_pdf.py --with-answers
+python export_pdf.py --with-answers --csv pdf_exports/questions.csv
+python export_pdf.py --year 2025 --with-answers
+python export_pdf.py --category "বিসিএস প্রিলিমিনারি" --with-answers
 ```
 
-Every command is **idempotent and resumable** - running it again skips URLs and
-files that were already processed.
-
-## Publishing updates to the live app
-
-`scraper.py` writes the raw scrape to `board_questions.db` (git-ignored, local).
-The Streamlit app reads `ssc_archive.db`, so a scrape is not visible online until
-the two are synced and pushed:
+Useful trial flags:
 
 ```bash
-python scraper.py                  # 1. scrape (board_questions.db + questions_output/)
-python sync_db.py --dry-run        # 2. preview what would be published
-python sync_db.py                  # 3. merge into ssc_archive.db (idempotent)
-git add ssc_archive.db             # 4. publish -> triggers a Streamlit Cloud rebuild
-git commit -m "data: refresh board question archive"
-git push
+python -m job_scraper scrape --limit-categories 2 --limit-exams 5
+python -m job_scraper stats
+python -m job_scraper stats --archive
 ```
 
-On Windows the same flow is on the `run.bat` menu: **8** = sync only,
-**9** = sync + commit + push (updates https://faqcbot.streamlit.app).
+Re-runs are resume-safe: fetched HTML is cached under `data/raw_html/`
+(git-ignored), and an approved Live MCQ full set is never overwritten by the
+15-question SattAcademy fallback.
 
-`sync_db.py` never deletes archive rows and maps fields like this:
+---
 
-| archive column | source |
-| --- | --- |
-| `board_exams.mcq_url` | `exams.mcq_url` (unique key, drives upsert) |
-| `board_exams.subject` | `exams.subject`, falling back to `exam_name` when NULL (`--no-subject-from-name` to disable) |
-| `board_exams.mcq_count` / `cq_count` | site totals from the raw DB, else the number of questions actually stored (`--page-1` scrapes are partial) |
-| `board_exams.total_questions` | questions copied for that exam |
-| `exam_questions.options_json` | normalised to `{"options": [...], "images": []}` so the UI renders options + answers |
-| `exam_questions.answer` | `questions.correct_answer` (MCQ only; CQ answers are login-gated) |
+## Coverage semantics
 
-Re-running the sync after a later scrape only touches the rows it re-reads, and it
-finishes with a `wal_checkpoint(TRUNCATE)` + `VACUUM` so `ssc_archive.db` is
-committed as a single self-contained file (no `-wal` / `-shm` side files).
+| Status | Meaning |
+|---|---|
+| `full` | The approved source set matches the declared exam total |
+| `partial_pdf` | A full-set source was imported but is missing some questions |
+| `fallback_15` | Only SattAcademy's public 15 MCQs are available |
+| `missing` | No questions; excluded from the archive |
 
-## Data layout
+The UI shows these as **পূর্ণ**, **আংশিক**, **ফলব্যাক ১৫**, and **অনুপলব্ধ**.
+Partial exams always carry a visible notice; the app never claims a full set
+when the source is incomplete.
 
-```
-data/{board}/{year}/{subject}/{paper_type}/{source_name}/{file_name}
-```
+### Why some exams are partial
 
-Unknown facets are stored under `unknown/` and files are **relocated
-automatically** once PDF text analysis fills in the metadata.
+SattAcademy publicly renders 15 questions per exam page. Further pages exist
+but are disallowed by `robots.txt`, so they are not collected. Live MCQ full
+sets are used where an approved page exposes the whole set as HTML; image-only
+or answer-less pages are not imported.
 
-## Metadata schema (`papers` table)
+---
 
-`id, board, year, subject, paper_type, exam_code, set_code, shift, language,
-file_url, source_page_url, source_name, downloaded_at, file_name, file_path,
-file_hash, file_size, page_count, ocr_text, ocr_confidence, status,
-missing_reason`
+## Database schema
 
-Status lifecycle: `discovered -> downloaded -> extracted -> ocr_done`, with
-`duplicate | failed | ocr_pending | skipped` terminal states.
+- `job_categories` — the 40 job categories.
+- `job_exams` — exam metadata, year (2025/2026 constraint), coverage counts,
+  source, and status.
+- `job_exam_categories` — many-to-many exam/category mapping.
+- `job_questions` — four options, answer index/text, answer status, review
+  status, images, hashes. `explanation` stays `NULL`.
+- `job_documents` — third-party source/provenance, licence status,
+  `publish_allowed`, SHA-256, and permission note.
+- `scrape_runs`, `archive_meta` — run history and build metadata.
 
-Board-exam statuses: `listed -> completed`, with `listing_truncated` /
-`completed_truncated` when `?page=` pagination exists (robots-disallowed,
-page-1 questions only — e.g. 10/30 MCQ on page 1). MCQ answers (`input[name=answer]`)
-and stem/option images are stored when public; CQ answers stay `None` (login-gated).
+### Publish gates
 
-## Legal & ethical compliance checklist
+`sync_db.py` / `job_scraper publish` rebuilds the archive atomically and
+excludes:
 
-- [x] `robots.txt` checked before **every** crawl and download request
-- [x] Per-host rate limiting with configurable polite delays
-- [x] Identifying User-Agent with contact information
-- [x] **No** CAPTCHA solving, login/paywall bypass, or anti-bot evasion anywhere
-- [x] 401/403 responses -> source marked `manual_review`, never retried/bypassed
-- [x] Only publicly accessible, unauthenticated content is collected
-- [x] Full attribution stored per file (`file_url`, `source_page_url`, `source_name`)
-- [x] Page and file-size caps to avoid burdening servers
-- [x] Sources disabled by default; explicit human opt-in required
+- exams outside 2025–2026;
+- third-party exams without an approved, publishable document;
+- questions marked `needs_review` or `rejected`;
+- all explanation text.
+
+It fails on an empty archive (unless `--allow-empty`), invalid answer indexes,
+invalid years, or any published explanation.
+
+---
 
 ## Tests
 
 ```bash
-python -m pytest tests/ -q
+pytest
 ```
 
-The tests cover utils, metadata (English + Bangla), the SQLite storage layer,
-duplicate detection, config validation, and report generation - no network access needed.
+Tests cover hub/category/exam parsing, answer extraction and missing-answer
+marking, Live MCQ parsing, DB constraints and idempotent upserts, publish
+gates, CSV/HTML export, and a Streamlit smoke test when `job_archive.db` exists.
+No network access is required.
 
-## Disclaimer
+---
 
-Users are responsible for ensuring their use of this tool complies with the
-terms of service of any site they configure, applicable copyright law, and fair
-use/education exceptions in their jurisdiction. Question papers remain the
-property of the respective education boards.
+## Attribution and rights
 
-how to use it:
-
-python -m ssc_scraper scrape --source sattacademy --limit 20   # trial: HSC/SSC board-exams
-python -m ssc_scraper export_board_exams --board combined --year 2026
-streamlit run app.py   # filter UI: Level/Subject/Board/Type/Year/Search + PDF
-python -m ssc_scraper report         # dashboard
-python -m ssc_scraper check_missing  # missing-data matrix
-
-# scraper.py (raw questions) -> live app
-python scraper.py                    # scrape into board_questions.db
-python sync_db.py                    # merge into ssc_archive.db
-git add ssc_archive.db; git commit -m "data: refresh"; git push   # live app rebuilds
-
-
- ### How to Run
-
-  To scrape everything or specific targets, run any of the following commands:
-
-    # Scrape ALL SSC & HSC Board Exams + Test Papers (2015-2026):
-    python scraper.py
-
-    # Scrape SSC only (2015-2026):
-    python scraper.py --class ssc
-
-    # Scrape HSC only (2015-2026):
-    python scraper.py --class hsc
-
-    # Scrape a specific year only (e.g. 2024):
-    python scraper.py --year 2024
-
-    # Scrape Board Exams only:
-    python scraper.py --source board
-
-    # Scrape Test Papers only:
-    python scraper.py --source test
-
-    # View all questions in the browser:
-    streamlit run app.py
-
-
-### How to Run PDF Exports: 
-
-  • Export ALL collected exams to PDF:
-    python export_pdf.py
-
-  • Export SSC exams only:
-    python export_pdf.py --class ssc
-
-  • Export HSC exams only:
-    python export_pdf.py --class hsc
-
-  • Export a specific year (e.g. 2025):
-    python export_pdf.py --year 2025
-
-  • Export only Board Exams or Test Papers:
-    python export_pdf.py --source board-exam
-    python export_pdf.py --source test-paper
+Question content remains the property of its original source. This project
+stores extracted questions/answers with attribution and links, and does not
+redistribute source PDFs. Live MCQ's public pages carry a content signal of
+`ai-train=no, use=reference`; they are used here as a cited reference archive
+approved for this project. Remove any source on request.

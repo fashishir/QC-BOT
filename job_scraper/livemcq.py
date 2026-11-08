@@ -223,6 +223,8 @@ def _extract_explanation(block) -> str | None:
 
     cleaned = "\n".join(lines)
     cleaned = re.sub(r"^ব্যাখ্যা\s*[:ঃ\-–—]\s*", "", cleaned, flags=re.IGNORECASE).strip()
+    if any(marker in cleaned for marker in ("Live MCQ অ্যাপ", "অ্যাপ ইনস্টল করুন", "অ্যাপ ইন্সটল করুন", "অথেনটিক ব্যাখ্যা দেখতে")):
+        return None
     return cleaned or None
 
 
